@@ -22,3 +22,5 @@ There are many graphs that I want to make, but these are the top priorities
 * TECH: gmail inbox size
 * TECH: fini inbox size
 * TECH: dnetc key rate
+* HEALTH: miles walked
+* HEALTH: pull ups
