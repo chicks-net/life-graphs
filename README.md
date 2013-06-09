@@ -24,3 +24,12 @@ There are many graphs that I want to make, but these are the top priorities
 * TECH: dnetc key rate
 * HEALTH: miles walked
 * HEALTH: pull ups
+
+Emails graphs
+-------------
+
+For each of the various sources of email it'd be nice to have things like:
+
+* sent emails per hour/day
+* unread emails
+* total emails
