@@ -5,5 +5,16 @@ if [[ ! -d $STATS_DIR ]]; then
 	exit 1
 fi
 
+cd $STATS_DIR
+git pull
+
 cd $STATS_DIR/../bin
-./dnet
+#./dnet
+
+if [[ -z "$(git status --porcelain)" ]];
+then
+    echo "IT IS CLEAN"
+else
+    echo "PLEASE COMMIT YOUR CHANGE FIRST!!!"
+    echo git status
+fi
