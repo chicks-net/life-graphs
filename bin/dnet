@@ -6,10 +6,25 @@ use warnings;
 use LWP::Simple qw(get);
 use HTML::TreeBuilder;
 use Data::Dumper;
-use Storable;
 use DateTime;
+use JSON;
+use Storable qw(nstore retrieve);
 
+# verify data directory
+my $data_dir = $ENV{STATS_DIR};
+die "no STATS_DIR defined" unless defined $data_dir;
+die "$data_dir is not a directory" unless -d $data_dir;
+chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
+
+# retrieve existing data
+my $dnet_storable_filename = 'dnet.storable';
+my $dnet_json_filename = 'dnet.json';
 my $data_out = {};
+
+if (-f $dnet_storable_filename) {
+	print "starting with $data_dir/$dnet_storable_filename";
+	$data_out = retrieve $dnet_storable_filename;
+}
 
 # get content
 my $rc5_url = 'http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444';
@@ -61,7 +76,7 @@ my $stats_time;
 		);
 
 		$stats_time = $stats_date_object->format_cldr("yyyy-MM-dd HH:mm");
-		print "processing $stats_time ...\n";
+		print "parsing rc5-72 $stats_time ...\n";
 	} else {
 		die "could not parse current stats date out of <<<$stats_date_text>>>";
 	}
@@ -193,5 +208,15 @@ foreach my $row_title (@rows) {
 	}
 }
 
-print Dumper($data_out);
-#store $data_out,'dnet.storable';
+#print Dumper($data_out);
+nstore $data_out,$dnet_storable_filename;
+print "wrote $dnet_storable_filename\n";
+
+# write JSON file
+my $json_fh;
+open($json_fh,">",$dnet_json_filename) or die "could not open $dnet_json_filename for write: $!";
+my $json = JSON->new->allow_nonref;
+my $json_out = $json->pretty->encode($data_out);
+print $json_fh $json_out;
+close($json_fh);
+print "wrote $dnet_json_filename\n";

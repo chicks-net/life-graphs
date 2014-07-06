@@ -1,0 +1,31 @@
+{
+   "rc5-72" : {
+      "2014-07-05 23:59" : {
+         "rank_delta" : {
+            "overall" : "+6",
+            "yesterday" : "-14"
+         },
+         "keys" : {
+            "overall" : "19952927703564288",
+            "yesterday" : "85761906966528"
+         },
+         "time_working" : "4227 days",
+         "percentile" : {
+            "overall" : "98.69",
+            "yesterday" : "89.61"
+         },
+         "blocks" : {
+            "overall" : "4645653",
+            "yesterday" : "19968"
+         },
+         "rank" : {
+            "overall" : "1234",
+            "yesterday" : "119"
+         },
+         "keyrate" : {
+            "overall" : "54633703",
+            "yesterday" : "992614664"
+         }
+      }
+   }
+}
