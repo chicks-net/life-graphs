@@ -1,0 +1,97 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+#use diagnostics;
+use LWP::Simple qw(get);
+use HTML::TreeBuilder;
+use Data::Dumper;
+use Storable;
+
+my $data_out = {};
+
+# get content
+my $rc5_url = 'http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444';
+my $raw_html = get($rc5_url);
+my $raw_length = length $raw_html;
+print "got $raw_length bytes from $rc5_url\n";
+
+# parse
+my $tree = HTML::TreeBuilder->new; # empty tree
+#$tree->ignore_unknown(0); # accept article tags
+$tree->parse_content($raw_html);
+#my $tree = HTML::TreeBuilder->new_from_content($raw_html);
+#print $tree->as_text;
+
+# get data
+my @rows = $tree->look_down(
+		'_tag' => 'td',
+		'class' => 'phead2',
+		'align' => 'left',
+);
+my $row_count = scalar @rows;
+print "found $row_count rows\n";
+
+foreach my $row_title (@rows) {
+#	print $row_title->dump;
+	my $dnet_out = {};
+
+	my $row_title_text = $row_title->as_text;
+	print "$row_title_text\n";
+	my @fields = $row_title->right();
+
+	if ($row_title_text =~ /^Rank:/) {
+		my $rank_overall = $fields[0];
+		my $rank_yesterday = $fields[1];
+
+		my $rank_overall_text = $rank_overall->as_text;
+		my $rank_yesterday_text = $rank_yesterday->as_text;
+
+		my $rank_overall_delta = $rank_overall_text;
+		my $rank_yesterday_delta = $rank_yesterday_text;
+
+		$rank_overall_delta =~ s/^.*\(//;
+		$rank_yesterday_delta =~ s/^.*\(//;
+		$rank_overall_delta =~ s/\)$//;
+		$rank_yesterday_delta =~ s/\)$//;
+		$rank_overall_text =~ s/\(.*$//;
+		$rank_yesterday_text =~ s/\(.*$//;
+		$rank_overall_text =~ s/^\s+//;
+		$rank_yesterday_text =~ s/^\s+//;
+
+		my $overall_img = $rank_overall->look_down(_tag => 'img');
+		my $yesterday_img = $rank_yesterday->look_down(_tag => 'img');
+		$rank_overall_delta = $overall_img->attr('alt') . $rank_overall_delta;
+		$rank_yesterday_delta = $yesterday_img->attr('alt') . $rank_yesterday_delta;
+
+		print "posi. overall:$rank_overall_text yesterday:$rank_yesterday_text\n";
+		print "delta overall:$rank_overall_delta yesterday:$rank_yesterday_delta\n";
+	} elsif ($row_title_text =~ /^Blocks:/) {
+		my $blocks_overall = $fields[0]->as_text;
+		my $blocks_yesterday = $fields[1]->as_text;
+
+		$blocks_overall =~ s/,//g;
+		$blocks_yesterday =~ s/,//g;
+
+		print "blocks overall:$blocks_overall yesterday:$blocks_yesterday\n";
+	} elsif ($row_title_text =~ /^Keys:/) {
+		my $keys_overall = $fields[0]->as_text;
+		my $keys_yesterday = $fields[1]->as_text;
+
+		$keys_overall =~ s/,//g;
+		$keys_yesterday =~ s/,//g;
+
+		print "keys overall:$keys_overall yesterday:$keys_yesterday\n";
+	} else {
+		foreach my $fld_element (@fields) {
+			print $fld_element->as_text(), "\n";
+		}
+	}
+
+#	my $dnet_title = $dnet->look_down( '_tag' => 'h1' )->as_text;
+	
+	print "\n";
+}
+
+#print Dumper($data_out);
+#store $data_out,'dnet.storable';
