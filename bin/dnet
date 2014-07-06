@@ -7,6 +7,7 @@ use LWP::Simple qw(get);
 use HTML::TreeBuilder;
 use Data::Dumper;
 use Storable;
+use DateTime;
 
 my $data_out = {};
 
@@ -23,6 +24,49 @@ $tree->parse_content($raw_html);
 #my $tree = HTML::TreeBuilder->new_from_content($raw_html);
 #print $tree->as_text;
 
+# get stats currency timestamp
+my $stats_time;
+{
+	my $stats_date_td = $tree->look_down('_tag' => 'td', 'class' => 'lastupdate');
+	my $stats_date_text = $stats_date_td->as_text;
+	if ($stats_date_text =~ /received as of ([\w-]+) at ([0-9:]+) UTC/) {
+		my $date = $1;
+		my $time = $2;
+		#print "date=$date time=$time\n";
+
+		my ($day,$month,$year) = split(/-/,$date);
+		my ($hour,$minute) = split(/:/,$time);
+
+		my %month_decode = (
+			'Jan' => 1, 'Feb' => 2, 'Mar' => 3, 'Apr' => 4,
+			'May' => 5, 'Jun' => 6, 'Jul' => 7, 'Aug' => 8,
+			'Sep' => 9, 'Oct' => 10, 'Nov' => 11, 'Dec' => 12,
+			'Sept' => 9, 'July' => 7, 'June' => 6,
+		);
+
+		if (defined $month_decode{$month}) {
+			$month = $month_decode{$month};
+		} else {
+			die "no month decode for '$month', cannot make a date out of '$date'";
+		}
+
+		my $stats_date_object = DateTime->new(
+			year      => $year,
+			month     => $month,
+			day       => $day,
+			hour      => $hour,
+			minute    => $minute,
+			second    => 0,
+			time_zone => 'UTC',
+		);
+
+		$stats_time = $stats_date_object->format_cldr("yyyy-MM-dd HH:mm");
+		print "processing $stats_time ...\n";
+	} else {
+		die "could not parse current stats date out of <<<$stats_date_text>>>";
+	}
+}
+
 # get data
 my @rows = $tree->look_down(
 		'_tag' => 'td',
@@ -30,14 +74,13 @@ my @rows = $tree->look_down(
 		'align' => 'left',
 );
 my $row_count = scalar @rows;
-print "found $row_count rows\n";
+#print "found $row_count rows\n";
 
 foreach my $row_title (@rows) {
 #	print $row_title->dump;
 	my $dnet_out = {};
 
 	my $row_title_text = $row_title->as_text;
-	print "$row_title_text\n";
 	my @fields = $row_title->right();
 
 	if ($row_title_text =~ /^Rank:/) {
@@ -64,8 +107,24 @@ foreach my $row_title (@rows) {
 		$rank_overall_delta = $overall_img->attr('alt') . $rank_overall_delta;
 		$rank_yesterday_delta = $yesterday_img->attr('alt') . $rank_yesterday_delta;
 
-		print "posi. overall:$rank_overall_text yesterday:$rank_yesterday_text\n";
-		print "delta overall:$rank_overall_delta yesterday:$rank_yesterday_delta\n";
+		#print "\tposi. overall:$rank_overall_text yesterday:$rank_yesterday_text\n";
+		#print "\tdelta overall:$rank_overall_delta yesterday:$rank_yesterday_delta\n";
+
+		$data_out->{'rc5-72'}->{$stats_time}->{rank} = {
+			'overall' => $rank_overall_text,
+			'yesterday' => $rank_yesterday_text,
+		};
+		$data_out->{'rc5-72'}->{$stats_time}->{rank_delta} = {
+			'overall' => $rank_overall_delta,
+			'yesterday' => $rank_yesterday_delta,
+		};
+	} elsif ($row_title_text =~ /^Time Working:/) {
+		my $time_working = $fields[0]->as_text;
+		$time_working =~ s/,//g;
+		$time_working =~ s/^\s+//;
+		$time_working =~ s/\s+$//;
+		$data_out->{'rc5-72'}->{$stats_time}->{time_working} = $time_working;
+		#print "\tdays worked:$time_working\n";
 	} elsif ($row_title_text =~ /^Blocks:/) {
 		my $blocks_overall = $fields[0]->as_text;
 		my $blocks_yesterday = $fields[1]->as_text;
@@ -73,7 +132,12 @@ foreach my $row_title (@rows) {
 		$blocks_overall =~ s/,//g;
 		$blocks_yesterday =~ s/,//g;
 
-		print "blocks overall:$blocks_overall yesterday:$blocks_yesterday\n";
+		#print "\tblocks overall:$blocks_overall yesterday:$blocks_yesterday\n";
+
+		$data_out->{'rc5-72'}->{$stats_time}->{blocks} = {
+			'overall' => $blocks_overall,
+			'yesterday' => $blocks_yesterday,
+		};
 	} elsif ($row_title_text =~ /^Keys:/) {
 		my $keys_overall = $fields[0]->as_text;
 		my $keys_yesterday = $fields[1]->as_text;
@@ -81,17 +145,53 @@ foreach my $row_title (@rows) {
 		$keys_overall =~ s/,//g;
 		$keys_yesterday =~ s/,//g;
 
-		print "keys overall:$keys_overall yesterday:$keys_yesterday\n";
+		#print "\tkeys overall:$keys_overall yesterday:$keys_yesterday\n";
+
+		$data_out->{'rc5-72'}->{$stats_time}->{keys} = {
+			'overall' => $keys_overall,
+			'yesterday' => $keys_yesterday,
+		};
+	} elsif ($row_title_text =~ /^Keys\/sec:/) {
+		my $keyrate_overall = $fields[0]->as_text;
+		my $keyrate_yesterday = $fields[1]->as_text;
+
+		$keyrate_overall =~ s/,//g;
+		$keyrate_yesterday =~ s/,//g;
+		$keyrate_overall =~ s/^\s+//;
+		$keyrate_yesterday =~ s/^\s+//;
+		$keyrate_overall =~ s/\s+$//;
+		$keyrate_yesterday =~ s/\s+$//;
+
+		#print "\tkeyrate overall:$keyrate_overall yesterday:$keyrate_yesterday\n";
+
+		$data_out->{'rc5-72'}->{$stats_time}->{keyrate} = {
+			'overall' => $keyrate_overall,
+			'yesterday' => $keyrate_yesterday,
+		};
+	} elsif ($row_title_text =~ /^Blocks\/sec:/) {
+		# don't care
+	} elsif ($row_title_text =~ /^Percentile:/) {
+		my $percentile_overall = $fields[0]->as_text;
+		my $percentile_yesterday = $fields[1]->as_text;
+
+		$percentile_overall =~ s/^\s+//;
+		$percentile_yesterday =~ s/^\s+//;
+		$percentile_overall =~ s/\s+$//;
+		$percentile_yesterday =~ s/\s+$//;
+
+		#print "\tpercentile overall:$percentile_overall yesterday:$percentile_yesterday\n";
+
+		$data_out->{'rc5-72'}->{$stats_time}->{percentile} = {
+			'overall' => $percentile_overall,
+			'yesterday' => $percentile_yesterday,
+		};
 	} else {
+		print "UNHANDLED $row_title_text:\n";
 		foreach my $fld_element (@fields) {
-			print $fld_element->as_text(), "\n";
+			print "\t\t", $fld_element->as_text(), "\n";
 		}
 	}
-
-#	my $dnet_title = $dnet->look_down( '_tag' => 'h1' )->as_text;
-	
-	print "\n";
 }
 
-#print Dumper($data_out);
+print Dumper($data_out);
 #store $data_out,'dnet.storable';
