@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [[ ! -d $STATS_DIR ]]; then
+	echo "STATS_DIR='$STATS_DIR' is not a directory"
+	exit 1
+fi
+
+cd $STATS_DIR/../bin
+./dnet
