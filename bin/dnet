@@ -216,7 +216,7 @@ print "wrote $dnet_storable_filename\n";
 my $json_fh;
 open($json_fh,">",$dnet_json_filename) or die "could not open $dnet_json_filename for write: $!";
 my $json = JSON->new->allow_nonref;
-my $json_out = $json->pretty->encode($data_out);
+my $json_out = $json->pretty->canonical->encode($data_out);
 print $json_fh $json_out;
 close($json_fh);
 print "wrote $dnet_json_filename\n";
