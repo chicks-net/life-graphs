@@ -5,16 +5,30 @@ if [[ ! -d $STATS_DIR ]]; then
 	exit 1
 fi
 
+function git_check {
+	if [[ -z $(git status --porcelain) ]];
+	then
+		echo "git is clean, proceeding...."
+	else
+		echo "PLEASE COMMIT YOUR CHANGE FIRST!!!"
+		git status --porcelain
+		exit 1
+	fi
+}
+
+# clean start
 cd $STATS_DIR
+git_check
 git pull
+git_check
 
+# run jobs
 cd $STATS_DIR/../bin
-#./dnet
+./dnet
 
-if [[ -z "$(git status --porcelain)" ]];
-then
-    echo "IT IS CLEAN"
-else
-    echo "PLEASE COMMIT YOUR CHANGE FIRST!!!"
-    echo git status
-fi
+# commit
+git pull --rebase
+git_check
+git add ../data
+git commit -m 'daily cron update'
+git push
