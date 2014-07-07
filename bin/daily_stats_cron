@@ -27,8 +27,6 @@ cd $STATS_DIR/../bin
 ./dnet
 
 # commit
-git pull --rebase
-git_check
 git add ../data
 git commit -m 'daily cron update'
 git push
