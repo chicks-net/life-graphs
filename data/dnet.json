@@ -1,30 +1,57 @@
 {
    "rc5-72" : {
-      "2014-07-05 23:59" : {
+      "2014-07-06 23:59" : {
+         "keys" : {
+            "overall" : "20038251523866624",
+            "yesterday" : "85323820302336"
+         },
          "rank_delta" : {
             "overall" : "+6",
-            "yesterday" : "-14"
+            "yesterday" : "+6"
          },
+         "time_working" : "4228 days",
+         "blocks" : {
+            "overall" : "4665519",
+            "yesterday" : "19866"
+         },
+         "percentile" : {
+            "overall" : "98.70",
+            "yesterday" : "90.01"
+         },
+         "keyrate" : {
+            "overall" : "54854354",
+            "yesterday" : "987544216"
+         },
+         "rank" : {
+            "overall" : "1228",
+            "yesterday" : "113"
+         }
+      },
+      "2014-07-05 23:59" : {
          "keys" : {
             "overall" : "19952927703564288",
             "yesterday" : "85761906966528"
          },
-         "time_working" : "4227 days",
-         "percentile" : {
-            "overall" : "98.69",
-            "yesterday" : "89.61"
+         "rank_delta" : {
+            "overall" : "+6",
+            "yesterday" : "-14"
          },
+         "time_working" : "4227 days",
          "blocks" : {
             "overall" : "4645653",
             "yesterday" : "19968"
          },
-         "rank" : {
-            "overall" : "1234",
-            "yesterday" : "119"
+         "percentile" : {
+            "overall" : "98.69",
+            "yesterday" : "89.61"
          },
          "keyrate" : {
             "overall" : "54633703",
             "yesterday" : "992614664"
+         },
+         "rank" : {
+            "overall" : "1234",
+            "yesterday" : "119"
          }
       }
    }
