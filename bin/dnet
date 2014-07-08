@@ -22,7 +22,7 @@ my $dnet_json_filename = 'dnet.json';
 my $data_out = {};
 
 if (-f $dnet_storable_filename) {
-	print "starting with $data_dir/$dnet_storable_filename";
+	print "starting with $data_dir/$dnet_storable_filename\n";
 	$data_out = retrieve $dnet_storable_filename;
 }
 
