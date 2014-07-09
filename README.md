@@ -22,6 +22,7 @@ There are many graphs that I want to make, but these are the top priorities
 * TECH: fini inbox size
 * TECH: dnetc key rate history
 * TECH: github LoC committed
+* TECH: Steam achievements and hours played
 * HEALTH: miles walked
 * HEALTH: pull ups
 
