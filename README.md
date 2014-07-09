@@ -21,6 +21,7 @@ There are many graphs that I want to make, but these are the top priorities
 * TECH: gmail inbox size
 * TECH: fini inbox size
 * TECH: dnetc key rate history
+* TECH: github LoC committed
 * HEALTH: miles walked
 * HEALTH: pull ups
 
@@ -29,6 +30,7 @@ Emails graphs
 
 For each of the various sources of email it'd be nice to have things like:
 
-* sent emails per hour/day
+* sent emails per hour and day
+* read emails per hour and day (how do you do that with alpine?)
 * unread emails
 * total emails
