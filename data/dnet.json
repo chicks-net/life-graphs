@@ -80,6 +80,33 @@
             "yesterday" : "+8"
          },
          "time_working" : "4229 days"
+      },
+      "2014-07-08 23:59" : {
+         "blocks" : {
+            "overall" : "4705678",
+            "yesterday" : "20184"
+         },
+         "keyrate" : {
+            "overall" : "55300360",
+            "yesterday" : "1003352082"
+         },
+         "keys" : {
+            "overall" : "20210733115506688",
+            "yesterday" : "86689619902464"
+         },
+         "percentile" : {
+            "overall" : "98.71",
+            "yesterday" : "91.34"
+         },
+         "rank" : {
+            "overall" : "1218",
+            "yesterday" : "107"
+         },
+         "rank_delta" : {
+            "overall" : "+1",
+            "yesterday" : "-2"
+         },
+         "time_working" : "4230 days"
       }
    }
 }
