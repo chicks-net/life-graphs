@@ -9,6 +9,7 @@ use Data::Dumper;
 use DateTime;
 use JSON;
 use Storable qw(nstore retrieve);
+use Readonly;
 
 # verify data directory
 my $data_dir = $ENV{STATS_DIR};
@@ -26,7 +27,15 @@ if (-f $dnet_storable_filename) {
 	$data_out = retrieve $dnet_storable_filename;
 }
 
-# get content
+# global constants
+Readonly::Hash my %month_decode => (
+	'Jan' => 1, 'Feb' => 2, 'Mar' => 3, 'Apr' => 4,
+	'May' => 5, 'Jun' => 6, 'Jul' => 7, 'Aug' => 8,
+	'Sep' => 9, 'Oct' => 10, 'Nov' => 11, 'Dec' => 12,
+	'Sept' => 9, 'July' => 7, 'June' => 6,
+);
+
+# get content: rc5-72 summary
 my $rc5_url = 'http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444';
 my $raw_html = get($rc5_url);
 my $raw_length = length $raw_html;
@@ -34,10 +43,7 @@ print "got $raw_length bytes from $rc5_url\n";
 
 # parse
 my $tree = HTML::TreeBuilder->new; # empty tree
-#$tree->ignore_unknown(0); # accept article tags
 $tree->parse_content($raw_html);
-#my $tree = HTML::TreeBuilder->new_from_content($raw_html);
-#print $tree->as_text;
 
 # get stats currency timestamp
 my $stats_time;
@@ -47,23 +53,10 @@ my $stats_time;
 	if ($stats_date_text =~ /received as of ([\w-]+) at ([0-9:]+) UTC/) {
 		my $date = $1;
 		my $time = $2;
-		#print "date=$date time=$time\n";
 
 		my ($day,$month,$year) = split(/-/,$date);
 		my ($hour,$minute) = split(/:/,$time);
-
-		my %month_decode = (
-			'Jan' => 1, 'Feb' => 2, 'Mar' => 3, 'Apr' => 4,
-			'May' => 5, 'Jun' => 6, 'Jul' => 7, 'Aug' => 8,
-			'Sep' => 9, 'Oct' => 10, 'Nov' => 11, 'Dec' => 12,
-			'Sept' => 9, 'July' => 7, 'June' => 6,
-		);
-
-		if (defined $month_decode{$month}) {
-			$month = $month_decode{$month};
-		} else {
-			die "no month decode for '$month', cannot make a date out of '$date'";
-		}
+		$month = date2month($date) or die "no month decode for '$month', cannot make a date out of '$date'";
 
 		my $stats_date_object = DateTime->new(
 			year      => $year,
@@ -208,6 +201,50 @@ foreach my $row_title (@rows) {
 	}
 }
 
+# get content: rc5-72 history
+my $rc5_history_url = 'http://stats.distributed.net/participant/phistory.php?project_id=8&id=73444';
+$raw_html = get($rc5_history_url);
+$raw_length = length $raw_html;
+print "got $raw_length bytes from $rc5_history_url\n";
+
+# parse
+$tree = HTML::TreeBuilder->new; # empty tree
+$tree->parse_content($raw_html);
+
+@rows = $tree->look_down(
+		'_tag' => 'tr',
+		'class' => qr/^row[12]$/,
+);
+
+$row_count = scalar @rows;
+#print "found $row_count rows\n";
+
+my $rc5_blocks_total;
+foreach my $row (@rows) {
+	my @cells = $row->look_down('_tag' => 'td');
+	my ($date,$blocks) = map {$_->as_text} @cells;
+
+	my ($day,$month,$year) = split(/-/,$date);
+	$month = date2month($date) or die "no month decode for '$month', cannot make a date out of '$date'";
+
+	my $iso_date = sprintf("%04d-%02d-%02d",$year,$month,$day);
+
+	$blocks =~ s/,//g;
+
+	$rc5_blocks_total += $blocks;
+
+#	print "$date\t$iso_date\t$blocks\n";
+	$data_out->{'rc5-72'}->{'block_history'}->{$iso_date} = $blocks;
+}
+
+my $summary_rc5_blocks = $data_out->{'rc5-72'}->{$stats_time}->{'blocks'}->{'overall'};
+if ($rc5_blocks_total == $summary_rc5_blocks) {
+	print "crosscheck GOOD: history and summary show $rc5_blocks_total RC5-72 blocks done.\n";
+} else {
+	print "crosscheck FAIL: history shows $rc5_blocks_total RC5-72 blocks done but the summary said $summary_rc5_blocks are done.\n";
+}
+
+# write Storable
 #print Dumper($data_out);
 nstore $data_out,$dnet_storable_filename;
 print "wrote $dnet_storable_filename\n";
@@ -220,3 +257,13 @@ my $json_out = $json->pretty->canonical->encode($data_out);
 print $json_fh $json_out;
 close($json_fh);
 print "wrote $dnet_json_filename\n";
+
+sub date2month {
+	my ($date) = @_;
+	my ($day,$month,$year) = split(/-/,$date);
+	if (defined $month_decode{$month}) {
+		return $month_decode{$month};
+	} else {
+		return undef;
+	}
+}
