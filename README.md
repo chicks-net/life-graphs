@@ -27,14 +27,15 @@ DATA COLLECTORS TODO
 
 There are many data collectors that I want to make, but these are the top priorities:
 
+* TECH: Steam achievements and hours played
+* TECH: dnetc ogr summary and history
 * FINANCE: Citi balances
 * FINANCE: OpenSRS balance
 * FINANCE: paypal balances
+* FINANCE: mobile balance, minutes used, bytes used
 * TECH: gmail inbox size
 * TECH: fini inbox size
-* TECH: dnetc ogr summary and history
 * TECH: github LoC committed
-* TECH: Steam achievements and hours played
 * HEALTH: miles walked
 * HEALTH: pull ups
 
