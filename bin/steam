@@ -1,0 +1,116 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+#use diagnostics;
+use LWP::Simple qw(get);
+use HTML::TreeBuilder;
+use Data::Dumper;
+use DateTime;
+use JSON;
+use Storable qw(nstore retrieve);
+#use Readonly;
+
+# verify data directory
+my $data_dir = $ENV{STATS_DIR};
+die "no STATS_DIR defined" unless defined $data_dir;
+die "$data_dir is not a directory" unless -d $data_dir;
+chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
+
+# retrieve existing data
+my $steam_storable_filename = 'steam.storable';
+my $steam_json_filename = 'steam.json';
+my $data_out = {};
+
+if (-f $steam_storable_filename) {
+	print "starting with $data_dir/$steam_storable_filename\n";
+	$data_out = retrieve $steam_storable_filename;
+}
+
+# get content: steam profile
+my $profile_url = 'http://steamcommunity.com/profiles/76561198037662755';
+my $raw_html = get($profile_url);
+my $raw_length = length $raw_html;
+print "got $raw_length bytes from $profile_url\n";
+
+# parse
+my $tree = HTML::TreeBuilder->new; # empty tree
+$tree->parse_content($raw_html);
+
+my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
+
+# get right column data
+my $item_links_div = $tree->look_down(
+		'_tag' => 'div',
+		'class' => 'profile_item_links',
+);
+my @rows = $item_links_div->look_down(
+		'_tag' => 'div',
+		'class' => 'profile_count_link',
+);
+foreach my $row (@rows) {
+	my $textified = $row->as_text;
+	$textified =~ s/^\s+//;
+	$textified =~ s/\s+$//;
+	my ($label,$value) = split( /\s+/, $textified);
+	next unless defined $value;
+#	print "## $label => $value\n";
+	
+	$data_out->{$stats_time}->{$label} = $value;
+}
+
+# get recent game activity
+my $rga_div = $tree->look_down(
+		'_tag' => 'div',
+		'class' => 'recentgame_quicklinks',
+);
+
+my $rga_text = $rga_div->as_text;
+$rga_text =~ s/^\s+//;
+$rga_text =~ s/\s+$//;
+$data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
+
+# get showcase stats
+@rows = $tree->look_down(
+		'_tag' => 'div',
+		'class' => 'showcase_content_bg showcase_stats_row',
+);
+my $row_count = scalar @rows;
+print "found $row_count rows\n";
+foreach my $row (@rows) {
+	my (@kv_pairs) = $row->look_down('_tag' => 'div', 'class' => 'value');
+	foreach my $pair (@kv_pairs) {
+		my $label = $pair->right();
+		my $label_text = $label->as_text;
+		$label_text =~ s/^\s+//;
+		$label_text =~ s/\s+$//;
+		my $value_text = $pair->as_text;
+		$value_text =~ s/^\s+//;
+		$value_text =~ s/\s+$//;
+	#	print "$label_text => $value_text\n";
+		$data_out->{$stats_time}->{$label_text} = $value_text;
+	}
+}
+
+# get time played per game
+
+# get achievement stats
+
+if (0) {
+	print Dumper($data_out), "\n";
+	die "how does it look?";
+}
+
+# write Storable
+#print Dumper($data_out);
+nstore $data_out,$steam_storable_filename;
+print "wrote $steam_storable_filename\n";
+
+# write JSON file
+my $json_fh;
+open($json_fh,">",$steam_json_filename) or die "could not open $steam_json_filename for write: $!";
+my $json = JSON->new->allow_nonref;
+my $json_out = $json->pretty->canonical->encode($data_out);
+print $json_fh $json_out;
+close($json_fh);
+print "wrote $steam_json_filename\n";

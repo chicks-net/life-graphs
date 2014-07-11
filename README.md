@@ -7,6 +7,7 @@ DATA COLLECTORS DONE
 --------------------
 
 * TECH: dnetc rc5-72
+* TECH: Steam profile
 
 TECH TODO
 ---------
@@ -21,13 +22,14 @@ GRAPHS TODO
 There are many graphs that I want to make, but these are data that are ready to graph:
 
 * TECH: dnetc rc5-72
+* TECH: Steam profile
 
 DATA COLLECTORS TODO
 --------------------
 
 There are many data collectors that I want to make, but these are the top priorities:
 
-* TECH: Steam achievements and hours played
+* TECH: Steam game hours played
 * TECH: dnetc ogr summary and history
 * FINANCE: Citi balances
 * FINANCE: OpenSRS balance
