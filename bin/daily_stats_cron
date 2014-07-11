@@ -11,6 +11,7 @@ function git_check {
 	if [[ -z $(git status --porcelain) ]];
 	then
 		echo "git is clean, proceeding...."
+		echo ""
 	else
 		echo "PLEASE COMMIT YOUR CHANGE FIRST!!!"
 		git status --porcelain
@@ -21,6 +22,7 @@ function git_check {
 # clean start
 cd $STATS_DIR
 git_check
+echo "git pull"
 git pull
 git_check
 
@@ -32,5 +34,6 @@ cd $STATS_DIR/../bin
 git add ../data
 git commit -m 'daily cron update'
 git push
+git status
 
 echo finished at `date`
