@@ -112,11 +112,17 @@ foreach my $row_title (@rows) {
 
 		my $overall_img = $rank_overall->look_down(_tag => 'img');
 		my $yesterday_img = $rank_yesterday->look_down(_tag => 'img');
-		$rank_overall_delta = $overall_img->attr('alt') . $rank_overall_delta;
-		$rank_yesterday_delta = $yesterday_img->attr('alt') . $rank_yesterday_delta;
 
-		#print "\tposi. overall:$rank_overall_text yesterday:$rank_yesterday_text\n";
-		#print "\tdelta overall:$rank_overall_delta yesterday:$rank_yesterday_delta\n";
+		if (defined $overall_img) {
+			$rank_overall_delta = $overall_img->attr('alt') . $rank_overall_delta;
+		} else {
+			$rank_overall_delta = 0;
+		}
+		if (defined $yesterday_img) {
+			$rank_yesterday_delta = $yesterday_img->attr('alt') . $rank_yesterday_delta;
+		} else {
+			$rank_yesterday_delta = 0;
+		}
 
 		$data_out->{'rc5-72'}->{$stats_time}->{rank} = {
 			'overall' => $rank_overall_text,
@@ -244,8 +250,11 @@ if ($rc5_blocks_total == $summary_rc5_blocks) {
 	print "crosscheck FAIL: history shows $rc5_blocks_total RC5-72 blocks done but the summary said $summary_rc5_blocks are done.\n";
 }
 
+if (0) {
+	print Dumper($data_out);
+	die 'testing';
+}
 # write Storable
-#print Dumper($data_out);
 nstore $data_out,$dnet_storable_filename;
 print "wrote $dnet_storable_filename\n";
 
