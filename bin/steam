@@ -54,11 +54,10 @@ my @rows = $item_links_div->look_down(
 );
 foreach my $row (@rows) {
 	my $textified = $row->as_text;
-	$textified =~ s/^\s+//;
-	$textified =~ s/\s+$//;
+	$textified = trim($textified);
 	my ($label,$value) = split( /\s+/, $textified);
 	next unless defined $value;
-#	print "## $label => $value\n";
+	#print "## $label => $value\n";
 	
 	$data_out->{$stats_time}->{$label} = $value;
 }
@@ -71,9 +70,7 @@ my $rga_div = $tree->look_down(
 		'class' => 'recentgame_quicklinks',
 );
 
-my $rga_text = $rga_div->as_text;
-$rga_text =~ s/^\s+//;
-$rga_text =~ s/\s+$//;
+my $rga_text = trim($rga_div->as_text);
 $data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
 
 #
@@ -93,8 +90,7 @@ foreach my $row (@rows) {
 	my $played_text = $played_div->as_text;
 	if ($played_text =~ /(\d+) hrs on record.*last played on (.+?)\s*$/) {
 		$data_out->{$stats_time}->{$game_name}->{'hrs_total'} = $1;
-		my $last_played = $2;
-		trim($last_played);
+		my $last_played = trim($2);
 		$data_out->{$stats_time}->{$game_name}->{'last_played'} = $last_played;
 	} else {
 		$data_out->{$stats_time}->{$game_name}->{'played'} = $played_text;
@@ -126,12 +122,8 @@ foreach my $row (@rows) {
 	my (@kv_pairs) = $row->look_down('_tag' => 'div', 'class' => 'value');
 	foreach my $pair (@kv_pairs) {
 		my $label = $pair->right();
-		my $label_text = $label->as_text;
-		$label_text =~ s/^\s+//;
-		$label_text =~ s/\s+$//;
-		my $value_text = $pair->as_text;
-		$value_text =~ s/^\s+//;
-		$value_text =~ s/\s+$//;
+		my $label_text = trim($label->as_text);
+		my $value_text = trim($pair->as_text);
 	#	print "$label_text => $value_text\n";
 		$data_out->{$stats_time}->{$label_text} = $value_text;
 	}
@@ -173,5 +165,5 @@ sub trim {
 	$value =~ s/^\s+//;
 	$value =~ s/\s+$//;
 
-	return undef;
+	return $value;
 }
