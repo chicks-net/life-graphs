@@ -83,7 +83,7 @@ foreach my $row (@rows) {
 	my @recent_achievements = $row->look_down('_tag' => 'div', 'class' => 'game_info_achievement');
 	my @recent_achievements_text = map { $_->attr('title') } @recent_achievements;
 	next unless scalar @recent_achievements_text;
-	$data_out->{$stats_time}->{'game_detals'}->{$game_name}->{'recent_achievements'} = [@recent_achievements_text];
+	$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'recent_achievements'} = [@recent_achievements_text];
 
 	my $achievement_progress_div = $row->look_down('_tag' => 'span', 'class' => 'game_info_achievement_summary');
 	my $achievement_progress = $achievement_progress_div->as_text;
