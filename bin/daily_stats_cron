@@ -29,8 +29,10 @@ git_check
 # run jobs
 cd $STATS_DIR/../bin
 ./dnet
+./steam
 
 # commit
+echo ""
 git add ../data
 git commit -m 'daily cron update'
 git push
