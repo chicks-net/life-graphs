@@ -8,6 +8,7 @@ DATA COLLECTORS DONE
 
 * TECH: dnetc rc5-72
 * TECH: Steam profile
+* TECH: Steam game hours played
 
 TECH TODO
 ---------
@@ -23,13 +24,13 @@ There are many graphs that I want to make, but these are data that are ready to 
 
 * TECH: dnetc rc5-72
 * TECH: Steam profile
+* TECH: Steam game hours played
 
 DATA COLLECTORS TODO
 --------------------
 
 There are many data collectors that I want to make, but these are the top priorities:
 
-* TECH: Steam game hours played
 * TECH: dnetc ogr summary and history
 * FINANCE: Citi balances
 * FINANCE: OpenSRS balance
@@ -41,10 +42,10 @@ There are many data collectors that I want to make, but these are the top priori
 * HEALTH: miles walked
 * HEALTH: pull ups
 
-Emails graphs
--------------
+Email graphs
+------------
 
-For each of the various sources of email it'd be nice to have things like:
+For each of the various sources of email it would be nice to have things like:
 
 * sent emails per hour and day
 * read emails per hour and day (how do you do that with alpine?)
