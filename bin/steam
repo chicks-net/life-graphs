@@ -31,13 +31,7 @@ if (-f $steam_storable_filename) {
 # get content: steam profile
 #
 my $profile_url = 'http://steamcommunity.com/profiles/76561198037662755';
-my $raw_html = get($profile_url);
-my $raw_length = length $raw_html;
-print "got $raw_length bytes from $profile_url\n";
-
-# parse
-my $tree = HTML::TreeBuilder->new; # empty tree
-$tree->parse_content($raw_html);
+my $tree = parse_url($profile_url);
 
 my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
 
@@ -86,26 +80,16 @@ foreach my $row (@rows) {
 	my $game_name_div = $row->look_down('_tag' => 'div', 'class' => 'game_name');
 	my $game_name = $game_name_div->as_text;
 
-	my $played_div = $row->look_down('_tag' => 'div', 'class' => 'game_info_details');
-	my $played_text = $played_div->as_text;
-	if ($played_text =~ /(\d+) hrs on record.*last played on (.+?)\s*$/) {
-		$data_out->{$stats_time}->{$game_name}->{'hrs_total'} = $1;
-		my $last_played = trim($2);
-		$data_out->{$stats_time}->{$game_name}->{'last_played'} = $last_played;
-	} else {
-		$data_out->{$stats_time}->{$game_name}->{'played'} = $played_text;
-	}
-
 	my @recent_achievements = $row->look_down('_tag' => 'div', 'class' => 'game_info_achievement');
 	my @recent_achievements_text = map { $_->attr('title') } @recent_achievements;
 	next unless scalar @recent_achievements_text;
-	$data_out->{$stats_time}->{$game_name}->{'recent_achievements'} = [@recent_achievements_text];
+	$data_out->{$stats_time}->{'game_detals'}->{$game_name}->{'recent_achievements'} = [@recent_achievements_text];
 
 	my $achievement_progress_div = $row->look_down('_tag' => 'span', 'class' => 'game_info_achievement_summary');
 	my $achievement_progress = $achievement_progress_div->as_text;
 	if ($achievement_progress =~ /(\d+) of (\d+)/) {
-		$data_out->{$stats_time}->{$game_name}->{'achievements_current'} = $1;
-		$data_out->{$stats_time}->{$game_name}->{'achievements_total'} = $2;
+		$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'achievements_current'} = $1;
+		$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'achievements_total'} = $2;
 	} else {
 		print "$game_name $achievement_progress\n";
 	}
@@ -130,15 +114,55 @@ foreach my $row (@rows) {
 }
 
 #
-# TODO: get time played per game
+# get overall game details
 #
 
-#my $row_count = scalar @rows;
-#print "found $row_count rows\n";
+my $games_url = 'http://steamcommunity.com/profiles/76561198037662755/games?tab=all';
+$tree = parse_url($games_url);
+
+@rows = $tree->look_down(
+		'_tag' => 'script',
+);
+foreach my $row (@rows) {
+	my $js = $row->as_HTML;
+	if ($js =~ /var rgGames = ([^;]+);/) {
+		my $raw_json = $1;
+		my $json = JSON->new->allow_nonref; # no html fiddling, brilliant!
+		my $games = $json->decode($raw_json);
+#		print Dumper($games);
+		foreach my $game (@$games) {
+			my $game_name = $game->{'name'};
+
+			my $hours_forever = $game->{'hours_forever'};
+			if ( defined $hours_forever ) {
+				$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'hrs_total'} = $hours_forever;
+				#print "$hours_forever hrs in $game_name\n";
+			}
+
+			my $last_played = $game->{'last_played'};
+			if ( defined $last_played ) {
+				$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'last_played'} = $last_played;
+				#my $when = DateTime->from_epoch(epoch => $last_played);
+				#print "$when $game_name\n";
+			}
+
+			my $stats_links = $game->{'availStatLinks'};
+			if ( defined $stats_links ) {
+				my @keys = keys %$stats_links;
+#				print Dumper($stats_links),"\n";
+			} else {
+				print "no stats links for $game_name\n";
+			}
+		}
+	}
+}
 
 #
 # TODO: get achievement stats
 #
+
+#my $row_count = scalar @rows;
+#print "found $row_count rows\n";
 
 if (0) {
 	print Dumper($data_out), "\n";
@@ -166,4 +190,17 @@ sub trim {
 	$value =~ s/\s+$//;
 
 	return $value;
+}
+
+sub parse_url {
+	my ($url) = @_;
+	my $raw_html = get($url);
+	my $raw_length = length $raw_html;
+	print "got $raw_length bytes from $url\n";
+
+	# parse
+	my $tree = HTML::TreeBuilder->new; # empty tree
+	$tree->parse_content($raw_html);
+
+	return $tree;
 }
