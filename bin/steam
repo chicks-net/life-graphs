@@ -80,6 +80,41 @@ $data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
 # get recent game activity details
 #
 
+@rows = $tree->look_down(
+		'_tag' => 'div',
+		'class' => 'recent_game',
+);
+
+foreach my $row (@rows) {
+	my $game_name_div = $row->look_down('_tag' => 'div', 'class' => 'game_name');
+	my $game_name = $game_name_div->as_text;
+
+	my $played_div = $row->look_down('_tag' => 'div', 'class' => 'game_info_details');
+	my $played_text = $played_div->as_text;
+	if ($played_text =~ /(\d+) hrs on record.*last played on (.+?)\s*$/) {
+		$data_out->{$stats_time}->{$game_name}->{'hrs_total'} = $1;
+		my $last_played = $2;
+		trim($last_played);
+		$data_out->{$stats_time}->{$game_name}->{'last_played'} = $last_played;
+	} else {
+		$data_out->{$stats_time}->{$game_name}->{'played'} = $played_text;
+	}
+
+	my @recent_achievements = $row->look_down('_tag' => 'div', 'class' => 'game_info_achievement');
+	my @recent_achievements_text = map { $_->attr('title') } @recent_achievements;
+	next unless scalar @recent_achievements_text;
+	$data_out->{$stats_time}->{$game_name}->{'recent_achievements'} = [@recent_achievements_text];
+
+	my $achievement_progress_div = $row->look_down('_tag' => 'span', 'class' => 'game_info_achievement_summary');
+	my $achievement_progress = $achievement_progress_div->as_text;
+	if ($achievement_progress =~ /(\d+) of (\d+)/) {
+		$data_out->{$stats_time}->{$game_name}->{'achievements_current'} = $1;
+		$data_out->{$stats_time}->{$game_name}->{'achievements_total'} = $2;
+	} else {
+		print "$game_name $achievement_progress\n";
+	}
+}
+
 #
 # get showcase stats
 #
@@ -87,8 +122,6 @@ $data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
 		'_tag' => 'div',
 		'class' => 'showcase_content_bg showcase_stats_row',
 );
-my $row_count = scalar @rows;
-print "found $row_count rows\n";
 foreach my $row (@rows) {
 	my (@kv_pairs) = $row->look_down('_tag' => 'div', 'class' => 'value');
 	foreach my $pair (@kv_pairs) {
@@ -108,11 +141,14 @@ foreach my $row (@rows) {
 # TODO: get time played per game
 #
 
+#my $row_count = scalar @rows;
+#print "found $row_count rows\n";
+
 #
 # TODO: get achievement stats
 #
 
-if (0) {
+if (1) {
 	print Dumper($data_out), "\n";
 	die "how does it look?";
 }
@@ -130,3 +166,12 @@ my $json_out = $json->pretty->canonical->encode($data_out);
 print $json_fh $json_out;
 close($json_fh);
 print "wrote $steam_json_filename\n";
+
+sub trim {
+	my ($value) = @_;
+
+	$value =~ s/^\s+//;
+	$value =~ s/\s+$//;
+
+	return undef;
+}
