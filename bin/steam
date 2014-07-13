@@ -27,7 +27,9 @@ if (-f $steam_storable_filename) {
 	$data_out = retrieve $steam_storable_filename;
 }
 
+#
 # get content: steam profile
+#
 my $profile_url = 'http://steamcommunity.com/profiles/76561198037662755';
 my $raw_html = get($profile_url);
 my $raw_length = length $raw_html;
@@ -39,7 +41,9 @@ $tree->parse_content($raw_html);
 
 my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
 
+#
 # get right column data
+#
 my $item_links_div = $tree->look_down(
 		'_tag' => 'div',
 		'class' => 'profile_item_links',
@@ -59,7 +63,9 @@ foreach my $row (@rows) {
 	$data_out->{$stats_time}->{$label} = $value;
 }
 
-# get recent game activity
+#
+# get recent game activity summary
+#
 my $rga_div = $tree->look_down(
 		'_tag' => 'div',
 		'class' => 'recentgame_quicklinks',
@@ -70,7 +76,13 @@ $rga_text =~ s/^\s+//;
 $rga_text =~ s/\s+$//;
 $data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
 
+#
+# get recent game activity details
+#
+
+#
 # get showcase stats
+#
 @rows = $tree->look_down(
 		'_tag' => 'div',
 		'class' => 'showcase_content_bg showcase_stats_row',
@@ -92,9 +104,13 @@ foreach my $row (@rows) {
 	}
 }
 
-# get time played per game
+#
+# TODO: get time played per game
+#
 
-# get achievement stats
+#
+# TODO: get achievement stats
+#
 
 if (0) {
 	print Dumper($data_out), "\n";
