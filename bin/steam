@@ -140,7 +140,7 @@ foreach my $row (@rows) {
 # TODO: get achievement stats
 #
 
-if (1) {
+if (0) {
 	print Dumper($data_out), "\n";
 	die "how does it look?";
 }

@@ -9,5 +9,46 @@
       "Reviews" : "2",
       "Screenshots" : "16",
       "recent_game_activity" : "41.3 hours past 2 weeks"
+   },
+   "2014-07-13 01:18" : {
+      "Achievements" : "457",
+      "Avg. Game Completion Rate" : "29%",
+      "Badges Earned" : "20",
+      "Faerie Solitaire" : {
+         "achievements_current" : "27",
+         "achievements_total" : "30",
+         "hrs_total" : "26",
+         "last_played" : "Jul 4",
+         "recent_achievements" : [
+            "Millionaire",
+            "You Win!",
+            "Stage 8 Clear",
+            "Super Powers",
+            "Carder"
+         ]
+      },
+      "Game Cards" : "57",
+      "Games" : "116",
+      "Left 4 Dead 2" : {
+         "hrs_total" : "9",
+         "last_played" : "Jun 24"
+      },
+      "Perfect Games" : "1",
+      "Reviews" : "2",
+      "Screenshots" : "16",
+      "Team Fortress 2" : {
+         "achievements_current" : "185",
+         "achievements_total" : "506",
+         "hrs_total" : "530",
+         "last_played" : "Jul 12",
+         "recent_achievements" : [
+            "Engine Block",
+            "Hard Reset",
+            "Three Times a Laddy",
+            "Real Steal",
+            "OMGWTFBBQ"
+         ]
+      },
+      "recent_game_activity" : "50.7 hours past 2 weeks"
    }
 }
