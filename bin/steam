@@ -194,7 +194,7 @@ sub trim {
 
 sub parse_url {
 	my ($url) = @_;
-	my $raw_html = get($url);
+	my $raw_html = get($url) or die "failed on GET $url";
 	my $raw_length = length $raw_html;
 	print "got $raw_length bytes from $url\n";
 
