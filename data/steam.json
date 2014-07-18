@@ -120,7 +120,14 @@
             "achievements_current" : "27",
             "achievements_total" : "30",
             "hrs_total" : "26",
-            "last_played" : "1404509957"
+            "last_played" : "1404509957",
+            "recent_achievements" : [
+               "Millionaire",
+               "You Win!",
+               "Stage 8 Clear",
+               "Super Powers",
+               "Carder"
+            ]
          },
          "Foul Play" : {
             "hrs_total" : "0.8",
@@ -257,7 +264,14 @@
             "achievements_current" : "185",
             "achievements_total" : "506",
             "hrs_total" : "530",
-            "last_played" : "1405211112"
+            "last_played" : "1405211112",
+            "recent_achievements" : [
+               "Engine Block",
+               "Hard Reset",
+               "Three Times a Laddy",
+               "Real Steal",
+               "OMGWTFBBQ"
+            ]
          },
          "Tomb Raider" : {
             "hrs_total" : "30",
@@ -286,26 +300,6 @@
          "rymdkapsel" : {
             "hrs_total" : "8.9",
             "last_played" : "1393740527"
-         }
-      },
-      "game_detals" : {
-         "Faerie Solitaire" : {
-            "recent_achievements" : [
-               "Millionaire",
-               "You Win!",
-               "Stage 8 Clear",
-               "Super Powers",
-               "Carder"
-            ]
-         },
-         "Team Fortress 2" : {
-            "recent_achievements" : [
-               "Engine Block",
-               "Hard Reset",
-               "Three Times a Laddy",
-               "Real Steal",
-               "OMGWTFBBQ"
-            ]
          }
       },
       "recent_game_activity" : "49.8 hours past 2 weeks"
@@ -379,7 +373,14 @@
             "achievements_current" : "27",
             "achievements_total" : "30",
             "hrs_total" : "28",
-            "last_played" : "1405255661"
+            "last_played" : "1405255661",
+            "recent_achievements" : [
+               "Millionaire",
+               "You Win!",
+               "Stage 8 Clear",
+               "Super Powers",
+               "Carder"
+            ]
          },
          "Foul Play" : {
             "hrs_total" : "0.8",
@@ -516,13 +517,27 @@
             "achievements_current" : "185",
             "achievements_total" : "506",
             "hrs_total" : "531",
-            "last_played" : "1405225707"
+            "last_played" : "1405225707",
+            "recent_achievements" : [
+               "Engine Block",
+               "Hard Reset",
+               "Three Times a Laddy",
+               "Real Steal",
+               "OMGWTFBBQ"
+            ]
          },
          "Tomb Raider" : {
             "achievements_current" : "20",
             "achievements_total" : "50",
             "hrs_total" : "30",
-            "last_played" : "1405274983"
+            "last_played" : "1405274983",
+            "recent_achievements" : [
+               "Unfinished Business ",
+               "Bag Full O' Cache ",
+               "Now We're Getting Serious ",
+               "Archaeologist ",
+               "Historian "
+            ]
          },
          "Tower Wars" : {
             "hrs_total" : "5.0",
@@ -547,35 +562,6 @@
          "rymdkapsel" : {
             "hrs_total" : "8.9",
             "last_played" : "1393740527"
-         }
-      },
-      "game_detals" : {
-         "Faerie Solitaire" : {
-            "recent_achievements" : [
-               "Millionaire",
-               "You Win!",
-               "Stage 8 Clear",
-               "Super Powers",
-               "Carder"
-            ]
-         },
-         "Team Fortress 2" : {
-            "recent_achievements" : [
-               "Engine Block",
-               "Hard Reset",
-               "Three Times a Laddy",
-               "Real Steal",
-               "OMGWTFBBQ"
-            ]
-         },
-         "Tomb Raider" : {
-            "recent_achievements" : [
-               "Unfinished Business ",
-               "Bag Full O' Cache ",
-               "Now We're Getting Serious ",
-               "Archaeologist ",
-               "Historian "
-            ]
          }
       },
       "recent_game_activity" : "48.3 hours past 2 weeks"
