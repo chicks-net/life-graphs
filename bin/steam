@@ -3,12 +3,9 @@
 use strict;
 use warnings;
 #use diagnostics;
-use LWP::Simple qw(get);
-use HTML::TreeBuilder;
 use Data::Dumper;
 use DateTime;
-use JSON;
-use Storable qw(nstore retrieve);
+use LifeGraphs;
 #use Readonly;
 
 # verify data directory
@@ -20,18 +17,13 @@ chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
 my $steam_json_filename = 'steam.json';
-my $data_out = {};
-
-if (-f $steam_storable_filename) {
-	print "starting with $data_dir/$steam_storable_filename\n";
-	$data_out = retrieve $steam_storable_filename;
-}
+my $data_out = get_storable("$data_dir/$steam_storable_filename");
 
 #
 # get content: steam profile
 #
 my $profile_url = 'http://steamcommunity.com/profiles/76561198037662755';
-my $tree = parse_url($profile_url);
+my $tree = url_tree($profile_url);
 
 my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
 
@@ -118,7 +110,7 @@ foreach my $row (@rows) {
 #
 
 my $games_url = 'http://steamcommunity.com/profiles/76561198037662755/games?tab=all';
-$tree = parse_url($games_url);
+$tree = url_tree($games_url);
 
 @rows = $tree->look_down(
 		'_tag' => 'script',
@@ -169,38 +161,5 @@ if (0) {
 	die "how does it look?";
 }
 
-# write Storable
-#print Dumper($data_out);
-nstore $data_out,$steam_storable_filename;
-print "wrote $steam_storable_filename\n";
-
-# write JSON file
-my $json_fh;
-open($json_fh,">",$steam_json_filename) or die "could not open $steam_json_filename for write: $!";
-my $json = JSON->new->allow_nonref;
-my $json_out = $json->pretty->canonical->encode($data_out);
-print $json_fh $json_out;
-close($json_fh);
-print "wrote $steam_json_filename\n";
-
-sub trim {
-	my ($value) = @_;
-
-	$value =~ s/^\s+//;
-	$value =~ s/\s+$//;
-
-	return $value;
-}
-
-sub parse_url {
-	my ($url) = @_;
-	my $raw_html = get($url) or die "failed on GET $url";
-	my $raw_length = length $raw_html;
-	print "got $raw_length bytes from $url\n";
-
-	# parse
-	my $tree = HTML::TreeBuilder->new; # empty tree
-	$tree->parse_content($raw_html);
-
-	return $tree;
-}
+write_storable($steam_storable_filename,$data_out);
+write_json($steam_json_filename,$data_out);
