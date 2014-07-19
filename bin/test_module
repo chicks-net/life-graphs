@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use LifeGraphs;
+
+my $scraggly_string = '    foo bar     ';
+
+my $clean_string = trim($scraggly_string);
+
+print "scraggly='$scraggly_string' clean='$clean_string'\n";
+
