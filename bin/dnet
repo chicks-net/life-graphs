@@ -3,12 +3,9 @@
 use strict;
 use warnings;
 #use diagnostics;
-use LWP::Simple qw(get);
-use HTML::TreeBuilder;
+use LifeGraphs;
 use Data::Dumper;
 use DateTime;
-use JSON;
-use Storable qw(nstore retrieve);
 use Readonly;
 
 # verify data directory
@@ -20,12 +17,7 @@ chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
 # retrieve existing data
 my $dnet_storable_filename = 'dnet.storable';
 my $dnet_json_filename = 'dnet.json';
-my $data_out = {};
-
-if (-f $dnet_storable_filename) {
-	print "starting with $data_dir/$dnet_storable_filename\n";
-	$data_out = retrieve $dnet_storable_filename;
-}
+my $data_out = get_storable("$data_dir/$dnet_storable_filename");
 
 # global constants
 Readonly::Hash my %month_decode => (
@@ -37,13 +29,7 @@ Readonly::Hash my %month_decode => (
 
 # get content: rc5-72 summary
 my $rc5_url = 'http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444';
-my $raw_html = get($rc5_url);
-my $raw_length = length $raw_html;
-print "got $raw_length bytes from $rc5_url\n";
-
-# parse
-my $tree = HTML::TreeBuilder->new; # empty tree
-$tree->parse_content($raw_html);
+my $tree = url_tree($rc5_url);
 
 # get stats currency timestamp
 my $stats_time;
@@ -209,13 +195,7 @@ foreach my $row_title (@rows) {
 
 # get content: rc5-72 history
 my $rc5_history_url = 'http://stats.distributed.net/participant/phistory.php?project_id=8&id=73444';
-$raw_html = get($rc5_history_url);
-$raw_length = length $raw_html;
-print "got $raw_length bytes from $rc5_history_url\n";
-
-# parse
-$tree = HTML::TreeBuilder->new; # empty tree
-$tree->parse_content($raw_html);
+$tree = url_tree($rc5_history_url);
 
 @rows = $tree->look_down(
 		'_tag' => 'tr',
@@ -254,18 +234,9 @@ if (0) {
 	print Dumper($data_out);
 	die 'testing';
 }
-# write Storable
-nstore $data_out,$dnet_storable_filename;
-print "wrote $dnet_storable_filename\n";
 
-# write JSON file
-my $json_fh;
-open($json_fh,">",$dnet_json_filename) or die "could not open $dnet_json_filename for write: $!";
-my $json = JSON->new->allow_nonref;
-my $json_out = $json->pretty->canonical->encode($data_out);
-print $json_fh $json_out;
-close($json_fh);
-print "wrote $dnet_json_filename\n";
+write_storable($dnet_storable_filename,$data_out);
+write_json($dnet_json_filename,$data_out);
 
 sub date2month {
 	my ($date) = @_;
