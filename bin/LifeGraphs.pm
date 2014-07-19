@@ -104,11 +104,16 @@ Life::Graphs - utilities for life graphs
 
    my $clean_string = trim($scraggly_string);
 
+   my $ref = get_storable($filename);
+
+   my $tree = url_tree($url);
+
+   write_json($filename,$ref);
+   write_storable($filename,$ref);
+
 =head1 DESCRIPTION
 
-There is not
-much to say
-at this point.
+These functions seem to be needed by almost every web scraping bot so don't reinvent the wheel.
 
 =head2 METHODS
 
@@ -135,7 +140,7 @@ It will return the number of bytes written after printing a success message.
 
 =head3 write_storable
 
-Write a storable file.  The first argument is a filename and the second is a reference to the data structure to write.
+Write a Storable file.  The first argument is a filename and the second is a reference to the data structure to write.
 It will return the number of bytes written after printing a success message.
 
 =head1 TODO
@@ -144,15 +149,13 @@ It will return the number of bytes written after printing a success message.
 
 =item * move this into the lib directory
 
-=item * centralize json and storable reading and writing
-
 =item * write some tests
 
 =back
 
 =head1 SEE ALSO
 
-Manpages: ganglia(1)
+Manpages: ganglia(1), Storable(3pm)
 
 =head1 AUTHOR
 
