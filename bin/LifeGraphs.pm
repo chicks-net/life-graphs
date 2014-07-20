@@ -17,7 +17,7 @@ $VERSION = "0.1";
 BEGIN {
     require Exporter;
     @ISA = qw(Exporter);
-    @EXPORT = qw(trim get_storable url_tree write_json write_storable);
+    @EXPORT = qw(trim get_storable url_tree verify_datadir write_json write_storable);
     @EXPORT_OK = qw();
 }
 
@@ -68,6 +68,15 @@ sub url_tree {
 	$tree->parse_content($raw_html);
 
 	return $tree;
+}
+
+sub verify_datadir {
+	# verify data directory
+	my $data_dir = $ENV{STATS_DIR};
+	die "no STATS_DIR defined" unless defined $data_dir;
+	die "$data_dir is not a directory" unless -d $data_dir;
+	chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
+	return $data_dir;
 }
 
 sub write_json {
@@ -132,6 +141,10 @@ Get the rid of leading and trailing whitespace.
 =head3 url_tree
 
 GET a URL and return an HTML::TreeBuilder tree.
+
+=head3 verify_datadir
+
+Pulls STATS_DIR from the environment, verifies that it is a directory, and chdir's to it.  Returns the directory.
 
 =head3 write_json
 

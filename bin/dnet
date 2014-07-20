@@ -9,10 +9,7 @@ use DateTime;
 use Readonly;
 
 # verify data directory
-my $data_dir = $ENV{STATS_DIR};
-die "no STATS_DIR defined" unless defined $data_dir;
-die "$data_dir is not a directory" unless -d $data_dir;
-chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
+my $data_dir = verify_datadir();
 
 # retrieve existing data
 my $dnet_storable_filename = 'dnet.storable';
