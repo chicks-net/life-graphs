@@ -33,15 +33,16 @@ sub new {
 }
 
 sub get_storable {
-	my ($filename) = @_;
+	my ($filename,$quiet) = @_;
+	$quiet = 0 unless defined $quiet;
 
 	my $data;
 
 	if (-f $filename) {
-		print "starting with $filename\n";
+		print "starting with $filename\n" unless $quiet;
 		$data = retrieve $filename;
 	} else { 
-		print "starting empty since there is no $filename\n";
+		warn "starting empty since there is no $filename\n";
 		$data = {};
 	}
 }

@@ -1,0 +1,58 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+#use diagnostics;
+use LifeGraphs;
+use Data::Dumper;
+use DateTime;
+#use Readonly;
+
+# verify data directory
+my $data_dir = verify_datadir();
+
+# retrieve existing data
+my $dnet_storable_filename = 'dnet.storable';
+my $data = get_storable("$data_dir/$dnet_storable_filename",1);
+
+my $base = 'life.dnet.rc5-72';
+
+foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) { 
+	next unless $day =~ /^\d+-\d+-\d+/;
+	my $day_obj = parse_statsday($day);
+	my $unix_seconds = $day_obj->epoch();
+	#print "$day $day_obj $unix_seconds\n";
+
+	my $metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{yesterday};
+	print "$base.rank_delta.yesterday $metric $unix_seconds\n";
+
+	$metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{overall};
+	print "$base.rank_delta.overall $metric $unix_seconds\n";
+}
+
+#print Dumper($data);
+
+sub parse_statsday {
+	my ($statsday) = @_;
+
+	if ( $statsday =~ /^(\d+)-(\d+)-(\d+) (\d+):(\d+)$/ ) {
+		my $year = $1;
+		my $month = $2;
+		my $day = $3;
+		my $hour = $4;
+		my $minute = $5;
+
+		my $stats_date_object = DateTime->new(
+                        year      => $year,
+                        month     => $month,
+                        day       => $day,
+                        hour      => $hour,
+                        minute    => $minute,
+                        second    => 0,
+                        time_zone => 'UTC',
+                );
+
+	} else {
+		die "'$statsday' does not fit pattern";
+	}
+}
