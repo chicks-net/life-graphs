@@ -1,0 +1,33 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Mail::Box::Manager;
+
+my $gmail_dir = '/home/chicks/Documents/gmail/';
+
+my $mgr    = Mail::Box::Manager->new;
+my $folder = $mgr->open($gmail_dir);
+foreach my $label ( sort $folder->listSubFolders() ) {
+	$label =~ s/\.Starr/.Starred/;
+	print "$label:\n";
+	my $subfolder = $folder->openSubFolder($label);
+	unless (defined $subfolder) {
+		print "\tWARN: could not open subfolder '$label'\n";
+		next;
+	}
+	my @subsubfolders = $subfolder->listSubFolders();
+#	print "\tsubsub:" . join(' ', @subsubfolders) . "\n";
+	my $subsub = $subfolder->openSubFolder($subsubfolders[0]); # there seems to be only one
+	my @subsubsubfolders = $subsub->listSubFolders();
+#	print "\tsubsubsub:" . join(' ', @subsubsubfolders) . "\n";
+
+	foreach my $terminal (@subsubsubfolders) {
+		my $term_folder = $subsub->openSubFolder($terminal);
+		my @messages = $term_folder->messages();
+		my $msg_cnt = scalar @messages;
+	#	my $msg_cnt = $subfolder->nrMessages();
+		print "\t$terminal message count=$msg_cnt\n";
+#		print "\tsize=" . $subfolder->size() . "\n";
+	}
+}
