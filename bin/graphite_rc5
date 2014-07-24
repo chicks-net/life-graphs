@@ -28,6 +28,12 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 
 	$metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{overall};
 	print "$base.rank_delta.overall $metric $unix_seconds\n";
+
+	$metric = $data->{'rc5-72'}->{$day}->{rank}->{yesterday};
+	print "$base.rank.yesterday $metric $unix_seconds\n";
+
+	$metric = $data->{'rc5-72'}->{$day}->{rank}->{overall};
+	print "$base.rank.overall $metric $unix_seconds\n";
 }
 
 #print Dumper($data);
