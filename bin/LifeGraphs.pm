@@ -2,16 +2,16 @@ package LifeGraphs;
 
 use strict;
 use warnings;
+use English;
+use Carp;
 use Data::Dumper;    # just for debugging
-
-#use Time::HiRes qw(gettimeofday tv_interval usleep);
 use LWP::Simple qw(get);
 use HTML::TreeBuilder;
-
-#use DateTime;
 use JSON;
 use Storable qw(nstore retrieve);
 
+#use DateTime;
+#use Time::HiRes qw(gettimeofday tv_interval usleep);
 #use Readonly;
 
 use vars qw($VERSION @EXPORT @EXPORT_OK @ISA);
@@ -28,10 +28,10 @@ sub new {
 	my $class = shift;
 	my $self  = {};
 
-	die "this is useless, didn't you read the docs?";
+	croak "this is useless, didn't you read the docs?";
 
-	bless $self, $class;
-	return $self;
+	#bless $self, $class;
+	#return $self;
 }
 
 sub get_storable {
@@ -64,7 +64,7 @@ sub trim {
 
 sub url_tree {
 	my ($url) = @_;
-	my $raw_html = get($url) or die "failed on GET $url";
+	my $raw_html = get($url) or croak "failed on GET $url";
 	my $raw_length = length $raw_html;
 	print "got $raw_length bytes from $url\n";
 
@@ -75,31 +75,31 @@ sub url_tree {
 	return $tree;
 }
 
+# verify data directory
 sub verify_datadir {
-
-	# verify data directory
 	my $data_dir = $ENV{STATS_DIR};
-	die "no STATS_DIR defined" unless defined $data_dir;
-	die "$data_dir is not a directory" unless -d $data_dir;
-	chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
+	croak "no STATS_DIR defined" unless defined $data_dir;
+	croak "$data_dir is not a directory" unless -d $data_dir;
+	chdir($data_dir) or croak "somehow failed to chdir($data_dir): $ERRNO";
 	return $data_dir;
 }
 
 sub write_json {
 	my ( $filename, $data ) = @_;
-	my $json_fh;
-	open( $json_fh, ">", $filename ) or die "could not open $filename for write: $!";
 	my $json     = JSON->new->allow_nonref;
 	my $json_out = $json->pretty->canonical->encode($data);
+	my $json_fh;
+	open( $json_fh, ">", $filename ) or croak "could not open $filename for write: $ERRNO";
 	print $json_fh $json_out;
 	close($json_fh);
 	my $size = -s $filename;
 	print "wrote $filename ($size bytes)\n";
+	return $size;
 }
 
 sub write_storable {
 	my ( $filename, $data ) = @_;
-	nstore $data, $filename or die "writing $filename failed: $!";
+	nstore $data, $filename or croak "writing $filename failed: $ERRNO";
 	my $size = -s $filename;
 	print "wrote $filename ($size bytes)\n";
 	return $size;
@@ -151,6 +151,7 @@ GET a URL and return an HTML::TreeBuilder tree.
 =head3 verify_datadir
 
 Pulls STATS_DIR from the environment, verifies that it is a directory, and chdir's to it.  Returns the directory.
+verify_datadir() takes no arguments.
 
 =head3 write_json
 

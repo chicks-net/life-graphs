@@ -2,11 +2,16 @@
 
 use strict;
 use warnings;
+use Data::Dumper;
 use LifeGraphs;
 
 my $scraggly_string = '    foo bar     ';
-
 my $clean_string = trim($scraggly_string);
-
 print "scraggly='$scraggly_string' clean='$clean_string'\n";
 
+my $empty = get_storable('/nosuch.storable');
+print Dumper($empty);
+
+$ENV{'STATS_DIR'} = '/root';
+my $fail = verify_datadir();
+print "done\n";
