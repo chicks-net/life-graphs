@@ -30,6 +30,7 @@ git_check
 cd $STATS_DIR/../bin
 ./dnet
 ./steam
+./ebay
 
 # commit
 echo ""

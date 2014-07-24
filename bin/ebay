@@ -1,0 +1,79 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+#use diagnostics;
+use Carp;
+use Data::Dumper;
+use DateTime;
+use LifeGraphs;
+#use Readonly;
+
+# verify data directory
+my $data_dir = verify_datadir();
+
+# retrieve existing data
+my $ebay_storable_filename = 'ebay.storable';
+my $ebay_json_filename = 'ebay.json';
+my $data_out = get_storable("$data_dir/$ebay_storable_filename");
+
+my $stats_time = get_now_text();
+
+#
+# get content: ebay profile
+#
+my $ebay_user = 'cwhicks';
+my $profile_url = 'http://www.ebay.com/usr/' . $ebay_user;
+my $tree = url_tree($profile_url);
+
+# rating
+my $rating_span = $tree->look_down('_tag' => 'span', 'class' => 'mbg-l');
+my $rating_raw = $rating_span->as_text;
+if ($rating_raw =~ /\((\d+)/) {
+	my $rating = $1;
+	$data_out->{$stats_time}->{$ebay_user}->{rating} = $rating;
+} else {
+	croak "could not find rating in '$rating_raw'";
+}
+
+# percent positive
+my $positive_div = $tree->look_down('_tag' => 'div', 'class' => 'perctg');
+my $positive_raw = $positive_div->as_text;
+if ($positive_raw =~ /(\d+)% positive/) {
+	my $percentage = $1;
+	$data_out->{$stats_time}->{$ebay_user}->{feedback_percent_positive} = $percentage;
+} else {
+	croak "could not find percentage in '$positive_raw'";
+}
+
+# recent feedback ratings
+my @score_rows = $tree->look_down('_tag' => 'div', 'class' => 'score');
+foreach my $score (@score_rows) {
+	my $txt_span = $score->look_down('_tag' => 'span', 'class' => 'txt');
+	my $txt_raw = lc $txt_span->as_text;
+	$txt_raw .= '_feedback';
+	my $num_span = $score->look_down('_tag' => 'span', 'class' => 'num');
+	my $num_raw = $num_span->as_text;
+	$data_out->{$stats_time}->{$ebay_user}->{$txt_raw} = $num_raw;
+}
+
+# counts
+my @count_rows = $tree->look_down('_tag' => 'span', 'class' => 'hide countElem');
+foreach my $count (@count_rows) {
+	my $num_raw = lc $count->attr('contentString');
+	if ($num_raw =~ /(\d+).* (\w+)$/) {
+		my $txt = $2;
+		my $num = $1;
+		$data_out->{$stats_time}->{$ebay_user}->{$txt} = $num;
+	} else {
+		croak "could not find numbers in '$num_raw'";
+	}
+}
+
+if (0) {
+	print Dumper($data_out), "\n";
+	croak "how does it look?";
+}
+
+write_storable($ebay_storable_filename,$data_out);
+write_json($ebay_json_filename,$data_out);

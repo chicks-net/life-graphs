@@ -5,12 +5,12 @@ use warnings;
 use English;
 use Carp;
 use Data::Dumper;    # just for debugging
+use DateTime;
 use LWP::Simple qw(get);
 use HTML::TreeBuilder;
 use JSON;
 use Storable qw(nstore retrieve);
 
-#use DateTime;
 #use Time::HiRes qw(gettimeofday tv_interval usleep);
 #use Readonly;
 
@@ -20,7 +20,7 @@ $VERSION = "0.1";
 BEGIN {
 	require Exporter;
 	@ISA       = qw(Exporter);
-	@EXPORT    = qw(trim get_storable url_tree verify_datadir write_json write_storable);
+	@EXPORT    = qw(trim get_now_text get_storable url_tree verify_datadir write_json write_storable);
 	@EXPORT_OK = qw();
 }
 
@@ -32,6 +32,11 @@ sub new {
 
 	#bless $self, $class;
 	#return $self;
+}
+
+sub get_now_text {
+	my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
+	return $stats_time;
 }
 
 sub get_storable {

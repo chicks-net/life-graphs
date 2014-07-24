@@ -9,6 +9,7 @@ DATA COLLECTORS DONE
 * TECH: dnetc rc5-72
 * TECH: Steam profile
 * TECH: Steam game hours played
+* TECH: ebay
 
 TECH TODO
 ---------
