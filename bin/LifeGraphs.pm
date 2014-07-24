@@ -2,29 +2,31 @@ package LifeGraphs;
 
 use strict;
 use warnings;
-use Data::Dumper; # just for debugging
+use Data::Dumper;    # just for debugging
+
 #use Time::HiRes qw(gettimeofday tv_interval usleep);
 use LWP::Simple qw(get);
 use HTML::TreeBuilder;
+
 #use DateTime;
 use JSON;
 use Storable qw(nstore retrieve);
+
 #use Readonly;
 
 use vars qw($VERSION @EXPORT @EXPORT_OK @ISA);
 $VERSION = "0.1";
 
 BEGIN {
-    require Exporter;
-    @ISA = qw(Exporter);
-    @EXPORT = qw(trim get_storable url_tree verify_datadir write_json write_storable);
-    @EXPORT_OK = qw();
+	require Exporter;
+	@ISA       = qw(Exporter);
+	@EXPORT    = qw(trim get_storable url_tree verify_datadir write_json write_storable);
+	@EXPORT_OK = qw();
 }
 
 sub new {
 	my $class = shift;
-	my $self = {
-	};
+	my $self  = {};
 
 	die "this is useless, didn't you read the docs?";
 
@@ -33,18 +35,20 @@ sub new {
 }
 
 sub get_storable {
-	my ($filename,$quiet) = @_;
+	my ( $filename, $quiet ) = @_;
 	$quiet = 0 unless defined $quiet;
 
 	my $data;
 
-	if (-f $filename) {
+	if ( -f $filename ) {
 		print "starting with $filename\n" unless $quiet;
 		$data = retrieve $filename;
-	} else { 
+	} else {
 		warn "starting empty since there is no $filename\n";
 		$data = {};
 	}
+
+	return $data;
 }
 
 sub trim {
@@ -65,13 +69,14 @@ sub url_tree {
 	print "got $raw_length bytes from $url\n";
 
 	# parse
-	my $tree = HTML::TreeBuilder->new; # empty tree
+	my $tree = HTML::TreeBuilder->new;    # empty tree
 	$tree->parse_content($raw_html);
 
 	return $tree;
 }
 
 sub verify_datadir {
+
 	# verify data directory
 	my $data_dir = $ENV{STATS_DIR};
 	die "no STATS_DIR defined" unless defined $data_dir;
@@ -81,10 +86,10 @@ sub verify_datadir {
 }
 
 sub write_json {
-	my ($filename,$data) = @_;
+	my ( $filename, $data ) = @_;
 	my $json_fh;
-	open($json_fh,">",$filename) or die "could not open $filename for write: $!";
-	my $json = JSON->new->allow_nonref;
+	open( $json_fh, ">", $filename ) or die "could not open $filename for write: $!";
+	my $json     = JSON->new->allow_nonref;
 	my $json_out = $json->pretty->canonical->encode($data);
 	print $json_fh $json_out;
 	close($json_fh);
@@ -93,8 +98,8 @@ sub write_json {
 }
 
 sub write_storable {
-	my ($filename,$data) = @_;
-	nstore $data,$filename or die "writing $filename failed: $!";
+	my ( $filename, $data ) = @_;
+	nstore $data, $filename or die "writing $filename failed: $!";
 	my $size = -s $filename;
 	print "wrote $filename ($size bytes)\n";
 	return $size;
