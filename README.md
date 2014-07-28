@@ -17,6 +17,7 @@ TECH TODO
 * pick a display system
 * write more code
 * pull credentials from pass(1)
+* interactive storable editor instead of ad-hoccery like `edit_storable`
 
 GRAPHS TODO
 -----------
@@ -52,3 +53,9 @@ For each of the various sources of email it would be nice to have things like:
 * read emails per hour and day (how do you do that with alpine?)
 * unread emails
 * total emails
+
+Inspirations
+------------
+
+* Jehiah's annual reports are beautiful.  For instance: [Jehiah 13](http://jehiah.cz/one-three/)
+* Of course Stephen Wolfram was a few years ahead with [The Personal Analytics of My Life](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/).
