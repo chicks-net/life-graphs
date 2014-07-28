@@ -20,7 +20,7 @@ $VERSION = "0.1";
 BEGIN {
 	require Exporter;
 	@ISA       = qw(Exporter);
-	@EXPORT    = qw(trim get_now_text get_storable url_tree verify_datadir write_json write_storable);
+	@EXPORT    = qw(get_now_text get_storable parse_statsday trim url_tree verify_datadir write_json write_storable);
 	@EXPORT_OK = qw();
 }
 
@@ -54,6 +54,32 @@ sub get_storable {
 	}
 
 	return $data;
+}
+
+sub parse_statsday {
+	my ($statsday) = @_;
+
+	if ( $statsday =~ /^(\d+)-(\d+)-(\d+) (\d+):(\d+)$/ ) {
+		my $year = $1;
+		my $month = $2;
+		my $day = $3;
+		my $hour = $4;
+		my $minute = $5;
+
+		my $stats_date_object = DateTime->new(
+                        year      => $year,
+                        month     => $month,
+                        day       => $day,
+                        hour      => $hour,
+                        minute    => $minute,
+                        second    => 0,
+                        time_zone => 'UTC',
+                );
+
+		return $stats_date_object;
+	} else {
+		die "'$statsday' does not fit pattern";
+	}
 }
 
 sub trim {
@@ -144,6 +170,10 @@ Create a new object.  There's no point really.
 =head3 get_storable
 
 Load a storable and return a reference.  Return an empty hash if the storable file does not exist;
+
+=head3 parse_statsday
+
+Take a <code>YYYY-MM-DD HH:MM</code> timestamp like <code>'2014-07-27 02:13'</code> and return a <code>DateTime</code> object.
 
 =head3 trim
 

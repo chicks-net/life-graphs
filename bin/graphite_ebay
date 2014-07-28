@@ -2,11 +2,9 @@
 
 use strict;
 use warnings;
-#use diagnostics;
 use LifeGraphs;
 use Data::Dumper;
 use DateTime;
-#use Readonly;
 
 # verify data directory
 my $data_dir = verify_datadir();
@@ -26,31 +24,4 @@ foreach my $day ( sort keys %{$data} ) {
 
 	my $metric = $data->{$day}->{$user}->{rating};
 	print "$base.$user.rating $metric $unix_seconds\n";
-}
-
-#print Dumper($data);
-
-sub parse_statsday {
-	my ($statsday) = @_;
-
-	if ( $statsday =~ /^(\d+)-(\d+)-(\d+) (\d+):(\d+)$/ ) {
-		my $year = $1;
-		my $month = $2;
-		my $day = $3;
-		my $hour = $4;
-		my $minute = $5;
-
-		my $stats_date_object = DateTime->new(
-                        year      => $year,
-                        month     => $month,
-                        day       => $day,
-                        hour      => $hour,
-                        minute    => $minute,
-                        second    => 0,
-                        time_zone => 'UTC',
-                );
-
-	} else {
-		die "'$statsday' does not fit pattern";
-	}
 }
