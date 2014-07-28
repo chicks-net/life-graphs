@@ -1,0 +1,56 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+#use diagnostics;
+use LifeGraphs;
+use Data::Dumper;
+use DateTime;
+#use Readonly;
+
+# verify data directory
+my $data_dir = verify_datadir();
+
+# retrieve existing data
+my $ebay_storable_filename = 'ebay.storable';
+my $data = get_storable("$data_dir/$ebay_storable_filename",1);
+
+my $base = 'life.ebay';
+my $user = 'cwhicks';
+
+foreach my $day ( sort keys %{$data} ) { 
+	next unless $day =~ /^\d+-\d+-\d+/;
+	my $day_obj = parse_statsday($day);
+	my $unix_seconds = $day_obj->epoch();
+	#print "$day $day_obj $unix_seconds\n";
+
+	my $metric = $data->{$day}->{$user}->{rating};
+	print "$base.$user.rating $metric $unix_seconds\n";
+}
+
+#print Dumper($data);
+
+sub parse_statsday {
+	my ($statsday) = @_;
+
+	if ( $statsday =~ /^(\d+)-(\d+)-(\d+) (\d+):(\d+)$/ ) {
+		my $year = $1;
+		my $month = $2;
+		my $day = $3;
+		my $hour = $4;
+		my $minute = $5;
+
+		my $stats_date_object = DateTime->new(
+                        year      => $year,
+                        month     => $month,
+                        day       => $day,
+                        hour      => $hour,
+                        minute    => $minute,
+                        second    => 0,
+                        time_zone => 'UTC',
+                );
+
+	} else {
+		die "'$statsday' does not fit pattern";
+	}
+}
