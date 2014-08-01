@@ -106,9 +106,10 @@ foreach my $row (@rows) {
 # get overall game details
 #
 
-my $games_url = 'http://steamcommunity.com/profiles/76561198037662755/games?tab=all';
+my $games_url = $profile_url . '/games?tab=all';
 $tree = url_tree($games_url);
 
+my ($game_count,$achievement_game_count);
 @rows = $tree->look_down(
 		'_tag' => 'script',
 );
@@ -118,9 +119,10 @@ foreach my $row (@rows) {
 		my $raw_json = $1;
 		my $json = JSON->new->allow_nonref; # no html fiddling, brilliant!
 		my $games = $json->decode($raw_json);
-#		print Dumper($games);
+#		print Dumper($games); die "foo";
 		foreach my $game (@$games) {
 			my $game_name = $game->{'name'};
+			$game_count++;
 
 			my $hours_forever = $game->{'hours_forever'};
 			if ( defined $hours_forever ) {
@@ -139,22 +141,76 @@ foreach my $row (@rows) {
 			if ( defined $stats_links ) {
 				my @keys = keys %$stats_links;
 #				print Dumper($stats_links),"\n";
+				if ( $stats_links->{achievements} ) {
+					#print "$game_name has achievements\n";
+					my $friendly_url = $game->{'friendlyURL'};
+					game_achievements($game_name,$friendly_url);
+					$achievement_game_count++;
+				} else {
+					#print "$game_name does not have achievements\n";
+				}
 			} else {
 				print "no stats links for $game_name\n";
 			}
 		}
 	}
 }
+print "$achievement_game_count games have achievements out of $game_count games\n";
+
+sub game_achievements {
+	my ($game_name,$friendly_url) = @_;
+
+	my $achievements_url = "$profile_url/stats/$friendly_url/?tab=achievements";
+	my $tree = url_tree($achievements_url);
+
+	my $achievements_earned = 0;
+	my $achievements_total = 0;
+
+	my $summary_div = $tree->look_down(
+			'_tag' => 'div',
+			'id' => 'topSummaryAchievements',
+	);
+	my $summary_raw;
+	if ( defined $summary_div ) {
+		$summary_raw = $summary_div->as_text;
+	} else {
+		# TF2 is special
+		my $summary_div = $tree->look_down(
+				'_tag' => 'div',
+				'class' => 'achievementStatusText',
+		);
+		if ( defined $summary_div ) {
+			$summary_raw = $summary_div->as_text;
+		} else {
+			print "$game_name has no achievements I can find\n";
+			return;
+		}
+	}
+	if ( $summary_raw =~ /(\d+) of (\d+)/ ) {
+		$achievements_earned = $1;
+		$achievements_total = $2;
+		#print "$game_name: $1/$2\n";
+	} else {
+		die "could not find achievement info for $game_name in '$summary_raw' "
+	}
+
+	$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'achievements_current'} = $achievements_earned;
+	$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'achievements_total'} = $achievements_total;
+
+#	print "$game_name: $achievements_earned/$achievements_total\n";
+}
+
+
 
 #
-# TODO: get achievement stats
+# TODO: get achievement details
 #
 
 #my $row_count = scalar @rows;
 #print "found $row_count rows\n";
 
 if (0) {
-	print Dumper($data_out), "\n";
+	print Dumper($data_out->{$stats_time}), "\n";
 	die "how does it look?";
 }
 
