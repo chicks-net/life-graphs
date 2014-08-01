@@ -5543,5 +5543,267 @@
          }
       },
       "recent_game_activity" : "30.2 hours past 2 weeks"
+   },
+   "2014-08-01 02:58" : {
+      "Achievements" : "462",
+      "Avg. Game Completion Rate" : "30%",
+      "Badges Earned" : "20",
+      "Game Cards" : "66",
+      "Games" : "116",
+      "Perfect Games" : "1",
+      "Reviews" : "2",
+      "Screenshots" : "16",
+      "game_details" : {
+         "Anna - Extended Edition" : {
+            "hrs_total" : "1.5",
+            "last_played" : "1384675774"
+         },
+         "Anodyne" : {
+            "hrs_total" : "0.3",
+            "last_played" : "1380632340"
+         },
+         "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
+            "hrs_total" : "6.6",
+            "last_played" : "1383450695"
+         },
+         "Bad Hotel" : {
+            "hrs_total" : "13.9",
+            "last_played" : "1383448032"
+         },
+         "Cities in Motion" : {
+            "hrs_total" : "7.9",
+            "last_played" : "1306047600"
+         },
+         "Cities in Motion 2" : {
+            "hrs_total" : "8.1",
+            "last_played" : "1380456159"
+         },
+         "Closure" : {
+            "last_played" : "1383450864"
+         },
+         "Conquest of Elysium 3" : {
+            "hrs_total" : "1.5",
+            "last_played" : "1390093770"
+         },
+         "Counter-Strike: Global Offensive" : {
+            "hrs_total" : "0.9",
+            "last_played" : "1380389980"
+         },
+         "Cube & Star: An Arbitrary Love" : {
+            "hrs_total" : "0.5",
+            "last_played" : "1393999639"
+         },
+         "Cubemen" : {
+            "hrs_total" : "0.7",
+            "last_played" : "1390072201"
+         },
+         "Day of Defeat: Source" : {
+            "hrs_total" : "0.1",
+            "last_played" : "1380261311"
+         },
+         "Dota 2" : {
+            "hrs_total" : "15.1",
+            "last_played" : "1387078785"
+         },
+         "FTL: Faster Than Light" : {
+            "hrs_total" : "1.5",
+            "last_played" : "1380425764"
+         },
+         "Faerie Solitaire" : {
+            "achievements_current" : "27",
+            "achievements_total" : "30",
+            "hrs_total" : "28",
+            "last_played" : "1405255661",
+            "recent_achievements" : [
+               "Millionaire",
+               "You Win!",
+               "Stage 8 Clear",
+               "Super Powers",
+               "Carder"
+            ]
+         },
+         "Foul Play" : {
+            "hrs_total" : "0.8",
+            "last_played" : "1383284084"
+         },
+         "Free to Play" : {
+            "hrs_total" : "1.6",
+            "last_played" : "1396126192"
+         },
+         "Frozen Synapse" : {
+            "hrs_total" : "1.1",
+            "last_played" : "1398481048"
+         },
+         "Galcon Legends" : {
+            "hrs_total" : "0.3",
+            "last_played" : "1390070542"
+         },
+         "Garry's Mod" : {
+            "hrs_total" : "0.2",
+            "last_played" : "1381896562"
+         },
+         "Grand Theft Auto" : {
+            "last_played" : "1329206400"
+         },
+         "Grand Theft Auto III" : {
+            "hrs_total" : "4.6",
+            "last_played" : "1329811200"
+         },
+         "Gratuitous Space Battles" : {
+            "hrs_total" : "3.5",
+            "last_played" : "86400"
+         },
+         "Half-Life 2" : {
+            "hrs_total" : "10.3",
+            "last_played" : "1396932298"
+         },
+         "Hexcells" : {
+            "hrs_total" : "5.3",
+            "last_played" : "1394317964"
+         },
+         "Hexcells Plus" : {
+            "hrs_total" : "15.1",
+            "last_played" : "1394511064"
+         },
+         "Jack Lumber" : {
+            "hrs_total" : "0.7",
+            "last_played" : "1380169875"
+         },
+         "Left 4 Dead 2" : {
+            "hrs_total" : "1.9",
+            "last_played" : "1403654974"
+         },
+         "Lume" : {
+            "hrs_total" : "0.7",
+            "last_played" : "1389565220"
+         },
+         "Millie" : {
+            "hrs_total" : "0.4",
+            "last_played" : "1398027378"
+         },
+         "MouseCraft" : {
+            "hrs_total" : "1.1",
+            "last_played" : "1403145949"
+         },
+         "Not The Robots" : {
+            "hrs_total" : "0.1",
+            "last_played" : "1394307374"
+         },
+         "Osmos" : {
+            "hrs_total" : "2.9",
+            "last_played" : "1358841600"
+         },
+         "POSTAL" : {
+            "hrs_total" : "0.6",
+            "last_played" : "1386457674"
+         },
+         "PlanetSide 2" : {
+            "hrs_total" : "1.7",
+            "last_played" : "1355126400"
+         },
+         "Planetary Annihilation" : {
+            "hrs_total" : "1.7",
+            "last_played" : "1393723279"
+         },
+         "Plants vs. Zombies: Game of the Year" : {
+            "hrs_total" : "27",
+            "last_played" : "1351407600"
+         },
+         "Poker Night at the Inventory" : {
+            "hrs_total" : "3.8",
+            "last_played" : "1350284400"
+         },
+         "Prison Architect" : {
+            "hrs_total" : "70",
+            "last_played" : "1403386114"
+         },
+         "Puddle" : {
+            "hrs_total" : "1.2",
+            "last_played" : "1380164610"
+         },
+         "Puzzle Agent" : {
+            "hrs_total" : "2.1",
+            "last_played" : "86400"
+         },
+         "Ricochet" : {
+            "hrs_total" : "0.1",
+            "last_played" : "1397716557"
+         },
+         "RollerCoaster Tycoon 3: Platinum!" : {
+            "hrs_total" : "0.9",
+            "last_played" : "1329465600"
+         },
+         "Sanctum" : {
+            "hrs_total" : "4.5",
+            "last_played" : "1396118479"
+         },
+         "Sentinel" : {
+            "hrs_total" : "2.4",
+            "last_played" : "1398648215"
+         },
+         "Shufflepuck Cantina Deluxe" : {
+            "hrs_total" : "56",
+            "last_played" : "1394666396"
+         },
+         "Sid Meier's Civilization IV" : {
+            "hrs_total" : "70",
+            "last_played" : "86400"
+         },
+         "Sparkle 2 Evo" : {
+            "hrs_total" : "0.3",
+            "last_played" : "1384654602"
+         },
+         "Team Fortress 2" : {
+            "achievements_current" : "190",
+            "achievements_total" : "506",
+            "hrs_total" : "570",
+            "last_played" : "1406851632",
+            "recent_achievements" : [
+               "Stalin the Kart",
+               "Crime and Punishment",
+               "Icing on the Cake",
+               "Raid Array",
+               "Snakewater Salesman"
+            ]
+         },
+         "Tomb Raider" : {
+            "achievements_current" : "20",
+            "achievements_total" : "50",
+            "hrs_total" : "30",
+            "last_played" : "1405277302",
+            "recent_achievements" : [
+               "Unfinished Business ",
+               "Bag Full O' Cache ",
+               "Now We're Getting Serious ",
+               "Archaeologist ",
+               "Historian "
+            ]
+         },
+         "Tower Wars" : {
+            "hrs_total" : "5.0",
+            "last_played" : "1381724721"
+         },
+         "Uplink" : {
+            "hrs_total" : "0.6",
+            "last_played" : "1383453374"
+         },
+         "Worms Reloaded" : {
+            "hrs_total" : "0.5",
+            "last_played" : "1403474322"
+         },
+         "XCOM: Enemy Unknown" : {
+            "hrs_total" : "50",
+            "last_played" : "1394918041"
+         },
+         "Zen Bound® 2" : {
+            "hrs_total" : "6.4",
+            "last_played" : "1402630749"
+         },
+         "rymdkapsel" : {
+            "hrs_total" : "8.9",
+            "last_played" : "1393740527"
+         }
+      },
+      "recent_game_activity" : "27.5 hours past 2 weeks"
    }
 }
