@@ -95,7 +95,18 @@ sub trim {
 
 sub url_tree {
 	my ($url) = @_;
-	my $raw_html = get($url) or croak "failed on GET $url";
+
+	my $retries = 5;
+	my $raw_html;
+	while ($retries) {
+		$raw_html = get($url);
+		last if defined $raw_html;
+		my $sleep_secs = int(rand(20)*(6-$retries));
+		print "\tsleeping for $sleep_secs seconds on failed GET $url\n";
+		sleep($sleep_secs);
+		$retries--;
+	}
+	croak "failed on GET $url" unless defined $raw_html;
 	my $raw_length = length $raw_html;
 	print "got $raw_length bytes from $url\n";
 

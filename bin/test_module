@@ -12,6 +12,4 @@ print "scraggly='$scraggly_string' clean='$clean_string'\n";
 my $empty = get_storable('/nosuch.storable');
 print Dumper($empty);
 
-$ENV{'STATS_DIR'} = '/root';
-my $fail = verify_datadir();
-print "done\n";
+my $fail = url_tree("http://www.fini.net/test");
