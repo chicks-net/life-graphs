@@ -59,3 +59,8 @@ Inspirations
 
 * Jehiah's annual reports are beautiful.  For instance: [Jehiah 13](http://jehiah.cz/one-three/)
 * Of course Stephen Wolfram was a few years ahead with [The Personal Analytics of My Life](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/).
+
+Informative
+-----------
+
+* [10 things I learned deployed graphite](http://kevinmccarthy.org/blog/2013/07/18/10-things-i-learned-deploying-graphite/) helped me not relearn those same things.
