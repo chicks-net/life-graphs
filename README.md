@@ -59,6 +59,7 @@ Inspirations
 
 * Jehiah's annual reports are beautiful.  For instance: [Jehiah 13](http://jehiah.cz/one-three/)
 * Of course Stephen Wolfram was a few years ahead with [The Personal Analytics of My Life](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/).
+* [The Feltron Annual Report](http://feltron.com/ar12_01.html) is a beautiful presentation of extensive data
 
 Informative
 -----------
