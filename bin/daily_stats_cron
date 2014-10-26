@@ -28,9 +28,14 @@ git_check
 
 # run jobs
 cd $STATS_DIR/../bin
-./dnet
-./steam
-./ebay
+./get_dnet
+./get_steam
+./get_ebay
+
+echo -e "\ncharts:"
+./chart_ebay
+./chart_rc5
+./chart_steam
 
 # commit
 echo ""
