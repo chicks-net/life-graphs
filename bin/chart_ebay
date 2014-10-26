@@ -1,0 +1,48 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Carp;
+use English;
+use LifeGraphs;
+use Data::Dumper;
+use DateTime;
+use Chart::Strip;
+
+# verify data directory
+my $data_dir = verify_datadir();
+chdir("$data_dir/../dash") or croak "couldn't get to dash directory: $ERRNO";
+
+# retrieve existing data
+my $ebay_storable_filename = 'ebay.storable';
+my $data = get_storable("$data_dir/$ebay_storable_filename",1);
+
+my $base = 'life.ebay';
+my $user = 'cwhicks';
+
+my @dataset;
+foreach my $day ( sort keys %{$data} ) { 
+	next unless $day =~ /^\d+-\d+-\d+/;
+	my $day_obj = parse_statsday($day);
+	my $unix_seconds = $day_obj->epoch();
+	#print "$day $day_obj $unix_seconds\n";
+
+	my $metric = $data->{$day}->{$user}->{rating};
+	#print "$base.$user.rating $metric $unix_seconds\n";
+
+	my $data_item = {
+		time => $unix_seconds,
+		value => $metric,
+	};
+	push( @dataset, $data_item );
+
+}
+
+my $chart = Chart::Strip->new( title => "$user ebay rating" );
+$chart->add_data(\@dataset, { style => 'line' });
+my $fh;
+my $filename = "ebay_$user.png";
+open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
+print $fh $chart->png();
+close $fh;
+print "wrote dash/$filename\n";
