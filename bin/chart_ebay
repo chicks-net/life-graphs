@@ -38,8 +38,8 @@ foreach my $day ( sort keys %{$data} ) {
 
 }
 
-my $chart = Chart::Strip->new( title => "$user ebay rating" );
-$chart->add_data(\@dataset, { style => 'line' });
+my $chart = Chart::Strip->new( title => "$user ebay rating", width => 800, height => 300 );
+$chart->add_data(\@dataset, { style => 'line', color => '7aa818' });
 my $fh;
 my $filename = "ebay_$user.png";
 open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
