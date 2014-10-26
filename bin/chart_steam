@@ -23,6 +23,7 @@ my @data_game_cards;
 my @data_games;
 my @data_perfect_games;
 my @data_reviews;
+my @data_screenshots;
 my @data_hours_2wks;
 
 foreach my $day ( sort keys %{ $data } ) { 
@@ -55,6 +56,23 @@ foreach my $day ( sort keys %{ $data } ) {
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_hours_2wks, $data_item);
 
+
+	$metric = $data->{$day}->{'Reviews'};
+	#print "Reviews: $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_reviews, $data_item);
+
+	$metric = $data->{$day}->{'Screenshots'};
+	#print "Screenshots: $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_screenshots, $data_item);
+
+	$metric = $data->{$day}->{'Perfect Games'};
+	#print "Screenshots: $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_perfect_games, $data_item);
+
+
 }
 
 
@@ -84,6 +102,18 @@ $chart = Chart::Strip->new( title => "Steam Time", width => 800 );
 $chart->add_data(\@data_hours_2wks, { style => 'line', label => 'hours, 2 weeks avg', color => '7e4fe2' });
 
 $filename = "steam_time.png";
+open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
+print $fh $chart->png();
+close $fh or croak "could not close($filename): $ERRNO";
+print "wrote Dash/$filename\n";
+
+
+$chart = Chart::Strip->new( title => "Steam Community", width => 800 );
+$chart->add_data(\@data_screenshots, { style => 'line', label => 'screenshots', color => '7e4fe2' });
+$chart->add_data(\@data_reviews, { style => 'line', label => 'reviews', color => '7aa8a8' });
+$chart->add_data(\@data_perfect_games, { style => 'line', label => 'perfect games', color => '7aa8a8' });
+
+$filename = "steam_community.png";
 open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
 print $fh $chart->png();
 close $fh or croak "could not close($filename): $ERRNO";
