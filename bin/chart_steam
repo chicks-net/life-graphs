@@ -1,0 +1,69 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Carp;
+use English;
+use LifeGraphs;
+use Data::Dumper;
+use DateTime;
+use Chart::Strip;
+
+# verify data directory
+my $data_dir = verify_datadir();
+chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
+
+# retrieve existing data
+my $steam_storable_filename = 'steam.storable';
+my $data = get_storable("$data_dir/$steam_storable_filename",1);
+
+my @data_achievements;
+my @data_badges;
+my @data_game_cards;
+my @data_games;
+my @data_perfect_games;
+my @data_reviews;
+my @data_hours_2wks;
+
+foreach my $day ( sort keys %{ $data } ) { 
+	next unless $day =~ /^\d+-\d+-\d+/;
+	my $day_obj = parse_statsday($day);
+	my $unix_seconds = $day_obj->epoch();
+	#die "$day $day_obj $unix_seconds\n";
+
+	my $metric = $data->{$day}->{Achievements};
+	#print "Achievements: $metric $unix_seconds\n";
+	my $data_item = { time => $unix_seconds, value => $metric };
+	push (@data_achievements, $data_item);
+
+	$metric = $data->{$day}->{'Badges Earned'};
+	#print "Badges: $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_badges, $data_item);
+
+	$metric = $data->{$day}->{'Game Cards'};
+	#print "Game cards: $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_game_cards, $data_item);
+
+}
+
+my $chart = Chart::Strip->new( title => "Steam Achievements", width => 800, height => 300 );
+$chart->add_data(\@data_achievements, { style => 'line', label => 'Overall', color => '7e4fe2' });
+
+my $fh;
+my $filename = "steam_achievements.png";
+open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
+print $fh $chart->png();
+close $fh or croak "could not close($filename): $ERRNO";
+print "wrote Dash/$filename\n";
+
+$chart = Chart::Strip->new( title => "Steam Badges", width => 800 );
+$chart->add_data(\@data_badges, { style => 'line', label => 'Badges', color => '7e4fe2' });
+$chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => '7aa8a8' });
+
+$filename = "steam_badges.png";
+open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
+print $fh $chart->png();
+close $fh or croak "could not close($filename): $ERRNO";
+print "wrote Dash/$filename\n";
