@@ -11,12 +11,19 @@ DATA COLLECTORS DONE
 * TECH: Steam game hours played
 * TECH: ebay
 
+GRAPHS DONE
+-----------
+
+* ebay
+* Steam
+* rc5
+
 TECH TODO
 ---------
 
 * pick a display system
 * write more code
-* pull credentials from pass(1)
+* pull credentials from LastPass
 * interactive storable editor instead of ad-hoccery like `edit_storable`
 
 GRAPHS TODO
@@ -24,9 +31,9 @@ GRAPHS TODO
 
 There are many graphs that I want to make, but these are data that are ready to graph:
 
-* TECH: dnetc rc5-72
-* TECH: Steam profile
-* TECH: Steam game hours played
+* ogr
+* rc5: add blocks per/day to existing chart.  It may need a new chart.
+* Steam: a stacked chart of hours per game
 
 DATA COLLECTORS TODO
 --------------------
