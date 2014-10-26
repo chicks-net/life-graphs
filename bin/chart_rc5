@@ -1,0 +1,73 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Carp;
+use English;
+use LifeGraphs;
+use Data::Dumper;
+use DateTime;
+use Chart::Strip;
+
+# verify data directory
+my $data_dir = verify_datadir();
+chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
+
+# retrieve existing data
+my $dnet_storable_filename = 'dnet.storable';
+my $data = get_storable("$data_dir/$dnet_storable_filename",1);
+
+my $base = 'life.dnet.rc5-72';
+
+my @data_rank_yesterday;
+my @data_rank_overall;
+my @data_delta_yesterday;
+my @data_delta_overall;
+
+foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) { 
+	next unless $day =~ /^\d+-\d+-\d+/;
+	my $day_obj = parse_statsday($day);
+	my $unix_seconds = $day_obj->epoch();
+	#print "$day $day_obj $unix_seconds\n";
+
+	my $metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{yesterday};
+#	print "$base.rank_delta.yesterday $metric $unix_seconds\n";
+	my $data_item = { time => $unix_seconds, value => $metric };
+	push (@data_rank_yesterday, $data_item);
+
+	$metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{overall};
+#	print "$base.rank_delta.overall $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_delta_overall, $data_item);
+
+	$metric = $data->{'rc5-72'}->{$day}->{rank}->{yesterday};
+#	print "$base.rank.yesterday $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_rank_yesterday, $data_item);
+
+	$metric = $data->{'rc5-72'}->{$day}->{rank}->{overall};
+#	print "$base.rank.overall $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_rank_overall, $data_item);
+}
+
+my $chart = Chart::Strip->new( title => "chicks rc5-72 rank" );
+$chart->add_data(\@data_rank_overall, { style => 'line', label => 'Overall' });
+$chart->add_data(\@data_rank_yesterday, { style => 'line', label => 'Yesterday' });
+
+my $fh;
+my $filename = "rank_rc5-72_chicks.png";
+open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
+print $fh $chart->png();
+close $fh or croak "could not close($filename): $ERRNO";
+print "wrote Dash/$filename\n";
+
+$chart = Chart::Strip->new( title => "chicks rc5-72 rank delta" );
+$chart->add_data(\@data_delta_overall, { style => 'line', label => 'Overall' });
+$chart->add_data(\@data_delta_yesterday, { style => 'line', label => 'Yesterday' });
+
+$filename = "rank_delta_rc5-72_chicks.png";
+open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
+print $fh $chart->png();
+close $fh or croak "could not close($filename): $ERRNO";
+print "wrote Dash/$filename\n";
