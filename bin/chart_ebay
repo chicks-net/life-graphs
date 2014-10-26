@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 
-# thanks to http://www.preshweb.co.uk/2011/11/graphing-time-based-data-in-perl/ for
-# helping get things rolling with Chart::Strip
-
 use strict;
 use warnings;
 use Carp;
