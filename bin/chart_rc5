@@ -53,7 +53,7 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 
 my $chart = Chart::Strip->new( title => "chicks rc5-72 rank" );
 $chart->add_data(\@data_rank_overall, { style => 'line', label => 'Overall' });
-$chart->add_data(\@data_rank_yesterday, { style => 'line', label => 'Yesterday' });
+$chart->add_data(\@data_rank_yesterday, { style => 'line', label => 'Yesterday', color => '0000FF' });
 
 my $fh;
 my $filename = "rank_rc5-72_chicks.png";
@@ -63,8 +63,8 @@ close $fh or croak "could not close($filename): $ERRNO";
 print "wrote Dash/$filename\n";
 
 $chart = Chart::Strip->new( title => "chicks rc5-72 rank delta" );
-$chart->add_data(\@data_delta_overall, { style => 'line', label => 'Overall' });
-$chart->add_data(\@data_delta_yesterday, { style => 'line', label => 'Yesterday' });
+$chart->add_data(\@data_delta_overall, { style => 'line', label => 'Overall', color => 'FF0000' });
+$chart->add_data(\@data_delta_yesterday, { style => 'line', label => 'Yesterday', color => '0000FF' });
 
 $filename = "rank_delta_rc5-72_chicks.png";
 open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
