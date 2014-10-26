@@ -33,7 +33,7 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 	my $metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{yesterday};
 #	print "$base.rank_delta.yesterday $metric $unix_seconds\n";
 	my $data_item = { time => $unix_seconds, value => $metric };
-	push (@data_rank_yesterday, $data_item);
+	push (@data_delta_yesterday, $data_item);
 
 	$metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{overall};
 #	print "$base.rank_delta.overall $metric $unix_seconds\n";
