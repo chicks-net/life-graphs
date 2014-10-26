@@ -11,7 +11,7 @@ use Chart::Strip;
 
 # verify data directory
 my $data_dir = verify_datadir();
-chdir("$data_dir/../dash") or croak "couldn't get to dash directory: $ERRNO";
+chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
 
 # retrieve existing data
 my $ebay_storable_filename = 'ebay.storable';
@@ -45,4 +45,4 @@ my $filename = "ebay_$user.png";
 open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
 print $fh $chart->png();
 close $fh;
-print "wrote dash/$filename\n";
+print "wrote Dash/$filename\n";
