@@ -78,7 +78,7 @@ foreach my $day ( sort keys %{ $data } ) {
 
 my $chart = Chart::Strip->new( title => "Steam Achievements", width => 800, height => 300 );
 $chart->add_data(\@data_achievements, { style => 'line', label => 'Total Achievements', color => '7e4fe2' });
-$chart->add_data(\@data_perfect_games, { style => 'line', label => 'perfect games', color => 'cf0000' });
+$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => '7aa8a8' });
 
 my $fh;
 my $filename = "steam_achievements.png";
@@ -112,7 +112,7 @@ print "wrote Dash/$filename\n";
 $chart = Chart::Strip->new( title => "Steam Community", width => 800 );
 $chart->add_data(\@data_screenshots, { style => 'line', label => 'screenshots', color => '7e4fe2' });
 $chart->add_data(\@data_reviews, { style => 'line', label => 'reviews', color => '7aa8a8' });
-$chart->add_data(\@data_perfect_games, { style => 'line', label => 'perfect games', color => 'cf0000' });
+#$chart->add_data(\@data_perfect_games, { style => 'line', label => 'perfect games', color => 'cf0000' });
 
 $filename = "steam_community.png";
 open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
