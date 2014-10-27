@@ -39,7 +39,7 @@ echo -e "\ncharts:"
 
 # commit
 echo ""
-git add ../data
+git add ../data ../Dash
 git commit -m 'daily cron update'
 git push
 git status
