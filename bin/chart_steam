@@ -25,6 +25,7 @@ my @data_perfect_games;
 my @data_reviews;
 my @data_screenshots;
 my @data_hours_2wks;
+my @data_completion_rate;
 
 foreach my $day ( sort keys %{ $data } ) { 
 	next unless $day =~ /^\d+-\d+-\d+/;
@@ -37,6 +38,18 @@ foreach my $day ( sort keys %{ $data } ) {
 	#print "Achievements: $metric $unix_seconds\n";
 	my $data_item = { time => $unix_seconds, value => $metric };
 	push (@data_achievements, $data_item);
+
+	$metric = $data->{$day}->{'Perfect Games'};
+	#print "Perfect Games: $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_perfect_games, $data_item);
+
+	$metric = $data->{$day}->{'Avg. Game Completion Rate'};
+	#print "Badges: $metric $unix_seconds\n";
+	$metric =~ s/\%$//; # strip trailing %
+	$metric = $metric * 100;
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_badges, $data_item);
 
 
 	$metric = $data->{$day}->{'Badges Earned'};
@@ -67,11 +80,6 @@ foreach my $day ( sort keys %{ $data } ) {
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_screenshots, $data_item);
 
-	$metric = $data->{$day}->{'Perfect Games'};
-	#print "Screenshots: $metric $unix_seconds\n";
-	$data_item = { time => $unix_seconds, value => $metric };
-	push (@data_perfect_games, $data_item);
-
 
 }
 
@@ -79,6 +87,7 @@ foreach my $day ( sort keys %{ $data } ) {
 my $chart = Chart::Strip->new( title => "Steam Achievements", width => 800, height => 300 );
 $chart->add_data(\@data_achievements, { style => 'line', label => 'Total Achievements', color => '7e4fe2' });
 $chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => '7aa8a8' });
+$chart->add_data(\@data_completion_rate, { style => 'line', label => 'Avg. Completion Percentage * 100', color => '0000ff' });
 
 my $fh;
 my $filename = "steam_achievements.png";
