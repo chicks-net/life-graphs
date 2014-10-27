@@ -49,7 +49,7 @@ foreach my $day ( sort keys %{ $data } ) {
 	$metric =~ s/\%$//; # strip trailing %
 	$metric = $metric * 100;
 	$data_item = { time => $unix_seconds, value => $metric };
-	push (@data_badges, $data_item);
+	push (@data_completion_rate, $data_item);
 
 
 	$metric = $data->{$day}->{'Badges Earned'};
