@@ -45,9 +45,9 @@ foreach my $day ( sort keys %{ $data } ) {
 	push (@data_perfect_games, $data_item);
 
 	$metric = $data->{$day}->{'Avg. Game Completion Rate'};
-	#print "Badges: $metric $unix_seconds\n";
 	$metric =~ s/\%$//; # strip trailing %
 	$metric = $metric * 10;
+	#print "Avg Completion Rate: $metric $unix_seconds\n";
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_completion_rate, $data_item);
 
