@@ -77,7 +77,8 @@ foreach my $day ( sort keys %{ $data } ) {
 
 
 my $chart = Chart::Strip->new( title => "Steam Achievements", width => 800, height => 300 );
-$chart->add_data(\@data_achievements, { style => 'line', label => 'Overall', color => '7e4fe2' });
+$chart->add_data(\@data_achievements, { style => 'line', label => 'Total Achievements', color => '7e4fe2' });
+$chart->add_data(\@data_perfect_games, { style => 'line', label => 'perfect games', color => 'cf0000' });
 
 my $fh;
 my $filename = "steam_achievements.png";
