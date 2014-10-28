@@ -14,14 +14,16 @@ use Storable qw(nstore retrieve);
 #use Time::HiRes qw(gettimeofday tv_interval usleep);
 #use Readonly;
 
-use vars qw($VERSION @EXPORT @EXPORT_OK @ISA);
+use vars qw($VERSION @EXPORT @EXPORT_OK @ISA %EXPORT_TAGS);
 $VERSION = "0.1";
 
 BEGIN {
 	require Exporter;
-	@ISA       = qw(Exporter);
-	@EXPORT    = qw(get_now_text get_storable parse_statsday trim url_tree verify_datadir write_json write_storable);
-	@EXPORT_OK = qw();
+	@ISA         = qw(Exporter);
+	@EXPORT      = qw( get_now_text get_storable parse_statsday trim url_tree
+				verify_datadir write_json write_storable );
+	@EXPORT_OK   = qw( write_file );
+	%EXPORT_TAGS = ( 'defaults' => \@EXPORT );
 }
 
 sub new {
@@ -124,6 +126,17 @@ sub verify_datadir {
 	croak "$data_dir is not a directory" unless -d $data_dir;
 	chdir($data_dir) or croak "somehow failed to chdir($data_dir): $ERRNO";
 	return $data_dir;
+}
+
+sub write_file {
+	my ( $filename, $data ) = @_;
+
+	my $fh;
+	open( $fh, ">", $filename ) or croak "could not open $filename for write: $ERRNO";
+	print $fh $data;
+	close($fh) or croak "could not close $filename: $ERRNO";
+
+	return length $data;
 }
 
 sub write_json {
