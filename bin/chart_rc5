@@ -15,7 +15,8 @@ chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
 
 # defaults
 my $chart_width = 850;
-my @color_set = ( color_set('fini1') );
+my @color_set = @{ color_set('fini1') };
+#die Dumper(\@color_set);
 
 # retrieve existing data
 my $dnet_storable_filename = 'dnet.storable';
