@@ -13,7 +13,9 @@ use Chart::Strip;
 my $data_dir = verify_datadir();
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
 
+# defaults
 my $chart_width=850;
+my @color_set = @{ color_set('fini1') };
 
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
@@ -87,9 +89,9 @@ foreach my $day ( sort keys %{ $data } ) {
 
 
 my $chart = Chart::Strip->new( title => "Steam Achievements", width => $chart_width, height => 300 );
-$chart->add_data(\@data_achievements, { style => 'line', label => 'Total Achievements', color => '7e4fe2' });
-$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => '7aa8a8' });
-$chart->add_data(\@data_completion_rate, { style => 'line', label => 'Avg. Completion Percentage * 10', color => '0000ff' });
+$chart->add_data(\@data_achievements, { style => 'line', label => 'Total Achievements', color => $color_set[1] });
+$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => $color_set[2] });
+$chart->add_data(\@data_completion_rate, { style => 'line', label => 'Avg. Completion Percentage * 10', color => $color_set[3] });
 
 my $fh;
 my $filename = "steam_achievements.png";
@@ -98,8 +100,8 @@ print "wrote Dash/$filename\n";
 
 
 $chart = Chart::Strip->new( title => "Steam Badges", width => $chart_width );
-$chart->add_data(\@data_badges, { style => 'line', label => 'Badges', color => '7e4fe2' });
-$chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => '7aa8a8' });
+$chart->add_data(\@data_badges, { style => 'line', label => 'Badges', color => $color_set[4] });
+$chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => $color_set[5] });
 
 $filename = "steam_badges.png";
 write_file($filename,$chart->png());  
@@ -107,7 +109,7 @@ print "wrote Dash/$filename\n";
 
 
 $chart = Chart::Strip->new( title => "Steam Time", width => $chart_width );
-$chart->add_data(\@data_hours_2wks, { style => 'line', label => 'hours, 2 weeks avg', color => '7e4fe2' });
+$chart->add_data(\@data_hours_2wks, { style => 'line', label => 'hours, 2 weeks avg', color => $color_set[6] });
 
 $filename = "steam_time.png";
 write_file($filename,$chart->png());  
@@ -115,8 +117,8 @@ print "wrote Dash/$filename\n";
 
 
 $chart = Chart::Strip->new( title => "Steam Community", width => $chart_width );
-$chart->add_data(\@data_screenshots, { style => 'line', label => 'screenshots', color => '7e4fe2' });
-$chart->add_data(\@data_reviews, { style => 'line', label => 'reviews', color => '7aa8a8' });
+$chart->add_data(\@data_screenshots, { style => 'line', label => 'screenshots', color => $color_set[1] });
+$chart->add_data(\@data_reviews, { style => 'line', label => 'reviews', color => $color_set[2] });
 #$chart->add_data(\@data_perfect_games, { style => 'line', label => 'perfect games', color => 'cf0000' });
 
 $filename = "steam_community.png";
