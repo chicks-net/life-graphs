@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Carp;
 use English;
-use LifeGraphs;
+use LifeGraphs qw(write_file :defaults);
 use Data::Dumper;
 use DateTime;
 use Chart::Strip;
@@ -12,6 +12,8 @@ use Chart::Strip;
 # verify data directory
 my $data_dir = verify_datadir();
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
+
+my $chart_width = 850;
 
 # retrieve existing data
 my $ebay_storable_filename = 'ebay.storable';
@@ -38,11 +40,9 @@ foreach my $day ( sort keys %{$data} ) {
 
 }
 
-my $chart = Chart::Strip->new( title => "$user ebay rating", width => 800, height => 300 );
+my $chart = Chart::Strip->new( title => "$user ebay rating", width => $chart_width, height => 300 );
 $chart->add_data(\@dataset, { style => 'line', color => '7aa818' });
 my $fh;
 my $filename = "ebay_$user.png";
-open($fh,">",$filename) or croak "could not open $filename for writing: $ERRNO";
-print $fh $chart->png();
-close $fh;
+write_file( $filename, $chart->png() );
 print "wrote Dash/$filename\n";
