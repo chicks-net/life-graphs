@@ -23,6 +23,7 @@ my @data_rank_yesterday;
 my @data_rank_overall;
 my @data_delta_yesterday;
 my @data_delta_overall;
+my @data_blocks_yesterday;
 
 foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) { 
 	next unless $day =~ /^\d+-\d+-\d+/;
@@ -40,6 +41,7 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_delta_overall, $data_item);
 
+
 	$metric = $data->{'rc5-72'}->{$day}->{rank}->{yesterday};
 #	print "$base.rank.yesterday $metric $unix_seconds\n";
 	$data_item = { time => $unix_seconds, value => $metric };
@@ -49,13 +51,18 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 #	print "$base.rank.overall $metric $unix_seconds\n";
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_rank_overall, $data_item);
+
+
+	$metric = $data->{'rc5-72'}->{$day}->{blocks}->{yesterday};
+#	print "$base.blocks.yesterday $metric $unix_seconds\n";
+	$data_item = { time => $unix_seconds, value => $metric };
+	push (@data_blocks_yesterday, $data_item);
+
 }
 
 my $chart = Chart::Strip->new( title => "chicks rc5-72 rank", width => 800, height => 300 );
 $chart->add_data(\@data_rank_overall, { style => 'line', label => 'Overall', color => '7e4fe2' });
 $chart->add_data(\@data_rank_yesterday, { style => 'line', label => 'Yesterday', color => '7aa8a8' });
-
-my $fh;
 my $filename = "rank_rc5-72_chicks.png";
 write_file($filename,$chart->png());
 print "wrote Dash/$filename\n";
@@ -64,7 +71,12 @@ $chart = Chart::Strip->new( title => "chicks rc5-72 rank delta", width => 800 );
 my @data_delta10_overall = map { $_->{value} = 10 * $_->{value} ; $_ } @data_delta_overall;
 $chart->add_data(\@data_delta10_overall, { style => 'line', label => 'Overall * 10', color => '7e4fe2' });
 $chart->add_data(\@data_delta_yesterday, { style => 'line', label => 'Yesterday', color => '7aa8a8' });
-
 $filename = "rank_delta_rc5-72_chicks.png";
+write_file($filename,$chart->png());
+print "wrote Dash/$filename\n";
+
+$chart = Chart::Strip->new( title => "chicks rc5-72 blocks", width => 800 );
+$chart->add_data(\@data_blocks_yesterday, { style => 'line', label => 'Yesterday', color => '7aa8a8' });
+$filename = "blocks_rc5-72_chicks.png";
 write_file($filename,$chart->png());
 print "wrote Dash/$filename\n";
