@@ -13,7 +13,7 @@ use Chart::Strip;
 my $data_dir = verify_datadir();
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
 
-my $chart_width = 820;
+my $chart_width = 850;
 
 # retrieve existing data
 my $dnet_storable_filename = 'dnet.storable';
