@@ -40,8 +40,8 @@ sub color_set {
 	my ($name) = @_;
 
 	my %color_sets = (
-		'fini0' => [ '0x1b9e77', '0xd95f02', '0x7570b3', '0xe7298a', '0x66a61e', '0xe6ab02', '0xa6761d' ],
-		'fini1' => [ '0xe31a1c', '0x377db8', '0x4daf4a', '0x984ea3', '0xff7f00', '0xffff33', '0xa65628' ],
+		'fini0' => [ '1b9e77', 'd95f02', '7570b3', 'e7298a', '66a61e', 'e6ab02', 'a6761d' ],
+		'fini1' => [ 'e31a1c', '377db8', '4daf4a', '984ea3', 'ff7f00', 'ffff33', 'a65628' ],
 	);
 
 	croak "no color set $name" unless defined $color_sets{$name};
