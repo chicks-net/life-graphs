@@ -20,7 +20,7 @@ $VERSION = "0.1";
 BEGIN {
 	require Exporter;
 	@ISA         = qw(Exporter);
-	@EXPORT      = qw( get_now_text get_storable parse_statsday trim url_tree
+	@EXPORT      = qw( color_set get_now_text get_storable parse_statsday trim url_tree
 				verify_datadir write_json write_storable );
 	@EXPORT_OK   = qw( write_file );
 	%EXPORT_TAGS = ( 'defaults' => \@EXPORT );
@@ -34,6 +34,18 @@ sub new {
 
 	#bless $self, $class;
 	#return $self;
+}
+
+sub color_set {
+	my ($name) = @_;
+
+	my %color_sets = (
+		'fini0' => [ '0x1b9e77', '0xd95f02', '0x7570b3', '0xe7298a', '0x66a61e', '0xe6ab02', '0xa6761d' ],
+		'fini1' => [ '0xe31a1c', '0x377db8', '0x4daf4a', '0x984ea3', '0xff7f00', '0xffff33', '0xa65628' ],
+	);
+
+	croak "no color set $name" unless defined $color_sets{$name};
+	return $color_sets{$name};
 }
 
 sub get_now_text {
@@ -191,6 +203,10 @@ These functions seem to be needed by almost every web scraping bot so don't rein
 
 Create a new object.  There's no point really.
 
+=head3 color_set
+
+Returns a color set.  Currently available color sets are `fini0` and `fini1`.  These were generated wth the very handy http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer.html
+
 =head3 get_storable
 
 Load a storable and return a reference.  Return an empty hash if the storable file does not exist;
@@ -211,6 +227,14 @@ GET a URL and return an HTML::TreeBuilder tree.
 
 Pulls STATS_DIR from the environment, verifies that it is a directory, and chdir's to it.  Returns the directory.
 verify_datadir() takes no arguments.
+
+=head3 write_file
+
+Write a file.  The first argument is a filename and the second is data to write.
+It will return the number of bytes written.
+This function is not exported by default so to get it and the rest of the de facto exports you need to:
+
+	use LifeGraphs qw(write_file :defaults);
 
 =head3 write_json
 

@@ -3,6 +3,16 @@ life-graphs
 
 graphs of health, money, and technology
 
+PREREQUISITES
+-------------
+
+If you want to do more than view my personal graphs on the Internet you should install these Perl modules (debian packages):
+
+* DateTime (`libdatetime-perl`)
+* LWP::Simple (`libwww-perl`)
+* JSON (`libjson-perl`)
+* Chart::Strip (`libchart-strip-perl`)
+
 DATA COLLECTORS DONE
 --------------------
 
