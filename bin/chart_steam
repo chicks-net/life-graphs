@@ -101,7 +101,7 @@ print "wrote Dash/$filename\n";
 
 $chart = Chart::Strip->new( title => "Steam Badges", width => $chart_width );
 $chart->add_data(\@data_badges, { style => 'line', label => 'Badges', color => $color_set[4] });
-$chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => $color_set[5] });
+$chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => $color_set[2] });
 
 $filename = "steam_badges.png";
 write_file($filename,$chart->png());  
