@@ -1,0 +1,40 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Carp;
+use English;
+use LifeGraphs qw(write_file :defaults);
+use Data::Dumper;
+use DateTime;
+#use Chart::Strip;
+
+# verify data directory
+my $data_dir = verify_datadir();
+chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
+
+# defaults
+#my $chart_width=850;
+#my @color_set = @{ color_set('fini1') };
+
+# retrieve existing data
+my $steam_storable_filename = 'steam.storable';
+my $data = get_storable("$data_dir/$steam_storable_filename",1);
+
+foreach my $day ( sort keys %{ $data } ) { 
+	next unless $day =~ /^\d+-\d+-\d+/;
+	my $day_obj = parse_statsday($day);
+	my $unix_seconds = $day_obj->epoch();
+	#die "$day $day_obj $unix_seconds\n";
+
+
+	my $metric = $data->{$day}->{Achievements};
+	#print "Achievements: $metric $unix_seconds\n";
+	my $data_item = { time => $unix_seconds, value => $metric };
+	push (@data_achievements, $data_item);
+
+}
+
+$filename = "steam_community.png";
+write_file($filename,$chart->png());  
+print "wrote Dash/$filename\n";
