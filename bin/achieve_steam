@@ -7,34 +7,92 @@ use English;
 use LifeGraphs qw(write_file :defaults);
 use Data::Dumper;
 use DateTime;
-#use Chart::Strip;
 
 # verify data directory
 my $data_dir = verify_datadir();
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
 
 # defaults
-#my $chart_width=850;
-#my @color_set = @{ color_set('fini1') };
+
+my $content =
+"Steam Achievements
+==================
+ 
+";
 
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
 my $data = get_storable("$data_dir/$steam_storable_filename",1);
 
+my $lastday;
 foreach my $day ( sort keys %{ $data } ) { 
 	next unless $day =~ /^\d+-\d+-\d+/;
 	my $day_obj = parse_statsday($day);
 	my $unix_seconds = $day_obj->epoch();
 	#die "$day $day_obj $unix_seconds\n";
 
-
-	my $metric = $data->{$day}->{Achievements};
-	#print "Achievements: $metric $unix_seconds\n";
-	my $data_item = { time => $unix_seconds, value => $metric };
-	push (@data_achievements, $data_item);
-
+	$lastday = $data->{$day};
+	#my $metric = $data->{$day}->{Achievements};
 }
 
-$filename = "steam_community.png";
-write_file($filename,$chart->png());  
+my $game_details = $lastday->{game_details};
+
+my $total_games = scalar keys %$game_details;
+my $has_achievements = 0;
+my @games_with_achievements;
+
+foreach my $game (sort keys %$game_details) {
+	my $this_game = $game_details->{$game};
+	if ( defined ( $this_game->{achievements_total} ) ) {
+		$has_achievements++;
+		my $achievements_total = $this_game->{achievements_total};
+		my $achievements_current = $this_game->{achievements_current};
+		my $achieved_percentage = $achievements_current/$achievements_total;
+		$this_game->{perc} = $achieved_percentage;
+		$this_game->{name} = $game;
+		push (@games_with_achievements,$this_game);
+	}
+}
+
+$content .= "$has_achievements out of $total_games have achievements.\n\n";
+
+$content .= "| Percentage Complete | Game | Hours Played | Current | Total | Hours/Achievement |\n";
+$content .= "| ------------------: | ---- | -----------: | ------: | ----: | ----------------: |\n";
+
+#print Dumper(\@games_with_achievements);
+# descending percentage then ascending name
+my @sorted_games = sort { $b->{perc} <=> $a->{perc} or $a->{name} cmp $b->{name} } @games_with_achievements;
+
+foreach my $game (@sorted_games) {
+	my $perc = $game->{perc};
+	my $display_perc = sprintf("%.1f%%",$perc*100);
+
+	my $name = $game->{name};
+
+	my $hours = $game->{hrs_total} || 0;
+	my $last_played = $game->{last_played};
+	my $achievements_current = $game->{achievements_current};
+	my $achievements_total = $game->{achievements_total};
+
+	my $achieve_efficiency;
+	if ($hours and $achievements_current) {
+		$achieve_efficiency = $hours/$achievements_current;
+		$achieve_efficiency = sprintf("%.2f",$achieve_efficiency);
+	} else {
+		$achieve_efficiency = 'und';
+	}
+
+	$content .= "| $display_perc | $name | $hours | $achievements_current | $achievements_total | $achieve_efficiency |\n";
+}
+
+my $filename = "steam_achievements.md";
+write_file($filename,$content);  
 print "wrote Dash/$filename\n";
+
+__END__
+                              'Anna - Extended Edition' => {
+                                                             'achievements_total' => '35',
+                                                             'achievements_current' => '0',
+                                                             'hrs_total' => '1.5',
+                                                             'last_played' => '1384675774'
+                                                           },
