@@ -54,14 +54,17 @@ foreach my $game (sort keys %$game_details) {
 	}
 }
 
-$content .= "$has_achievements out of $total_games games have achievements.\n\n";
+$content .= "$has_achievements out of $total_games games have achievements.\n";
 
-$content .= "| Percentage Complete | Game | Hours Played | Current | Total | Hours per Achievement |\n";
-$content .= "| ------------------: | ---- | -----------: | ------: | ----: | --------------------: |\n";
+my $table_content .= "| Percentage Complete | Game | Hours Played | Current | Total | Hours per Achievement |\n";
+$table_content .= "| ------------------: | ---- | -----------: | ------: | ----: | --------------------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
 my @sorted_games = sort { $b->{perc} <=> $a->{perc} or $a->{name} cmp $b->{name} } @games_with_achievements;
+my $perc_accumulator;
+my $played_perc_accumulator;
+my $played_count;
 
 foreach my $game (@sorted_games) {
 	my $perc = $game->{perc};
@@ -74,6 +77,12 @@ foreach my $game (@sorted_games) {
 	my $achievements_current = $game->{achievements_current};
 	my $achievements_total = $game->{achievements_total};
 
+	$perc_accumulator += $perc;
+	if ($hours) {
+		$played_count++;
+		$played_perc_accumulator += $perc;
+	}
+
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
 		$achieve_efficiency = $hours/$achievements_current;
@@ -82,17 +91,18 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = 'und';
 	}
 
-	$content .= "| $display_perc | $name | $hours | $achievements_current | $achievements_total | $achieve_efficiency |\n";
+	$table_content .= "| $display_perc | $name | $hours | $achievements_current | $achievements_total | $achieve_efficiency |\n";
 }
+$table_content .= "\n\n";
+
+my $overall_perc = 100 * $perc_accumulator / $total_games;
+$overall_perc = sprintf("%.2f",$overall_perc);
+my $played_perc = 100 * $played_perc_accumulator / $played_count;
+$played_perc = sprintf("%.2f",$played_perc);
+$content .= "$overall_perc% achieved overall. $played_perc% achieved in games played.\n\n";
+$content .= "\n\n";
+$content .= $table_content;
 
 my $filename = "steam_achievements.md";
 write_file($filename,$content);  
 print "wrote Dash/$filename\n";
-
-__END__
-                              'Anna - Extended Edition' => {
-                                                             'achievements_total' => '35',
-                                                             'achievements_current' => '0',
-                                                             'hrs_total' => '1.5',
-                                                             'last_played' => '1384675774'
-                                                           },

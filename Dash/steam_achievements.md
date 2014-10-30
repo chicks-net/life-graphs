@@ -2,6 +2,9 @@ Steam Achievements
 ==================
  
 83 out of 99 games have achievements.
+13.12% achieved overall. 26.30% achieved in games played.
+
+
 
 | Percentage Complete | Game | Hours Played | Current | Total | Hours per Achievement |
 | ------------------: | ---- | -----------: | ------: | ----: | --------------------: |
@@ -88,3 +91,5 @@ Steam Achievements
 | 0.0% | Turbo Dismount | 0 | 0 | 23 | und |
 | 0.0% | Wargame: European Escalation | 0 | 0 | 29 | und |
 | 0.0% | Worms Reloaded | 0.5 | 0 | 61 | und |
+
+
