@@ -36,6 +36,7 @@ echo -e "\ncharts:"
 ./chart_ebay
 ./chart_rc5
 ./chart_steam
+./achieve_steam
 
 # commit
 echo ""
