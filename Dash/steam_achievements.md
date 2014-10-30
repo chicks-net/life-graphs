@@ -1,10 +1,10 @@
 Steam Achievements
 ==================
  
-83 out of 99 have achievements.
+83 out of 99 games have achievements.
 
-| Percentage Complete | Game | Hours Played | Current | Total | Hours/Achievement |
-| ------------------: | ---- | -----------: | ------: | ----: | ----------------: |
+| Percentage Complete | Game | Hours Played | Current | Total | Hours per Achievement |
+| ------------------: | ---- | -----------: | ------: | ----: | --------------------: |
 | 100.0% | Hexcells | 5.3 | 6 | 6 | 0.88 |
 | 90.0% | Faerie Solitaire | 28 | 27 | 30 | 1.04 |
 | 85.7% | Hexcells Infinite | 27 | 6 | 7 | 4.50 |

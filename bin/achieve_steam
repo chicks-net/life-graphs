@@ -54,10 +54,10 @@ foreach my $game (sort keys %$game_details) {
 	}
 }
 
-$content .= "$has_achievements out of $total_games have achievements.\n\n";
+$content .= "$has_achievements out of $total_games games have achievements.\n\n";
 
-$content .= "| Percentage Complete | Game | Hours Played | Current | Total | Hours/Achievement |\n";
-$content .= "| ------------------: | ---- | -----------: | ------: | ----: | ----------------: |\n";
+$content .= "| Percentage Complete | Game | Hours Played | Current | Total | Hours per Achievement |\n";
+$content .= "| ------------------: | ---- | -----------: | ------: | ----: | --------------------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
