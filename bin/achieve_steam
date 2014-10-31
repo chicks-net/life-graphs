@@ -102,6 +102,10 @@ $played_perc = sprintf("%.2f",$played_perc);
 $content .= "$overall_perc% achieved overall. $played_perc% achieved in games played.\n\n";
 $content .= "\n\n";
 $content .= $table_content;
+$content .= "\n\n";
+$content .= "links\n-----\n";
+$content .= "[Steam Dashboard](Steam.md)\n";
+$content .= "[Main Dashboard](README.md)\n\n";
 
 my $filename = "steam_achievements.md";
 write_file($filename,$content);  
