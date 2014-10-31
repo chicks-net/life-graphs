@@ -40,7 +40,7 @@ foreach my $day ( sort keys %{$data} ) {
 
 }
 
-my $chart = Chart::Strip->new( title => "$user ebay rating", width => $chart_width, height => 300 );
+my $chart = Chart::Strip->new( title => "$user ebay rating", width => $chart_width, height => 200 );
 $chart->add_data(\@dataset, { style => 'line', color => '7aa818' });
 my $fh;
 my $filename = "ebay_$user.png";
