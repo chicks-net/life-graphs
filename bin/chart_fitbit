@@ -1,0 +1,80 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Carp;
+use English;
+use LifeGraphs qw(write_file :defaults);
+use Data::Dumper;
+use DateTime;
+use Chart::Strip;
+use Text::CSV;
+
+# verify data directory
+my $data_dir = verify_datadir();
+chdir($data_dir) or croak "couldn't get to data directory $data_dir: $ERRNO";
+
+my $chart_width = 850;
+my $user = 'chicks';
+my $in_filename = 'fitbit_activity.csv';
+
+# retrieve existing data
+my @rows;
+my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
+	or die "Cannot use CSV: " . Text::CSV->error_diag();
+ 
+open my $fh, "<:encoding(utf8)", $in_filename or croak "open $in_filename: $!";
+while ( my $row = $csv->getline( $fh ) ) {
+    $row->[2] =~ m/^[,\d]+$/ or next; # 3rd field should match
+    push @rows, $row;
+}
+$csv->eof or $csv->error_diag();
+close $fh;
+
+#print Dumper(\@rows);
+#die "debug";
+
+# build dataset
+my @dataset;
+my @avg7_dataset;
+my @avg7_working;
+
+foreach my $row (@rows) {
+	#die Dumper($row);
+	my $date = $row->[0];
+	my $steps = $row->[2];
+	$steps =~ s/,//g; # strip commas
+	my $miles = $row->[3];
+
+	my $date_obj = parse_iso8601($date);
+	my $unix_seconds = $date_obj->epoch();
+	my $metric = $steps;
+	my $data_item = {
+		time => $unix_seconds,
+		value => $metric,
+	};
+	push( @dataset, $data_item );
+
+	push( @avg7_working, $metric );
+	push( @avg7_dataset, $data_item);
+}
+
+
+# spit out chart png's
+chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
+my $chart = Chart::Strip->new( title => "$user fitbit steps", width => $chart_width, height => 300 );
+$chart->add_data(\@dataset, { style => 'line', color => '7aa818' });
+my $filename = "fitbit_$user.png";
+write_file( $filename, $chart->png() );
+print "wrote Dash/$filename\n";
+
+__END__
+foreach my $day ( sort keys %{$data} ) { 
+
+	my $data_item = {
+		time => $unix_seconds,
+		value => $metric,
+	};
+	push( @dataset, $data_item );
+
+}
