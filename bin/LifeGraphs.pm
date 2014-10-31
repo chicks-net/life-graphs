@@ -20,7 +20,7 @@ $VERSION = "0.1";
 BEGIN {
 	require Exporter;
 	@ISA         = qw(Exporter);
-	@EXPORT      = qw( color_set get_now_text get_storable parse_statsday trim url_tree
+	@EXPORT      = qw( color_set get_now_text get_storable parse_iso8601 parse_statsday trim url_tree
 				verify_datadir write_json write_storable );
 	@EXPORT_OK   = qw( write_file );
 	%EXPORT_TAGS = ( 'defaults' => \@EXPORT );
@@ -93,6 +93,49 @@ sub parse_statsday {
 		return $stats_date_object;
 	} else {
 		die "'$statsday' does not fit pattern";
+	}
+}
+
+sub parse_iso8601 {
+	my ($iso8601) = @_;
+
+	if ( $iso8601 =~ /^(\d+)-(\d+)-(\d+)T(\d+):(\d+):(\d+)Z$/ ) {
+		my $year = $1;
+		my $month = $2;
+		my $day = $3;
+		my $hour = $4;
+		my $minute = $5;
+		my $seconds = $6;
+
+		my $stats_date_object = DateTime->new(
+                        year      => $year,
+                        month     => $month,
+                        day       => $day,
+                        hour      => $hour,
+                        minute    => $minute,
+                        second    => $seconds,
+                        time_zone => 'UTC',
+                );
+
+		return $stats_date_object;
+	} elsif ( $iso8601 =~ /^(\d+)-(\d+)-(\d+)$/ ) {
+		my $year = $1;
+		my $month = $2;
+		my $day = $3;
+
+		my $iso_date_object = DateTime->new(
+                        year      => $year,
+                        month     => $month,
+                        day       => $day,
+                        hour      => 23,
+                        minute    => 59,
+                        second    => 0,
+                        time_zone => 'UTC',
+                );
+
+		return $iso_date_object;
+	} else {
+		die "'$iso8601' does not fit pattern";
 	}
 }
 
@@ -210,6 +253,10 @@ Returns a color set.  Currently available color sets are `fini0` and `fini1`.  T
 =head3 get_storable
 
 Load a storable and return a reference.  Return an empty hash if the storable file does not exist;
+
+=head3 parse_iso8601
+
+Take ISO-8601 <code>YYYY-MM-DD</code> datetime or <code>yyyy-mm-ddThh:mm:ssZ</code> timestamp like <code>'2014-07-27'</code> and return a <code>DateTime</code> object.
 
 =head3 parse_statsday
 
