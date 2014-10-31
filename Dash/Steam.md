@@ -10,4 +10,7 @@ Note:  There are 336 hours in a 2 week period.  I was between jobs from 4 Oct to
 ![steam community](steam_community.png)
 ![steam badges](steam_badges.png)
 
-[main dashboard](README.md)
+links
+-----
+[main dashboard](README.md) ...
+[steam achievements per game](steam_achievements.md)
