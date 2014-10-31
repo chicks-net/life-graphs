@@ -1,6 +1,10 @@
 chicks dashboard
 ================
 
+fitbit
+------
+![fitbit!](fitbit_chicks.png)
+
 distributed.net
 ---------------
 ![rc5_rank](rank_rc5-72_chicks.png)

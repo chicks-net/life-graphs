@@ -15,6 +15,7 @@ my $data_dir = verify_datadir();
 chdir($data_dir) or croak "couldn't get to data directory $data_dir: $ERRNO";
 
 my $chart_width = 850;
+my @color_set = @{ color_set('fini1') };
 my $user = 'chicks';
 my $in_filename = 'fitbit_activity.csv';
 
@@ -34,8 +35,8 @@ close $fh;
 #print Dumper(\@rows);
 #die "debug";
 
-# build dataset
-my @dataset;
+# build datasets
+my @daily_dataset;
 my @avg7_dataset;
 my @avg7_working;
 
@@ -53,20 +54,42 @@ foreach my $row (@rows) {
 		time => $unix_seconds,
 		value => $metric,
 	};
-	push( @dataset, $data_item );
+	push( @daily_dataset, $data_item );
 
 	push( @avg7_working, $metric );
-	push( @avg7_dataset, $data_item);
+
+	if ( scalar(@avg7_working) >= 7 ) {
+		shift @avg7_working if ( scalar(@avg7_working) > 7 );
+		$metric = avg_array(@avg7_working);
+		$data_item = {
+			time => $unix_seconds,
+			value => $metric,
+		};
+		push( @avg7_dataset, $data_item);
+	}
 }
 
 
 # spit out chart png's
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
 my $chart = Chart::Strip->new( title => "$user fitbit steps", width => $chart_width, height => 300 );
-$chart->add_data(\@dataset, { style => 'line', color => '7aa818' });
+$chart->add_data(\@avg7_dataset, { style => 'filled',  label => '7 day average', color => $color_set[3] });
+$chart->add_data(\@daily_dataset, { style => 'line', label => 'daily', color => $color_set[2] });
 my $filename = "fitbit_$user.png";
 write_file( $filename, $chart->png() );
 print "wrote Dash/$filename\n";
+
+sub avg_array {
+	my (@in) = @_;
+	my $count = scalar @in;
+	croak "sum_array(): no arguments" unless $count;
+	my $sum = 0;
+	foreach my $element (@in) {
+		$sum += $element;
+	}
+	my $avg = $sum / $count;
+	return $avg;
+}
 
 __END__
 foreach my $day ( sort keys %{$data} ) { 
