@@ -97,6 +97,6 @@ Steam Achievements
 
 links
 -----
-[Steam Dashboard](Steam.md)
-[Main Dashboard](README.md)
+[Steam Dashboard](Steam.md) ...
+[Main Dashboard](README.md) ...
 

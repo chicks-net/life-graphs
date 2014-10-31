@@ -104,8 +104,8 @@ $content .= "\n\n";
 $content .= $table_content;
 $content .= "\n\n";
 $content .= "links\n-----\n";
-$content .= "[Steam Dashboard](Steam.md)\n";
-$content .= "[Main Dashboard](README.md)\n\n";
+$content .= "[Steam Dashboard](Steam.md) ...\n";
+$content .= "[Main Dashboard](README.md) ...\n\n";
 
 my $filename = "steam_achievements.md";
 write_file($filename,$content);  
