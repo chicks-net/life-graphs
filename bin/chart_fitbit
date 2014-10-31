@@ -15,7 +15,8 @@ my $data_dir = verify_datadir();
 chdir($data_dir) or croak "couldn't get to data directory $data_dir: $ERRNO";
 
 my $chart_width = 850;
-my @color_set = @{ color_set('fini1') };
+my $display_days = 120;
+my @color_set = @{ color_set('fini0') };
 my $user = 'chicks';
 my $in_filename = 'fitbit_activity.csv';
 
@@ -24,16 +25,17 @@ my @rows;
 my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
 	or die "Cannot use CSV: " . Text::CSV->error_diag();
  
+my $last_day;
 open my $fh, "<:encoding(utf8)", $in_filename or croak "open $in_filename: $!";
 while ( my $row = $csv->getline( $fh ) ) {
-    $row->[2] =~ m/^[,\d]+$/ or next; # 3rd field should match
-    push @rows, $row;
+	$row->[2] =~ m/^[,\d]+$/ or next; # 3rd field should match
+	$last_day = $row->[0];
+	push @rows, $row;
 }
 $csv->eof or $csv->error_diag();
 close $fh;
 
-#print Dumper(\@rows);
-#die "debug";
+my $window_begins = parse_iso8601($last_day)->subtract( days => $display_days);
 
 # build datasets
 my @daily_dataset;
@@ -49,12 +51,18 @@ foreach my $row (@rows) {
 
 	my $date_obj = parse_iso8601($date);
 	my $unix_seconds = $date_obj->epoch();
+
+	my $display = 0;
+	if ( $date_obj > $window_begins ) {
+		$display = 1;
+	}
+
 	my $metric = $steps;
 	my $data_item = {
 		time => $unix_seconds,
 		value => $metric,
 	};
-	push( @daily_dataset, $data_item );
+	push( @daily_dataset, $data_item ) if $display;
 
 	push( @avg7_working, $metric );
 
@@ -65,7 +73,7 @@ foreach my $row (@rows) {
 			time => $unix_seconds,
 			value => $metric,
 		};
-		push( @avg7_dataset, $data_item);
+		push( @avg7_dataset, $data_item) if $display;
 	}
 }
 
@@ -73,8 +81,8 @@ foreach my $row (@rows) {
 # spit out chart png's
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
 my $chart = Chart::Strip->new( title => "$user fitbit steps", width => $chart_width, height => 300 );
-$chart->add_data(\@avg7_dataset, { style => 'filled',  label => '7 day average', color => $color_set[3] });
-$chart->add_data(\@daily_dataset, { style => 'line', label => 'daily', color => $color_set[2] });
+$chart->add_data(\@avg7_dataset, { style => 'filled',  label => '7 day average', color => $color_set[5] });
+$chart->add_data(\@daily_dataset, { style => 'line', label => 'actual daily', color => $color_set[2], thickness => 2 });
 my $filename = "fitbit_$user.png";
 write_file( $filename, $chart->png() );
 print "wrote Dash/$filename\n";
