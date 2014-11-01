@@ -98,6 +98,7 @@ print "wrote Dash/$filename\n";
 
 $chart = Chart::Strip->new( title => "Steam Achievement Percentages", width => $chart_width );
 $chart->add_data(\@data_completion_rate, { style => 'line', label => 'Avg. Completion Percentage', color => $color_set[3] });
+$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => $color_set[4] });
 
 $filename = "steam_achievement_percentage.png";
 write_file($filename,$chart->png());  
