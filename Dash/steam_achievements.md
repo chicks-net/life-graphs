@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 83 out of 99 games have achievements.
-13.12% achieved overall. 26.30% achieved in games played.
+13.14% achieved overall. 26.34% achieved in games played.
 
 
 
@@ -12,13 +12,13 @@ Steam Achievements
 | 90.0% | Faerie Solitaire | 28 | 27 | 30 | 1.04 |
 | 85.7% | Hexcells Infinite | 27 | 6 | 7 | 4.50 |
 | 83.3% | Hexcells Plus | 26 | 5 | 6 | 5.20 |
-| 77.5% | Train Fever | 300 | 31 | 40 | 9.68 |
+| 79.5% | Train Fever | 300 | 31 | 39 | 9.68 |
 | 75.0% | Type:Rider | 5.1 | 9 | 12 | 0.57 |
 | 72.4% | Shufflepuck Cantina Deluxe | 56 | 55 | 76 | 1.02 |
 | 60.0% | Free to Play | 1.6 | 3 | 5 | 0.53 |
 | 60.0% | Poker Night at the Inventory | 3.8 | 12 | 20 | 0.32 |
-| 50.0% | rymdkapsel | 8.9 | 5 | 10 | 1.78 |
-| 43.3% | Team Fortress 2 | 685 | 222 | 513 | 3.09 |
+| 50.0% | rymdkapsel | 10.1 | 5 | 10 | 2.02 |
+| 43.3% | Team Fortress 2 | 686 | 222 | 513 | 3.09 |
 | 40.0% | Tomb Raider | 30 | 20 | 50 | 1.50 |
 | 36.4% | Zen Bound® 2 | 6.4 | 4 | 11 | 1.60 |
 | 35.3% | XCOM: Enemy Unknown | 50 | 30 | 85 | 1.67 |
