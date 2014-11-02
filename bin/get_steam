@@ -109,6 +109,8 @@ foreach my $row (@rows) {
 my $games_url = $profile_url . '/games?tab=all';
 $tree = url_tree($games_url);
 
+print "~ individual game details:::\n";
+
 my ($game_count,$achievement_game_count);
 @rows = $tree->look_down(
 		'_tag' => 'script',
@@ -183,7 +185,7 @@ sub game_achievements {
 		if ( defined $summary_div ) {
 			$summary_raw = $summary_div->as_text;
 		} else {
-			print "$game_name has no achievements I can find\n";
+			print "--- $game_name has no achievements I can find\n";
 			return;
 		}
 	}
