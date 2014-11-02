@@ -161,7 +161,8 @@ sub game_achievements {
 	my ($game_name,$friendly_url) = @_;
 
 	my $achievements_url = "$profile_url/stats/$friendly_url/?tab=achievements";
-	my $tree = url_tree($achievements_url);
+	my $quiet = 1;
+	my $tree = url_tree($achievements_url,$quiet);
 
 	my $achievements_earned = 0;
 	my $achievements_total = 0;

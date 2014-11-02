@@ -151,7 +151,8 @@ sub trim {
 }
 
 sub url_tree {
-	my ($url) = @_;
+	my $url = shift @_;
+	my $quiet = shift(@_) || 0; # default to verbose;
 
 	my $retries = 5;
 	my $raw_html;
@@ -165,7 +166,7 @@ sub url_tree {
 	}
 	croak "failed on GET $url" unless defined $raw_html;
 	my $raw_length = length $raw_html;
-	print "got $raw_length bytes from $url\n";
+	print "got $raw_length bytes from $url\n" unless $quiet;
 
 	# parse
 	my $tree = HTML::TreeBuilder->new;    # empty tree
