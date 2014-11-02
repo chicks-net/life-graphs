@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-83 out of 99 games have achievements.
-13.14% achieved overall. 26.34% achieved in games played.
+87 out of 103 games have achievements.
+12.63% achieved overall. 26.34% achieved in games played.
 
 
 
@@ -15,7 +15,7 @@ Steam Achievements
 | 79.5% | Train Fever | 300 | 31 | 39 | 9.68 |
 | 75.0% | Type:Rider | 5.1 | 9 | 12 | 0.57 |
 | 72.4% | Shufflepuck Cantina Deluxe | 56 | 55 | 76 | 1.02 |
-| 60.0% | Free to Play | 1.6 | 3 | 5 | 0.53 |
+| 60.0% | Free to Play | 2.9 | 3 | 5 | 0.97 |
 | 60.0% | Poker Night at the Inventory | 3.8 | 12 | 20 | 0.32 |
 | 50.0% | rymdkapsel | 10.1 | 5 | 10 | 2.02 |
 | 43.3% | Team Fortress 2 | 686 | 222 | 513 | 3.09 |
@@ -58,6 +58,7 @@ Steam Achievements
 | 0.0% | Day of Defeat: Source | 0.1 | 0 | 54 | und |
 | 0.0% | Defender's Quest: Valley of the Forgotten | 0 | 0 | 30 | und |
 | 0.0% | Duke Nukem Forever | 0 | 0 | 62 | und |
+| 0.0% | Dungeon Defenders | 0 | 0 | 104 | und |
 | 0.0% | Flatout 3 | 0 | 0 | 46 | und |
 | 0.0% | Galcon Fusion | 0 | 0 | 136 | und |
 | 0.0% | Guns of Icarus Online | 0 | 0 | 466 | und |
@@ -65,6 +66,7 @@ Steam Achievements
 | 0.0% | Half-Life 2: Episode Two | 0 | 0 | 22 | und |
 | 0.0% | Heroes Rise: The Hero Project | 0 | 0 | 8 | und |
 | 0.0% | Heroes Rise: The Prodigy | 0 | 0 | 17 | und |
+| 0.0% | Influent | 0 | 0 | 12 | und |
 | 0.0% | LIMBO | 0 | 0 | 13 | und |
 | 0.0% | Left 4 Dead | 0 | 0 | 73 | und |
 | 0.0% | Left 4 Dead 2 | 1.9 | 0 | 70 | und |
@@ -80,11 +82,13 @@ Steam Achievements
 | 0.0% | Planets Under Attack | 0 | 0 | 21 | und |
 | 0.0% | Portal | 0 | 0 | 15 | und |
 | 0.0% | Portal 2 | 0 | 0 | 51 | und |
+| 0.0% | ROCKETSROCKETSROCKETS | 0 | 0 | 22 | und |
 | 0.0% | Rock of Ages | 0 | 0 | 19 | und |
 | 0.0% | Serious Sam 3: BFE | 0 | 0 | 62 | und |
 | 0.0% | Signal Ops | 0 | 0 | 48 | und |
 | 0.0% | Spy Chameleon - RGB Agent | 0 | 0 | 30 | und |
 | 0.0% | Surgeon Simulator | 0 | 0 | 114 | und |
+| 0.0% | The Bridge | 0 | 0 | 20 | und |
 | 0.0% | The Bureau: XCOM Declassified | 0 | 0 | 41 | und |
 | 0.0% | Trine | 0 | 0 | 33 | und |
 | 0.0% | Trine 2 | 0 | 0 | 97 | und |
