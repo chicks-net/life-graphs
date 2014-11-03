@@ -33,18 +33,15 @@ GRAPHS DONE
 TECH TODO
 ---------
 
-* pick a display system
-* write more code
 * pull credentials from LastPass
-* interactive storable editor instead of ad-hoccery like `edit_storable`
+* interactive Storable editor instead of ad-hoccery like `edit_storable`
 
 GRAPHS TODO
 -----------
 
-There are many graphs that I want to make, but these are data that are ready to graph:
+There are many graphs that I want to make, but these have data that is ready to graph:
 
 * ogr
-* rc5: add blocks per/day to existing chart.  It may need a new chart.
 * Steam: a stacked chart of hours per game
 
 DATA COLLECTORS TODO
@@ -52,16 +49,18 @@ DATA COLLECTORS TODO
 
 There are many data collectors that I want to make, but these are the top priorities:
 
+* TECH: gmail inbox size
+* TECH: fini inbox size
+* TECH: github LoC committed
 * TECH: dnetc ogr summary and history
+* HEALTH: fitbit autosync
 * FINANCE: Citi balances
 * FINANCE: OpenSRS balance
 * FINANCE: paypal balances
 * FINANCE: mobile balance, minutes used, bytes used
-* TECH: gmail inbox size
-* TECH: fini inbox size
-* TECH: github LoC committed
-* HEALTH: miles walked
 * HEALTH: pull ups
+* HEALTH: sit ups
+* HEALTH: push ups
 
 Email graphs
 ------------
