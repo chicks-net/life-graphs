@@ -82,7 +82,7 @@ foreach my $row (@rows) {
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO";
 my $chart = Chart::Strip->new( title => "$user fitbit steps", width => $chart_width, height => 300 );
 $chart->add_data(\@avg7_dataset, { style => 'filled',  label => '7 day average', color => $color_set[5] });
-$chart->add_data(\@daily_dataset, { style => 'line', label => 'actual daily', color => $color_set[2], thickness => 2 });
+$chart->add_data(\@daily_dataset, { style => 'box', width => '2', label => 'actual daily', color => $color_set[2], thickness => 2 });
 my $filename = "fitbit_$user.png";
 write_file( $filename, $chart->png() );
 print "wrote Dash/$filename\n";

@@ -13,6 +13,7 @@ If you want to do more than view my personal graphs on the Internet you should i
 * JSON (`libjson-perl`)
 * Chart::Strip (`libchart-strip-perl`)
 * Readonly (`libreadonly-perl`)
+* Text::CSV (`libtext-csv-perl`)
 
 DATA COLLECTORS DONE
 --------------------
