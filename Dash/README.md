@@ -5,6 +5,9 @@ fitbit
 ------
 ![fitbit!](fitbit_chicks.png)
 
+Fitbit stats are currently downloaded by a human so expect heinous latency.
+Everything else is automatic daily.
+
 distributed.net
 ---------------
 ![rc5_rank](rank_rc5-72_chicks.png)
