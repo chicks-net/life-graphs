@@ -1,0 +1,36 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+#use diagnostics;
+use Data::Dumper;
+#use DateTime;
+use JSON;
+use Storable qw(nstore retrieve);
+#use Readonly;
+use File::Slurp;
+
+# verify data directory
+my $data_dir = $ENV{STATS_DIR};
+die "no STATS_DIR defined" unless defined $data_dir;
+die "$data_dir is not a directory" unless -d $data_dir;
+chdir($data_dir) or die "somehow failed to chdir($data_dir): $!";
+
+# read command line
+my($input_file,$output_file) = @ARGV;
+die "no input file $input_file" unless -f $input_file;
+die "will not clobber $output_file" if -e $output_file;
+
+# retrieve existing data
+my $json_parser = JSON->new->allow_nonref;
+my $raw_json = read_file($input_file);
+my $data_out = $json_parser->decode( $raw_json );
+
+if (0) {
+	print Dumper($data_out), "\n";
+	die "how does it look?";
+}
+
+# write Storable
+nstore $data_out,$output_file;
+print "wrote $output_file\n";
