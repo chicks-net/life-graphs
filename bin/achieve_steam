@@ -23,8 +23,12 @@ my $content =
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
 my $data = get_storable("$data_dir/$steam_storable_filename",1);
+my $steam_percents_storable_filename = 'steam_percents.storable';
+my $steam_percents_json_filename = 'steam_percents.json';
+my $percent_data = get_storable("$data_dir/$steam_percents_storable_filename",1);
 
 my $lastday;
+my $lastday_statsday;
 foreach my $day ( sort keys %{ $data } ) { 
 	next unless $day =~ /^\d+-\d+-\d+/;
 	my $day_obj = parse_statsday($day);
@@ -32,6 +36,7 @@ foreach my $day ( sort keys %{ $data } ) {
 	#die "$day $day_obj $unix_seconds\n";
 
 	$lastday = $data->{$day};
+	$lastday_statsday = $day;
 	#my $metric = $data->{$day}->{Achievements};
 }
 
@@ -96,9 +101,13 @@ foreach my $game (@sorted_games) {
 $table_content .= "\n\n";
 
 my $overall_perc = 100 * $perc_accumulator / $total_games;
+my $raw_overall_perc = $overall_perc;
 $overall_perc = sprintf("%.2f",$overall_perc);
+
 my $played_perc = 100 * $played_perc_accumulator / $played_count;
+my $raw_played_perc = $played_perc;
 $played_perc = sprintf("%.2f",$played_perc);
+
 $content .= "$overall_perc% achieved overall. $played_perc% achieved in games played.\n\n";
 $content .= "\n\n";
 $content .= $table_content;
@@ -107,6 +116,19 @@ $content .= "links\n-----\n";
 $content .= "[Steam Dashboard](Steam.md) ...\n";
 $content .= "[Main Dashboard](README.md) ...\n\n";
 
+# write table out as Markdown
 my $filename = "steam_achievements.md";
 write_file($filename,$content);  
 print "wrote Dash/$filename\n";
+
+# save percentages as JSON/Storable
+my $log_day = {
+	"chicks_overall_percent" => 0.1301,
+	"chicks_played_percent" => 0.2716
+};
+$percent_data->{$lastday_statsday} = $log_day;
+
+chdir($data_dir) or croak "couldn't get to $data_dir directory: $ERRNO"; 
+write_json($steam_percents_json_filename,$percent_data);
+write_storable($steam_percents_storable_filename,$percent_data);
+ 
