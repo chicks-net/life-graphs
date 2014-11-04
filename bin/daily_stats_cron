@@ -33,10 +33,10 @@ cd $STATS_DIR/../bin
 ./get_ebay
 
 echo -e "\ncharts:"
+./achieve_steam
 ./chart_ebay
 ./chart_rc5
 ./chart_steam
-./achieve_steam
 
 # commit
 echo ""
