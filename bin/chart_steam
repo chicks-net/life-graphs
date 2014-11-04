@@ -123,7 +123,7 @@ $chart = Chart::Strip->new( title => "Steam Achievement Percentages", width => $
 $chart->add_data(\@data_completion_rate, { style => 'line', label => 'Avg. Completion Percentage Steam', color => $color_set[3] });
 $chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => $color_set[4] });
 $chart->add_data(\@data_percent_chicks_played, { style => 'line', label => 'Avg. Completion Percentage Chicks played', color => $color_set[2] });
-$chart->add_data(\@data_percent_chicks_overall, { style => 'line', label => 'Avg. Completion Percentage Chicks overall', color => $color_set[5] });
+$chart->add_data(\@data_percent_chicks_overall, { style => 'line', label => 'Avg. Completion Percentage Chicks overall', color => $color_set[1] });
 
 $filename = "steam_achievement_percentage.png";
 write_file($filename,$chart->png());  
