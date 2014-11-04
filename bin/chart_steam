@@ -20,8 +20,8 @@ my @color_set = @{ color_set('fini1') };
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
 my $data = get_storable("$data_dir/$steam_storable_filename",1);
-my $steam_percents_storable_filename = 'steam.storable';
-my $percent_data = get_storable("$data_dir/$steam_storable_filename",1);
+my $steam_percents_storable_filename = 'steam_percents.storable';
+my $percent_data = get_storable("$data_dir/$steam_percents_storable_filename",1);
 
 # loop through history and build data slices
 my @data_achievements;
@@ -98,6 +98,7 @@ foreach my $day ( sort keys %{ $percent_data } ) {
 	my $unix_seconds = $day_obj->epoch();
 
 	my $metric = $percent_data->{$day}->{'chicks_overall_percent'};
+	die "no data for $day for percents" unless defined $metric;
 	my $data_item = { time => $unix_seconds, value => $metric };
 	push (@data_percent_chicks_overall, $data_item);
 
@@ -105,6 +106,8 @@ foreach my $day ( sort keys %{ $percent_data } ) {
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_percent_chicks_played, $data_item);
 }
+
+#die Dumper( \@data_percent_chicks_overall, \@data_percent_chicks_played );
 
 #
 # build charts
