@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-87 out of 103 games have achievements.
-13.01% achieved overall. 27.16% achieved in games played.
+88 out of 104 games have achievements.
+12.89% achieved overall. 27.16% achieved in games played.
 
 
 
@@ -61,6 +61,7 @@ Steam Achievements
 | 0.0% | Dungeon Defenders | 0 | 0 | 104 | und |
 | 0.0% | Flatout 3 | 0 | 0 | 46 | und |
 | 0.0% | Galcon Fusion | 0 | 0 | 136 | und |
+| 0.0% | Goat Simulator | 0 | 0 | 47 | und |
 | 0.0% | Guns of Icarus Online | 0 | 0 | 466 | und |
 | 0.0% | Half-Life 2: Episode One | 0 | 0 | 13 | und |
 | 0.0% | Half-Life 2: Episode Two | 0 | 0 | 22 | und |
