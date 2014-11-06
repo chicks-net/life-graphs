@@ -88,6 +88,10 @@ foreach my $game (@sorted_games) {
 		$played_count++;
 		$played_perc_accumulator += $perc;
 	}
+	my $display_hours = $hours;
+	if ($hours > 10) {
+		$display_hours = "**$hours**";
+	}
 
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
@@ -106,7 +110,7 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = 'und';
 	}
 
-	$table_content .= "| $display_perc | $display_achievements | $name | $hours | $achieve_efficiency |\n";
+	$table_content .= "| $display_perc | $display_achievements | $name | $display_hours | $achieve_efficiency |\n";
 }
 $table_content .= "\n\n";
 

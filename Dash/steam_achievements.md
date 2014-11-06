@@ -10,25 +10,25 @@ Steam Achievements
 | ------------------: | :----------: | ---- | -----------: | --------------------: |
 | 100.0% | 5 / 5 | Free to Play | 4.4 | *0.88* |
 | 100.0% | 6 / 6 | Hexcells | 5.3 | *0.88* |
-| 90.0% | 27 / 30 | Faerie Solitaire | 28 | *1.04* |
-| 85.7% | 6 / 7 | Hexcells Infinite | 27 | 4.50 |
-| 83.3% | 5 / 6 | Hexcells Plus | 26 | 5.20 |
-| 79.5% | 31 / 39 | Train Fever | 300 | 9.68 |
+| 90.0% | 27 / 30 | Faerie Solitaire | **28** | *1.04* |
+| 85.7% | 6 / 7 | Hexcells Infinite | **27** | 4.50 |
+| 83.3% | 5 / 6 | Hexcells Plus | **26** | 5.20 |
+| 79.5% | 31 / 39 | Train Fever | **300** | 9.68 |
 | 75.0% | 9 / 12 | Type:Rider | 5.1 | *0.57* |
-| 72.4% | 55 / 76 | Shufflepuck Cantina Deluxe | 56 | *1.02* |
+| 72.4% | 55 / 76 | Shufflepuck Cantina Deluxe | **56** | *1.02* |
 | 60.0% | 12 / 20 | Poker Night at the Inventory | 3.8 | **0.32** |
-| 50.0% | 5 / 10 | rymdkapsel | 10.1 | 2.02 |
-| 43.3% | 222 / 513 | Team Fortress 2 | 686 | 3.09 |
-| 40.0% | 20 / 50 | Tomb Raider | 30 | 1.50 |
+| 50.0% | 5 / 10 | rymdkapsel | **10.1** | 2.02 |
+| 43.3% | 222 / 513 | Team Fortress 2 | **686** | 3.09 |
+| 40.0% | 20 / 50 | Tomb Raider | **30** | 1.50 |
 | 36.4% | 4 / 11 | Zen Bound® 2 | 6.4 | 1.60 |
-| 35.3% | 30 / 85 | XCOM: Enemy Unknown | 50 | 1.67 |
+| 35.3% | 30 / 85 | XCOM: Enemy Unknown | **50** | 1.67 |
 | 32.3% | 21 / 65 | Defense Grid 2 | 5.0 | **0.24** |
 | 30.8% | 8 / 26 | BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien | 6.6 | *0.82* |
 | 30.1% | 28 / 93 | Cube & Star: An Arbitrary Love | 1.4 | **0.05** |
 | 27.3% | 12 / 44 | Cubemen | 0.7 | **0.06** |
-| 27.3% | 9 / 33 | Half-Life 2 | 10.3 | *1.14* |
+| 27.3% | 9 / 33 | Half-Life 2 | **10.3** | *1.14* |
 | 25.9% | 7 / 27 | POSTAL | 0.6 | **0.09** |
-| 23.8% | 5 / 21 | Plants vs. Zombies: Game of the Year | 27 | 5.40 |
+| 23.8% | 5 / 21 | Plants vs. Zombies: Game of the Year | **27** | 5.40 |
 | 22.7% | 5 / 22 | Sparkle 2 Evo | 0.3 | **0.06** |
 | 19.1% | 9 / 47 | Cities in Motion | 7.9 | *0.88* |
 | 18.8% | 3 / 16 | Frozen Synapse | 1.1 | **0.37** |
@@ -50,7 +50,7 @@ Steam Achievements
 | 1.8% | 3 / 167 | Counter-Strike: Global Offensive | 0.9 | **0.30** |
 | 1.4% | 1 / 69 | Borderlands 2 | 1.4 | *1.40* |
 | 0.0% | 0 / 35 | Anna - Extended Edition | 1.5 | und |
-| 0.0% | 0 / 13 | Bad Hotel | 13.9 | und |
+| 0.0% | 0 / 13 | Bad Hotel | **13.9** | und |
 | 0.0% | 0 / 51 | Cities in Motion 2 | 8.1 | und |
 | 0.0% | 0 / 8 | Closure | 0 | und |
 | 0.0% | 0 / 147 | Counter-Strike: Source | 0 | und |
