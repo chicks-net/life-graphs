@@ -23,9 +23,14 @@ my $content =
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
 my $data = get_storable("$data_dir/$steam_storable_filename",1);
+
 my $steam_percents_storable_filename = 'steam_percents.storable';
 my $steam_percents_json_filename = 'steam_percents.json';
 my $percent_data = get_storable("$data_dir/$steam_percents_storable_filename",1);
+
+my $steam_games_storable_filename = 'steam_games.storable';
+my $steam_games_json_filename = 'steam_games.json';
+my $games_data = get_storable("$data_dir/$steam_games_storable_filename",1);
 
 my $lastday;
 my $lastday_statsday;
@@ -93,6 +98,13 @@ foreach my $game (@sorted_games) {
 		$display_hours = "**$hours**";
 	}
 
+	my $display_name = '';
+	my $url_achievements = $games_data->{$name}->{url_achievements};
+	my $url_logo = $games_data->{$name}->{url_logo};
+	my $url_store = $games_data->{$name}->{url_store};
+	$display_name .= "[ ![logo links to store]($url_logo) ]($url_store) ";
+	$display_name .= "[$name]($url_achievements)";
+
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
 		$achieve_efficiency = $hours/$achievements_current;
@@ -110,7 +122,7 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = 'und';
 	}
 
-	$table_content .= "| $display_perc | $display_achievements | $name | $display_hours | $achieve_efficiency |\n";
+	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency |\n";
 }
 $table_content .= "\n\n";
 
