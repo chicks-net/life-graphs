@@ -1,0 +1,1334 @@
+{
+   "Aerena" : {
+      "app_id" : "247830",
+      "name" : "Aerena",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/247830/9ad5927dda09bbca2e2f2fc1f05abe49099bb0b6.jpg",
+      "url_store" : "http://store.steampowered.com/app/247830/"
+   },
+   "Anna - Extended Edition" : {
+      "achievements" : true,
+      "app_id" : "217690",
+      "global_achievements" : true,
+      "name" : "Anna - Extended Edition",
+      "name_short" : "Anna",
+      "url_achievements" : "http://steamcommunity.com/stats/Anna/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/217690/c7d2d87065728b276fabc69db36ec6f409c5d112.jpg",
+      "url_store" : "http://store.steampowered.com/app/217690/"
+   },
+   "Anodyne" : {
+      "achievements" : true,
+      "app_id" : "234900",
+      "global_achievements" : true,
+      "name" : "Anodyne",
+      "name_short" : "234900",
+      "url_achievements" : "http://steamcommunity.com/stats/234900/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/ce8d28352178a7c4911f22000bce4cc76f58c80d.jpg",
+      "url_store" : "http://store.steampowered.com/app/234900/"
+   },
+   "Anomaly Warzone Earth" : {
+      "achievements" : true,
+      "app_id" : "91200",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Anomaly Warzone Earth",
+      "name_short" : "AnomalyWarZoneEarth",
+      "url_achievements" : "http://steamcommunity.com/stats/AnomalyWarZoneEarth/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91200/9b71353b7e93eb3c82ca5f35d4d7241c8f545a07.jpg",
+      "url_store" : "http://store.steampowered.com/app/91200/"
+   },
+   "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
+      "achievements" : true,
+      "app_id" : "218060",
+      "global_achievements" : true,
+      "name" : "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
+      "name_short" : "BITTRIPPresentsRunner2FutureLegendofRhythmAlien",
+      "url_achievements" : "http://steamcommunity.com/stats/BITTRIPPresentsRunner2FutureLegendofRhythmAlien/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218060/668226870f69db2ac9c1044cf62464d719d51ce3.jpg",
+      "url_store" : "http://store.steampowered.com/app/218060/"
+   },
+   "Bad Hotel" : {
+      "achievements" : true,
+      "app_id" : "231720",
+      "global_achievements" : true,
+      "name" : "Bad Hotel",
+      "name_short" : "231720",
+      "url_achievements" : "http://steamcommunity.com/stats/231720/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/231720/28a4894c618ad5644feb1778d60fc7d38bbb3b52.jpg",
+      "url_store" : "http://store.steampowered.com/app/231720/"
+   },
+   "Borderlands 2" : {
+      "achievements" : true,
+      "app_id" : "49520",
+      "global_achievements" : true,
+      "name" : "Borderlands 2",
+      "name_short" : "Borderlands2",
+      "url_achievements" : "http://steamcommunity.com/stats/Borderlands2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg",
+      "url_store" : "http://store.steampowered.com/app/49520/"
+   },
+   "Cities in Motion" : {
+      "achievements" : true,
+      "app_id" : "73010",
+      "global_achievements" : true,
+      "name" : "Cities in Motion",
+      "name_short" : "CitiesInMotion",
+      "url_achievements" : "http://steamcommunity.com/stats/CitiesInMotion/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/73010/d768b8afb0b4bd3f5408c6354efce98b917b2e0e.jpg",
+      "url_store" : "http://store.steampowered.com/app/73010/"
+   },
+   "Cities in Motion 2" : {
+      "achievements" : true,
+      "app_id" : "225420",
+      "global_achievements" : true,
+      "name" : "Cities in Motion 2",
+      "name_short" : "225420",
+      "url_achievements" : "http://steamcommunity.com/stats/225420/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/225420/199b0db2bcc736d44bc1a605377cce9687b35c0e.jpg",
+      "url_store" : "http://store.steampowered.com/app/225420/"
+   },
+   "Closure" : {
+      "achievements" : true,
+      "app_id" : "72000",
+      "global_achievements" : true,
+      "name" : "Closure",
+      "name_short" : "72000",
+      "url_achievements" : "http://steamcommunity.com/stats/72000/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/6e01635915c7a052c64c81f1408844a596917d2e.jpg",
+      "url_store" : "http://store.steampowered.com/app/72000/"
+   },
+   "Conquest of Elysium 3" : {
+      "app_id" : "211900",
+      "name" : "Conquest of Elysium 3",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/211900/8c92472e79d32778bd944765ce8019d9ca54c628.jpg",
+      "url_store" : "http://store.steampowered.com/app/211900/"
+   },
+   "Counter-Strike" : {
+      "achievements" : true,
+      "app_id" : "10",
+      "global_achievements" : true,
+      "name" : "Counter-Strike",
+      "name_short" : "10",
+      "url_achievements" : "http://steamcommunity.com/stats/10/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/10/af890f848dd606ac2fd4415de3c3f5e7a66fcb9f.jpg",
+      "url_store" : "http://store.steampowered.com/app/10/"
+   },
+   "Counter-Strike: Condition Zero" : {
+      "app_id" : "80",
+      "name" : "Counter-Strike: Condition Zero",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/80/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg",
+      "url_store" : "http://store.steampowered.com/app/80/"
+   },
+   "Counter-Strike: Condition Zero Deleted Scenes" : {
+      "app_id" : "100",
+      "name" : "Counter-Strike: Condition Zero Deleted Scenes",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/100/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg",
+      "url_store" : "http://store.steampowered.com/app/100/"
+   },
+   "Counter-Strike: Global Offensive" : {
+      "achievements" : true,
+      "app_id" : "730",
+      "global_achievements" : true,
+      "name" : "Counter-Strike: Global Offensive",
+      "name_short" : "CSGO",
+      "url_achievements" : "http://steamcommunity.com/stats/CSGO/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg",
+      "url_store" : "http://store.steampowered.com/app/730/"
+   },
+   "Counter-Strike: Source" : {
+      "achievements" : true,
+      "app_id" : "240",
+      "global_achievements" : true,
+      "name" : "Counter-Strike: Source",
+      "name_short" : "CS:S",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/CS:S/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/240/ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283.jpg",
+      "url_store" : "http://store.steampowered.com/app/240/"
+   },
+   "Cube & Star: An Arbitrary Love" : {
+      "achievements" : true,
+      "app_id" : "261960",
+      "global_achievements" : true,
+      "name" : "Cube & Star: An Arbitrary Love",
+      "name_short" : "261960",
+      "url_achievements" : "http://steamcommunity.com/stats/261960/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261960/48ce158aaad9dbb68f267e012f953e73232d75a9.jpg",
+      "url_store" : "http://store.steampowered.com/app/261960/"
+   },
+   "Cubemen" : {
+      "achievements" : true,
+      "app_id" : "207250",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Cubemen",
+      "name_short" : "Cubemen",
+      "url_achievements" : "http://steamcommunity.com/stats/Cubemen/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207250/f4bf7f1d60e84f223a053089b10c820c2e3abf06.jpg",
+      "url_store" : "http://store.steampowered.com/app/207250/"
+   },
+   "DEFCON" : {
+      "achievements" : true,
+      "app_id" : "1520",
+      "global_achievements" : true,
+      "name" : "DEFCON",
+      "name_short" : "DEFCON",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/DEFCON/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1520/60168302dfbcd5edd5ff2ddad9dc50b47d5669c8.jpg",
+      "url_store" : "http://store.steampowered.com/app/1520/"
+   },
+   "Darwinia" : {
+      "app_id" : "1500",
+      "name" : "Darwinia",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1500/95d9dcf203e92facca106dc081824673850ad024.jpg",
+      "url_store" : "http://store.steampowered.com/app/1500/"
+   },
+   "Day of Defeat" : {
+      "achievements" : true,
+      "app_id" : "30",
+      "global_achievements" : true,
+      "name" : "Day of Defeat",
+      "name_short" : "30",
+      "url_achievements" : "http://steamcommunity.com/stats/30/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/30/beff21c4d29d2579e794c930bae599cd0c8a8f17.jpg",
+      "url_store" : "http://store.steampowered.com/app/30/"
+   },
+   "Day of Defeat: Source" : {
+      "achievements" : true,
+      "app_id" : "300",
+      "global_achievements" : true,
+      "name" : "Day of Defeat: Source",
+      "name_short" : "DOD:S",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/DOD:S/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300/e3a4313690bd551495a88e1c01951eb26cec7611.jpg",
+      "url_store" : "http://store.steampowered.com/app/300/"
+   },
+   "Deathmatch Classic" : {
+      "app_id" : "40",
+      "name" : "Deathmatch Classic",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40/4bb69695ef9d0ae73e73488fb6456aa4ea1215fa.jpg",
+      "url_store" : "http://store.steampowered.com/app/40/"
+   },
+   "Defender's Quest: Valley of the Forgotten" : {
+      "achievements" : true,
+      "app_id" : "218410",
+      "global_achievements" : true,
+      "name" : "Defender's Quest: Valley of the Forgotten",
+      "name_short" : "DefendersQuestValleyoftheForgotten",
+      "url_achievements" : "http://steamcommunity.com/stats/DefendersQuestValleyoftheForgotten/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218410/3e5786ed9ebf609dfc6e82478acaac05252a692c.jpg",
+      "url_store" : "http://store.steampowered.com/app/218410/"
+   },
+   "Defense Grid 2" : {
+      "achievements" : true,
+      "app_id" : "221540",
+      "global_achievements" : true,
+      "name" : "Defense Grid 2",
+      "name_short" : "DefenseGrid2",
+      "url_achievements" : "http://steamcommunity.com/stats/DefenseGrid2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221540/ea60dcb1d2894b60197da68f841fd41004fbdd89.jpg",
+      "url_store" : "http://store.steampowered.com/app/221540/"
+   },
+   "Defense Grid 2: A Matter of Endurance" : {
+      "app_id" : "312860",
+      "name" : "Defense Grid 2: A Matter of Endurance",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/312860/892149432bcaa05f5b74d69be44da7c5bc8b3f5d.jpg",
+      "url_store" : "http://store.steampowered.com/app/312860/"
+   },
+   "Democracy 3" : {
+      "achievements" : true,
+      "app_id" : "245470",
+      "global_achievements" : true,
+      "name" : "Democracy 3",
+      "name_short" : "245470",
+      "url_achievements" : "http://steamcommunity.com/stats/245470/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245470/4c2e14499c3cbda796994a00586f7d384fa1a56b.jpg",
+      "url_store" : "http://store.steampowered.com/app/245470/"
+   },
+   "Don't Starve" : {
+      "app_id" : "219740",
+      "name" : "Don't Starve",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/219740/46cbbc2fcb14eb0bbbbaebbdf0b1e0eaf6f4c646.jpg",
+      "url_store" : "http://store.steampowered.com/app/219740/"
+   },
+   "Don't Starve Reign of Giants" : {
+      "app_id" : "282470",
+      "name" : "Don't Starve Reign of Giants",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/282470/4273eeb0657945d87eca92a4fa9876eacbd8aeab.jpg",
+      "url_store" : "http://store.steampowered.com/app/282470/"
+   },
+   "Dota 2" : {
+      "app_id" : "570",
+      "name" : "Dota 2",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570/d4f836839254be08d8e9dd333ecc9a01782c26d2.jpg",
+      "url_store" : "http://store.steampowered.com/app/570/"
+   },
+   "Duke Nukem Forever" : {
+      "achievements" : true,
+      "app_id" : "57900",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Duke Nukem Forever",
+      "name_short" : "DukeNukemForever",
+      "url_achievements" : "http://steamcommunity.com/stats/DukeNukemForever/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/57900/a8d1246ad6962f0bfe9f59b1a314fcf53e712fd3.jpg",
+      "url_store" : "http://store.steampowered.com/app/57900/"
+   },
+   "Dungeon Defenders" : {
+      "achievements" : true,
+      "app_id" : "65800",
+      "global_achievements" : true,
+      "name" : "Dungeon Defenders",
+      "name_short" : "DungeonDefenders",
+      "url_achievements" : "http://steamcommunity.com/stats/DungeonDefenders/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/65800/71af270cff61ab197f9932212012134a436d9682.jpg",
+      "url_store" : "http://store.steampowered.com/app/65800/"
+   },
+   "Earth 2160" : {
+      "app_id" : "1900",
+      "name" : "Earth 2160",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1900/15b0300cc7774ce4c08f7f98bdfd4f2eeb142513.jpg",
+      "url_store" : "http://store.steampowered.com/app/1900/"
+   },
+   "Evolution RTS" : {
+      "app_id" : "291150",
+      "name" : "Evolution RTS",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/291150/14a335ad65e8429cb7e5a1c800615f03e462ff1a.jpg",
+      "url_store" : "http://store.steampowered.com/app/291150/"
+   },
+   "FTL: Faster Than Light" : {
+      "app_id" : "212680",
+      "name" : "FTL: Faster Than Light",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/975193db5ca8cc2a4c969cea8f80d93157264ec1.jpg",
+      "url_store" : "http://store.steampowered.com/app/212680/"
+   },
+   "Faerie Solitaire" : {
+      "achievements" : true,
+      "app_id" : "38600",
+      "global_achievements" : true,
+      "name" : "Faerie Solitaire",
+      "name_short" : "FaerieSolitaire",
+      "url_achievements" : "http://steamcommunity.com/stats/FaerieSolitaire/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg",
+      "url_store" : "http://store.steampowered.com/app/38600/"
+   },
+   "FlatOut" : {
+      "app_id" : "6220",
+      "name" : "FlatOut",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/6220/3475c9560d55d5bf116cbc42aa2b2ec846cda20e.jpg",
+      "url_store" : "http://store.steampowered.com/app/6220/"
+   },
+   "FlatOut 2" : {
+      "app_id" : "2990",
+      "name" : "FlatOut 2",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2990/00e8c539149cfaf690476ef7d55f7c4a26da6b3f.jpg",
+      "url_store" : "http://store.steampowered.com/app/2990/"
+   },
+   "FlatOut: Ultimate Carnage" : {
+      "app_id" : "12360",
+      "name" : "FlatOut: Ultimate Carnage",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12360/b78a799d55c2e71f38999e8b2cd6f042082d157a.jpg",
+      "url_store" : "http://store.steampowered.com/app/12360/"
+   },
+   "Flatout 3" : {
+      "achievements" : true,
+      "app_id" : "201510",
+      "global_achievements" : true,
+      "name" : "Flatout 3",
+      "name_short" : "Flatout3",
+      "url_achievements" : "http://steamcommunity.com/stats/Flatout3/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201510/5814de00c3af85ada78b826aa44cffcc828b3e0f.jpg",
+      "url_store" : "http://store.steampowered.com/app/201510/"
+   },
+   "Foul Play" : {
+      "achievements" : true,
+      "app_id" : "244810",
+      "global_achievements" : true,
+      "name" : "Foul Play",
+      "name_short" : "244810",
+      "url_achievements" : "http://steamcommunity.com/stats/244810/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/244810/833f5fa1b2b8a395b68a5e2757d2818734f53faa.jpg",
+      "url_store" : "http://store.steampowered.com/app/244810/"
+   },
+   "Free to Play" : {
+      "achievements" : true,
+      "app_id" : "245550",
+      "global_achievements" : true,
+      "name" : "Free to Play",
+      "name_short" : "245550",
+      "url_achievements" : "http://steamcommunity.com/stats/245550/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245550/98defd2daedb3910583439bffb12e0baeb20ff6c.jpg",
+      "url_store" : "http://store.steampowered.com/app/245550/"
+   },
+   "Frozen Synapse" : {
+      "achievements" : true,
+      "app_id" : "98200",
+      "global_achievements" : true,
+      "name" : "Frozen Synapse",
+      "name_short" : "FrozenSynapse",
+      "url_achievements" : "http://steamcommunity.com/stats/FrozenSynapse/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/98200/3b20447980b019783a4e37893660d1ce54893699.jpg",
+      "url_store" : "http://store.steampowered.com/app/98200/"
+   },
+   "Galcon Fusion" : {
+      "achievements" : true,
+      "app_id" : "44200",
+      "global_achievements" : true,
+      "name" : "Galcon Fusion",
+      "name_short" : "GalconFusion",
+      "url_achievements" : "http://steamcommunity.com/stats/GalconFusion/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/44200/664563d2b8c2d2fb66d8ab183d8689eb58073274.jpg",
+      "url_store" : "http://store.steampowered.com/app/44200/"
+   },
+   "Galcon Legends" : {
+      "achievements" : true,
+      "app_id" : "201040",
+      "global_achievements" : true,
+      "name" : "Galcon Legends",
+      "name_short" : "201040",
+      "url_achievements" : "http://steamcommunity.com/stats/201040/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg",
+      "url_store" : "http://store.steampowered.com/app/201040/"
+   },
+   "Garry's Mod" : {
+      "achievements" : true,
+      "app_id" : "4000",
+      "global_achievements" : true,
+      "name" : "Garry's Mod",
+      "name_short" : "GarrysMod",
+      "url_achievements" : "http://steamcommunity.com/stats/GarrysMod/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/dca12980667e32ab072d79f5dbe91884056a03a2.jpg",
+      "url_store" : "http://store.steampowered.com/app/4000/"
+   },
+   "Goat Simulator" : {
+      "achievements" : true,
+      "app_id" : "265930",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Goat Simulator",
+      "name_short" : "265930",
+      "url_achievements" : "http://steamcommunity.com/stats/265930/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265930/f116260f6858dda8a2e4c0ccedf270c8a24a0add.jpg",
+      "url_store" : "http://store.steampowered.com/app/265930/"
+   },
+   "Grand Theft Auto" : {
+      "achievements" : true,
+      "app_id" : "12170",
+      "global_achievements" : true,
+      "name" : "Grand Theft Auto",
+      "name_short" : "12170",
+      "url_achievements" : "http://steamcommunity.com/stats/12170/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12170/7aa48bc3166266e3eadc75603229c3423ee5fb77.jpg",
+      "url_store" : "http://store.steampowered.com/app/12170/"
+   },
+   "Grand Theft Auto 2" : {
+      "achievements" : true,
+      "app_id" : "12180",
+      "global_achievements" : true,
+      "name" : "Grand Theft Auto 2",
+      "name_short" : "12180",
+      "url_achievements" : "http://steamcommunity.com/stats/12180/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12180/2d694ee5a4f8ad23cbd20899e03481ef4a3a3c75.jpg",
+      "url_store" : "http://store.steampowered.com/app/12180/"
+   },
+   "Grand Theft Auto III" : {
+      "achievements" : true,
+      "app_id" : "12230",
+      "global_achievements" : true,
+      "name" : "Grand Theft Auto III",
+      "name_short" : "12230",
+      "url_achievements" : "http://steamcommunity.com/stats/12230/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12230/0e73825e3abd7bfe43b55a49bbcb862aee7c2e71.jpg",
+      "url_store" : "http://store.steampowered.com/app/12230/"
+   },
+   "Grand Theft Auto: San Andreas" : {
+      "achievements" : true,
+      "app_id" : "12250",
+      "global_achievements" : true,
+      "name" : "Grand Theft Auto: San Andreas",
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
+   },
+   "Grand Theft Auto: Vice City" : {
+      "achievements" : true,
+      "app_id" : "12110",
+      "global_achievements" : true,
+      "name" : "Grand Theft Auto: Vice City",
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
+   },
+   "Gratuitous Space Battles" : {
+      "app_id" : "41800",
+      "name" : "Gratuitous Space Battles",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41800/d77409d24f8d41331ccbe0efef2582c9703b56bc.jpg",
+      "url_store" : "http://store.steampowered.com/app/41800/"
+   },
+   "Guns of Icarus Online" : {
+      "achievements" : true,
+      "app_id" : "209080",
+      "global_achievements" : true,
+      "name" : "Guns of Icarus Online",
+      "name_short" : "209080",
+      "url_achievements" : "http://steamcommunity.com/stats/209080/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209080/925b7c2a6b698144622bed4bd2d0086114df2fa9.jpg",
+      "url_store" : "http://store.steampowered.com/app/209080/"
+   },
+   "Half-Life" : {
+      "achievements" : true,
+      "app_id" : "70",
+      "global_achievements" : true,
+      "name" : "Half-Life",
+      "name_short" : "70",
+      "url_achievements" : "http://steamcommunity.com/stats/70/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/70/6bd76ff700a8c7a5460fbae3cf60cb930279897d.jpg",
+      "url_store" : "http://store.steampowered.com/app/70/"
+   },
+   "Half-Life 2" : {
+      "achievements" : true,
+      "app_id" : "220",
+      "global_achievements" : true,
+      "name" : "Half-Life 2",
+      "name_short" : "HL2",
+      "url_achievements" : "http://steamcommunity.com/stats/HL2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220/e4ad9cf1b7dc8475c1118625daf9abd4bdcbcad0.jpg",
+      "url_store" : "http://store.steampowered.com/app/220/"
+   },
+   "Half-Life 2: Deathmatch" : {
+      "achievements" : true,
+      "app_id" : "320",
+      "global_achievements" : true,
+      "name" : "Half-Life 2: Deathmatch",
+      "name_short" : "320",
+      "url_achievements" : "http://steamcommunity.com/stats/320/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/320/6dd9f66771300f2252d411e50739a1ceae9e5b30.jpg",
+      "url_store" : "http://store.steampowered.com/app/320/"
+   },
+   "Half-Life 2: Episode One" : {
+      "achievements" : true,
+      "app_id" : "380",
+      "global_achievements" : true,
+      "name" : "Half-Life 2: Episode One",
+      "name_short" : "HL2:EP1",
+      "url_achievements" : "http://steamcommunity.com/stats/HL2:EP1/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/380/b5a666a961d8b39896887abbed3b78c2b837c238.jpg",
+      "url_store" : "http://store.steampowered.com/app/380/"
+   },
+   "Half-Life 2: Episode Two" : {
+      "achievements" : true,
+      "app_id" : "420",
+      "global_achievements" : true,
+      "name" : "Half-Life 2: Episode Two",
+      "name_short" : "HL2:EP2",
+      "url_achievements" : "http://steamcommunity.com/stats/HL2:EP2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/553e6a2e7a469dcbaada729baa1f5fd7764668df.jpg",
+      "url_store" : "http://store.steampowered.com/app/420/"
+   },
+   "Half-Life 2: Lost Coast" : {
+      "app_id" : "340",
+      "name" : "Half-Life 2: Lost Coast",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340/867cce5c4f37d5ed4aeffb57c60e220ddffe4134.jpg",
+      "url_store" : "http://store.steampowered.com/app/340/"
+   },
+   "Half-Life Deathmatch: Source" : {
+      "app_id" : "360",
+      "name" : "Half-Life Deathmatch: Source",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/360/9a5b7119d4e8977fffcd370d3c24036be7cee904.jpg",
+      "url_store" : "http://store.steampowered.com/app/360/"
+   },
+   "Half-Life: Blue Shift" : {
+      "app_id" : "130",
+      "name" : "Half-Life: Blue Shift",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/130/927d38e83e3e4ca218a0fc7b32515eeb99aa8ff7.jpg",
+      "url_store" : "http://store.steampowered.com/app/130/"
+   },
+   "Half-Life: Opposing Force" : {
+      "app_id" : "50",
+      "name" : "Half-Life: Opposing Force",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/50/bb696ddfd8f8ef0892d5f2154d8617528d3cc2ec.jpg",
+      "url_store" : "http://store.steampowered.com/app/50/"
+   },
+   "Half-Life: Source" : {
+      "achievements" : true,
+      "app_id" : "280",
+      "global_achievements" : true,
+      "name" : "Half-Life: Source",
+      "name_short" : "280",
+      "url_achievements" : "http://steamcommunity.com/stats/280/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280/a612dd944b768e55389140298dcfda2165db8ced.jpg",
+      "url_store" : "http://store.steampowered.com/app/280/"
+   },
+   "Heroes Rise: The Hero Project" : {
+      "achievements" : true,
+      "app_id" : "304290",
+      "global_achievements" : true,
+      "name" : "Heroes Rise: The Hero Project",
+      "name_short" : "304290",
+      "url_achievements" : "http://steamcommunity.com/stats/304290/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304290/132592a38e6246aca7b59a239c467c1fc70a960d.jpg",
+      "url_store" : "http://store.steampowered.com/app/304290/"
+   },
+   "Heroes Rise: The Prodigy" : {
+      "achievements" : true,
+      "app_id" : "299540",
+      "global_achievements" : true,
+      "name" : "Heroes Rise: The Prodigy",
+      "name_short" : "299540",
+      "url_achievements" : "http://steamcommunity.com/stats/299540/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299540/7bbdfdf2c01afc4070c0e2ba387c6883fbf10a12.jpg",
+      "url_store" : "http://store.steampowered.com/app/299540/"
+   },
+   "Hexcells" : {
+      "achievements" : true,
+      "app_id" : "265890",
+      "global_achievements" : true,
+      "name" : "Hexcells",
+      "name_short" : "265890",
+      "url_achievements" : "http://steamcommunity.com/stats/265890/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265890/55ca8524669d078bcab80a38a7f1246ffdaf4810.jpg",
+      "url_store" : "http://store.steampowered.com/app/265890/"
+   },
+   "Hexcells Infinite" : {
+      "achievements" : true,
+      "app_id" : "304410",
+      "global_achievements" : true,
+      "name" : "Hexcells Infinite",
+      "name_short" : "304410",
+      "url_achievements" : "http://steamcommunity.com/stats/304410/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/9945a26796013fcd5a5bc2602f5d5d573d417e8e.jpg",
+      "url_store" : "http://store.steampowered.com/app/304410/"
+   },
+   "Hexcells Plus" : {
+      "achievements" : true,
+      "app_id" : "271900",
+      "global_achievements" : true,
+      "name" : "Hexcells Plus",
+      "name_short" : "271900",
+      "url_achievements" : "http://steamcommunity.com/stats/271900/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg",
+      "url_store" : "http://store.steampowered.com/app/271900/"
+   },
+   "Influent" : {
+      "achievements" : true,
+      "app_id" : "274980",
+      "global_achievements" : true,
+      "name" : "Influent",
+      "name_short" : "274980",
+      "url_achievements" : "http://steamcommunity.com/stats/274980/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274980/aab113bb00901da04afd5e435cd1d0c18e5fa3f4.jpg",
+      "url_store" : "http://store.steampowered.com/app/274980/"
+   },
+   "Influent DLC - Français [Learn French]" : {
+      "app_id" : "286963",
+      "name" : "Influent DLC - Français [Learn French]",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/286963/044215a7ab9043b530bc7d657598eee9b3428f27.jpg",
+      "url_store" : "http://store.steampowered.com/app/286963/"
+   },
+   "Jack Lumber" : {
+      "achievements" : true,
+      "app_id" : "220900",
+      "global_achievements" : true,
+      "name" : "Jack Lumber",
+      "name_short" : "220900",
+      "url_achievements" : "http://steamcommunity.com/stats/220900/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220900/3f5aa1d546b5b82eedacbf8f5ae76ed46303a241.jpg",
+      "url_store" : "http://store.steampowered.com/app/220900/"
+   },
+   "LIMBO" : {
+      "achievements" : true,
+      "app_id" : "48000",
+      "global_achievements" : true,
+      "name" : "LIMBO",
+      "name_short" : "LIMBO",
+      "url_achievements" : "http://steamcommunity.com/stats/LIMBO/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/48000/9f35c3d64649a5a03b69d6a9218b1f77caf15025.jpg",
+      "url_store" : "http://store.steampowered.com/app/48000/"
+   },
+   "Left 4 Dead" : {
+      "achievements" : true,
+      "app_id" : "500",
+      "global_achievements" : true,
+      "name" : "Left 4 Dead",
+      "name_short" : "L4D",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/L4D/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500/0f67ee504d8f04ecd83986dd7855821dc21f7a78.jpg",
+      "url_store" : "http://store.steampowered.com/app/500/"
+   },
+   "Left 4 Dead 2" : {
+      "achievements" : true,
+      "app_id" : "550",
+      "global_achievements" : true,
+      "leaderboards" : true,
+      "name" : "Left 4 Dead 2",
+      "name_short" : "L4D2",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/L4D2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg",
+      "url_store" : "http://store.steampowered.com/app/550/"
+   },
+   "Lume" : {
+      "app_id" : "105100",
+      "name" : "Lume",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105100/42988bb9cfca2ba01d4982031db4a51e7471162c.jpg",
+      "url_store" : "http://store.steampowered.com/app/105100/"
+   },
+   "Magicka" : {
+      "achievements" : true,
+      "app_id" : "42910",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Magicka",
+      "name_short" : "Magicka",
+      "url_achievements" : "http://steamcommunity.com/stats/Magicka/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/42910/8c59c674ef40f59c3bafde8ff0d59b7994c66477.jpg",
+      "url_store" : "http://store.steampowered.com/app/42910/"
+   },
+   "Metro: Last Light" : {
+      "achievements" : true,
+      "app_id" : "43160",
+      "global_achievements" : true,
+      "name" : "Metro: Last Light",
+      "name_short" : "MetroLastLight",
+      "url_achievements" : "http://steamcommunity.com/stats/MetroLastLight/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/43160/b110ee3812ac0cad68505772019cf2bdc3ce1cc3.jpg",
+      "url_store" : "http://store.steampowered.com/app/43160/"
+   },
+   "Millie" : {
+      "achievements" : true,
+      "app_id" : "294230",
+      "global_achievements" : true,
+      "name" : "Millie",
+      "name_short" : "294230",
+      "url_achievements" : "http://steamcommunity.com/stats/294230/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/294230/71d23be6fd48e2470d887ff176f7d06652fecacb.jpg",
+      "url_store" : "http://store.steampowered.com/app/294230/"
+   },
+   "Mini Metro" : {
+      "achievements" : true,
+      "app_id" : "287980",
+      "global_achievements" : true,
+      "name" : "Mini Metro",
+      "name_short" : "287980",
+      "url_achievements" : "http://steamcommunity.com/stats/287980/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/cf5483bdef345f337035e078506a5e97497f484e.jpg",
+      "url_store" : "http://store.steampowered.com/app/287980/"
+   },
+   "Monaco" : {
+      "achievements" : true,
+      "app_id" : "113020",
+      "global_achievements" : true,
+      "name" : "Monaco",
+      "name_short" : "113020",
+      "url_achievements" : "http://steamcommunity.com/stats/113020/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/113020/60642017342ab7f3c924ee9d13b99702a50e5d9e.jpg",
+      "url_store" : "http://store.steampowered.com/app/113020/"
+   },
+   "MouseCraft" : {
+      "achievements" : true,
+      "app_id" : "252750",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "MouseCraft",
+      "name_short" : "252750",
+      "url_achievements" : "http://steamcommunity.com/stats/252750/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252750/be47ba3c037a6363432bb0659110ea4837f75a77.jpg",
+      "url_store" : "http://store.steampowered.com/app/252750/"
+   },
+   "Multiwinia" : {
+      "achievements" : true,
+      "app_id" : "1530",
+      "global_achievements" : true,
+      "name" : "Multiwinia",
+      "name_short" : "Multiwinia",
+      "url_achievements" : "http://steamcommunity.com/stats/Multiwinia/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1530/15f787b65336ac137afc31cf700fa69c018fc68d.jpg",
+      "url_store" : "http://store.steampowered.com/app/1530/"
+   },
+   "Nihilumbra" : {
+      "achievements" : true,
+      "app_id" : "252670",
+      "global_achievements" : true,
+      "name" : "Nihilumbra",
+      "name_short" : "252670",
+      "url_achievements" : "http://steamcommunity.com/stats/252670/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252670/437f8a33effb403cec3f83eac936b0fe47359deb.jpg",
+      "url_store" : "http://store.steampowered.com/app/252670/"
+   },
+   "Not The Robots" : {
+      "achievements" : true,
+      "app_id" : "257120",
+      "global_achievements" : true,
+      "name" : "Not The Robots",
+      "name_short" : "257120",
+      "url_achievements" : "http://steamcommunity.com/stats/257120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257120/30329248252b1e52ad34754cd005c23314361b6e.jpg",
+      "url_store" : "http://store.steampowered.com/app/257120/"
+   },
+   "Osmos" : {
+      "achievements" : true,
+      "app_id" : "29180",
+      "global_achievements" : true,
+      "name" : "Osmos",
+      "name_short" : "Osmos",
+      "url_achievements" : "http://steamcommunity.com/stats/Osmos/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/29180/d14a2097cad1a45fdb6eca2c22cc31d8dd133705.jpg",
+      "url_store" : "http://store.steampowered.com/app/29180/"
+   },
+   "POSTAL" : {
+      "achievements" : true,
+      "app_id" : "232770",
+      "global_achievements" : true,
+      "name" : "POSTAL",
+      "name_short" : "POSTAL",
+      "url_achievements" : "http://steamcommunity.com/stats/POSTAL/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/232770/4a16f584db0795c6a63064fcf3c4f62774dfc503.jpg",
+      "url_store" : "http://store.steampowered.com/app/232770/"
+   },
+   "Pivvot" : {
+      "achievements" : true,
+      "app_id" : "293900",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Pivvot",
+      "name_short" : "293900",
+      "url_achievements" : "http://steamcommunity.com/stats/293900/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293900/6ca0d50f403aaf991e0be341c9e2ec1994fe2148.jpg",
+      "url_store" : "http://store.steampowered.com/app/293900/"
+   },
+   "Planetary Annihilation" : {
+      "achievements" : true,
+      "app_id" : "233250",
+      "global_achievements" : true,
+      "name" : "Planetary Annihilation",
+      "name_short" : "233250",
+      "url_achievements" : "http://steamcommunity.com/stats/233250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233250/1781f1a8866bdaeb667b20474c580e4fb27a049d.jpg",
+      "url_store" : "http://store.steampowered.com/app/233250/"
+   },
+   "Planets Under Attack" : {
+      "achievements" : true,
+      "app_id" : "218510",
+      "global_achievements" : true,
+      "name" : "Planets Under Attack",
+      "name_short" : "218510",
+      "url_achievements" : "http://steamcommunity.com/stats/218510/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218510/3dec78a95af8aa5852a74c72638eeb2a8f36246b.jpg",
+      "url_store" : "http://store.steampowered.com/app/218510/"
+   },
+   "Plants vs. Zombies: Game of the Year" : {
+      "achievements" : true,
+      "app_id" : "3590",
+      "global_achievements" : true,
+      "name" : "Plants vs. Zombies: Game of the Year",
+      "name_short" : "PlantsVsZombies",
+      "url_achievements" : "http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg",
+      "url_store" : "http://store.steampowered.com/app/3590/"
+   },
+   "Poker Night at the Inventory" : {
+      "achievements" : true,
+      "app_id" : "31280",
+      "global_achievements" : true,
+      "name" : "Poker Night at the Inventory",
+      "name_short" : "PokerNight",
+      "url_achievements" : "http://steamcommunity.com/stats/PokerNight/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg",
+      "url_store" : "http://store.steampowered.com/app/31280/"
+   },
+   "Portal" : {
+      "achievements" : true,
+      "app_id" : "400",
+      "global_achievements" : true,
+      "name" : "Portal",
+      "name_short" : "Portal",
+      "url_achievements" : "http://steamcommunity.com/stats/Portal/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/4184d4c0d915bd3a45210667f7b25361352acd8f.jpg",
+      "url_store" : "http://store.steampowered.com/app/400/"
+   },
+   "Portal 2" : {
+      "achievements" : true,
+      "app_id" : "620",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Portal 2",
+      "name_short" : "Portal2",
+      "url_achievements" : "http://steamcommunity.com/stats/Portal2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620/d2a1119ddc202fab81d9b87048f495cbd6377502.jpg",
+      "url_store" : "http://store.steampowered.com/app/620/"
+   },
+   "Prison Architect" : {
+      "achievements" : true,
+      "app_id" : "233450",
+      "global_achievements" : true,
+      "name" : "Prison Architect",
+      "name_short" : "233450",
+      "url_achievements" : "http://steamcommunity.com/stats/233450/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg",
+      "url_store" : "http://store.steampowered.com/app/233450/"
+   },
+   "Puddle" : {
+      "achievements" : true,
+      "app_id" : "222140",
+      "global_achievements" : true,
+      "name" : "Puddle",
+      "name_short" : "222140",
+      "url_achievements" : "http://steamcommunity.com/stats/222140/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/222140/0b4cd8c8ce4f36ed1768be52db447ce0cdf1ae8e.jpg",
+      "url_store" : "http://store.steampowered.com/app/222140/"
+   },
+   "Puzzle Agent" : {
+      "app_id" : "31270",
+      "name" : "Puzzle Agent",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31270/f1bd7dd0bae1026b17c61a605a567ed68e683fef.jpg",
+      "url_store" : "http://store.steampowered.com/app/31270/"
+   },
+   "ROCKETSROCKETSROCKETS" : {
+      "achievements" : true,
+      "app_id" : "289760",
+      "global_achievements" : true,
+      "name" : "ROCKETSROCKETSROCKETS",
+      "name_short" : "289760",
+      "url_achievements" : "http://steamcommunity.com/stats/289760/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289760/0bad8961f8f42aba63458655fcd7e93ae6a60b6e.jpg",
+      "url_store" : "http://store.steampowered.com/app/289760/"
+   },
+   "Race The Sun" : {
+      "achievements" : true,
+      "app_id" : "253030",
+      "global_achievements" : true,
+      "name" : "Race The Sun",
+      "name_short" : "253030",
+      "url_achievements" : "http://steamcommunity.com/stats/253030/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253030/ff0d04cb05dc03ec4b9a136d6b35b00166c475fc.jpg",
+      "url_store" : "http://store.steampowered.com/app/253030/"
+   },
+   "Revenge of the Titans" : {
+      "achievements" : true,
+      "app_id" : "93200",
+      "global_achievements" : true,
+      "name" : "Revenge of the Titans",
+      "name_short" : "93200",
+      "url_achievements" : "http://steamcommunity.com/stats/93200/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/93200/68ebad4132877c76e07d9866e4b20f2067ad4942.jpg",
+      "url_store" : "http://store.steampowered.com/app/93200/"
+   },
+   "Ricochet" : {
+      "achievements" : true,
+      "app_id" : "60",
+      "global_achievements" : true,
+      "name" : "Ricochet",
+      "name_short" : "60",
+      "url_achievements" : "http://steamcommunity.com/stats/60/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/60/f7a039402735c2dea82cbd412340873535e2be4c.jpg",
+      "url_store" : "http://store.steampowered.com/app/60/"
+   },
+   "Rock of Ages" : {
+      "achievements" : true,
+      "app_id" : "22230",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Rock of Ages",
+      "name_short" : "RockOfAges",
+      "url_achievements" : "http://steamcommunity.com/stats/RockOfAges/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22230/4df41d2c1847cf8cba4d9603ff1e36a5a9b77fc9.jpg",
+      "url_store" : "http://store.steampowered.com/app/22230/"
+   },
+   "RollerCoaster Tycoon 3: Platinum!" : {
+      "achievements" : true,
+      "app_id" : "2700",
+      "global_achievements" : true,
+      "name" : "RollerCoaster Tycoon 3: Platinum!",
+      "name_short" : "2700",
+      "url_achievements" : "http://steamcommunity.com/stats/2700/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2700/7addd959192ec30a7c34793440c4ae16b59914b1.jpg",
+      "url_store" : "http://store.steampowered.com/app/2700/"
+   },
+   "Sanctum" : {
+      "achievements" : true,
+      "app_id" : "91600",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Sanctum",
+      "name_short" : "Sanctum",
+      "url_achievements" : "http://steamcommunity.com/stats/Sanctum/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91600/d63198590c7bab5a332327a54f8ed0a00ac4b0d3.jpg",
+      "url_store" : "http://store.steampowered.com/app/91600/"
+   },
+   "Sentinel" : {
+      "achievements" : true,
+      "app_id" : "293200",
+      "global_achievements" : true,
+      "name" : "Sentinel",
+      "name_short" : "293200",
+      "url_achievements" : "http://steamcommunity.com/stats/293200/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg",
+      "url_store" : "http://store.steampowered.com/app/293200/"
+   },
+   "Serious Sam 3: BFE" : {
+      "achievements" : true,
+      "app_id" : "41070",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Serious Sam 3: BFE",
+      "name_short" : "SeriousSam3BFE",
+      "url_achievements" : "http://steamcommunity.com/stats/SeriousSam3BFE/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41070/cc3a3c30187b5fbbd0a8861ad08b4f7d779ba239.jpg",
+      "url_store" : "http://store.steampowered.com/app/41070/"
+   },
+   "Shufflepuck Cantina Deluxe" : {
+      "achievements" : true,
+      "app_id" : "259510",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Shufflepuck Cantina Deluxe",
+      "name_short" : "259510",
+      "url_achievements" : "http://steamcommunity.com/stats/259510/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/877b5d4dafe578f3d8c4562e4232d342319c1ce3.jpg",
+      "url_store" : "http://store.steampowered.com/app/259510/"
+   },
+   "Sid Meier's Civilization IV" : {
+      "app_id" : "3900",
+      "name" : "Sid Meier's Civilization IV",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3900/e70f5d6e71dd9e3541163d6324ceb7c283345f03.jpg",
+      "url_store" : "http://store.steampowered.com/app/3900/"
+   },
+   "Signal Ops" : {
+      "achievements" : true,
+      "app_id" : "257770",
+      "global_achievements" : true,
+      "name" : "Signal Ops",
+      "name_short" : "257770",
+      "url_achievements" : "http://steamcommunity.com/stats/257770/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257770/62b3e57fa76d22963a1fdccb6faea6ec5d114597.jpg",
+      "url_store" : "http://store.steampowered.com/app/257770/"
+   },
+   "Sparkle 2 Evo" : {
+      "achievements" : true,
+      "app_id" : "253650",
+      "global_achievements" : true,
+      "name" : "Sparkle 2 Evo",
+      "name_short" : "253650",
+      "url_achievements" : "http://steamcommunity.com/stats/253650/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253650/24398d6a9580d1ba33f54dc73b04a9f79ae4c935.jpg",
+      "url_store" : "http://store.steampowered.com/app/253650/"
+   },
+   "Spy Chameleon - RGB Agent" : {
+      "achievements" : true,
+      "app_id" : "297490",
+      "global_achievements" : true,
+      "name" : "Spy Chameleon - RGB Agent",
+      "name_short" : "297490",
+      "url_achievements" : "http://steamcommunity.com/stats/297490/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg",
+      "url_store" : "http://store.steampowered.com/app/297490/"
+   },
+   "Surgeon Simulator" : {
+      "achievements" : true,
+      "app_id" : "233720",
+      "global_achievements" : true,
+      "name" : "Surgeon Simulator",
+      "name_short" : "233720",
+      "url_achievements" : "http://steamcommunity.com/stats/233720/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg",
+      "url_store" : "http://store.steampowered.com/app/233720/"
+   },
+   "Team Fortress 2" : {
+      "achievements" : true,
+      "app_id" : "440",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Team Fortress 2",
+      "name_short" : "TF2",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/TF2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg",
+      "url_store" : "http://store.steampowered.com/app/440/"
+   },
+   "Team Fortress Classic" : {
+      "achievements" : true,
+      "app_id" : "20",
+      "global_achievements" : true,
+      "name" : "Team Fortress Classic",
+      "name_short" : "20",
+      "url_achievements" : "http://steamcommunity.com/stats/20/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/20/515bc393c861d91b9165f0697040c015f50bcb5e.jpg",
+      "url_store" : "http://store.steampowered.com/app/20/"
+   },
+   "The Bridge" : {
+      "achievements" : true,
+      "app_id" : "204240",
+      "global_achievements" : true,
+      "name" : "The Bridge",
+      "name_short" : "TheBridge",
+      "url_achievements" : "http://steamcommunity.com/stats/TheBridge/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/204240/112da2a1e4e4e7e86f07f6aafc7d5866edb55871.jpg",
+      "url_store" : "http://store.steampowered.com/app/204240/"
+   },
+   "The Bureau: XCOM Declassified" : {
+      "achievements" : true,
+      "app_id" : "65930",
+      "global_achievements" : true,
+      "name" : "The Bureau: XCOM Declassified",
+      "name_short" : "65930",
+      "url_achievements" : "http://steamcommunity.com/stats/65930/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/65930/52da3125ac55d5d1406c610f7e8c78755f0752ff.jpg",
+      "url_store" : "http://store.steampowered.com/app/65930/"
+   },
+   "The Bureau: XCOM Declassified - Code Breakers" : {
+      "app_id" : "66000",
+      "name" : "The Bureau: XCOM Declassified - Code Breakers",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/66000/6f76b618e8eb2cabaf8204c38658109611c55c0e.jpg",
+      "url_store" : "http://store.steampowered.com/app/66000/"
+   },
+   "The Bureau: XCOM Declassified - Light Plasma Pistol" : {
+      "app_id" : "66001",
+      "name" : "The Bureau: XCOM Declassified - Light Plasma Pistol",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/66001/bf222939ea63a50409d09e01c285b2fc23b7b1df.jpg",
+      "url_store" : "http://store.steampowered.com/app/66001/"
+   },
+   "The Bureau: XCOM Hangar 6 R&D" : {
+      "app_id" : "66002",
+      "name" : "The Bureau: XCOM Hangar 6 R&D",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/66002/918e66597ba39848728dfe3c5bcdb4301d7701c9.jpg",
+      "url_store" : "http://store.steampowered.com/app/66002/"
+   },
+   "Tomb Raider" : {
+      "achievements" : true,
+      "app_id" : "203160",
+      "global_achievements" : true,
+      "name" : "Tomb Raider",
+      "name_short" : "TombRaider",
+      "url_achievements" : "http://steamcommunity.com/stats/TombRaider/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg",
+      "url_store" : "http://store.steampowered.com/app/203160/"
+   },
+   "Tower Wars" : {
+      "achievements" : true,
+      "app_id" : "214360",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Tower Wars",
+      "name_short" : "TowerWars",
+      "stats" : true,
+      "url_achievements" : "http://steamcommunity.com/stats/TowerWars/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214360/4c0065c5489898d092bf778632529efcab3a8b1e.jpg",
+      "url_store" : "http://store.steampowered.com/app/214360/"
+   },
+   "Train Fever" : {
+      "achievements" : true,
+      "app_id" : "304730",
+      "global_achievements" : true,
+      "name" : "Train Fever",
+      "name_short" : "304730",
+      "url_achievements" : "http://steamcommunity.com/stats/304730/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg",
+      "url_store" : "http://store.steampowered.com/app/304730/"
+   },
+   "Trine" : {
+      "achievements" : true,
+      "app_id" : "35700",
+      "global_achievements" : true,
+      "name" : "Trine",
+      "name_short" : "Trine",
+      "url_achievements" : "http://steamcommunity.com/stats/Trine/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35700/b4cc556db2d1101effb23e576aaeeb3b799157c6.jpg",
+      "url_store" : "http://store.steampowered.com/app/35700/"
+   },
+   "Trine 2" : {
+      "achievements" : true,
+      "app_id" : "35720",
+      "global_achievements" : true,
+      "name" : "Trine 2",
+      "name_short" : "Trine2",
+      "url_achievements" : "http://steamcommunity.com/stats/Trine2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35720/7d7c3b93bd85ad1db2a07f6cca01a767069c6407.jpg",
+      "url_store" : "http://store.steampowered.com/app/35720/"
+   },
+   "Turbo Dismount" : {
+      "achievements" : true,
+      "app_id" : "263760",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Turbo Dismount",
+      "name_short" : "263760",
+      "url_achievements" : "http://steamcommunity.com/stats/263760/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg",
+      "url_store" : "http://store.steampowered.com/app/263760/"
+   },
+   "Type:Rider" : {
+      "achievements" : true,
+      "app_id" : "258890",
+      "global_achievements" : true,
+      "name" : "Type:Rider",
+      "name_short" : "258890",
+      "url_achievements" : "http://steamcommunity.com/stats/258890/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg",
+      "url_store" : "http://store.steampowered.com/app/258890/"
+   },
+   "Uplink" : {
+      "app_id" : "1510",
+      "name" : "Uplink",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1510/80982651e79b8556f04e0c0012e65f7c9b6850f2.jpg",
+      "url_store" : "http://store.steampowered.com/app/1510/"
+   },
+   "Wargame: AirLand Battle" : {
+      "achievements" : true,
+      "app_id" : "222750",
+      "global_achievements" : true,
+      "name" : "Wargame: AirLand Battle",
+      "name_short" : "WargameAirLandBattle",
+      "url_achievements" : "http://steamcommunity.com/stats/WargameAirLandBattle/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/222750/bc701f85f00f6f72e759423fb508c082abb33318.jpg",
+      "url_store" : "http://store.steampowered.com/app/222750/"
+   },
+   "Wargame: European Escalation" : {
+      "achievements" : true,
+      "app_id" : "58610",
+      "global_achievements" : true,
+      "name" : "Wargame: European Escalation",
+      "name_short" : "58610",
+      "url_achievements" : "http://steamcommunity.com/stats/58610/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/58610/a5e0edba040c31a910a12a1843f0bb9266bcae3e.jpg",
+      "url_store" : "http://store.steampowered.com/app/58610/"
+   },
+   "Wargame: Red Dragon" : {
+      "achievements" : true,
+      "app_id" : "251060",
+      "global_achievements" : true,
+      "name" : "Wargame: Red Dragon",
+      "name_short" : "251060",
+      "url_achievements" : "http://steamcommunity.com/stats/251060/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251060/a218f9f3823549036f480368f3db6795adc04672.jpg",
+      "url_store" : "http://store.steampowered.com/app/251060/"
+   },
+   "Woah Dave!" : {
+      "achievements" : true,
+      "app_id" : "315110",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Woah Dave!",
+      "name_short" : "315110",
+      "url_achievements" : "http://steamcommunity.com/stats/315110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/315110/652d1dd680f16dce08f104d88e966a2946e00f73.jpg",
+      "url_store" : "http://store.steampowered.com/app/315110/"
+   },
+   "Worms Reloaded" : {
+      "achievements" : true,
+      "app_id" : "22600",
+      "global_achievements" : true,
+      "name" : "Worms Reloaded",
+      "name_short" : "WormsReloaded",
+      "url_achievements" : "http://steamcommunity.com/stats/WormsReloaded/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22600/8dc524779f89d3f5ef6a7d30102ae6bafe4a1cd4.jpg",
+      "url_store" : "http://store.steampowered.com/app/22600/"
+   },
+   "XCOM: Enemy Unknown" : {
+      "achievements" : true,
+      "app_id" : "200510",
+      "global_achievements" : true,
+      "name" : "XCOM: Enemy Unknown",
+      "name_short" : "XCOMEnemyUnknown",
+      "url_achievements" : "http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg",
+      "url_store" : "http://store.steampowered.com/app/200510/"
+   },
+   "XCOM: Enemy Within" : {
+      "app_id" : "225340",
+      "name" : "XCOM: Enemy Within",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/225340/f646330596d02cd81af9d095d1b1df7c01091def.jpg",
+      "url_store" : "http://store.steampowered.com/app/225340/"
+   },
+   "Zen Bound® 2" : {
+      "achievements" : true,
+      "app_id" : "61600",
+      "global_achievements" : true,
+      "name" : "Zen Bound® 2",
+      "name_short" : "ZenBound2",
+      "url_achievements" : "http://steamcommunity.com/stats/ZenBound2/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg",
+      "url_store" : "http://store.steampowered.com/app/61600/"
+   },
+   "rymdkapsel" : {
+      "achievements" : true,
+      "app_id" : "253790",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "rymdkapsel",
+      "name_short" : "253790",
+      "url_achievements" : "http://steamcommunity.com/stats/253790/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg",
+      "url_store" : "http://store.steampowered.com/app/253790/"
+   }
+}

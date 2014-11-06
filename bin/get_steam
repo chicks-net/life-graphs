@@ -15,6 +15,9 @@ my $data_dir = verify_datadir();
 my $steam_storable_filename = 'steam.storable';
 my $steam_json_filename = 'steam.json';
 my $data_out = get_storable("$data_dir/$steam_storable_filename");
+my $steam_games_storable_filename = 'steam_games.storable';
+my $steam_games_json_filename = 'steam_games.json';
+my $games_data = get_storable("$data_dir/$steam_games_storable_filename");
 
 #
 # get content: steam profile
@@ -154,6 +157,31 @@ foreach my $row (@rows) {
 			} else {
 				print "no stats links for $game_name\n";
 			}
+
+			my $app_id = $game->{appid};
+			my $name_short = $game->{friendlyURL};
+
+			# store game metadata
+			my $this_game = {
+				name => $game_name,
+				name_short => $name_short,
+				app_id => $app_id,
+				url_logo => $game->{logo},
+				url_store =>"http://store.steampowered.com/app/$app_id/",
+				url_achievements =>"http://steamcommunity.com/stats/$name_short/achievements/compare/",
+			};
+
+			if ( defined $stats_links ) {
+				my @keys = keys %$stats_links;
+#				print Dumper($stats_links),"\n";
+				foreach my $key (@keys) {
+					if ( $stats_links->{$key} ) {
+						$this_game->{ $key } = $stats_links->{ $key };
+					}
+				}
+			}
+
+			$games_data->{$game_name} = $this_game;
 		}
 	}
 }
@@ -217,5 +245,10 @@ if (0) {
 	die "how does it look?";
 }
 
+# Steam history
 write_storable($steam_storable_filename,$data_out);
 write_json($steam_json_filename,$data_out);
+
+# game metadata
+write_storable($steam_games_storable_filename,$games_data);
+write_json($steam_games_json_filename,$games_data);
