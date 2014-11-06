@@ -94,13 +94,13 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = $hours/$achievements_current;
 		$achieve_efficiency = sprintf("%.2f",$achieve_efficiency);
 
-		# colorize
+		# emphasize
 		if ($achieve_efficiency < .5) {
-			$achieve_efficiency = "<span style=\"color:#fee6ce\">$achieve_efficiency</span>"
+			$achieve_efficiency = "**$achieve_efficiency**";
 		} elsif ($achieve_efficiency < 1.5) {
-			$achieve_efficiency = "<span style=\"color:#fdae6b\">$achieve_efficiency</span>"
-		} else {
-			$achieve_efficiency = "<span style=\"color:#e6550d\">$achieve_efficiency</span>"
+			$achieve_efficiency = "*$achieve_efficiency*";
+#		} else {
+#			$achieve_efficiency = "$achieve_efficiency"
 		}
 	} else {
 		$achieve_efficiency = 'und';
