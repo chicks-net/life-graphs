@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 89 out of 105 games have achievements.
-12.96% achieved overall. 27.58% achieved in games played.
+13.12% achieved overall. 27.92% achieved in games played.
 
 
 
@@ -10,9 +10,9 @@ Steam Achievements
 | ------------------: | :----------: | ---- | -----------: | --------------------: |
 | 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245550/98defd2daedb3910583439bffb12e0baeb20ff6c.jpg) ](http://store.steampowered.com/app/245550/) [Free to Play](http://steamcommunity.com/stats/245550/achievements/compare/) | 4.4 | *0.88* |
 | 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265890/55ca8524669d078bcab80a38a7f1246ffdaf4810.jpg) ](http://store.steampowered.com/app/265890/) [Hexcells](http://steamcommunity.com/stats/265890/achievements/compare/) | 5.3 | *0.88* |
+| 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg) ](http://store.steampowered.com/app/271900/) [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | **28** | 4.67 |
 | 90.0% | 27 / 30 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg) ](http://store.steampowered.com/app/38600/) [Faerie Solitaire](http://steamcommunity.com/stats/FaerieSolitaire/achievements/compare/) | **28** | *1.04* |
 | 85.7% | 6 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/9945a26796013fcd5a5bc2602f5d5d573d417e8e.jpg) ](http://store.steampowered.com/app/304410/) [Hexcells Infinite](http://steamcommunity.com/stats/304410/achievements/compare/) | **27** | 4.50 |
-| 83.3% | 5 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg) ](http://store.steampowered.com/app/271900/) [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | **26** | 5.20 |
 | 79.5% | 31 / 39 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/) [Train Fever](http://steamcommunity.com/stats/304730/achievements/compare/) | **300** | 9.68 |
 | 75.0% | 9 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg) ](http://store.steampowered.com/app/258890/) [Type:Rider](http://steamcommunity.com/stats/258890/achievements/compare/) | 5.1 | *0.57* |
 | 72.4% | 55 / 76 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/877b5d4dafe578f3d8c4562e4232d342319c1ce3.jpg) ](http://store.steampowered.com/app/259510/) [Shufflepuck Cantina Deluxe](http://steamcommunity.com/stats/259510/achievements/compare/) | **56** | *1.02* |
@@ -33,7 +33,7 @@ Steam Achievements
 | 22.7% | 5 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253650/24398d6a9580d1ba33f54dc73b04a9f79ae4c935.jpg) ](http://store.steampowered.com/app/253650/) [Sparkle 2 Evo](http://steamcommunity.com/stats/253650/achievements/compare/) | 0.3 | **0.06** |
 | 19.1% | 9 / 47 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/73010/d768b8afb0b4bd3f5408c6354efce98b917b2e0e.jpg) ](http://store.steampowered.com/app/73010/) [Cities in Motion](http://steamcommunity.com/stats/CitiesInMotion/achievements/compare/) | 7.9 | *0.88* |
 | 18.8% | 3 / 16 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/98200/3b20447980b019783a4e37893660d1ce54893699.jpg) ](http://store.steampowered.com/app/98200/) [Frozen Synapse](http://steamcommunity.com/stats/FrozenSynapse/achievements/compare/) | 1.1 | **0.37** |
-| 16.7% | 1 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/ce8d28352178a7c4911f22000bce4cc76f58c80d.jpg) ](http://store.steampowered.com/app/234900/) [Anodyne](http://steamcommunity.com/stats/234900/achievements/compare/) | 0.3 | **0.30** |
+| 16.7% | 1 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/ce8d28352178a7c4911f22000bce4cc76f58c80d.jpg) ](http://store.steampowered.com/app/234900/) [Anodyne](http://steamcommunity.com/stats/234900/achievements/compare/) | 0.4 | **0.40** |
 | 16.7% | 3 / 18 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/) [Galcon Legends](http://steamcommunity.com/stats/201040/achievements/compare/) | 0.3 | **0.10** |
 | 14.3% | 1 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg) ](http://store.steampowered.com/app/293200/) [Sentinel](http://steamcommunity.com/stats/293200/achievements/compare/) | 2.4 | 2.40 |
 | 9.5% | 4 / 42 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91200/9b71353b7e93eb3c82ca5f35d4d7241c8f545a07.jpg) ](http://store.steampowered.com/app/91200/) [Anomaly Warzone Earth](http://steamcommunity.com/stats/AnomalyWarZoneEarth/achievements/compare/) | 0 | und |
