@@ -1687,5 +1687,17 @@
          "rating" : "31",
          "views" : "170"
       }
+   },
+   "2014-12-01 03:13" : {
+      "cwhicks" : {
+         "collections" : "0",
+         "feedback_percent_positive" : "100",
+         "guides" : "0",
+         "negative_feedback" : "0",
+         "neutral_feedback" : "0",
+         "positive_feedback" : "4",
+         "rating" : "31",
+         "views" : "171"
+      }
    }
 }
