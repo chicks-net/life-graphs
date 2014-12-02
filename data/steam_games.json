@@ -1043,6 +1043,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/877b5d4dafe578f3d8c4562e4232d342319c1ce3.jpg",
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
+   "Shufflepuck Cantina Deluxe VR" : {
+      "achievements" : true,
+      "app_id" : "259510",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Shufflepuck Cantina Deluxe VR",
+      "name_short" : "259510",
+      "url_achievements" : "http://steamcommunity.com/stats/259510/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg",
+      "url_store" : "http://store.steampowered.com/app/259510/"
+   },
    "Sid Meier's Civilization IV" : {
       "app_id" : "3900",
       "name" : "Sid Meier's Civilization IV",
