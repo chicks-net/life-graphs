@@ -477,13 +477,13 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
@@ -512,6 +512,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/209080/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209080/925b7c2a6b698144622bed4bd2d0086114df2fa9.jpg",
       "url_store" : "http://store.steampowered.com/app/209080/"
+   },
+   "Hack 'n' Slash" : {
+      "achievements" : true,
+      "app_id" : "246070",
+      "global_achievements" : true,
+      "name" : "Hack 'n' Slash",
+      "name_short" : "246070",
+      "url_achievements" : "http://steamcommunity.com/stats/246070/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246070/47a902e7589ee213d82159a22cddb2cb8428aa5a.jpg",
+      "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Half-Life" : {
       "achievements" : true,
@@ -1072,6 +1082,14 @@
       "url_achievements" : "http://steamcommunity.com/stats/257770/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257770/62b3e57fa76d22963a1fdccb6faea6ec5d114597.jpg",
       "url_store" : "http://store.steampowered.com/app/257770/"
+   },
+   "Spacebase DF-9" : {
+      "app_id" : "246090",
+      "name" : "Spacebase DF-9",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246090/2fafa0c2e577ee4ee3f0af4fa648725f7a9550f0.jpg",
+      "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
       "achievements" : true,
