@@ -477,23 +477,23 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1186,6 +1186,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/66002/918e66597ba39848728dfe3c5bcdb4301d7701c9.jpg",
       "url_store" : "http://store.steampowered.com/app/66002/"
+   },
+   "The Plan" : {
+      "achievements" : true,
+      "app_id" : "250600",
+      "global_achievements" : true,
+      "name" : "The Plan",
+      "name_short" : "250600",
+      "url_achievements" : "http://steamcommunity.com/stats/250600/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg",
+      "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "Tomb Raider" : {
       "achievements" : true,
