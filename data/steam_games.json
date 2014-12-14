@@ -68,6 +68,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg",
       "url_store" : "http://store.steampowered.com/app/49520/"
    },
+   "Braid" : {
+      "achievements" : true,
+      "app_id" : "26800",
+      "global_achievements" : true,
+      "name" : "Braid",
+      "name_short" : "Braid",
+      "url_achievements" : "http://steamcommunity.com/stats/Braid/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/26800/dc76bb847fbb82ca81e122927541398d41638ac8.jpg",
+      "url_store" : "http://store.steampowered.com/app/26800/"
+   },
    "Cities in Motion" : {
       "achievements" : true,
       "app_id" : "73010",
@@ -284,6 +294,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570/d4f836839254be08d8e9dd333ecc9a01782c26d2.jpg",
       "url_store" : "http://store.steampowered.com/app/570/"
    },
+   "Dreamfall Chapters" : {
+      "achievements" : true,
+      "app_id" : "237850",
+      "global_achievements" : true,
+      "name" : "Dreamfall Chapters",
+      "name_short" : "237850",
+      "url_achievements" : "http://steamcommunity.com/stats/237850/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237850/06507734d920cae6fcd5275cf97069bcd0e365c4.jpg",
+      "url_store" : "http://store.steampowered.com/app/237850/"
+   },
    "Duke Nukem Forever" : {
       "achievements" : true,
       "app_id" : "57900",
@@ -320,6 +340,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/291150/14a335ad65e8429cb7e5a1c800615f03e462ff1a.jpg",
       "url_store" : "http://store.steampowered.com/app/291150/"
+   },
+   "FEZ" : {
+      "achievements" : true,
+      "app_id" : "224760",
+      "global_achievements" : true,
+      "name" : "FEZ",
+      "name_short" : "224760",
+      "url_achievements" : "http://steamcommunity.com/stats/224760/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/224760/d2789dc5fb6bfee4d07cd3ec06985593fffd606c.jpg",
+      "url_store" : "http://store.steampowered.com/app/224760/"
    },
    "FTL: Faster Than Light" : {
       "app_id" : "212680",
@@ -664,6 +694,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/271900/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg",
       "url_store" : "http://store.steampowered.com/app/271900/"
+   },
+   "Indie Game: The Movie" : {
+      "achievements" : true,
+      "app_id" : "207080",
+      "global_achievements" : true,
+      "name" : "Indie Game: The Movie",
+      "name_short" : "207080",
+      "url_achievements" : "http://steamcommunity.com/stats/207080/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207080/f2c3f3e7104ad6d8719c2698406c79efe6de41e7.jpg",
+      "url_store" : "http://store.steampowered.com/app/207080/"
    },
    "Influent" : {
       "achievements" : true,
@@ -1111,6 +1151,17 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg",
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
+   "Super Meat Boy" : {
+      "achievements" : true,
+      "app_id" : "40800",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "Super Meat Boy",
+      "name_short" : "SuperMeatBoy",
+      "url_achievements" : "http://steamcommunity.com/stats/SuperMeatBoy/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40800/70f084857297d5fdd96d019db3a990d6d9ec64f1.jpg",
+      "url_store" : "http://store.steampowered.com/app/40800/"
+   },
    "Surgeon Simulator" : {
       "achievements" : true,
       "app_id" : "233720",
@@ -1196,6 +1247,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/250600/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg",
       "url_store" : "http://store.steampowered.com/app/250600/"
+   },
+   "To the Moon" : {
+      "achievements" : true,
+      "app_id" : "206440",
+      "global_achievements" : true,
+      "name" : "To the Moon",
+      "name_short" : "206440",
+      "url_achievements" : "http://steamcommunity.com/stats/206440/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206440/f0e5a7037facd7bff7656ebe2396a23735c608c2.jpg",
+      "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Tomb Raider" : {
       "achievements" : true,
