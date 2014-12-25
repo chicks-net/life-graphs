@@ -216,6 +216,10 @@
       "chicks_played_percent" : "0.2716"
    },
    "2014-12-24 03:13" : {
+      "chicks_overall_percent" : "0.1301",
+      "chicks_played_percent" : "0.2716"
+   },
+   "2014-12-25 03:13" : {
       "chicks_overall_percent" : 0.1301,
       "chicks_played_percent" : 0.2716
    }
