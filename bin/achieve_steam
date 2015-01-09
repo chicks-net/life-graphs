@@ -45,6 +45,12 @@ foreach my $day ( sort keys %{ $data } ) {
 	#my $metric = $data->{$day}->{Achievements};
 }
 
+# today's Steam achievment completion
+my $steam_completion = $lastday->{'Avg. Game Completion Rate'};
+my $steam_completion_show = $steam_completion;
+$steam_completion =~ s/%$//;
+$steam_completion *= .01;
+
 my $game_details = $lastday->{game_details};
 
 my $total_games = scalar keys %$game_details;
@@ -75,10 +81,22 @@ my @sorted_games = sort { $b->{perc} <=> $a->{perc} or $a->{name} cmp $b->{name}
 my $perc_accumulator;
 my $played_perc_accumulator;
 my $played_count;
+my $showed_steam_percentage = 0;
+my $showed_zero_percentage = 0;
 
 foreach my $game (@sorted_games) {
 	my $perc = $game->{perc};
 	my $display_perc = sprintf("%.1f%%",$perc*100);
+
+	if ($perc < $steam_completion and ! $showed_steam_percentage ) {
+		$table_content .= "| $steam_completion_show | | **Steam Completion Average** | | |\n";
+		$showed_steam_percentage = 1;
+	}
+
+	if ($perc == 0 and ! $showed_zero_percentage ) {
+		$table_content .= "| 0% | | **No Achievements** | | |\n";
+		$showed_zero_percentage = 1;
+	}
 
 	my $name = $game->{name};
 
