@@ -78,6 +78,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/26800/dc76bb847fbb82ca81e122927541398d41638ac8.jpg",
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
+   "Chucks Challenge 3D" : {
+      "achievements" : true,
+      "app_id" : "262590",
+      "global_achievements" : true,
+      "name" : "Chucks Challenge 3D",
+      "name_short" : "262590",
+      "url_achievements" : "http://steamcommunity.com/stats/262590/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262590/600712577e6752734cb037f0dbe3b14ff21f43db.jpg",
+      "url_store" : "http://store.steampowered.com/app/262590/"
+   },
    "Cities in Motion" : {
       "achievements" : true,
       "app_id" : "73010",
@@ -507,13 +517,13 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
