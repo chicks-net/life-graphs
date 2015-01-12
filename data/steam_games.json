@@ -527,13 +527,13 @@
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1144,6 +1144,14 @@
       "url_achievements" : "http://steamcommunity.com/stats/257770/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257770/62b3e57fa76d22963a1fdccb6faea6ec5d114597.jpg",
       "url_store" : "http://store.steampowered.com/app/257770/"
+   },
+   "Sir, You Are Being Hunted" : {
+      "app_id" : "242880",
+      "name" : "Sir, You Are Being Hunted",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/242880/8ffa6df22ee02070c8e56a0107194d81b83c5f11.jpg",
+      "url_store" : "http://store.steampowered.com/app/242880/"
    },
    "Spacebase DF-9" : {
       "app_id" : "246090",
