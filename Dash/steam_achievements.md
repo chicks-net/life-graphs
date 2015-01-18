@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 98 out of 114 games have achievements.
-14.19% achieved overall. 31.53% achieved in games played.
+14.23% achieved overall. 31.62% achieved in games played.
 
 
 
@@ -23,10 +23,10 @@ Steam Achievements
 | 60.0% | 6 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg) ](http://store.steampowered.com/app/253790/) [rymdkapsel](http://steamcommunity.com/stats/253790/achievements/compare/) | **16.6** | 2.77 |
 | 43.3% | 222 / 513 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | **686** | 3.09 |
 | 40.0% | 20 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **30** | 1.50 |
+| 38.1% | 8 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | **65** | 8.12 |
 | 37% | | **Steam Completion Average** | | |
 | 36.4% | 4 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/) [Zen Bound® 2](http://steamcommunity.com/stats/ZenBound2/achievements/compare/) | 6.4 | 1.60 |
 | 35.3% | 30 / 85 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | **50** | 1.67 |
-| 33.3% | 7 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | **62** | 8.86 |
 | 32.3% | 21 / 65 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221540/ea60dcb1d2894b60197da68f841fd41004fbdd89.jpg) ](http://store.steampowered.com/app/221540/) [Defense Grid 2](http://steamcommunity.com/stats/DefenseGrid2/achievements/compare/) | 5.0 | **0.24** |
 | 30.8% | 8 / 26 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218060/668226870f69db2ac9c1044cf62464d719d51ce3.jpg) ](http://store.steampowered.com/app/218060/) [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](http://steamcommunity.com/stats/BITTRIPPresentsRunner2FutureLegendofRhythmAlien/achievements/compare/) | 6.6 | *0.82* |
 | 30.1% | 28 / 93 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261960/48ce158aaad9dbb68f267e012f953e73232d75a9.jpg) ](http://store.steampowered.com/app/261960/) [Cube & Star: An Arbitrary Love](http://steamcommunity.com/stats/261960/achievements/compare/) | 2.3 | **0.08** |
