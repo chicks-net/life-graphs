@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 98 out of 114 games have achievements.
-14.27% achieved overall. 31.72% achieved in games played.
+14.31% achieved overall. 31.81% achieved in games played.
 
 
 
@@ -21,8 +21,8 @@ Steam Achievements
 | 72.4% | 55 / 76 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) [Shufflepuck Cantina Deluxe VR](http://steamcommunity.com/stats/259510/achievements/compare/) | **56** | *1.02* |
 | 60.0% | 12 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/) [Poker Night at the Inventory](http://steamcommunity.com/stats/PokerNight/achievements/compare/) | 3.8 | **0.32** |
 | 60.0% | 6 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg) ](http://store.steampowered.com/app/253790/) [rymdkapsel](http://steamcommunity.com/stats/253790/achievements/compare/) | **16.6** | 2.77 |
+| 47.6% | 10 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | **101** | 10.10 |
 | 43.3% | 222 / 513 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | **686** | 3.09 |
-| 42.9% | 9 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | **86** | 9.56 |
 | 40.0% | 20 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **30** | 1.50 |
 | 37% | | **Steam Completion Average** | | |
 | 36.4% | 4 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/) [Zen Bound® 2](http://steamcommunity.com/stats/ZenBound2/achievements/compare/) | 6.4 | 1.60 |
