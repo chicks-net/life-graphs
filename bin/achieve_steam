@@ -72,8 +72,8 @@ foreach my $game (sort keys %$game_details) {
 
 $content .= "$has_achievements out of $total_games games have achievements.\n";
 
-my $table_content .= "| Percentage Complete | Done / Total | Game | Hours Played | Hours per Achievement |\n";
-$table_content    .= "| ------------------: | :----------: | ---- | -----------: | --------------------: |\n";
+my $table_content .= "| Percentage Complete | Done / Total | Game: store | Game: achievements | Hours Played | Hours per Achievement |\n";
+$table_content    .= "| ------------------: | :----------: | ----------- | ------------------ | -----------: | --------------------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
@@ -90,17 +90,17 @@ foreach my $game (@sorted_games) {
 	my $display_perc = sprintf("%.1f%%",$perc*100);
 
 	if ($perc < 1 and ! $showed_imperfect_percentage ) {
-		$table_content .= "|  | | **Achievements Available** | | |\n";
+		$table_content .= "|  | | | **Achievements Available** | | |\n";
 		$showed_imperfect_percentage = 1;
 	}
 
 	if ($perc < $steam_completion and ! $showed_steam_percentage ) {
-		$table_content .= "| $steam_completion_show | | **Steam Completion Average** | | |\n";
+		$table_content .= "| $steam_completion_show | | | **Steam Completion Average** | | |\n";
 		$showed_steam_percentage = 1;
 	}
 
 	if ($perc == 0 and ! $showed_zero_percentage ) {
-		$table_content .= "| 0% | | **No Achievements** | | |\n";
+		$table_content .= "| 0% | | | **No Achievements** | | |\n";
 		$showed_zero_percentage = 1;
 	}
 
@@ -127,7 +127,7 @@ foreach my $game (@sorted_games) {
 	my $url_logo = $games_data->{$name}->{url_logo};
 	my $url_store = $games_data->{$name}->{url_store};
 	$display_name .= "[ ![logo links to store]($url_logo) ]($url_store) ";
-	$display_name .= "[$name]($url_achievements)";
+	$display_name .= "| [$name]($url_achievements)";
 
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
