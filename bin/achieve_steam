@@ -72,7 +72,7 @@ foreach my $game (sort keys %$game_details) {
 
 $content .= "$has_achievements out of $total_games games have achievements.\n";
 
-my $table_content .= "| Percentage Complete | Done / Total | Game: store | Game: achievements | Hours Played | Hours per Achievement |\n";
+my $table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement |\n";
 $table_content    .= "| ------------------: | :----------: | ----------- | ------------------ | -----------: | --------------------: |\n";
 
 #print Dumper(\@games_with_achievements);
@@ -88,10 +88,12 @@ my $played_count;
 my $showed_imperfect_percentage = 0;
 my $showed_steam_percentage = 0;
 my $showed_zero_percentage = 0;
+my $showed_ever_played = 0;
 
 foreach my $game (@sorted_games) {
 	my $perc = $game->{perc};
 	my $display_perc = sprintf("%.1f%%",$perc*100);
+	my $hours = $game->{hrs_total} || 0;
 
 	if ($perc < 1 and ! $showed_imperfect_percentage ) {
 		$table_content .= "|  | | | **Achievements Available** | | |\n";
@@ -108,9 +110,12 @@ foreach my $game (@sorted_games) {
 		$showed_zero_percentage = 1;
 	}
 
-	my $name = $game->{name};
+	if ($showed_zero_percentage and ! $showed_ever_played and $hours == 0) {
+		$table_content .= "| 0% | | | **Never Played** | | |\n";
+		$showed_ever_played = 1;
+	}
 
-	my $hours = $game->{hrs_total} || 0;
+	my $name = $game->{name};
 	my $last_played = $game->{last_played};
 	my $achievements_current = $game->{achievements_current};
 	my $achievements_total = $game->{achievements_total};

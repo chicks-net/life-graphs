@@ -6,7 +6,7 @@ Steam Achievements
 
 
 
-| Percentage Complete | Done / Total | Game: store | Game: achievements | Hours Played | Hours per Achievement |
+| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement |
 | ------------------: | :----------: | ----------- | ------------------ | -----------: | --------------------: |
 | 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg) ](http://store.steampowered.com/app/271900/) | [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | **28** | 4.67 |
 | 100.0% | 7 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207080/f2c3f3e7104ad6d8719c2698406c79efe6de41e7.jpg) ](http://store.steampowered.com/app/207080/) | [Indie Game: The Movie](http://steamcommunity.com/stats/207080/achievements/compare/) | **17.5** | 2.50 |
@@ -63,6 +63,7 @@ Steam Achievements
 | 0.0% | 0 / 14 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/294230/71d23be6fd48e2470d887ff176f7d06652fecacb.jpg) ](http://store.steampowered.com/app/294230/) | [Millie](http://steamcommunity.com/stats/294230/achievements/compare/) | 0.4 | und |
 | 0.0% | 0 / 54 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300/e3a4313690bd551495a88e1c01951eb26cec7611.jpg) ](http://store.steampowered.com/app/300/) | [Day of Defeat: Source](http://steamcommunity.com/stats/DOD:S/achievements/compare/) | 0.1 | und |
 | 0.0% | 0 / 15 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257120/30329248252b1e52ad34754cd005c23314361b6e.jpg) ](http://store.steampowered.com/app/257120/) | [Not The Robots](http://steamcommunity.com/stats/257120/achievements/compare/) | 0.1 | und |
+| 0% | | | **Never Played** | | |
 | 0.0% | 0 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/26800/dc76bb847fbb82ca81e122927541398d41638ac8.jpg) ](http://store.steampowered.com/app/26800/) | [Braid](http://steamcommunity.com/stats/Braid/achievements/compare/) | 0 | und |
 | 0.0% | 0 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262590/600712577e6752734cb037f0dbe3b14ff21f43db.jpg) ](http://store.steampowered.com/app/262590/) | [Chucks Challenge 3D](http://steamcommunity.com/stats/262590/achievements/compare/) | 0 | und |
 | 0.0% | 0 / 8 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/6e01635915c7a052c64c81f1408844a596917d2e.jpg) ](http://store.steampowered.com/app/72000/) | [Closure](http://steamcommunity.com/stats/72000/achievements/compare/) | 0 | und |
