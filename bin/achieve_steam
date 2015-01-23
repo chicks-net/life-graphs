@@ -12,6 +12,16 @@ use DateTime;
 my $data_dir = verify_datadir();
 chdir("$data_dir/../Dash") or croak "couldn't get to Dash directory: $ERRNO"; 
 
+# read command line args
+my $do_recalc = 0;
+if (scalar @ARGV) {
+	foreach my $arg (@ARGV) {
+		$do_recalc = 1 if $arg eq '--recalc';
+	}
+}
+
+warn 'recalculating' if $do_recalc;
+
 # defaults
 
 my $content =
@@ -52,22 +62,31 @@ $steam_completion =~ s/%$//;
 $steam_completion *= .01;
 
 my $game_details = $lastday->{game_details};
-
 my $total_games = scalar keys %$game_details;
-my $has_achievements = 0;
-my @games_with_achievements;
 
-foreach my $game (sort keys %$game_details) {
-	my $this_game = $game_details->{$game};
-	if ( defined ( $this_game->{achievements_total} ) ) {
-		$has_achievements++;
-		my $achievements_total = $this_game->{achievements_total};
-		my $achievements_current = $this_game->{achievements_current};
-		my $achieved_percentage = $achievements_current/$achievements_total;
-		$this_game->{perc} = $achieved_percentage;
-		$this_game->{name} = $game;
-		push (@games_with_achievements,$this_game);
+my @games_with_achievements = calc_achievements($lastday_statsday);
+my $has_achievements = scalar @games_with_achievements;
+
+sub calc_achievements {
+	my ($calc_statsday) = @_;
+
+	my $game_details = $data->{$calc_statsday}->{game_details};
+
+	my @games_that_have_achievements;
+
+	foreach my $game (sort keys %$game_details) {
+		my $this_game = $game_details->{$game};
+		if ( defined ( $this_game->{achievements_total} ) and $this_game->{achievements_total} ) {
+			my $achievements_total = $this_game->{achievements_total};
+			my $achievements_current = $this_game->{achievements_current};
+			my $achieved_percentage = $achievements_current/$achievements_total;
+			$this_game->{perc} = $achieved_percentage;
+			$this_game->{name} = $game;
+			push (@games_that_have_achievements,$this_game);
+		}
 	}
+
+	return @games_that_have_achievements;
 }
 
 $content .= "$has_achievements out of $total_games games have achievements.\n";
@@ -186,6 +205,50 @@ my $log_day = {
 	"chicks_played_percent" => $raw_played_perc,
 };
 $percent_data->{$lastday_statsday} = $log_day;
+
+if ($do_recalc) {
+	foreach my $day ( sort keys %{ $data } ) { 
+		next unless $day =~ /^\d+-\d+-\d+/;
+		my $day_obj = parse_statsday($day);
+
+		my $this_day = $data->{$day};
+		unless ( exists $this_day->{game_details} ) {
+			warn "no details for $day";
+			next;
+		}
+
+		my @games_got_achievements = calc_achievements($day);
+		my $total_game_count = scalar @games_got_achievements;
+
+		my $perc_accumulator;
+		my $played_perc_accumulator;
+		my $played_count;
+
+		foreach my $game (@games_got_achievements) {
+			my $achievements_current = $game->{achievements_current};
+			my $achievements_total = $game->{achievements_total};
+			my $perc = $game->{perc};
+			my $hours = $game->{hrs_total} || 0;
+
+			$perc_accumulator += $perc;
+			if ($hours) {
+				$played_count++;
+				$played_perc_accumulator += $perc;
+			}
+		}
+
+		my $overall_perc = $perc_accumulator / $total_games;
+		my $played_perc = $played_perc_accumulator / $played_count;
+
+		print "$day $day_obj $total_game_count games $overall_perc $played_perc\n";
+
+		my $log_day = {
+			"chicks_overall_percent" => $overall_perc,
+			"chicks_played_percent" => $played_perc,
+		};
+		$percent_data->{$day} = $log_day;
+	}
+}
 
 chdir($data_dir) or croak "couldn't get to $data_dir directory: $ERRNO"; 
 write_json($steam_percents_json_filename,$percent_data);

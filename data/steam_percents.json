@@ -1,342 +1,798 @@
 {
+   "2014-07-13 02:07" : {
+      "chicks_overall_percent" : "0.0111018653352749",
+      "chicks_played_percent" : "0.632806324110672"
+   },
+   "2014-07-13 18:17" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-13 18:18" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-14 06:24" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-15 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-16 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-17 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-18 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-19 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-20 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-21 02:19" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-22 02:13" : {
+      "chicks_overall_percent" : "0.0146106372650995",
+      "chicks_played_percent" : "0.555204216073781"
+   },
+   "2014-07-23 02:13" : {
+      "chicks_overall_percent" : "0.0146453089244851",
+      "chicks_played_percent" : "0.556521739130435"
+   },
+   "2014-07-24 02:13" : {
+      "chicks_overall_percent" : "0.0146453089244851",
+      "chicks_played_percent" : "0.556521739130435"
+   },
+   "2014-07-25 02:18" : {
+      "chicks_overall_percent" : "0.0146453089244851",
+      "chicks_played_percent" : "0.556521739130435"
+   },
+   "2014-07-26 02:13" : {
+      "chicks_overall_percent" : "0.0146453089244851",
+      "chicks_played_percent" : "0.556521739130435"
+   },
+   "2014-07-27 02:13" : {
+      "chicks_overall_percent" : "0.0146626447541779",
+      "chicks_played_percent" : "0.557180500658761"
+   },
+   "2014-07-28 02:13" : {
+      "chicks_overall_percent" : "0.0146799805838707",
+      "chicks_played_percent" : "0.557839262187088"
+   },
+   "2014-07-29 02:13" : {
+      "chicks_overall_percent" : "0.0146799805838707",
+      "chicks_played_percent" : "0.557839262187088"
+   },
+   "2014-07-30 02:13" : {
+      "chicks_overall_percent" : "0.0146973164135636",
+      "chicks_played_percent" : "0.558498023715415"
+   },
+   "2014-07-31 02:13" : {
+      "chicks_overall_percent" : "0.0146973164135636",
+      "chicks_played_percent" : "0.558498023715415"
+   },
+   "2014-08-01 02:58" : {
+      "chicks_overall_percent" : "0.0146973164135636",
+      "chicks_played_percent" : "0.558498023715415"
+   },
+   "2014-08-01 07:12" : {
+      "chicks_overall_percent" : "0.0869180991131065",
+      "chicks_played_percent" : "0.245335630091401"
+   },
+   "2014-08-02 02:13" : {
+      "chicks_overall_percent" : "0.0869354349427993",
+      "chicks_played_percent" : "0.245385037206026"
+   },
+   "2014-08-03 04:35" : {
+      "chicks_overall_percent" : "0.0869354349427993",
+      "chicks_played_percent" : "0.245385037206026"
+   },
+   "2014-08-04 02:13" : {
+      "chicks_overall_percent" : "0.0869701066021849",
+      "chicks_played_percent" : "0.245483851435275"
+   },
+   "2014-08-05 02:13" : {
+      "chicks_overall_percent" : "0.0869701066021849",
+      "chicks_played_percent" : "0.245483851435275"
+   },
+   "2014-08-06 02:13" : {
+      "chicks_overall_percent" : "0.0869874424318777",
+      "chicks_played_percent" : "0.245533258549899"
+   },
+   "2014-08-07 02:13" : {
+      "chicks_overall_percent" : "0.0869874424318777",
+      "chicks_played_percent" : "0.245533258549899"
+   },
+   "2014-08-08 02:13" : {
+      "chicks_overall_percent" : "0.0869874424318777",
+      "chicks_played_percent" : "0.245533258549899"
+   },
+   "2014-08-09 02:13" : {
+      "chicks_overall_percent" : "0.0869874424318777",
+      "chicks_played_percent" : "0.245533258549899"
+   },
+   "2014-08-10 02:13" : {
+      "chicks_overall_percent" : "0.0869874424318777",
+      "chicks_played_percent" : "0.245533258549899"
+   },
+   "2014-08-11 02:13" : {
+      "chicks_overall_percent" : "0.0870221140912633",
+      "chicks_played_percent" : "0.245632072779148"
+   },
+   "2014-08-12 02:13" : {
+      "chicks_overall_percent" : "0.0870221140912633",
+      "chicks_played_percent" : "0.245632072779148"
+   },
+   "2014-08-13 02:13" : {
+      "chicks_overall_percent" : "0.0870221140912633",
+      "chicks_played_percent" : "0.245632072779148"
+   },
+   "2014-08-14 02:13" : {
+      "chicks_overall_percent" : "0.0870221140912633",
+      "chicks_played_percent" : "0.245632072779148"
+   },
+   "2014-08-15 02:13" : {
+      "chicks_overall_percent" : "0.0870221140912633",
+      "chicks_played_percent" : "0.245632072779148"
+   },
+   "2014-08-16 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-17 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-18 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-19 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-20 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-21 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-22 02:13" : {
+      "chicks_overall_percent" : "0.0817589561965265",
+      "chicks_played_percent" : "0.236545715670921"
+   },
+   "2014-08-23 02:13" : {
+      "chicks_overall_percent" : "0.0817936278559121",
+      "chicks_played_percent" : "0.236647063598356"
+   },
+   "2014-08-24 02:13" : {
+      "chicks_overall_percent" : "0.0817936278559121",
+      "chicks_played_percent" : "0.236647063598356"
+   },
+   "2014-08-25 02:13" : {
+      "chicks_overall_percent" : "0.0817936278559121",
+      "chicks_played_percent" : "0.236647063598356"
+   },
+   "2014-08-26 02:13" : {
+      "chicks_overall_percent" : "0.0817936278559121",
+      "chicks_played_percent" : "0.236647063598356"
+   },
+   "2014-08-27 02:13" : {
+      "chicks_overall_percent" : "0.0817936278559121",
+      "chicks_played_percent" : "0.236647063598356"
+   },
+   "2014-08-28 02:13" : {
+      "chicks_overall_percent" : "0.0817936278559121",
+      "chicks_played_percent" : "0.236647063598356"
+   },
+   "2014-08-29 02:13" : {
+      "chicks_overall_percent" : "0.0818109636856049",
+      "chicks_played_percent" : "0.236697737562073"
+   },
+   "2014-08-30 02:13" : {
+      "chicks_overall_percent" : "0.0818109636856049",
+      "chicks_played_percent" : "0.236697737562073"
+   },
+   "2014-08-31 02:13" : {
+      "chicks_overall_percent" : "0.0870741215803418",
+      "chicks_played_percent" : "0.245780294123022"
+   },
+   "2014-09-01 02:13" : {
+      "chicks_overall_percent" : "0.087201250998089",
+      "chicks_played_percent" : "0.240139134598636"
+   },
+   "2014-09-02 02:13" : {
+      "chicks_overall_percent" : "0.087201250998089",
+      "chicks_played_percent" : "0.240139134598636"
+   },
+   "2014-09-03 02:13" : {
+      "chicks_overall_percent" : "0.087201250998089",
+      "chicks_played_percent" : "0.240139134598636"
+   },
+   "2014-09-04 02:13" : {
+      "chicks_overall_percent" : "0.087201250998089",
+      "chicks_played_percent" : "0.240139134598636"
+   },
+   "2014-09-05 02:13" : {
+      "chicks_overall_percent" : "0.087201250998089",
+      "chicks_played_percent" : "0.240139134598636"
+   },
+   "2014-09-06 02:13" : {
+      "chicks_overall_percent" : "0.087201250998089",
+      "chicks_played_percent" : "0.240139134598636"
+   },
+   "2014-09-07 02:13" : {
+      "chicks_overall_percent" : "0.0872185868277818",
+      "chicks_played_percent" : "0.240187336661684"
+   },
+   "2014-09-08 02:13" : {
+      "chicks_overall_percent" : "0.0872185868277818",
+      "chicks_played_percent" : "0.240187336661684"
+   },
+   "2014-09-09 02:13" : {
+      "chicks_overall_percent" : "0.0872185868277818",
+      "chicks_played_percent" : "0.240187336661684"
+   },
+   "2014-09-10 02:13" : {
+      "chicks_overall_percent" : "0.0872532584871675",
+      "chicks_played_percent" : "0.24028374078778"
+   },
+   "2014-09-11 02:13" : {
+      "chicks_overall_percent" : "0.0872532584871675",
+      "chicks_played_percent" : "0.24028374078778"
+   },
+   "2014-09-12 02:13" : {
+      "chicks_overall_percent" : "0.0872705943168603",
+      "chicks_played_percent" : "0.240331942850829"
+   },
+   "2014-09-13 02:13" : {
+      "chicks_overall_percent" : "0.0872705943168603",
+      "chicks_played_percent" : "0.240331942850829"
+   },
+   "2014-09-14 02:13" : {
+      "chicks_overall_percent" : "0.0872879301465531",
+      "chicks_played_percent" : "0.240380144913877"
+   },
+   "2014-09-15 02:13" : {
+      "chicks_overall_percent" : "0.0872879301465531",
+      "chicks_played_percent" : "0.240380144913877"
+   },
+   "2014-09-16 02:13" : {
+      "chicks_overall_percent" : "0.0872879301465531",
+      "chicks_played_percent" : "0.240380144913877"
+   },
+   "2014-09-17 02:13" : {
+      "chicks_overall_percent" : "0.0873399376356315",
+      "chicks_played_percent" : "0.234797971314855"
+   },
+   "2014-09-18 02:13" : {
+      "chicks_overall_percent" : "0.0903332575625899",
+      "chicks_played_percent" : "0.237273331788306"
+   },
+   "2014-09-19 02:13" : {
+      "chicks_overall_percent" : "0.0903505933922827",
+      "chicks_played_percent" : "0.237319291894933"
+   },
+   "2014-09-20 02:13" : {
+      "chicks_overall_percent" : "0.0903679292219755",
+      "chicks_played_percent" : "0.237365252001561"
+   },
+   "2014-09-21 02:13" : {
+      "chicks_overall_percent" : "0.0903679292219755",
+      "chicks_played_percent" : "0.237365252001561"
+   },
+   "2014-09-22 02:13" : {
+      "chicks_overall_percent" : "0.0973819233641161",
+      "chicks_played_percent" : "0.250143208369799"
+   },
+   "2014-09-23 02:13" : {
+      "chicks_overall_percent" : "0.100305899972303",
+      "chicks_played_percent" : "0.257718965945556"
+   },
+   "2014-09-24 02:13" : {
+      "chicks_overall_percent" : "0.100305899972303",
+      "chicks_played_percent" : "0.257718965945556"
+   },
+   "2014-09-25 02:13" : {
+      "chicks_overall_percent" : "0.100305899972303",
+      "chicks_played_percent" : "0.257718965945556"
+   },
+   "2014-09-26 02:13" : {
+      "chicks_overall_percent" : "0.100340571631689",
+      "chicks_played_percent" : "0.257808797063055"
+   },
+   "2014-09-27 02:13" : {
+      "chicks_overall_percent" : "0.100340571631689",
+      "chicks_played_percent" : "0.257808797063055"
+   },
+   "2014-09-28 02:13" : {
+      "chicks_overall_percent" : "0.101593704463769",
+      "chicks_played_percent" : "0.261055550309808"
+   },
+   "2014-09-29 02:13" : {
+      "chicks_overall_percent" : "0.101593704463769",
+      "chicks_played_percent" : "0.261055550309808"
+   },
+   "2014-09-30 02:13" : {
+      "chicks_overall_percent" : "0.101593704463769",
+      "chicks_played_percent" : "0.261055550309808"
+   },
+   "2014-10-01 02:14" : {
+      "chicks_overall_percent" : "0.102295458849734",
+      "chicks_played_percent" : "0.257032093636257"
+   },
+   "2014-10-02 02:18" : {
+      "chicks_overall_percent" : "0.102295458849734",
+      "chicks_played_percent" : "0.257032093636257"
+   },
+   "2014-10-03 02:13" : {
+      "chicks_overall_percent" : "0.103521642588651",
+      "chicks_played_percent" : "0.260138425774847"
+   },
+   "2014-10-04 02:13" : {
+      "chicks_overall_percent" : "0.105838331747446",
+      "chicks_played_percent" : "0.254687909020653"
+   },
+   "2014-10-05 02:13" : {
+      "chicks_overall_percent" : "0.109553139695663",
+      "chicks_played_percent" : "0.252935098572806"
+   },
+   "2014-10-06 02:18" : {
+      "chicks_overall_percent" : "0.109762592079029",
+      "chicks_played_percent" : "0.253422395954513"
+   },
+   "2014-10-07 02:13" : {
+      "chicks_overall_percent" : "0.110859083307099",
+      "chicks_played_percent" : "0.255973416362677"
+   },
+   "2014-10-08 02:13" : {
+      "chicks_overall_percent" : "0.110859083307099",
+      "chicks_played_percent" : "0.255973416362677"
+   },
+   "2014-10-09 02:13" : {
+      "chicks_overall_percent" : "0.111516978043941",
+      "chicks_played_percent" : "0.257504028607575"
+   },
+   "2014-10-10 02:13" : {
+      "chicks_overall_percent" : "0.111516978043941",
+      "chicks_played_percent" : "0.257504028607575"
+   },
+   "2014-10-11 02:13" : {
+      "chicks_overall_percent" : "0.111955574535169",
+      "chicks_played_percent" : "0.25852443677084"
+   },
+   "2014-10-12 02:13" : {
+      "chicks_overall_percent" : "0.112613469272011",
+      "chicks_played_percent" : "0.260055049015738"
+   },
+   "2014-10-13 02:13" : {
+      "chicks_overall_percent" : "0.113052065763239",
+      "chicks_played_percent" : "0.261075457179003"
+   },
+   "2014-10-14 02:13" : {
+      "chicks_overall_percent" : "0.113052065763239",
+      "chicks_played_percent" : "0.261075457179003"
+   },
+   "2014-10-15 02:13" : {
+      "chicks_overall_percent" : "0.113052065763239",
+      "chicks_played_percent" : "0.261075457179003"
+   },
+   "2014-10-16 02:13" : {
+      "chicks_overall_percent" : "0.113052065763239",
+      "chicks_played_percent" : "0.261075457179003"
+   },
+   "2014-10-17 02:13" : {
+      "chicks_overall_percent" : "0.113052065763239",
+      "chicks_played_percent" : "0.261075457179003"
+   },
+   "2014-10-18 02:13" : {
+      "chicks_overall_percent" : "0.113052065763239",
+      "chicks_played_percent" : "0.261075457179003"
+   },
+   "2014-10-19 02:26" : {
+      "chicks_overall_percent" : "0.113271364008853",
+      "chicks_played_percent" : "0.261585661260636"
+   },
+   "2014-10-20 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-21 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-22 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-23 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-24 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-25 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-26 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-27 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-28 02:13" : {
+      "chicks_overall_percent" : "0.113929258745695",
+      "chicks_played_percent" : "0.263116273505534"
+   },
+   "2014-10-29 02:13" : {
+      "chicks_overall_percent" : "0.113946594575388",
+      "chicks_played_percent" : "0.263156605844003"
+   },
+   "2014-10-30 02:13" : {
+      "chicks_overall_percent" : "0.113894080190705",
+      "chicks_played_percent" : "0.263034429520454"
+   },
    "2014-10-31 02:13" : {
-      "chicks_overall_percent" : "0.1312",
-      "chicks_played_percent" : "0.264"
+      "chicks_overall_percent" : "0.113894080190705",
+      "chicks_played_percent" : "0.263034429520454"
    },
    "2014-11-01 02:13" : {
-      "chicks_overall_percent" : "0.1314",
-      "chicks_played_percent" : "0.2634"
+      "chicks_overall_percent" : "0.114068394180808",
+      "chicks_played_percent" : "0.263439976354572"
    },
    "2014-11-02 02:13" : {
-      "chicks_overall_percent" : "0.1263",
-      "chicks_played_percent" : "0.2634"
+      "chicks_overall_percent" : "0.114068394180808",
+      "chicks_played_percent" : "0.263439976354572"
    },
    "2014-11-03 02:13" : {
       "chicks_overall_percent" : "0.1301",
       "chicks_played_percent" : "0.2716"
    },
+   "2014-11-03 07:17" : {
+      "chicks_overall_percent" : "0.117577166110633",
+      "chicks_played_percent" : "0.271603241660694"
+   },
    "2014-11-04 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.117577166110633",
+      "chicks_played_percent" : "0.271603241660694"
    },
    "2014-11-05 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.117847071643696",
+      "chicks_played_percent" : "0.272231185145781"
    },
    "2014-11-06 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.119372624656663",
+      "chicks_played_percent" : "0.275780430931051"
    },
    "2014-11-07 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.119372624656663",
+      "chicks_played_percent" : "0.275780430931051"
    },
    "2014-11-08 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.119372624656663",
+      "chicks_played_percent" : "0.275780430931051"
    },
    "2014-11-09 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-10 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-11 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-12 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-13 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-14 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-15 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-16 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-17 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-18 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-19 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.120834612960757",
+      "chicks_played_percent" : "0.279181791475269"
    },
    "2014-11-20 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-21 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-22 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-23 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-24 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-25 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-26 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-27 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-28 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-29 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-11-30 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-01 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-02 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-03 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-04 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-05 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-06 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-07 04:51" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-08 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-09 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.121742053977091",
+      "chicks_played_percent" : "0.281292980778576"
    },
    "2014-12-10 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.122159764921117",
+      "chicks_played_percent" : "0.282264798076924"
    },
    "2014-12-11 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.122159764921117",
+      "chicks_played_percent" : "0.282264798076924"
    },
    "2014-12-12 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.1225106421141",
+      "chicks_played_percent" : "0.283081124607537"
    },
    "2014-12-13 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-14 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-15 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-16 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-17 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-18 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-19 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-20 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-21 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-22 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-23 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-24 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-25 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-26 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-27 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-28 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-29 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-30 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2014-12-31 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-01 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-02 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-03 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-04 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-05 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-06 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-07 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-08 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-09 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.131633449131644",
+      "chicks_played_percent" : "0.298219502115386"
    },
    "2015-01-10 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.134557425739831",
+      "chicks_played_percent" : "0.298908008609855"
    },
    "2015-01-11 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.137940884386447",
+      "chicks_played_percent" : "0.306471033819939"
    },
    "2015-01-12 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.139194017218528",
+      "chicks_played_percent" : "0.309272154268119"
    },
    "2015-01-13 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.139194017218528",
+      "chicks_played_percent" : "0.309272154268119"
    },
    "2015-01-14 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.139194017218528",
+      "chicks_played_percent" : "0.309272154268119"
    },
    "2015-01-15 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.139194017218528",
+      "chicks_played_percent" : "0.309272154268119"
    },
    "2015-01-16 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.141700282882688",
+      "chicks_played_percent" : "0.314874395164477"
    },
    "2015-01-17 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.141886919687466",
+      "chicks_played_percent" : "0.315291583316334"
    },
    "2015-01-18 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.142304630631493",
+      "chicks_played_percent" : "0.316225290132394"
    },
    "2015-01-19 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.142304630631493",
+      "chicks_played_percent" : "0.316225290132394"
    },
    "2015-01-20 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.142304630631493",
+      "chicks_played_percent" : "0.316225290132394"
    },
    "2015-01-21 03:13" : {
-      "chicks_overall_percent" : "0.1301",
-      "chicks_played_percent" : "0.2716"
+      "chicks_overall_percent" : "0.142722341575519",
+      "chicks_played_percent" : "0.317158996948453"
    },
    "2015-01-22 03:13" : {
       "chicks_overall_percent" : "0.143140052519546",
       "chicks_played_percent" : "0.318092703764513"
    },
    "2015-01-23 03:13" : {
-      "chicks_overall_percent" : 0.144393185351626,
-      "chicks_played_percent" : 0.320893824212692
+      "chicks_overall_percent" : "0.144393185351626",
+      "chicks_played_percent" : "0.320893824212692"
    }
 }
