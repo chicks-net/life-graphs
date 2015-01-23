@@ -207,9 +207,24 @@ my $log_day = {
 $percent_data->{$lastday_statsday} = $log_day;
 
 if ($do_recalc) {
+	my $data_epoch = DateTime->new(
+		year       => 2014,
+		month      => 8,
+		day        => 2,
+		hour       => 1,
+		minute     => 0,
+		second     => 0,
+		time_zone  => 'UTC',
+	);
+
 	foreach my $day ( sort keys %{ $data } ) { 
 		next unless $day =~ /^\d+-\d+-\d+/;
 		my $day_obj = parse_statsday($day);
+
+		if ( DateTime->compare($data_epoch, $day_obj) == 1 ) {
+			delete $percent_data->{$day};
+			next;
+		}
 
 		my $this_day = $data->{$day};
 		unless ( exists $this_day->{game_details} ) {
