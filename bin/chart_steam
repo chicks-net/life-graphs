@@ -144,7 +144,6 @@ print "wrote Dash/$filename\n";
 $chart = Chart::Strip->new( title => "Steam Community", width => $chart_width );
 $chart->add_data(\@data_screenshots, { style => 'line', label => 'Screenshots', color => $color_set[1] });
 $chart->add_data(\@data_reviews, { style => 'line', label => 'Reviews', color => $color_set[2] });
-$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => $color_set[3] });
 $chart->add_data(\@data_badges, { style => 'line', label => 'Badges', color => $color_set[4] });
 $chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => $color_set[6] });
 
