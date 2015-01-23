@@ -77,7 +77,11 @@ $table_content    .= "| ------------------: | :----------: | ----------- | -----
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
-my @sorted_games = sort { $b->{perc} <=> $a->{perc} or $a->{name} cmp $b->{name} } @games_with_achievements;
+my @sorted_games = sort {
+		   $b->{perc} <=> $a->{perc}					# desc
+		or ( $b->{hrs_total} || 0 )   <=>   ( $a->{hrs_total} || 0 )	# desc
+		or $a->{name} cmp $b->{name}					# ascend
+	} @games_with_achievements;
 my $perc_accumulator;
 my $played_perc_accumulator;
 my $played_count;
