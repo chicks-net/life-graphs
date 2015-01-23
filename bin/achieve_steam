@@ -151,11 +151,11 @@ foreach my $game (@sorted_games) {
 $table_content .= "\n\n";
 
 my $overall_perc = 100 * $perc_accumulator / $total_games;
-my $raw_overall_perc = $overall_perc;
+my $raw_overall_perc = $overall_perc / 100;
 $overall_perc = sprintf("%.2f",$overall_perc);
 
 my $played_perc = 100 * $played_perc_accumulator / $played_count;
-my $raw_played_perc = $played_perc;
+my $raw_played_perc = $played_perc / 100;
 $played_perc = sprintf("%.2f",$played_perc);
 
 $content .= "$overall_perc% achieved overall. $played_perc% achieved in games played.\n\n";
@@ -173,8 +173,8 @@ print "wrote Dash/$filename\n";
 
 # save percentages as JSON/Storable
 my $log_day = {
-	"chicks_overall_percent" => 0.1301,
-	"chicks_played_percent" => 0.2716
+	"chicks_overall_percent" => $raw_overall_perc,
+	"chicks_played_percent" => $raw_played_perc,
 };
 $percent_data->{$lastday_statsday} = $log_day;
 
