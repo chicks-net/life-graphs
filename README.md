@@ -41,7 +41,6 @@ GRAPHS TODO
 
 There are many graphs that I want to make, but these have data that is ready to graph:
 
-* ogr
 * Steam: a stacked chart of hours per game
 
 DATA COLLECTORS TODO
@@ -53,11 +52,11 @@ There are many data collectors that I want to make, but these are the top priori
 * TECH: fini inbox size
 * TECH: github LoC committed
 * TECH: dnetc ogr summary and history
-* HEALTH: fitbit autosync
 * FINANCE: Citi balances
 * FINANCE: OpenSRS balance
 * FINANCE: paypal balances
 * FINANCE: mobile balance, minutes used, bytes used
+* HEALTH: fitbit autosync
 * HEALTH: pull ups
 * HEALTH: sit ups
 * HEALTH: push ups
