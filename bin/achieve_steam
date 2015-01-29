@@ -91,8 +91,11 @@ sub calc_achievements {
 
 $content .= "$has_achievements out of $total_games games have achievements.\n";
 
-my $table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement |\n";
-$table_content    .= "| ------------------: | :----------: | ----------- | ------------------ | -----------: | --------------------: |\n";
+my $table_content .= "Games by Achievement Percentage\n";
+$table_content .= "------------------\n";
+$table_content .= "\n";
+$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement |\n";
+$table_content .= "| ------------------: | :----------: | ----------- | ------------------ | -----------: | --------------------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
@@ -178,6 +181,7 @@ foreach my $game (@sorted_games) {
 }
 $table_content .= "\n\n";
 
+# format overall percentages
 my $overall_perc = 100 * $perc_accumulator / $total_games;
 my $raw_overall_perc = $overall_perc / 100;
 $overall_perc = sprintf("%.2f",$overall_perc);
@@ -186,6 +190,69 @@ my $played_perc = 100 * $played_perc_accumulator / $played_count;
 my $raw_played_perc = $played_perc / 100;
 $played_perc = sprintf("%.2f",$played_perc);
 
+#
+# table by time
+#
+my @games_by_time = sort {
+		( $b->{hrs_total} || 0 )   <=>   ( $a->{hrs_total} || 0 )	# desc
+		or $a->{name} cmp $b->{name}					# ascend
+	}
+	grep { defined $_->{hrs_total} and $_->{hrs_total} }
+	@games_with_achievements;
+
+$table_content .= "Most played games\n";
+$table_content .= "------------------\n";
+$table_content .= "\n";
+$table_content .= "| Hours Played | Game -> store | Game -> achievements | Achievements | Hours per Achievement |\n";
+$table_content .= "| -----------: |  ----------- | ------------------ | -----------: | --------------------: |\n";
+foreach my $game (@games_by_time) {
+	my $perc = $game->{perc};
+	my $display_perc = sprintf("%.1f%%",$perc*100);
+	my $hours = $game->{hrs_total} || 0;
+	my $name = $game->{name};
+	my $last_played = $game->{last_played};
+	my $achievements_current = $game->{achievements_current};
+	my $achievements_total = $game->{achievements_total};
+	my $display_achievements = "$achievements_current / $achievements_total = $display_perc";
+
+	my $display_hours = $hours;
+	if ($hours > 10) {
+		$display_hours = "**$hours**";
+	}
+
+	my $display_name = '';
+	my $url_achievements = $games_data->{$name}->{url_achievements};
+	my $url_logo = $games_data->{$name}->{url_logo};
+	my $url_store = $games_data->{$name}->{url_store};
+	$display_name .= "[ ![logo links to store]($url_logo) ]($url_store) ";
+	$display_name .= "| [$name]($url_achievements)";
+
+	my $achieve_efficiency;
+	if ($hours and $achievements_current) {
+		$achieve_efficiency = $hours/$achievements_current;
+		$achieve_efficiency = sprintf("%.2f",$achieve_efficiency);
+
+		# emphasize
+		if ($achieve_efficiency < .5) {
+			$achieve_efficiency = "**$achieve_efficiency**";
+		} elsif ($achieve_efficiency < 1.5) {
+			$achieve_efficiency = "*$achieve_efficiency*";
+#		} else {
+#			$achieve_efficiency = "$achieve_efficiency"
+		}
+	} else {
+		$achieve_efficiency = 'und';
+	}
+
+	$table_content .= "| $display_hours | $display_name | $display_achievements | $achieve_efficiency |\n";
+}
+$table_content .= "\n\n";
+
+#
+# table by efficiency
+#
+
+# stitch together
 $content .= "$overall_perc% achieved overall. $played_perc% achieved in games played.\n\n";
 $content .= "\n\n";
 $content .= $table_content;
