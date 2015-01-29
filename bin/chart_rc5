@@ -83,3 +83,11 @@ $chart->add_data(\@data_blocks_yesterday, { style => 'line', label => 'Yesterday
 $filename = "blocks_rc5-72_chicks.png";
 write_file($filename,$chart->png());
 print "wrote Dash/$filename\n";
+
+my $block_history =  $data->{'rc5-72'}->{block_history};
+my @block_history = map { { time => $_, value => $block_history->{$_} } } sort keys %$block_history;
+$chart = Chart::Strip->new( title => "chicks rc5-72 blocks forever", width => $chart_width );
+$chart->add_data(\@block_history, { style => 'line', label => 'rc5-72', color => $color_set[3] });
+$filename = "block_history_rc5-72_chicks.png";
+write_file($filename,$chart->png());
+print "wrote Dash/$filename\n";
