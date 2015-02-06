@@ -29,7 +29,9 @@ git_check
 # run jobs
 cd $STATS_DIR/../bin
 ./get_dnet
+echo ""
 ./get_steam
+echo ""
 ./get_ebay
 
 echo -e "\ncharts:"
@@ -43,6 +45,7 @@ echo ""
 git add ../data ../Dash
 git commit -m 'daily cron update'
 git push
+echo git status:
 git status
 
 echo finished at `date`
