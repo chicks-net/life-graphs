@@ -8,10 +8,22 @@ use LifeGraphs;
 use Net::IMAP::Simple::Gmail;
 use Term::ReadPassword;
 
+my $user = 'chicks.net@gmail.com';
+my $pass;
+my $tries = 5;
+
+while ($tries--) {
+	$pass = read_password("$user password: ");
+	if ( defined $pass ) {
+		print "ok, got password\n";
+		last;
+	} else {
+		redo;
+	}
+}
+
 my $server = 'imap.gmail.com';
 my $imap = Net::IMAP::Simple::Gmail->new($server);
-
-my ($user,$pass);
 $imap->login($user => $pass);
 
 my $nm = $imap->select('INBOX');
