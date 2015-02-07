@@ -24,7 +24,10 @@ while ($tries--) {
 
 my $server = 'imap.gmail.com';
 my $imap = Net::IMAP::Simple::Gmail->new($server);
-$imap->login($user => $pass);
+unless ( $imap->login( $user, $pass ) ) {
+	warn "imap login failed: " . $imap->errstr . "\n";
+	die "no login";
+}
 
 my $nm = $imap->select('INBOX');
 
