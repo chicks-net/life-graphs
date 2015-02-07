@@ -5,7 +5,7 @@ fitbit
 ------
 ![fitbit!](fitbit_chicks.png)
 
-Fitbit stats are currently downloaded by a human so expect heinous latency.
+:information_source: Fitbit stats are currently downloaded by a human so expect heinous latency. :satellite:
 Everything else is updated daily by reliable machines.
 
 distributed.net
