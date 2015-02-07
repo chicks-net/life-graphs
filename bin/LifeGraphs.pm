@@ -20,8 +20,8 @@ $VERSION = "0.1";
 BEGIN {
 	require Exporter;
 	@ISA         = qw(Exporter);
-	@EXPORT      = qw( color_set get_now_text get_storable parse_iso8601 parse_statsday trim url_tree
-				verify_datadir write_json write_storable );
+	@EXPORT      = qw( color_set get_now_text get_storable parse_iso8601 parse_statsday raw_tree
+				trim url_tree verify_datadir write_json write_storable );
 	@EXPORT_OK   = qw( write_file );
 	%EXPORT_TAGS = ( 'defaults' => \@EXPORT );
 }
@@ -150,6 +150,16 @@ sub trim {
 	return $value;
 }
 
+sub raw_tree {
+	my $raw = shift @_;
+
+	# parse
+	my $tree = HTML::TreeBuilder->new;    # empty tree
+	$tree->parse_content($raw);
+
+	return $tree;
+}
+
 sub url_tree {
 	my $url = shift @_;
 	my $quiet = shift(@_) || 0; # default to verbose;
@@ -262,6 +272,10 @@ Take ISO-8601 <code>YYYY-MM-DD</code> datetime or <code>yyyy-mm-ddThh:mm:ssZ</co
 =head3 parse_statsday
 
 Take a <code>YYYY-MM-DD HH:MM</code> timestamp like <code>'2014-07-27 02:13'</code> and return a <code>DateTime</code> object.
+
+=head3 raw_tree
+
+Take a chunk of HTML and return an HTML::TreeBuilder tree.
 
 =head3 trim
 
