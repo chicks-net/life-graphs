@@ -10,18 +10,7 @@ use Email::Simple;
 use Term::ReadPassword;
 
 my $user = 'chicks.net@gmail.com';
-my $pass;
-my $tries = 5;
-
-while ($tries--) {
-	$pass = read_password("$user password: ");
-	if ( defined $pass ) {
-		print "ok, got password\n";
-		last;
-	} else {
-		redo;
-	}
-}
+my $pass = `gkeyring --keyring graphs_life --id=1 -1`;
 
 my $server = 'imap.gmail.com';
 my $imap = Net::IMAP::Simple::Gmail->new( $server, use_ssl => 1 );

@@ -84,3 +84,4 @@ Informative
 * [10 things I learned deployed graphite](http://kevinmccarthy.org/blog/2013/07/18/10-things-i-learned-deploying-graphite/) helped me not relearn those same things.
 * thanks to [graphing time based data in perl](http://www.preshweb.co.uk/2011/11/graphing-time-based-data-in-perl/) for publishing a good example of `Chart::Strip` to get me started.
 * thanks to Aleks Jakulin whose article [Assistance in picking colors and charts](http://andrewgelman.com/2007/11/22/assistance_in_p/) for helping me find [ColorBrewer](http://www.personal.psu.edu/cab38/ColorBrewer/ColorBrewer.html).  This is even more awesome because Aleks wrote his article in 2007, seven years before I found it helpful!
+* thanks to [Kamil Páral](https://github.com/kparal) for [gkeyring](https://github.com/kparal/gkeyring) to get access to the gnome keyring from the command line.
