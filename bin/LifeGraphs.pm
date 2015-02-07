@@ -202,7 +202,10 @@ sub write_file {
 	print $fh $data;
 	close($fh) or croak "could not close $filename: $ERRNO";
 
-	return length $data;
+	my $size = -s $filename;
+	print "wrote raw $filename ($size bytes)\n";
+
+	return $size;
 }
 
 sub write_json {
