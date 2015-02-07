@@ -6,6 +6,7 @@ use local::lib;
 use Data::Dumper;
 use LifeGraphs;
 use Net::IMAP::Simple::Gmail;
+use Email::Simple;
 use Term::ReadPassword;
 
 my $user = 'chicks.net@gmail.com';
@@ -23,15 +24,28 @@ while ($tries--) {
 }
 
 my $server = 'imap.gmail.com';
-my $imap = Net::IMAP::Simple::Gmail->new($server);
+my $imap = Net::IMAP::Simple::Gmail->new( $server, use_ssl => 1 );
 unless ( $imap->login( $user, $pass ) ) {
 	warn "imap login failed: " . $imap->errstr . "\n";
 	die "no login";
 }
 
-my $nm = $imap->select('INBOX');
+my $inbox_nm = $imap->select('INBOX');
+print "$inbox_nm in INBOX...\n";
+$imap->close();
 
 #for(my $i = 1; $i <= $nm; $i++) {
 #	# Get labels on message
-#	my $labels = $imap->get_labels($msg);
+#	my $labels = $imap->get_labels($i);
+#	print Dumper($labels);
 #}
+
+my $all_nm = $imap->select('[Gmail]/All Mail');
+print "$all_nm in all gmail...\n";
+
+my $citibank_alerts = $imap->run_search("from:citibank.com subject:alert");
+#print Dumper($citibank_alerts);
+my $citibank_nm = scalar @$citibank_alerts;
+print "$citibank_nm in Citibank alerts...\n";
+
+$imap->quit;
