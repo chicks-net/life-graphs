@@ -43,12 +43,6 @@ my $inbox_nm = $imap->select('INBOX');
 print "$inbox_nm in INBOX...\n";
 $imap->close();
 
-#for(my $i = 1; $i <= $nm; $i++) {
-#	# Get labels on message
-#	my $labels = $imap->get_labels($i);
-#	print Dumper($labels);
-#}
-
 my $all_nm = $imap->select('[Gmail]/All Mail');
 print "$all_nm in all gmail...\n";
 
@@ -56,8 +50,6 @@ print "$all_nm in all gmail...\n";
 
 if ($do_citibank) {
 	my $citibank_alerts = $imap->run_search("from:citibank.com subject:alert");
-	#write_json("/tmp/zz",$citibank_alerts);
-	#print Dumper($citibank_alerts);die;
 	my $citibank_nm = scalar @$citibank_alerts;
 	print "$citibank_nm in Citibank alerts...\n";
 	my $progress_counter = 0;
