@@ -94,7 +94,21 @@ if ($do_citibank) {
 }
 
 if ($do_mocentric) {
-	die "unimplemented";
+	my $side_sent = $imap->run_search("label:Jobs-side label:sent");
+	my $side_sent_nm = scalar @$side_sent;
+	print "$side_sent_nm in Jobs/side & sent\n";
+
+	foreach my $msg_number (@$side_sent) {
+		$msg_number =~ s/\r$//; # wtf?
+		my $message = $imap->get( $msg_number )        # or die....
+			or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msg_number]]\n");
+
+		my $es = Email::Simple->new(join '', @{ $message });
+		my $header_date = $es->header("Date");
+		my $subject = $es->header("Subject");
+
+		print "\n$msg_number $header_date   $subject :::\n";
+	}
 }
 
 $imap->quit() or die ($imap->errstr . "\n");
