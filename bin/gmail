@@ -6,8 +6,9 @@ use local::lib;
 use Data::Dumper;
 use LifeGraphs qw( write_file write_json );
 use Net::IMAP::Simple::Gmail;
-use Email::Simple;
+use Email::MIME;
 use Term::ReadPassword;
+use Lingua::EN::Fathom;
 
 # defaults
 my $do_citibank = 0;
@@ -103,11 +104,31 @@ if ($do_mocentric) {
 		my $message = $imap->get( $msg_number )        # or die....
 			or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msg_number]]\n");
 
-		my $es = Email::Simple->new(join '', @{ $message });
-		my $header_date = $es->header("Date");
-		my $subject = $es->header("Subject");
+		my $em = Email::MIME->new(join '', @{ $message });
+		my $header_date = $em->header("Date");
+		my $subject = $em->header("Subject");
+		my @parts = $em->subparts;
+		my $parts_ct = scalar @parts;
 
-		print "\n$msg_number $header_date   $subject :::\n";
+		print "\n$msg_number   $header_date   $subject   $parts_ct parts :::\n";
+		#print $em->debug_structure;
+
+		foreach my $prt (@parts) {
+			my $type = $prt->content_type;
+			print "\ttype $type\n";
+
+			if ($type =~ /^text\/plain;/) {
+				my $body = $prt->body;
+				my $fathom = new Lingua::EN::Fathom;
+				$fathom->analyse_block($body,1);
+				my $words = $fathom->num_words;
+				my $p_big_words = $fathom->percent_complex_words;
+				my $disp_big_words = sprintf("%4.1f%% big words",$p_big_words);
+				my $text_lines = $fathom->num_text_lines;
+				my $blank_lines = $fathom->num_blank_lines;
+				print "\t$words words, $disp_big_words, $text_lines text lines, $blank_lines blank lines\n";
+			}
+		}
 	}
 }
 
