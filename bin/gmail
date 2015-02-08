@@ -9,8 +9,28 @@ use Net::IMAP::Simple::Gmail;
 use Email::Simple;
 use Term::ReadPassword;
 
+# defaults
+my $do_citibank = 0;
+my $do_mocentric = 1; #TODO make 0
 my $user = 'chicks.net@gmail.com';
 my $pass = `gkeyring --keyring graphs_life --id=4 -1`;
+
+# arguments processing
+if (scalar @ARGV) {
+	# arguments, but not the bad kind
+	foreach my $arg (@ARGV) {
+		if ($arg eq '-h' or $arg eq '--help') {
+			die 'help';
+		} elsif ($arg eq '-c' or $arg eq '--citibank') {
+			$do_citibank++;
+		} elsif ($arg eq '-m' or $arg eq '--mocentric') {
+			$do_mocentric++;
+		} else {
+			die "unrecognized argument '$arg': you could try --help, but you might as well read the code";
+		}
+	}
+}
+
 
 my $server = 'imap.gmail.com';
 my $imap = Net::IMAP::Simple::Gmail->new( $server, use_ssl => 1 );
@@ -32,48 +52,57 @@ $imap->close();
 my $all_nm = $imap->select('[Gmail]/All Mail');
 print "$all_nm in all gmail...\n";
 
-my $citibank_alerts = $imap->run_search("from:citibank.com subject:alert");
-#write_json("/tmp/zz",$citibank_alerts);
-#print Dumper($citibank_alerts);die;
-my $citibank_nm = scalar @$citibank_alerts;
-print "$citibank_nm in Citibank alerts...\n";
-my $progress_counter = 0;
-my $citibank_out = '';
+# TODO: store stats
 
-foreach my $msg_number (@$citibank_alerts) {
-	$msg_number =~ s/\r$//; # wtf?
-	my $message = $imap->get( $msg_number ) or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msg_number]]\n");
+if ($do_citibank) {
+	my $citibank_alerts = $imap->run_search("from:citibank.com subject:alert");
+	#write_json("/tmp/zz",$citibank_alerts);
+	#print Dumper($citibank_alerts);die;
+	my $citibank_nm = scalar @$citibank_alerts;
+	print "$citibank_nm in Citibank alerts...\n";
+	my $progress_counter = 0;
+	my $citibank_out = '';
 
-	$progress_counter++;
-	if ($progress_counter % 20 == 0) {
-		print "$progress_counter/$citibank_nm messages handled\n";
-	}
+	foreach my $msg_number (@$citibank_alerts) {
+		$msg_number =~ s/\r$//; # wtf?
+		my $message = $imap->get( $msg_number )        # or die....
+			or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msg_number]]\n");
 
-#	my $es = Email::Simple->new(join '', @{ $message });
-#	my $header_date = $es->header("Date");
+		$progress_counter++;
+		if ($progress_counter % 20 == 0) {
+			print "$progress_counter/$citibank_nm messages handled\n";
+		}
 
-#	print "\n$msg_number $header_date :::\n";
+	#	my $es = Email::Simple->new(join '', @{ $message });
+	#	my $header_date = $es->header("Date");
 
-	my ($date,$current,$available);
-	foreach my $line (@$message) {
-		next unless $line =~ /^\s+/;
-		#print "CHECKING $line\n";
-		if ($line =~ /as of ([\d\/]+)/i) {
-			$date = $1;
-		} elsif ($line =~ /current balance: \$([.,\d]+)/i) {
-			$current = $1;
-			$current =~ s/,//g; # decomma
-		} elsif ($line =~ /available balance: \$([.,\d]+)/i) {
-			$available = $1;
-			$available =~ s/,//g; # decomma
+	#	print "\n$msg_number $header_date :::\n";
+
+		my ($date,$current,$available);
+		foreach my $line (@$message) {
+			next unless $line =~ /^\s+/;
+			#print "CHECKING $line\n";
+			if ($line =~ /as of ([\d\/]+)/i) {
+				$date = $1;
+			} elsif ($line =~ /current balance: \$([.,\d]+)/i) {
+				$current = $1;
+				$current =~ s/,//g; # decomma
+			} elsif ($line =~ /available balance: \$([.,\d]+)/i) {
+				$available = $1;
+				$available =~ s/,//g; # decomma
+			}
+		}
+
+		if ( defined $date ) {
+			$citibank_out .= "$date,$current,$available\n";
 		}
 	}
-
-	if ( defined $date ) {
-		$citibank_out .= "$date,$current,$available\n";
-	}
+	write_file("/home/chicks/Documents/citibank.csv",$citibank_out);
+	#$imap->close() or die ($imap->errstr . "\n");
 }
-write_file("/home/chicks/Documents/citibank.csv",$citibank_out);
-#$imap->close() or die ($imap->errstr . "\n");
+
+if ($do_mocentric) {
+	die "unimplemented";
+}
 
 $imap->quit() or die ($imap->errstr . "\n");
