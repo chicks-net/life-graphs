@@ -108,16 +108,44 @@ if ($do_mocentric) {
 		my $em = Email::MIME->new(join '', @{ $message });
 		my $header_date = $em->header("Date");
 		my $subject = $em->header("Subject");
+		my $from = $em->header("From");
+		my $main_recip = $em->header("To");
 		my $stripped = Email::MIME::Attachment::Stripper->new($em);
 		my @parts = $stripped->message->subparts;
 		my $parts_ct = scalar @parts;
 
 		print "\n$msg_number   $header_date   $subject   $parts_ct parts :::\n";
+		print "\tfrom $from\n";
 		#print $em->debug_structure;
+
+		my $project;
+		if ($main_recip =~ /hancock/) {
+			$project = "HANCOCK";
+		} elsif  ($main_recip =~ /(adiorucevic|amara|arsfz)/) {
+			$project = "AMARA";
+		} elsif  ($main_recip =~ /(mocentric|abouriz|daron|juvenal)/) {
+			$project = "MOCENTRIC";
+		} elsif  ($main_recip =~ /catherine.law|maggie/i) {
+			$project = "CAPTIVE_PORTAL";
+		} elsif  ($main_recip =~ /aud.love/) {
+			$project = "SAMSUNG";
+		} elsif  ($main_recip =~ /heartspring/) {
+			$project = "PATENT";
+		} elsif  ($main_recip =~ /nodrats/) {
+			$project = "DBCS";
+		} elsif  ($main_recip =~ /ntmidcap|gwendolyne|c50chris/) {
+			$project = "FINI_PROSPECT";
+		} elsif  ($main_recip =~ /keytel/) {
+			$project = "FAMILY";
+		} else {
+			$project = "??? unknown $main_recip";
+		}
+		print "\tproj $project\n";
+		next unless $project eq 'MOCENTRIC';
 
 		foreach my $prt (@parts) {
 			my $type = $prt->content_type;
-			print "\ttype $type\n";
+			#print "\ttype $type\n";
 
 			if ($type =~ /^text\/plain;/) {
 				my $body = $prt->body;
@@ -128,10 +156,21 @@ if ($do_mocentric) {
 				my $disp_big_words = sprintf("%4.1f%% big words",$p_big_words);
 				my $text_lines = $fathom->num_text_lines;
 				my $blank_lines = $fathom->num_blank_lines;
-				print "\t$words words, $disp_big_words, $text_lines text lines, $blank_lines blank lines\n";
+				my $fog = deci($fathom->fog);
+				my $kincaid = deci($fathom->kincaid);
+				print "\t$words words, $disp_big_words, $text_lines text lines, "
+					. "$blank_lines blank lines, "
+					. "kincaid=$kincaid fog=$fog"
+					. "\n";
 			}
 		}
 	}
 }
 
 $imap->quit() or die ($imap->errstr . "\n");
+
+sub deci {
+	my ($value) = @_;
+	my $formatted = sprintf("%.1f",$value);
+	return $formatted;
+}
