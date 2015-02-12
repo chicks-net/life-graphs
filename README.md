@@ -6,7 +6,8 @@ graphs of health, money, and technology
 PREREQUISITES
 -------------
 
-If you want to do more than view my personal graphs on the Internet you should install these Perl modules (debian packages):
+If you want to do more than view my personal graphs on the Internet you should install these
+Perl modules (debian packages):
 
 * DateTime (`libdatetime-perl`)
 * LWP::Simple (`libwww-perl`)
@@ -33,8 +34,9 @@ GRAPHS DONE
 TECH TODO
 ---------
 
-* pull credentials from LastPass
 * interactive Storable editor instead of ad-hoccery like `edit_storable`
+* fix Steam collector bugs, reduce output
+* add `prefix` paramater to write-file so output can include directory name to show `pwd`.
 
 GRAPHS TODO
 -----------
@@ -52,7 +54,8 @@ There are many data collectors that I want to make, but these are the top priori
 * TECH: fini inbox size
 * TECH: github LoC committed
 * TECH: dnetc ogr summary and history
-* FINANCE: Citi balances
+* FINANCE: Citi balances (partially satisfied by gmail collector)
+* FINANCE: Fidelity balances
 * FINANCE: OpenSRS balance
 * FINANCE: paypal balances
 * FINANCE: mobile balance, minutes used, bytes used
