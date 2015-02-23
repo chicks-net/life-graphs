@@ -1189,6 +1189,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg",
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
+   "Super Game Jam" : {
+      "achievements" : true,
+      "app_id" : "288290",
+      "global_achievements" : true,
+      "name" : "Super Game Jam",
+      "name_short" : "288290",
+      "url_achievements" : "http://steamcommunity.com/stats/288290/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288290/8d5af97db1ac944c66a6a2aed23598cf1bd09b01.jpg",
+      "url_store" : "http://store.steampowered.com/app/288290/"
+   },
    "Super Meat Boy" : {
       "achievements" : true,
       "app_id" : "40800",
