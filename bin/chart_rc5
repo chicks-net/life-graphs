@@ -72,7 +72,7 @@ print "wrote Dash/$filename\n";
 
 $chart = Chart::Strip->new( title => "chicks rc5-72 rank delta", width => $chart_width );
 my @data_delta10_overall = map { $_->{value} = 10 * $_->{value} ; $_ } @data_delta_overall;
-$chart->add_data(\@data_delta10_overall, { style => 'line', label => 'Overall * 10', color => $color_set[1] });
+$chart->add_data(\@data_delta10_overall, { style => 'line', label => 'Overall * 10', thickness => 2, color => $color_set[1] });
 $chart->add_data(\@data_delta_yesterday, { style => 'line', label => 'Yesterday', color => $color_set[2] });
 $filename = "rank_delta_rc5-72_chicks.png";
 write_file($filename,$chart->png());
