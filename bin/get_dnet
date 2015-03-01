@@ -26,6 +26,10 @@ Readonly::Hash my %month_decode => (
 
 my $fail = 0;
 
+##
+## RC5
+##
+
 # get content: rc5-72 summary
 my $rc5_url = 'http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444';
 my $tree = url_tree($rc5_url);
@@ -234,6 +238,18 @@ if (defined $tree) {
 	$fail++;
 }
 
+##
+## OGR-28
+##
+
+my $ogr28_url = 'http://stats.distributed.net/participant/psummary.php?project_id=28&id=73444';
+my $ogr28tree = url_tree($ogr28_url);
+warn "no ogr28 tree" unless $ogr28tree;
+
+##
+## write out
+##
+
 if (0) {
 	print Dumper($data_out);
 	die 'testing';
@@ -241,6 +257,10 @@ if (0) {
 
 write_storable($dnet_storable_filename,$data_out) unless $fail;
 write_json($dnet_json_filename,$data_out) unless $fail;
+
+##
+## functions
+##
 
 sub date2month {
 	my ($date) = @_;
