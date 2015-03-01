@@ -14,6 +14,7 @@ use Lingua::EN::Fathom;
 # defaults
 my $do_citibank = 0;
 my $do_mocentric = 1; #TODO make 0
+my $out_dir = '/home/chicks/Documents/gmail/';
 my $user = 'chicks.net@gmail.com';
 my $pass = `gkeyring --keyring graphs_life --id=4 -1`;
 
@@ -64,7 +65,7 @@ if ($do_citibank) {
 
 		$progress_counter++;
 		if ($progress_counter % 20 == 0) {
-			print "$progress_counter/$citibank_nm messages handled\n";
+			print "\t$progress_counter/$citibank_nm messages handled\n";
 		}
 
 	#	my $es = Email::Simple->new(join '', @{ $message });
@@ -91,7 +92,8 @@ if ($do_citibank) {
 			$citibank_out .= "$date,$current,$available\n";
 		}
 	}
-	write_file("/home/chicks/Documents/citibank.csv",$citibank_out);
+	write_file($out_dir . "citibank.csv", $citibank_out);
+	print "\n";
 	#$imap->close() or die ($imap->errstr . "\n");
 }
 
