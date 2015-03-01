@@ -118,8 +118,7 @@ $chart->add_data(\@data_achievements, { style => 'line', label => 'Total Achieve
 
 my $fh;
 my $filename = "steam_achievements.png";
-write_file($filename,$chart->png());  
-print "wrote Dash/$filename\n";
+write_file($filename,$chart->png(), 'Dash');
 
 
 $chart = Chart::Strip->new( title => "Steam Achievement Percentages", width => $chart_width );
@@ -129,16 +128,14 @@ $chart->add_data(\@data_percent_chicks_played, { style => 'line', label => 'Avg.
 $chart->add_data(\@data_percent_chicks_overall, { style => 'line', label => 'Avg. Completion Percentage Chicks overall', color => $color_set[1] });
 
 $filename = "steam_achievement_percentage.png";
-write_file($filename,$chart->png());  
-print "wrote Dash/$filename\n";
+write_file($filename,$chart->png(), 'Dash');
 
 
 $chart = Chart::Strip->new( title => "Steam Time", width => $chart_width );
 $chart->add_data(\@data_hours_2wks, { style => 'line', label => 'hours played in previous 2 weeks', color => $color_set[6] });
 
 $filename = "steam_time.png";
-write_file($filename,$chart->png());  
-print "wrote Dash/$filename\n";
+write_file($filename,$chart->png(), 'Dash');
 
 
 $chart = Chart::Strip->new( title => "Steam Community", width => $chart_width );
@@ -148,5 +145,4 @@ $chart->add_data(\@data_badges, { style => 'line', label => 'Badges', color => $
 $chart->add_data(\@data_game_cards, { style => 'line', label => 'Game Cards', color => $color_set[6] });
 
 $filename = "steam_community.png";
-write_file($filename,$chart->png());  
-print "wrote Dash/$filename\n";
+write_file($filename,$chart->png(), 'Dash');

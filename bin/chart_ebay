@@ -44,5 +44,4 @@ my $chart = Chart::Strip->new( title => "$user ebay rating", width => $chart_wid
 $chart->add_data(\@dataset, { style => 'line', color => '7aa818' });
 my $fh;
 my $filename = "ebay_$user.png";
-write_file( $filename, $chart->png() );
-print "wrote Dash/$filename\n";
+write_file( $filename, $chart->png(), 'Dash');

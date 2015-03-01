@@ -195,15 +195,20 @@ sub verify_datadir {
 }
 
 sub write_file {
-	my ( $filename, $data ) = @_;
+	my ( $filename, $data, $print_prefix ) = @_;
 
 	my $fh;
 	open( $fh, ">", $filename ) or croak "could not open $filename for write: $ERRNO";
 	print $fh $data;
 	close($fh) or croak "could not close $filename: $ERRNO";
 
+	if (defined $print_prefix) {
+		$print_prefix .= '/' unless $print_prefix =~ m{/$};
+	} else {
+		$print_prefix = ''; # empty is ok
+	}
 	my $size = -s $filename;
-	print "wrote raw $filename ($size bytes)\n";
+	print "wrote raw ${print_prefix}$filename ($size bytes)\n";
 
 	return $size;
 }
@@ -296,6 +301,8 @@ verify_datadir() takes no arguments.
 =head3 write_file
 
 Write a file.  The first argument is a filename and the second is data to write.
+<code>write_file()</code> takes a third argument which is used to print a directory prefix before
+the filename.
 It will return the number of bytes written.
 This function is not exported by default so to get it and the rest of the de facto exports you need to:
 

@@ -263,8 +263,7 @@ $content .= "[Main Dashboard](README.md) ...\n\n";
 
 # write table out as Markdown
 my $filename = "steam_achievements.md";
-write_file($filename,$content);  
-print "wrote Dash/$filename\n";
+write_file($filename,$content, 'Dash');
 
 # save percentages as JSON/Storable
 my $log_day = {

@@ -84,8 +84,7 @@ my $chart = Chart::Strip->new( title => "$user fitbit steps", width => $chart_wi
 $chart->add_data(\@avg7_dataset, { style => 'filled',  label => '7 day average', color => $color_set[5] });
 $chart->add_data(\@daily_dataset, { style => 'box', width => '2', label => 'actual daily', color => $color_set[2], thickness => 2 });
 my $filename = "fitbit_$user.png";
-write_file( $filename, $chart->png() );
-print "wrote Dash/$filename\n";
+write_file( $filename, $chart->png(), 'Dash');
 
 sub avg_array {
 	my (@in) = @_;
