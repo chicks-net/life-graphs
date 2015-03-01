@@ -142,30 +142,8 @@ if ($do_mocentric) {
 		$proj_out{$project} .= "\tfrom $from\n";
 
 		next unless $project eq 'MOCENTRIC';
+		$proj_out{$project} .= analyze_parts(@parts);
 
-		foreach my $prt (@parts) {
-			my $type = $prt->content_type;
-			#print "\ttype $type\n";
-
-			if ($type =~ /^text\/plain;/) {
-				my $body = $prt->body;
-				my $fathom = new Lingua::EN::Fathom;
-				$fathom->analyse_block($body,1);
-				my $words = $fathom->num_words;
-				my $p_big_words = $fathom->percent_complex_words;
-				my $disp_big_words = sprintf("%4.1f%% big words",$p_big_words);
-				my $text_lines = $fathom->num_text_lines;
-				my $blank_lines = $fathom->num_blank_lines;
-				my $fog = deci($fathom->fog);
-				my $kincaid = deci($fathom->kincaid);
-
-				$proj_out{$project} .= "\t$words words, $disp_big_words, "
-					. "$text_lines text lines, "
-					. "$blank_lines blank lines, "
-					. "kincaid=$kincaid fog=$fog"
-					. "\n";
-			}
-		}
 	} # foreach message
 
 	foreach my $proj (keys %proj_out) {
@@ -188,4 +166,35 @@ sub imap_get {
 		or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msgnum]]\n");
 
 	return $message;
+}
+
+sub analyze_parts {
+	my (@parts) = @_;
+
+	my $out;
+	foreach my $prt (@parts) {
+		my $type = $prt->content_type;
+		#print "\ttype $type\n";
+
+		if ($type =~ /^text\/plain;/) {
+			my $body = $prt->body;
+			my $fathom = new Lingua::EN::Fathom;
+			$fathom->analyse_block($body,1);
+			my $words = $fathom->num_words;
+			my $p_big_words = $fathom->percent_complex_words;
+			my $disp_big_words = sprintf("%4.1f%% big words",$p_big_words);
+			my $text_lines = $fathom->num_text_lines;
+			my $blank_lines = $fathom->num_blank_lines;
+			my $fog = deci($fathom->fog);
+			my $kincaid = deci($fathom->kincaid);
+
+			$out .= "\t$words words, $disp_big_words, "
+				. "$text_lines text lines, "
+				. "$blank_lines blank lines, "
+				. "kincaid=$kincaid fog=$fog"
+				. "\n";
+		}
+	}
+
+	return $out;
 }
