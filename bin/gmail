@@ -60,8 +60,7 @@ if ($do_citibank) {
 
 	foreach my $msg_number (@$citibank_alerts) {
 		$msg_number =~ s/\r$//; # wtf?
-		my $message = $imap->get( $msg_number )        # or die....
-			or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msg_number]]\n");
+		my $message = imap_get($imap, $msg_number ); # or die
 
 		$progress_counter++;
 		if ($progress_counter % 20 == 0) {
@@ -105,8 +104,7 @@ if ($do_mocentric) {
 
 	foreach my $msg_number (@$side_sent) {
 		$msg_number =~ s/\r$//; # wtf?
-		my $message = $imap->get( $msg_number )        # or die....
-			or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msg_number]]\n");
+		my $message = imap_get($imap, $msg_number ); # or die
 
 		my $em = Email::MIME->new(join '', @{ $message });
 		my $header_date = $em->header("Date");
@@ -181,4 +179,13 @@ sub deci {
 	my ($value) = @_;
 	my $formatted = sprintf("%.1f",$value);
 	return $formatted;
+}
+
+sub imap_get {
+	my ($imap,$msgnum) = @_;
+
+	my $message = $imap->get( $msgnum )        # or die....
+		or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msgnum]]\n");
+
+	return $message;
 }
