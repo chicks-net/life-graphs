@@ -100,6 +100,7 @@ if ($do_citibank) {
 if ($do_mocentric) {
 	my $side_sent = $imap->run_search("label:Jobs-side label:sent");
 	my $side_sent_nm = scalar @$side_sent;
+	my %proj_out;
 	print "$side_sent_nm in Jobs/side & sent\n";
 
 	foreach my $msg_number (@$side_sent) {
@@ -115,10 +116,6 @@ if ($do_mocentric) {
 		my $stripped = Email::MIME::Attachment::Stripper->new($em);
 		my @parts = $stripped->message->subparts;
 		my $parts_ct = scalar @parts;
-
-		print "\n$msg_number   $header_date   $subject   $parts_ct parts :::\n";
-		print "\tfrom $from\n";
-		#print $em->debug_structure;
 
 		my $project;
 		if ($main_recip =~ /hancock/) {
@@ -142,7 +139,10 @@ if ($do_mocentric) {
 		} else {
 			$project = "??? unknown $main_recip";
 		}
-		print "\tproj $project\n";
+
+		$proj_out{$project} .= "\n$msg_number   $header_date   $subject   $parts_ct parts :::\n";
+		$proj_out{$project} .= "\tfrom $from\n";
+
 		next unless $project eq 'MOCENTRIC';
 
 		foreach my $prt (@parts) {
@@ -160,14 +160,20 @@ if ($do_mocentric) {
 				my $blank_lines = $fathom->num_blank_lines;
 				my $fog = deci($fathom->fog);
 				my $kincaid = deci($fathom->kincaid);
-				print "\t$words words, $disp_big_words, $text_lines text lines, "
+
+				$proj_out{$project} .= "\t$words words, $disp_big_words, "
+					. "$text_lines text lines, "
 					. "$blank_lines blank lines, "
 					. "kincaid=$kincaid fog=$fog"
 					. "\n";
 			}
 		}
+	} # foreach message
+
+	foreach my $proj (keys %proj_out) {
+		write_file("${out_dir}proj_${proj}.txt", $proj_out{$proj});
 	}
-}
+} # if $do_mocentric
 
 $imap->quit() or die ($imap->errstr . "\n");
 
