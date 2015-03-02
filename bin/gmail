@@ -13,7 +13,7 @@ use Lingua::EN::Fathom;
 
 # defaults
 my $do_citibank = 0;
-my $do_mocentric = 1; #TODO make 0
+my $do_mocentric = 0;
 my $out_dir = '/home/chicks/Documents/gmail/';
 my $user = 'chicks.net@gmail.com';
 my $pass = `gkeyring --keyring graphs_life --id=4 -1`;
