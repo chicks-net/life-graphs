@@ -97,7 +97,7 @@ if ($do_citibank) {
 }
 
 if ($do_mocentric) {
-	my $side_sent = $imap->run_search("label:Jobs-side label:sent");
+	my $side_sent = $imap->run_search("label:Jobs-side");
 	my $side_sent_nm = scalar @$side_sent;
 	my %proj_out;
 	print "$side_sent_nm in Jobs/side & sent\n";
@@ -111,17 +111,28 @@ if ($do_mocentric) {
 		my $subject = $em->header("Subject");
 		my $from = $em->header("From");
 		my $main_recip = $em->header("To");
+
 		my $stripped = Email::MIME::Attachment::Stripper->new($em);
 		my @parts = $stripped->message->subparts;
 		my $parts_ct = scalar @parts;
 
-		my $project = other2proj($main_recip) || "??? unknown $main_recip";
+		my $other = $from;
+		$other = $main_recip if $from =~ /chicks\.net/;
+
+		my $project = other2proj($other) || "??? unknown $other";
 
 		$proj_out{$project} .= "\n$msg_number   $header_date   $subject   $parts_ct parts :::\n";
 		$proj_out{$project} .= "\tfrom $from\n";
 		$proj_out{$project} .= "\tto $main_recip\n";
+		$proj_out{$project} .= "\tother $other\n";
 
 		next unless $project eq 'MOCENTRIC';
+
+		unless(scalar @parts) {
+			$proj_out{$project} .= "\tWARNING: NO analyzed content\n";
+			warn "\tno parts: $msg_number/$header_date/$subject";
+			next;
+		}
 		$proj_out{$project} .= analyze_parts(@parts);
 
 	} # foreach message
@@ -170,19 +181,26 @@ sub analyze_parts {
 			my $body = $prt->body;
 			my $fathom = new Lingua::EN::Fathom;
 			$fathom->analyse_block($body,1);
-			my $words = $fathom->num_words;
-			my $p_big_words = $fathom->percent_complex_words;
-			my $disp_big_words = sprintf("%4.1f%% big words",$p_big_words);
-			my $text_lines = $fathom->num_text_lines;
-			my $blank_lines = $fathom->num_blank_lines;
-			my $fog = deci($fathom->fog);
-			my $kincaid = deci($fathom->kincaid);
+			my $words = $fathom->num_words || 0;
+			if ($words) {
+				my $p_big_words = $fathom->percent_complex_words || 0;
+				my $disp_big_words = sprintf("%4.1f%% big words",$p_big_words);
 
-			$out .= "\t$words words, $disp_big_words, "
-				. "$text_lines text lines, "
-				. "$blank_lines blank lines, "
-				. "kincaid=$kincaid fog=$fog"
-				. "\n";
+				my $text_lines = $fathom->num_text_lines || 0;
+				my $blank_lines = $fathom->num_blank_lines;
+
+				my $fog = deci($fathom->fog);
+				my $kincaid = deci($fathom->kincaid);
+
+				$out .= "\t$words words, $disp_big_words, "
+					. "$text_lines text lines, "
+					. "$blank_lines blank lines, "
+					. "kincaid=$kincaid fog=$fog"
+					. "\n";
+			} else {
+				$out .= "\t0 words\n";
+			}
+
 		}
 	}
 
@@ -198,7 +216,7 @@ sub other2proj {
 		$project = "HANCOCK";
 	} elsif  ($main_other =~ /(adiorucevic|amara|arsfz)/) {
 		$project = "AMARA";
-	} elsif  ($main_other =~ /(mocentric|abouriz|daron|juvenal)/) {
+	} elsif  ($main_other =~ /(mocentric|abouriz|daron|juvenal|Mitri)/) {
 		$project = "MOCENTRIC";
 	} elsif  ($main_other =~ /catherine.law|maggie/i) {
 		$project = "CAPTIVE_PORTAL";
@@ -208,9 +226,15 @@ sub other2proj {
 		$project = "PATENT";
 	} elsif  ($main_other =~ /nodrats/) {
 		$project = "DBCS";
-	} elsif  ($main_other =~ /ntmidcap|gwendolyne|c50chris/) {
+	} elsif  ($main_other =~ /ntmidcap|gwendolyne|c50chris|Ritter/) {
 		$project = "FINI_PROSPECT";
-	} elsif  ($main_other =~ /keytel/) {
+	} elsif  ($main_other =~ /AdSense/) {
+		$project = "FINI_ADVERTS";
+	} elsif  ($main_other =~ /csstars\.com|sentara.com|cac-medmal|michael.todd/) {
+		$project = "IRESERVE_SENTARA";
+	} elsif  ($main_other =~ /tdsnyder/) {
+		$project = "ARBREA";
+	} elsif  ($main_other =~ /keytel|realestatebetty/) {
 		$project = "FAMILY";
 	}
 
