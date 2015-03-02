@@ -33,6 +33,8 @@ echo ""
 ./get_steam
 echo ""
 ./get_ebay
+echo ""
+./gmail
 
 echo -e "\ncharts:"
 ./achieve_steam

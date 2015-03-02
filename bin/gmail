@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use local::lib;
 use Data::Dumper;
-use LifeGraphs qw( write_file write_json );
+use LifeGraphs qw( write_file :defaults );
 use Net::IMAP::Simple::Gmail;
 use Email::MIME;
 use Email::MIME::Attachment::Stripper;
@@ -35,22 +35,42 @@ if (scalar @ARGV) {
 }
 
 
+# verify data directory
+my $data_dir = verify_datadir();
+
+# retrieve existing data
+my $gmail_storable_filename = 'gmail.storable';
+my $gmail_json_filename = 'gmail.json';
+my $data_out = get_storable("$data_dir/$gmail_storable_filename");
+
+# connect and login
 my $server = 'imap.gmail.com';
 my $imap = Net::IMAP::Simple::Gmail->new( $server, use_ssl => 1 );
 unless ( $imap->login( $user, $pass ) ) {
 	warn "imap login failed: " . $imap->errstr . "\n";
 	die "no login";
 }
+print "# logged in as $user\n";
 
-my $inbox_nm = $imap->select('INBOX');
-print "$inbox_nm in INBOX...\n";
-$imap->close();
+#
+# overall stats
+#
+my $stats_time = get_now_text();
+my %stats_record;
+my @subboxes = map { "[Gmail]/$_" } ('All Mail', 'Sent Mail', qw(Starred Trash Spam Drafts Important) );
+foreach my $subbox ('INBOX', @subboxes) {
+	my $message_count = $imap->select($subbox);
+	print "\t$message_count in $subbox\n";
+	$stats_record{$subbox} = $message_count;
+	$imap->close();
+}
+$data_out->{$stats_time} = \%stats_record;
 
-my $all_nm = $imap->select('[Gmail]/All Mail');
-print "$all_nm in all gmail...\n";
+write_storable($gmail_storable_filename,$data_out);
+write_json($gmail_json_filename,$data_out);
 
-# TODO: store stats
-
+# optional citibank analysis
+#
 if ($do_citibank) {
 	my $citibank_alerts = $imap->run_search("from:citibank.com subject:alert");
 	my $citibank_nm = scalar @$citibank_alerts;
@@ -240,3 +260,6 @@ sub other2proj {
 
 	return $project;
 }
+
+# a different end
+__END__
