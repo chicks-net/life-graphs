@@ -115,31 +115,11 @@ if ($do_mocentric) {
 		my @parts = $stripped->message->subparts;
 		my $parts_ct = scalar @parts;
 
-		my $project;
-		if ($main_recip =~ /hancock/) {
-			$project = "HANCOCK";
-		} elsif  ($main_recip =~ /(adiorucevic|amara|arsfz)/) {
-			$project = "AMARA";
-		} elsif  ($main_recip =~ /(mocentric|abouriz|daron|juvenal)/) {
-			$project = "MOCENTRIC";
-		} elsif  ($main_recip =~ /catherine.law|maggie/i) {
-			$project = "CAPTIVE_PORTAL";
-		} elsif  ($main_recip =~ /aud.love/) {
-			$project = "SAMSUNG";
-		} elsif  ($main_recip =~ /heartspring/) {
-			$project = "PATENT";
-		} elsif  ($main_recip =~ /nodrats/) {
-			$project = "DBCS";
-		} elsif  ($main_recip =~ /ntmidcap|gwendolyne|c50chris/) {
-			$project = "FINI_PROSPECT";
-		} elsif  ($main_recip =~ /keytel/) {
-			$project = "FAMILY";
-		} else {
-			$project = "??? unknown $main_recip";
-		}
+		my $project = other2proj($main_recip) || "??? unknown $main_recip";
 
 		$proj_out{$project} .= "\n$msg_number   $header_date   $subject   $parts_ct parts :::\n";
 		$proj_out{$project} .= "\tfrom $from\n";
+		$proj_out{$project} .= "\tto $main_recip\n";
 
 		next unless $project eq 'MOCENTRIC';
 		$proj_out{$project} .= analyze_parts(@parts);
@@ -151,7 +131,15 @@ if ($do_mocentric) {
 	}
 } # if $do_mocentric
 
+#
+# the end
+#
+
 $imap->quit() or die ($imap->errstr . "\n");
+
+#
+# SUBterrranean
+#
 
 sub deci {
 	my ($value) = @_;
@@ -164,6 +152,8 @@ sub imap_get {
 
 	my $message = $imap->get( $msgnum )        # or die....
 		or die ("\nIMAP:" . $imap->errstr . "\n[[msg $msgnum]]\n");
+
+	# TODO: cache here
 
 	return $message;
 }
@@ -197,4 +187,32 @@ sub analyze_parts {
 	}
 
 	return $out;
+}
+
+sub other2proj {
+	my ($main_other) = @_;
+
+	my $project;
+
+	if ($main_other =~ /hancock/) {
+		$project = "HANCOCK";
+	} elsif  ($main_other =~ /(adiorucevic|amara|arsfz)/) {
+		$project = "AMARA";
+	} elsif  ($main_other =~ /(mocentric|abouriz|daron|juvenal)/) {
+		$project = "MOCENTRIC";
+	} elsif  ($main_other =~ /catherine.law|maggie/i) {
+		$project = "CAPTIVE_PORTAL";
+	} elsif  ($main_other =~ /aud.love/) {
+		$project = "SAMSUNG";
+	} elsif  ($main_other =~ /heartspring/) {
+		$project = "PATENT";
+	} elsif  ($main_other =~ /nodrats/) {
+		$project = "DBCS";
+	} elsif  ($main_other =~ /ntmidcap|gwendolyne|c50chris/) {
+		$project = "FINI_PROSPECT";
+	} elsif  ($main_other =~ /keytel/) {
+		$project = "FAMILY";
+	}
+
+	return $project;
 }
