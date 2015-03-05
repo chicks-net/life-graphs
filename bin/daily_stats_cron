@@ -3,7 +3,11 @@
 export DISPLAY=:0
 PATH=$PATH:/home/chicks/bin
 
+ENVFILE=/home/chicks/Documents/git/life-graphs/logs/env.log
 echo started at `date`
+
+env > $ENVFILE
+echo wrote env to $ENVFILE
 
 if [[ ! -d $STATS_DIR ]]; then
 	echo "STATS_DIR='$STATS_DIR' is not a directory"
