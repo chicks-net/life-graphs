@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 98 out of 114 games have achievements.
-14.56% achieved overall. 32.37% achieved in games played.
+14.58% achieved overall. 32.41% achieved in games played.
 
 
 
@@ -26,7 +26,7 @@ Games by Achievement Percentage
 | 60.0% | 6 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg) ](http://store.steampowered.com/app/253790/) | [rymdkapsel](http://steamcommunity.com/stats/253790/achievements/compare/) | **17.2** | 2.87 |
 | 60.0% | 12 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/) | [Poker Night at the Inventory](http://steamcommunity.com/stats/PokerNight/achievements/compare/) | 3.8 | **0.32** |
 | 43.3% | 222 / 513 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) | [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | **686** | 3.09 |
-| 40.0% | 20 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **30** | 1.50 |
+| 42.0% | 21 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **31** | *1.48* |
 | 38% | | | **Steam Completion Average** | | |
 | 36.4% | 4 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/) | [Zen Bound® 2](http://steamcommunity.com/stats/ZenBound2/achievements/compare/) | 6.4 | 1.60 |
 | 35.3% | 30 / 85 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | **50** | 1.67 |
@@ -125,7 +125,7 @@ Most played games
 | **124** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | 13 / 21 = 61.9% | 9.54 |
 | **56** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe VR](http://steamcommunity.com/stats/259510/achievements/compare/) | 55 / 76 = 72.4% | *1.02* |
 | **50** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | 30 / 85 = 35.3% | 1.67 |
-| **30** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | 20 / 50 = 40.0% | 1.50 |
+| **31** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | 21 / 50 = 42.0% | *1.48* |
 | **29** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/9945a26796013fcd5a5bc2602f5d5d573d417e8e.jpg) ](http://store.steampowered.com/app/304410/) | [Hexcells Infinite](http://steamcommunity.com/stats/304410/achievements/compare/) | 7 / 7 = 100.0% | 4.14 |
 | **28** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg) ](http://store.steampowered.com/app/38600/) | [Faerie Solitaire](http://steamcommunity.com/stats/FaerieSolitaire/achievements/compare/) | 27 / 30 = 90.0% | *1.04* |
 | **28** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg) ](http://store.steampowered.com/app/271900/) | [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | 6 / 6 = 100.0% | 4.67 |
