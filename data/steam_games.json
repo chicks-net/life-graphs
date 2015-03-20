@@ -517,13 +517,13 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
@@ -1295,6 +1295,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/250600/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg",
       "url_store" : "http://store.steampowered.com/app/250600/"
+   },
+   "The Talos Principle" : {
+      "achievements" : true,
+      "app_id" : "257510",
+      "global_achievements" : true,
+      "name" : "The Talos Principle",
+      "name_short" : "257510",
+      "url_achievements" : "http://steamcommunity.com/stats/257510/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257510/0392d2bd5d1bec31f2fd283bc4555fdc22dd44a9.jpg",
+      "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "To the Moon" : {
       "achievements" : true,
