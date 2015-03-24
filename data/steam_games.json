@@ -108,6 +108,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/225420/199b0db2bcc736d44bc1a605377cce9687b35c0e.jpg",
       "url_store" : "http://store.steampowered.com/app/225420/"
    },
+   "Cities: Skylines" : {
+      "achievements" : true,
+      "app_id" : "255710",
+      "global_achievements" : true,
+      "name" : "Cities: Skylines",
+      "name_short" : "255710",
+      "url_achievements" : "http://steamcommunity.com/stats/255710/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/255710/1b90f32be112870a4fa22c819a358d047b38d97f.jpg",
+      "url_store" : "http://store.steampowered.com/app/255710/"
+   },
    "Closure" : {
       "achievements" : true,
       "app_id" : "72000",
@@ -379,6 +389,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg",
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
+   "Farm for your Life" : {
+      "achievements" : true,
+      "app_id" : "266390",
+      "global_achievements" : true,
+      "name" : "Farm for your Life",
+      "name_short" : "266390",
+      "url_achievements" : "http://steamcommunity.com/stats/266390/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/266390/c4b03796e5e9ef64960abdddcdcd9e5bfae1094f.jpg",
+      "url_store" : "http://store.steampowered.com/app/266390/"
+   },
    "FlatOut" : {
       "app_id" : "6220",
       "name" : "FlatOut",
@@ -517,13 +537,13 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
