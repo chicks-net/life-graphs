@@ -1306,6 +1306,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/66002/918e66597ba39848728dfe3c5bcdb4301d7701c9.jpg",
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
+   "The LEGO® Movie - Videogame" : {
+      "achievements" : true,
+      "app_id" : "267530",
+      "global_achievements" : true,
+      "name" : "The LEGO® Movie - Videogame",
+      "name_short" : "267530",
+      "url_achievements" : "http://steamcommunity.com/stats/267530/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/267530/4a57c3cd0e5b4c9a3c6fef681bc80a2486bec780.jpg",
+      "url_store" : "http://store.steampowered.com/app/267530/"
+   },
    "The Plan" : {
       "achievements" : true,
       "app_id" : "250600",
