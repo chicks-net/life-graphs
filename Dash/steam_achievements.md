@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-103 out of 119 games have achievements.
-14.04% achieved overall. 32.58% achieved in games played.
+104 out of 119 games have achievements.
+14.04% achieved overall. 31.95% achieved in games played.
 
 
 
@@ -57,6 +57,7 @@ Games by Achievement Percentage
 | 1.8% | 3 / 167 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg) ](http://store.steampowered.com/app/730/) | [Counter-Strike: Global Offensive](http://steamcommunity.com/stats/CSGO/achievements/compare/) | 0.9 | **0.30** |
 | 1.4% | 1 / 69 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | 1.4 | *1.40* |
 | 0% | | | **No Achievements** | | |
+| 0.0% | 0 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/cf5483bdef345f337035e078506a5e97497f484e.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | **50** | und |
 | 0.0% | 0 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/231720/28a4894c618ad5644feb1778d60fc7d38bbb3b52.jpg) ](http://store.steampowered.com/app/231720/) | [Bad Hotel](http://steamcommunity.com/stats/231720/achievements/compare/) | **13.9** | und |
 | 0.0% | 0 / 51 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/225420/199b0db2bcc736d44bc1a605377cce9687b35c0e.jpg) ](http://store.steampowered.com/app/225420/) | [Cities in Motion 2](http://steamcommunity.com/stats/225420/achievements/compare/) | 8.1 | und |
 | 0.0% | 0 / 70 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg) ](http://store.steampowered.com/app/550/) | [Left 4 Dead 2](http://steamcommunity.com/stats/L4D2/achievements/compare/) | 1.9 | und |
@@ -129,6 +130,7 @@ Most played games
 | **300** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/) | [Train Fever](http://steamcommunity.com/stats/304730/achievements/compare/) | 31 / 39 = 79.5% | 9.68 |
 | **135** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | 14 / 21 = 66.7% | 9.64 |
 | **56** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe VR](http://steamcommunity.com/stats/259510/achievements/compare/) | 55 / 76 = 72.4% | *1.02* |
+| **50** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/cf5483bdef345f337035e078506a5e97497f484e.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | 0 / 11 = 0.0% | und |
 | **50** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | 30 / 85 = 35.3% | 1.67 |
 | **31** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | 21 / 50 = 42.0% | *1.48* |
 | **29** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/9945a26796013fcd5a5bc2602f5d5d573d417e8e.jpg) ](http://store.steampowered.com/app/304410/) | [Hexcells Infinite](http://steamcommunity.com/stats/304410/achievements/compare/) | 7 / 7 = 100.0% | 4.14 |
