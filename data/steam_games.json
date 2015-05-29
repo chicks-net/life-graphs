@@ -847,6 +847,8 @@
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Mini Metro",
       "name_short" : "287980",
       "url_achievements" : "http://steamcommunity.com/stats/287980/achievements/compare/",
