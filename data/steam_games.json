@@ -537,13 +537,13 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
