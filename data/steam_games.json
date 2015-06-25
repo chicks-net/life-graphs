@@ -557,13 +557,13 @@
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1193,6 +1193,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/242880/8ffa6df22ee02070c8e56a0107194d81b83c5f11.jpg",
       "url_store" : "http://store.steampowered.com/app/242880/"
    },
+   "Small World 2" : {
+      "app_id" : "235620",
+      "name" : "Small World 2",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/235620/aa143ba69cbd832cfcaf909543f3a90fa981e2b9.jpg",
+      "url_store" : "http://store.steampowered.com/app/235620/"
+   },
    "Spacebase DF-9" : {
       "app_id" : "246090",
       "name" : "Spacebase DF-9",
@@ -1347,6 +1355,48 @@
       "url_achievements" : "http://steamcommunity.com/stats/257510/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257510/0392d2bd5d1bec31f2fd283bc4555fdc22dd44a9.jpg",
       "url_store" : "http://store.steampowered.com/app/257510/"
+   },
+   "Ticket to Ride" : {
+      "achievements" : true,
+      "app_id" : "108200",
+      "global_achievements" : true,
+      "name" : "Ticket to Ride",
+      "name_short" : "108200",
+      "url_achievements" : "http://steamcommunity.com/stats/108200/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108200/a2115386d0ff8126505b3057cd3f9dcd936b2f9f.jpg",
+      "url_store" : "http://store.steampowered.com/app/108200/"
+   },
+   "Ticket to Ride - Europe" : {
+      "app_id" : "108230",
+      "name" : "Ticket to Ride - Europe",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108230/258ec9334dd8bd690c186313af2467c9b05f9c6a.jpg",
+      "url_store" : "http://store.steampowered.com/app/108230/"
+   },
+   "Ticket to Ride - Legendary Asia" : {
+      "app_id" : "108233",
+      "name" : "Ticket to Ride - Legendary Asia",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108233/a87cecabd7b76dc93861e1054500e14587abbb34.jpg",
+      "url_store" : "http://store.steampowered.com/app/108233/"
+   },
+   "Ticket to Ride - Switzerland" : {
+      "app_id" : "108231",
+      "name" : "Ticket to Ride - Switzerland",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108231/40e1adf3f1ab449bf220a8e889d55031a0219f2c.jpg",
+      "url_store" : "http://store.steampowered.com/app/108231/"
+   },
+   "Ticket to Ride - USA 1910" : {
+      "app_id" : "108232",
+      "name" : "Ticket to Ride - USA 1910",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108232/4a39ce3c4099b1eaf3146487a39e3117de81624f.jpg",
+      "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "To the Moon" : {
       "achievements" : true,
