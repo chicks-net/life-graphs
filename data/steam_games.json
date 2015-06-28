@@ -547,23 +547,23 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1460,6 +1460,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35720/7d7c3b93bd85ad1db2a07f6cca01a767069c6407.jpg",
       "url_store" : "http://store.steampowered.com/app/35720/"
    },
+   "Tropico 5" : {
+      "achievements" : true,
+      "app_id" : "245620",
+      "global_achievements" : true,
+      "name" : "Tropico 5",
+      "name_short" : "245620",
+      "url_achievements" : "http://steamcommunity.com/stats/245620/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245620/d121d7d94f29984cae3f322b2925cee5b05f5ca2.jpg",
+      "url_store" : "http://store.steampowered.com/app/245620/"
+   },
    "Turbo Dismount" : {
       "achievements" : true,
       "app_id" : "263760",
@@ -1481,6 +1491,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/258890/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg",
       "url_store" : "http://store.steampowered.com/app/258890/"
+   },
+   "Ultimate General: Gettysburg" : {
+      "achievements" : true,
+      "app_id" : "306660",
+      "global_achievements" : true,
+      "name" : "Ultimate General: Gettysburg",
+      "name_short" : "306660",
+      "url_achievements" : "http://steamcommunity.com/stats/306660/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/306660/2a408bcad713015bed082c1e24574b0113b6125e.jpg",
+      "url_store" : "http://store.steampowered.com/app/306660/"
    },
    "Uplink" : {
       "app_id" : "1510",
