@@ -1336,7 +1336,11 @@
       "chicks_played_percent" : "0.319539638948529"
    },
    "2015-07-01 02:13" : {
-      "chicks_overall_percent" : 0.136977863283292,
-      "chicks_played_percent" : 0.319539638948529
+      "chicks_overall_percent" : "0.136977863283292",
+      "chicks_played_percent" : "0.319539638948529"
+   },
+   "2015-07-02 02:13" : {
+      "chicks_overall_percent" : 0.13971010372045,
+      "chicks_played_percent" : 0.319799897333148
    }
 }
