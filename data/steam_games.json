@@ -547,13 +547,13 @@
    },
    "Grand Theft Auto: San Andreas" : {
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievements" : true,
@@ -755,9 +755,9 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274980/aab113bb00901da04afd5e435cd1d0c18e5fa3f4.jpg",
       "url_store" : "http://store.steampowered.com/app/274980/"
    },
-   "Influent DLC - Français [Learn French]" : {
+   "Influent DLC - FranÃ§ais [Learn French]" : {
       "app_id" : "286963",
-      "name" : "Influent DLC - Français [Learn French]",
+      "name" : "Influent DLC - FranÃ§ais [Learn French]",
       "name_short" : false,
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/286963/044215a7ab9043b530bc7d657598eee9b3428f27.jpg",
@@ -790,6 +790,16 @@
       "url_achievements" : "http://steamcommunity.com/stats/LIMBO/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/48000/9f35c3d64649a5a03b69d6a9218b1f77caf15025.jpg",
       "url_store" : "http://store.steampowered.com/app/48000/"
+   },
+   "LYNE" : {
+      "achievements" : true,
+      "app_id" : "266010",
+      "global_achievements" : true,
+      "name" : "LYNE",
+      "name_short" : "266010",
+      "url_achievements" : "http://steamcommunity.com/stats/266010/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/266010/c2e5b693de7cd46328aa8dd24add10b4f425e7f1.jpg",
+      "url_store" : "http://store.steampowered.com/app/266010/"
    },
    "Left 4 Dead" : {
       "achievements" : true,
@@ -1019,6 +1029,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/233450/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg",
       "url_store" : "http://store.steampowered.com/app/233450/"
+   },
+   "Prophour23" : {
+      "achievements" : true,
+      "app_id" : "317610",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Prophour23",
+      "name_short" : "317610",
+      "url_achievements" : "http://steamcommunity.com/stats/317610/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/317610/7b52ee8aefb227bf158417fd6c059784daf122e7.jpg",
+      "url_store" : "http://store.steampowered.com/app/317610/"
    },
    "Puddle" : {
       "achievements" : true,
@@ -1326,11 +1348,11 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/66002/918e66597ba39848728dfe3c5bcdb4301d7701c9.jpg",
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
-   "The LEGO® Movie - Videogame" : {
+   "The LEGOÂ® Movie - Videogame" : {
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
-      "name" : "The LEGO® Movie - Videogame",
+      "name" : "The LEGOÂ® Movie - Videogame",
       "name_short" : "267530",
       "url_achievements" : "http://steamcommunity.com/stats/267530/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/267530/4a57c3cd0e5b4c9a3c6fef681bc80a2486bec780.jpg",
@@ -1540,6 +1562,26 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251060/a218f9f3823549036f480368f3db6795adc04672.jpg",
       "url_store" : "http://store.steampowered.com/app/251060/"
    },
+   "Warhammer 40,000: Dawn of War - Game of the Year Edition" : {
+      "achievements" : true,
+      "app_id" : "4570",
+      "global_achievements" : true,
+      "name" : "Warhammer 40,000: Dawn of War - Game of the Year Edition",
+      "name_short" : "4570",
+      "url_achievements" : "http://steamcommunity.com/stats/4570/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4570/2068980dca52521b069abc109f976d72ba0b1651.jpg",
+      "url_store" : "http://store.steampowered.com/app/4570/"
+   },
+   "Warhammer 40,000: Dawn of War â€“ Winter Assault" : {
+      "achievements" : true,
+      "app_id" : "9310",
+      "global_achievements" : true,
+      "name" : "Warhammer 40,000: Dawn of War â€“ Winter Assault",
+      "name_short" : "9310",
+      "url_achievements" : "http://steamcommunity.com/stats/9310/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/9310/88ca73c99d1a64b81a3306c690f0354a1643c1c1.jpg",
+      "url_store" : "http://store.steampowered.com/app/9310/"
+   },
    "Waveform" : {
       "achievements" : true,
       "app_id" : "204180",
@@ -1591,11 +1633,11 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/225340/f646330596d02cd81af9d095d1b1df7c01091def.jpg",
       "url_store" : "http://store.steampowered.com/app/225340/"
    },
-   "Zen Bound® 2" : {
+   "Zen BoundÂ® 2" : {
       "achievements" : true,
       "app_id" : "61600",
       "global_achievements" : true,
-      "name" : "Zen Bound® 2",
+      "name" : "Zen BoundÂ® 2",
       "name_short" : "ZenBound2",
       "url_achievements" : "http://steamcommunity.com/stats/ZenBound2/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg",
