@@ -53,7 +53,7 @@ foreach my $row (@rows) {
 #
 my $rga_div = $tree->look_down(
 		'_tag' => 'div',
-		'class' => 'recentgame_quicklinks',
+		'class' => 'recentgame_quicklinks recentgame_recentplaytime',
 );
 
 my $rga_text = trim($rga_div->as_text);
