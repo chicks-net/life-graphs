@@ -29,7 +29,7 @@ my $tree = url_tree($profile_url);
 # rating
 my $rating_span = $tree->look_down('_tag' => 'span', 'class' => 'mbg-l');
 my $rating_raw = $rating_span->as_text;
-if ($rating_raw =~ /\((\d+)/) {
+if ($rating_raw =~ /(\d+)\)/) {
 	my $rating = $1;
 	$data_out->{$stats_time}->{$ebay_user}->{rating} = $rating;
 } else {
