@@ -8,6 +8,8 @@ use DateTime;
 use LifeGraphs;
 #use Readonly;
 #use utf8;
+use File::Slurp qw(read_file);
+use LWP::Simple qw(get);
 
 # verify data directory
 my $data_dir = verify_datadir();
@@ -22,6 +24,22 @@ my $games_data = get_storable("$data_dir/$steam_games_storable_filename");
 
 # accept UTF8 on stdout
 binmode STDOUT, ":utf8";
+
+# use secrets
+my $secrets_file = "$data_dir/../etc/secrets.json";
+my $steam_api;
+if (-f $secrets_file) {
+	my $raw_json = read_file($secrets_file);
+	my $json = JSON->new->allow_nonref; # no html fiddling, brilliant!
+	my $secrets = $json->decode($raw_json);
+
+	if ( defined( $secrets->{secrets}->{steamapi} ) ) {
+		$steam_api = $secrets->{secrets}->{steamapi};
+	} else {
+		print "INFO: no steam API key available\n";
+	}
+}
+
 
 #
 # get content: steam profile
@@ -146,6 +164,7 @@ foreach my $row (@rows) {
 				#print "$when $game_name\n";
 			}
 
+			my $app_id = $game->{appid};
 			my $stats_links = $game->{'availStatLinks'};
 			if ( defined $stats_links ) {
 				my @keys = keys %$stats_links;
@@ -153,7 +172,7 @@ foreach my $row (@rows) {
 				if ( $stats_links->{achievements} ) {
 					#print "$game_name has achievements\n";
 					my $friendly_url = $game->{'friendlyURL'};
-					game_achievements($game_name,$friendly_url);
+					game_achievements($game_name,$friendly_url,$app_id);
 					$achievement_game_count++;
 				} else {
 					#print "$game_name does not have achievements\n";
@@ -162,7 +181,6 @@ foreach my $row (@rows) {
 				print "no stats links for $game_name\n";
 			}
 
-			my $app_id = $game->{appid};
 			my $name_short = $game->{friendlyURL};
 
 			# store game metadata
@@ -192,7 +210,7 @@ foreach my $row (@rows) {
 print "$achievement_game_count games have achievements out of $game_count games\n";
 
 sub game_achievements {
-	my ($game_name,$friendly_url) = @_;
+	my ($game_name,$friendly_url,$appid) = @_;
 
 	my $achievements_url = "$profile_url/stats/$friendly_url/?tab=achievements";
 	my $quiet = 1;
@@ -217,7 +235,24 @@ sub game_achievements {
 		if ( defined $summary_div ) {
 			$summary_raw = $summary_div->as_text;
 		} else {
-			print "--- $game_name has no achievements I can find\n";
+			if (defined $steam_api) {
+				my $game_schema_url = "http://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key=${steam_api}&appid=$appid";
+				my $game_schema_json = get($game_schema_url);
+
+				my $json = JSON->new->allow_nonref;
+				my $schema = $json->decode($game_schema_json);
+
+#				print "$game_schema_url\n";
+#				print "$game_schema_json\n";
+#				print Dumper($schema);
+#				die "TODOing";
+
+				return unless defined $schema->{"game"}->{"availableGameStats"}->{"achievements"};
+				print "!!! [$appid] '$game_name' has no achievements I can find BUT THE STEAM API DOES\n";
+
+			} else {
+				print "--- [$appid] '$game_name' has no achievements I can find\n";
+			}
 			return;
 		}
 	}
@@ -248,7 +283,7 @@ if (0) {
 	print Dumper($data_out->{$stats_time}), "\n";
 	die "how does it look?";
 }
-if (0) {
+if (1) {
 	die "debug";
 }
 
