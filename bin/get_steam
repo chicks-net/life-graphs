@@ -7,6 +7,7 @@ use Data::Dumper;
 use DateTime;
 use LifeGraphs;
 #use Readonly;
+#use utf8;
 
 # verify data directory
 my $data_dir = verify_datadir();
@@ -18,6 +19,9 @@ my $data_out = get_storable("$data_dir/$steam_storable_filename");
 my $steam_games_storable_filename = 'steam_games.storable';
 my $steam_games_json_filename = 'steam_games.json';
 my $games_data = get_storable("$data_dir/$steam_games_storable_filename");
+
+# accept UTF8 on stdout
+binmode STDOUT, ":utf8";
 
 #
 # get content: steam profile
@@ -243,6 +247,9 @@ sub game_achievements {
 if (0) {
 	print Dumper($data_out->{$stats_time}), "\n";
 	die "how does it look?";
+}
+if (0) {
+	die "debug";
 }
 
 # Steam history

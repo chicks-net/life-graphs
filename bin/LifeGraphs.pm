@@ -218,7 +218,7 @@ sub write_json {
 	my $json     = JSON->new->allow_nonref;
 	my $json_out = $json->pretty->canonical->encode($data);
 	my $json_fh;
-	open( $json_fh, ">", $filename ) or croak "could not open $filename for write: $ERRNO";
+	open( $json_fh, ">:utf8", $filename ) or croak "could not open $filename for write: $ERRNO";
 	print $json_fh $json_out;
 	close($json_fh);
 	my $size = -s $filename;
