@@ -38,6 +38,8 @@ if (-f $secrets_file) {
 	} else {
 		print "INFO: no steam API key available\n";
 	}
+} else {
+	print "INFO: no secrets file, so no steam API key available\n";
 }
 
 
@@ -283,7 +285,7 @@ if (0) {
 	print Dumper($data_out->{$stats_time}), "\n";
 	die "how does it look?";
 }
-if (1) {
+if (0) {
 	die "debug";
 }
 
