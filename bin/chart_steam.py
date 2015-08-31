@@ -4,7 +4,7 @@ import os
 import sys
 import json
 
-from sqlalchemy import Column, ForeignKey, Integer, String, Boolean
+from sqlalchemy import Column, ForeignKey, Integer, String, Boolean, DateTime
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy import create_engine
@@ -43,6 +43,14 @@ class GameStats(Base):
 #    street_name = Column(String(250))
 #    street_number = Column(String(250))
 #    post_code = Column(String(250), nullable=False)
+
+class SteamProfile(Base):
+    __tablename__ = 'steam_profile'
+    id = Column(Integer, primary_key=True)
+    #when = Column(DateTime)
+    when = Column(String(50), nullable=False)
+    #level = Column(Integer)
+    game_count = Column(Integer)
 
 # check STATS_DIR
 stats_dir = os.environ['STATS_DIR']
@@ -86,7 +94,7 @@ session.query(Game).all()
 cleared_games = session.query(Game).delete()
 session.commit()
 
-# read JSON into DB
+# read games JSON into DB
 steam_games = stats_dir + '/steam_games.json'
 with open(steam_games, 'r') as content_file:
     games_content = content_file.read()
@@ -107,3 +115,20 @@ session.query(Game).all()
 #print game.name
 game_rows = session.query(Game).count()
 print 'got', game_rows, 'games'
+
+# read game stats JSON into DB
+steam_stats = stats_dir + '/steam.json'
+with open(steam_stats, 'r') as content_file:
+    stats_content = content_file.read()
+stats = json.loads(stats_content)
+
+for t in stats:
+	print t
+	print stats[t]['Achievements']
+	stats_rec = {'when': t, 'game_count': stats[t]['Games']}
+	insert_stats = SteamProfile( **stats_rec )
+	session.add(insert_stats)
+	session.commit()
+
+print "laaded stats JSON"
+
