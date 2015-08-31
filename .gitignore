@@ -26,3 +26,9 @@ logs/
 
 # configuration
 etc/
+
+# virtualenv
+/virt_env/
+
+# sqlite
+/data/*.db

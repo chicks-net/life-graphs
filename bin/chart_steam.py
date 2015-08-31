@@ -54,7 +54,7 @@ print stats_dir, "exists"
 # Create an engine that stores data in the local directory's
 # sqlalchemy_example.db file.
 sqlite_file = stats_dir
-sqlite_file += '/sqlalchemy_example.db'
+sqlite_file += '/steam_games.db'
 
 if not os.path.isfile(sqlite_file):
 	sqlite_file = 'sqlite:///' + sqlite_file
