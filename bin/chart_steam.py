@@ -68,10 +68,10 @@ else:
 	print sqlite_file, 'already exists, opening...'
 	sqlite_file = 'sqlite:///' + sqlite_file
 	engine = create_engine(sqlite_file)
-	Base.metadata.bind = engine
 
 
 # create session
+Base.metadata.bind = engine
 DBSession = sessionmaker()
 DBSession.bind = engine
 session = DBSession()
