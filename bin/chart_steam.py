@@ -10,7 +10,8 @@ from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy import create_engine
 
 from datetime import datetime
-from pylab import *
+#from pylab import *
+import matplotlib.pyplot as plt
 
 #
 # sqlalchemy classes
@@ -112,7 +113,7 @@ with open(steam_stats, 'r') as content_file:
 stats = json.loads(stats_content)
 
 for t in stats:
-	print t, stats[t]['Games']
+	#print t, stats[t]['Games']
 	when_obj = datetime.strptime(t,'%Y-%m-%d %H:%M')
 	stats_rec = {'when': when_obj, 'game_count': stats[t]['Games']}
 	insert_stats = SteamProfile( **stats_rec )
@@ -124,3 +125,15 @@ session.query(SteamProfile).all()
 stats_rows = session.query(SteamProfile).count()
 print 'loaded', stats_rows, 'stats rows'
 
+whens = []
+counts = []
+for stats in session.query(SteamProfile).order_by(SteamProfile.when):
+	#print stats.when, stats.game_count
+	#print stats
+	whens.append(stats.when)
+	counts.append(stats.game_count)
+
+plt.plot(whens,counts)
+plt.savefig('Dash/steam_games.png')
+
+print "END"
