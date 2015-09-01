@@ -9,6 +9,8 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy import create_engine
 
+from pylab import *
+
 #
 # sqlalchemy classes
 #
@@ -59,8 +61,7 @@ if not os.path.isdir(stats_dir):
 
 print stats_dir, "exists"
  
-# Create an engine that stores data in the local directory's
-# sqlalchemy_example.db file.
+# Create an engine that stores data in the $STATS_DIR
 sqlite_file = stats_dir
 sqlite_file += '/steam_games.db'
 
@@ -116,6 +117,11 @@ session.query(Game).all()
 game_rows = session.query(Game).count()
 print 'got', game_rows, 'games'
 
+# clear stats table
+session.query(SteamProfile).all()
+cleared_stats = session.query(SteamProfile).delete()
+session.commit()
+
 # read game stats JSON into DB
 steam_stats = stats_dir + '/steam.json'
 with open(steam_stats, 'r') as content_file:
@@ -123,12 +129,17 @@ with open(steam_stats, 'r') as content_file:
 stats = json.loads(stats_content)
 
 for t in stats:
-	print t
-	print stats[t]['Achievements']
+#	print t
+#	print stats[t]['Achievements']
 	stats_rec = {'when': t, 'game_count': stats[t]['Games']}
 	insert_stats = SteamProfile( **stats_rec )
 	session.add(insert_stats)
 	session.commit()
 
 print "laaded stats JSON"
+
+# check stats
+session.query(SteamProfile).all()
+stats_rows = session.query(SteamProfile).count()
+print 'got', stats_rows, 'stats rows'
 
