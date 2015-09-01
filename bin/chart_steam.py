@@ -36,15 +36,9 @@ class Game(Base):
  
 class GameStats(Base):
     __tablename__ = 'game_stats'
-    # Here we define columns for the table address.
-    # Notice that each column is also a normal Python instance attribute.
     id = Column(Integer, primary_key=True)
     game_id = Column(Integer, ForeignKey('game.id'))
     game = relationship(Game)
-#    person_id = Column(Integer, ForeignKey('person.id'))
-#    street_name = Column(String(250))
-#    street_number = Column(String(250))
-#    post_code = Column(String(250), nullable=False)
 
 class SteamProfile(Base):
     __tablename__ = 'steam_profile'
@@ -70,8 +64,8 @@ if not os.path.isfile(sqlite_file):
 	print 'creating', sqlite_file
 	engine = create_engine(sqlite_file)
 
-	# Create all tables in the engine. This is equivalent to "Create Table"
-	# statements in raw SQL.
+	# Create all tables in the engine. This is equivalent
+	# to "Create Table" statements in raw SQL.
 	Base.metadata.create_all(engine)
 else:
 	print sqlite_file, 'already exists, opening...'
@@ -85,11 +79,6 @@ DBSession = sessionmaker()
 DBSession.bind = engine
 session = DBSession()
 
-# test insert
-#test_game = Game(name="foo")
-#session.add(test_game)
-#session.commit()
-
 # clear games table
 session.query(Game).all()
 cleared_games = session.query(Game).delete()
@@ -102,20 +91,14 @@ with open(steam_games, 'r') as content_file:
 games = json.loads(games_content)
 
 for g in games:
-	#print g
-	#print games[g]['name'], games[g]['app_id']
 	insert_game = Game( **games[g] )
 	session.add(insert_game)
 	session.commit()
 
-print "laaded games JSON"
-
-# test read
+# count games loaded
 session.query(Game).all()
-#game = session.query(Game).first()
-#print game.name
 game_rows = session.query(Game).count()
-print 'got', game_rows, 'games'
+print 'loaded', game_rows, 'games'
 
 # clear stats table
 session.query(SteamProfile).all()
@@ -129,17 +112,13 @@ with open(steam_stats, 'r') as content_file:
 stats = json.loads(stats_content)
 
 for t in stats:
-#	print t
-#	print stats[t]['Achievements']
 	stats_rec = {'when': t, 'game_count': stats[t]['Games']}
 	insert_stats = SteamProfile( **stats_rec )
 	session.add(insert_stats)
 	session.commit()
 
-print "laaded stats JSON"
-
-# check stats
+# count loaded stats
 session.query(SteamProfile).all()
 stats_rows = session.query(SteamProfile).count()
-print 'got', stats_rows, 'stats rows'
+print 'loaded', stats_rows, 'stats rows'
 
