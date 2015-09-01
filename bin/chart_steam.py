@@ -9,6 +9,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy import create_engine
 
+from datetime import datetime
 from pylab import *
 
 #
@@ -43,8 +44,7 @@ class GameStats(Base):
 class SteamProfile(Base):
     __tablename__ = 'steam_profile'
     id = Column(Integer, primary_key=True)
-    #when = Column(DateTime)
-    when = Column(String(50), nullable=False)
+    when = Column(DateTime, nullable=False)
     #level = Column(Integer)
     game_count = Column(Integer)
 
@@ -112,7 +112,9 @@ with open(steam_stats, 'r') as content_file:
 stats = json.loads(stats_content)
 
 for t in stats:
-	stats_rec = {'when': t, 'game_count': stats[t]['Games']}
+	print t, stats[t]['Games']
+	when_obj = datetime.strptime(t,'%Y-%m-%d %H:%M')
+	stats_rec = {'when': when_obj, 'game_count': stats[t]['Games']}
 	insert_stats = SteamProfile( **stats_rec )
 	session.add(insert_stats)
 	session.commit()
