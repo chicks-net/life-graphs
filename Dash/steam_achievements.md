@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 113 out of 129 games have achievements.
-13.98% achieved overall. 32.62% achieved in games played.
+13.98% achieved overall. 32.62% achieved in games played. 40.78% in games with >1 achievement.
 
 
 
