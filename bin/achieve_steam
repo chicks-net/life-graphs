@@ -100,14 +100,14 @@ $table_content .= "| ------------------: | :----------: | ----------- | --------
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
 my @sorted_games = sort {
-		   $b->{perc} <=> $a->{perc}					# desc
-		or ( $b->{hrs_total} || 0 )   <=>   ( $a->{hrs_total} || 0 )	# desc
-		or $a->{name} cmp $b->{name}					# ascend
+		   $b->{perc} <=> $a->{perc}					# desc percentage
+		or ( $b->{hrs_total} || 0 )   <=>   ( $a->{hrs_total} || 0 )	# desc hrs_total
+		or $a->{name} cmp $b->{name}					# ascend name
 	} @games_with_achievements;
 my $perc_accumulator;
-my $played_perc_accumulator;
-my $played_count;
-my $showed_imperfect_percentage = 0;
+my ($played_perc_accumulator, $played_count); # tracking played achievement percentage
+my ($chieved_perc_accumulator, $chieved_count); # tracking chieved achievement percentage
+my $showed_imperfect_percentage = 0; # for table subheads
 my $showed_steam_percentage = 0;
 my $showed_zero_percentage = 0;
 my $showed_ever_played = 0;
@@ -117,6 +117,7 @@ foreach my $game (@sorted_games) {
 	my $display_perc = sprintf("%.1f%%",$perc*100);
 	my $hours = $game->{hrs_total} || 0;
 
+	# table subheads
 	if ($perc < 1 and ! $showed_imperfect_percentage ) {
 		$table_content .= "|  | | | **Achievements Available** | | |\n";
 		$showed_imperfect_percentage = 1;
@@ -147,6 +148,11 @@ foreach my $game (@sorted_games) {
 	if ($hours) {
 		$played_count++;
 		$played_perc_accumulator += $perc;
+
+		if ($achievements_current) {
+			$chieved_count++;
+			$chieved_perc_accumulator += $perc;
+		}
 	}
 	my $display_hours = $hours;
 	if ($hours > 10) {
@@ -189,6 +195,10 @@ $overall_perc = sprintf("%.2f",$overall_perc);
 my $played_perc = 100 * $played_perc_accumulator / $played_count;
 my $raw_played_perc = $played_perc / 100;
 $played_perc = sprintf("%.2f",$played_perc);
+
+my $chieved_perc = 100 * $chieved_perc_accumulator / $chieved_count;
+my $raw_chieved_perc = $chieved_perc / 100;
+$chieved_perc = sprintf("%.2f",$chieved_perc);
 
 #
 # table by time
@@ -253,7 +263,7 @@ $table_content .= "\n\n";
 #
 
 # stitch together
-$content .= "$overall_perc% achieved overall. $played_perc% achieved in games played.\n\n";
+$content .= "$overall_perc% achieved overall. $played_perc% achieved in games played. $chieved_perc% in games with >1 achievement.\n\n";
 $content .= "\n\n";
 $content .= $table_content;
 $content .= "\n\n";
@@ -269,6 +279,7 @@ write_file($filename,$content, 'Dash');
 my $log_day = {
 	"chicks_overall_percent" => $raw_overall_perc,
 	"chicks_played_percent" => $raw_played_perc,
+	"chicks_chieved_percent" => $raw_chieved_perc,
 };
 $percent_data->{$lastday_statsday} = $log_day;
 
