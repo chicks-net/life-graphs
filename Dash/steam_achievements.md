@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 113 out of 129 games have achievements.
-13.91% achieved overall. 32.46% achieved in games played.
+13.98% achieved overall. 32.62% achieved in games played.
 
 
 
@@ -26,10 +26,10 @@ Games by Achievement Percentage
 | 60.0% | 6 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg) ](http://store.steampowered.com/app/253790/) | [rymdkapsel](http://steamcommunity.com/stats/253790/achievements/compare/) | **17.2** | 2.87 |
 | 60.0% | 12 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/) | [Poker Night at the Inventory](http://steamcommunity.com/stats/PokerNight/achievements/compare/) | 3.8 | **0.32** |
 | 59.1% | 13 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | **72** | 5.54 |
-| 43.5% | 10 / 23 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252750/be47ba3c037a6363432bb0659110ea4837f75a77.jpg) ](http://store.steampowered.com/app/252750/) | [MouseCraft](http://steamcommunity.com/stats/252750/achievements/compare/) | 3.8 | **0.38** |
+| 52.2% | 12 / 23 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252750/be47ba3c037a6363432bb0659110ea4837f75a77.jpg) ](http://store.steampowered.com/app/252750/) | [MouseCraft](http://steamcommunity.com/stats/252750/achievements/compare/) | 4.2 | **0.35** |
 | 43.1% | 223 / 518 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) | [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | **689** | 3.09 |
 | 42.0% | 21 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **31** | *1.48* |
-| 39% | | | **Steam Completion Average** | | |
+| 40% | | | **Steam Completion Average** | | |
 | 36.4% | 4 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/) | [Zen Bound® 2](http://steamcommunity.com/stats/ZenBound2/achievements/compare/) | 6.4 | 1.60 |
 | 35.3% | 30 / 85 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | **50** | 1.67 |
 | 33.3% | 1 / 3 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/306660/2a408bcad713015bed082c1e24574b0113b6125e.jpg) ](http://store.steampowered.com/app/306660/) | [Ultimate General: Gettysburg](http://steamcommunity.com/stats/306660/achievements/compare/) | 0.5 | *0.50* |
@@ -160,7 +160,7 @@ Most played games
 | 5.0 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214360/4c0065c5489898d092bf778632529efcab3a8b1e.jpg) ](http://store.steampowered.com/app/214360/) | [Tower Wars](http://steamcommunity.com/stats/TowerWars/achievements/compare/) | 2 / 35 = 5.7% | 2.50 |
 | 4.5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91600/d63198590c7bab5a332327a54f8ed0a00ac4b0d3.jpg) ](http://store.steampowered.com/app/91600/) | [Sanctum](http://steamcommunity.com/stats/Sanctum/achievements/compare/) | 9 / 100 = 9.0% | *0.50* |
 | 4.4 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245550/98defd2daedb3910583439bffb12e0baeb20ff6c.jpg) ](http://store.steampowered.com/app/245550/) | [Free to Play](http://steamcommunity.com/stats/245550/achievements/compare/) | 5 / 5 = 100.0% | *0.88* |
-| 3.8 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252750/be47ba3c037a6363432bb0659110ea4837f75a77.jpg) ](http://store.steampowered.com/app/252750/) | [MouseCraft](http://steamcommunity.com/stats/252750/achievements/compare/) | 10 / 23 = 43.5% | **0.38** |
+| 4.2 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252750/be47ba3c037a6363432bb0659110ea4837f75a77.jpg) ](http://store.steampowered.com/app/252750/) | [MouseCraft](http://steamcommunity.com/stats/252750/achievements/compare/) | 12 / 23 = 52.2% | **0.35** |
 | 3.8 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/) | [Poker Night at the Inventory](http://steamcommunity.com/stats/PokerNight/achievements/compare/) | 12 / 20 = 60.0% | **0.32** |
 | 3.7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg) ](http://store.steampowered.com/app/293200/) | [Sentinel](http://steamcommunity.com/stats/293200/achievements/compare/) | 1 / 7 = 14.3% | 3.70 |
 | 3.4 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214420/65861018dfcbf225bf5d3e68420c5787b6954c04.jpg) ](http://store.steampowered.com/app/214420/) | [Gear Up](http://steamcommunity.com/stats/GearUp/achievements/compare/) | 0 / 25 = 0.0% | und |
