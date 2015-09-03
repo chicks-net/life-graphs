@@ -156,8 +156,9 @@ for stats in session.query(SteamProfile).order_by(SteamProfile.when):
 	counts.append(stats.game_count)
 
 # matplotlib defaults
-matplotlib.rc('xtick', labelsize=10) 
-matplotlib.rc('ytick', labelsize=10) 
+#matplotlib.rc('xtick', labelsize=10) 
+#matplotlib.rc('ytick', labelsize=10) 
+matplotlib.rcParams.update({'font.size': 10})
 plt.figure(num=None, figsize=(8.5,3), dpi=100)
 
 # make a new chart
