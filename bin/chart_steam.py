@@ -154,7 +154,7 @@ for stats in session.query(SteamProfile).order_by(SteamProfile.when):
 	whens.append(stats.when)
 	counts.append(stats.game_count)
 
-plt.figure(num=None, figsize=(85,30), dpi=10)
+plt.figure(num=None, figsize=(8.5,3), dpi=100)
 plt.plot(whens,counts)
 png_filename = 'Dash/steam_games.png'
 plt.savefig(png_filename)
