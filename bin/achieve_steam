@@ -315,6 +315,7 @@ if ($do_recalc) {
 		my $perc_accumulator;
 		my $played_perc_accumulator;
 		my $played_count;
+		my ($chieved_perc_accumulator, $chieved_count);
 
 		foreach my $game (@games_got_achievements) {
 			my $achievements_current = $game->{achievements_current};
@@ -326,17 +327,24 @@ if ($do_recalc) {
 			if ($hours) {
 				$played_count++;
 				$played_perc_accumulator += $perc;
+
+				if ($achievements_current) {
+					$chieved_count++;
+					$chieved_perc_accumulator += $perc;
+				}
 			}
 		}
 
 		my $overall_perc = $perc_accumulator / $total_games;
 		my $played_perc = $played_perc_accumulator / $played_count;
+		my $chieved_perc = $chieved_perc_accumulator / $chieved_count;
 
-		print "$day $day_obj $total_game_count games $overall_perc $played_perc\n";
+		print "$day $day_obj $total_game_count games $overall_perc $played_perc $chieved_perc\n";
 
 		my $log_day = {
 			"chicks_overall_percent" => $overall_perc,
 			"chicks_played_percent" => $played_perc,
+			"chicks_chieved_percent" => $chieved_perc,
 		};
 		$percent_data->{$day} = $log_day;
 	}
