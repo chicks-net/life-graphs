@@ -12,6 +12,7 @@ from sqlalchemy import create_engine
 from datetime import datetime
 #from pylab import *
 import matplotlib.pyplot as plt
+import matplotlib
 
 #
 # sqlalchemy classes
@@ -154,7 +155,12 @@ for stats in session.query(SteamProfile).order_by(SteamProfile.when):
 	whens.append(stats.when)
 	counts.append(stats.game_count)
 
+# matplotlib defaults
+matplotlib.rc('xtick', labelsize=20) 
+matplotlib.rc('ytick', labelsize=20) 
 plt.figure(num=None, figsize=(8.5,3), dpi=100)
+
+# make a new chart
 plt.plot(whens,counts)
 png_filename = 'Dash/steam_games.png'
 plt.savefig(png_filename)
