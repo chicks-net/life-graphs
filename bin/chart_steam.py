@@ -48,6 +48,14 @@ class SteamProfile(Base):
     when = Column(DateTime, nullable=False)
     #level = Column(Integer)
     game_count = Column(Integer)
+    achievement_count = Column(Integer)
+    badge_count = Column(Integer)
+    completion_rate = Column(Integer)
+    game_card_count = Column(Integer)
+    guide_count = Column(Integer)
+    perfect_game_count = Column(Integer)
+    review_count = Column(Integer)
+    screenshot_count = Column(Integer)
 
 # check STATS_DIR
 stats_dir = os.environ['STATS_DIR']
@@ -115,7 +123,20 @@ stats = json.loads(stats_content)
 for t in stats:
 	#print t, stats[t]['Games']
 	when_obj = datetime.strptime(t,'%Y-%m-%d %H:%M')
-	stats_rec = {'when': when_obj, 'game_count': stats[t]['Games']}
+
+#    completion_rate = Column(Integer)
+#      "Avg. Game Completion Rate" : "40%",
+	stats_rec = {
+		'when': when_obj,
+		'game_count': stats[t]['Games'],
+		'achievement_count': stats[t]['Achievements'],
+		'badge_count': stats[t].get('Badges Earned',0),
+		'game_card_count': stats[t].get('Game Cards',0),
+		'guide_count': stats[t].get('Guides',0),
+		'perfect_game_count': stats[t]['Perfect Games'],
+		'review_count': stats[t]['Reviews'],
+		'screenshot_count': stats[t]['Screenshots'],
+	}
 	insert_stats = SteamProfile( **stats_rec )
 	session.add(insert_stats)
 	session.commit()
