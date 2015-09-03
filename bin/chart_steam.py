@@ -148,23 +148,41 @@ stats_rows = session.query(SteamProfile).count()
 print 'loaded', stats_rows, 'stats rows'
 
 whens = []
-counts = []
+game_counts = []
+guide_counts = []
+screenshot_counts = []
+perfect_game_counts = []
 for stats in session.query(SteamProfile).order_by(SteamProfile.when):
 	#print stats.when, stats.game_count
 	#print stats
 	whens.append(stats.when)
-	counts.append(stats.game_count)
+	game_counts.append(stats.game_count)
+	perfect_game_counts.append(stats.perfect_game_count)
+	guide_counts.append(stats.guide_count)
 
 # matplotlib defaults
-#matplotlib.rc('xtick', labelsize=10) 
-#matplotlib.rc('ytick', labelsize=10) 
 matplotlib.rcParams.update({'font.size': 10})
 plt.figure(num=None, figsize=(8.5,3), dpi=100)
 
 # make a new chart
-plt.plot(whens,counts)
+plt.xlabel('days')
+fig = plt.figure(1)
+
+ax1 = fig.add_subplot(221)
+ax1.plot(whens, game_counts, color='b', label="Games")
+
+ax2 = ax1.twinx()
+ax2.plot(whens, perfect_game_counts, color='r', label="Perfect")
+ax2.grid(ls='--', color='black')
+
+h1,l1 = ax1.get_legend_handles_labels()
+h2,l2 = ax2.get_legend_handles_labels()
+ax1.legend(h1+h2, l1+l2, loc=2)
+
 png_filename = 'Dash/steam_games.png'
 plt.savefig(png_filename)
+
+# check output size
 png_stat = os.stat(png_filename)
 print 'wrote', png_filename, ' (' + `png_stat.st_size`, 'bytes)'
 
