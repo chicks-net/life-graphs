@@ -61,7 +61,8 @@ class SteamProfile(Base):
 # check STATS_DIR
 stats_dir = os.environ['STATS_DIR']
 if not os.path.isdir(stats_dir):
-	raise NoStatsDir
+	print 'ERROR: please define valid directory in $STATS_DIR.'
+	raise
 
 print stats_dir, "exists"
 
@@ -123,7 +124,7 @@ stats = json.loads(stats_content)
 
 for t in stats:
 	#print t, stats[t]['Games']
-	when_obj = datetime.strptime(t,'%Y-%m-%d %H:%M')
+	when_obj = datetime.strptime(t, '%Y-%m-%d %H:%M')
 
 #    completion_rate = Column(Integer)
 #      "Avg. Game Completion Rate" : "40%",
@@ -136,8 +137,7 @@ for t in stats:
 		'guide_count': stats[t].get('Guides', 0),
 		'perfect_game_count': stats[t]['Perfect Games'],
 		'review_count': stats[t]['Reviews'],
-		'screenshot_count': stats[t]['Screenshots'],
-	}
+		'screenshot_count': stats[t]['Screenshots']}
 	insert_stats = SteamProfile( **stats_rec )
 	session.add(insert_stats)
 	session.commit()
@@ -175,8 +175,8 @@ ax2 = ax1.twinx()
 ax2.plot(whens, perfect_game_counts, color='r', label="Perfect")
 ax2.grid(ls='--', color='black')
 
-h1,l1 = ax1.get_legend_handles_labels()
-h2,l2 = ax2.get_legend_handles_labels()
+h1, l1 = ax1.get_legend_handles_labels()
+h2, l2 = ax2.get_legend_handles_labels()
 ax1.legend(h1+h2, l1+l2, loc=2)
 
 png_filename = 'Dash/steam_games.png'
