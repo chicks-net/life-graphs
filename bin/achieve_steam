@@ -342,9 +342,9 @@ if ($do_recalc) {
 		print "$day $day_obj $total_game_count games $overall_perc $played_perc $chieved_perc\n";
 
 		my $log_day = {
-			"chicks_overall_percent" => $overall_perc,
-			"chicks_played_percent" => $played_perc,
-			"chicks_chieved_percent" => $chieved_perc,
+			"chicks_overall_percent" => $overall_perc + 0,
+			"chicks_played_percent" => $played_perc + 0,
+			"chicks_chieved_percent" => $chieved_perc + 0,
 		};
 		$percent_data->{$day} = $log_day;
 	}
