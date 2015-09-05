@@ -41,7 +41,7 @@ echo ""
 echo ""
 ./get_ebay
 echo ""
-./gmail
+#./gmail
 
 echo -e "\ncharts:"
 ./achieve_steam
