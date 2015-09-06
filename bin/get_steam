@@ -95,9 +95,11 @@ $data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
 foreach my $row (@rows) {
 	my $game_name_div = $row->look_down('_tag' => 'div', 'class' => 'game_name');
 	my $game_name = $game_name_div->as_text;
+	#print "RGA $game_name\n";
 
 	my @recent_achievements = $row->look_down('_tag' => 'div', 'class' => 'game_info_achievement');
-	my @recent_achievements_text = map { $_->attr('title') } @recent_achievements;
+	my @recent_achievements_text = map { $_->attr('data-community-tooltip') } @recent_achievements;
+	#print Dumper(\@recent_achievements_text);
 	next unless scalar @recent_achievements_text;
 	$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'recent_achievements'} = [@recent_achievements_text];
 
