@@ -1,0 +1,48 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Data::Dumper;
+use DateTime;
+use LifeGraphs;
+#use File::Slurp qw(read_file);
+use LWP::Simple qw(get);
+
+# verify data directory
+my $data_dir = verify_datadir();
+
+# retrieve existing data
+my $github_storable_filename = 'github.storable';
+my $github_json_filename = 'github.json';
+my $data_out = get_storable("$data_dir/$github_storable_filename");
+
+my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
+
+# accept UTF8 on stdout
+binmode STDOUT, ":utf8";
+
+#
+# get content: steam profile
+#
+my $public_events_url = 'https://api.github.com/users/chicks-net/events/public';
+my $events_json = get($public_events_url);
+
+my $json = JSON->new->allow_nonref;
+my $events = $json->decode($events_json);
+my @events = @$events;
+my $event_count =  scalar @events;
+die "no events" unless $event_count;
+
+print "received $event_count events\n";
+
+foreach my $event (@events) {
+	my $type = $event->{type} or die "fail(type)";
+	my $when = $event->{created_at} or die "fail(when)";
+	my $repo = $event->{repo}->{name} || '???';
+	my $size = $event->{payload}->{size} || '???';
+	#print keys %$event, "\n";
+	print "$when $size $type $repo\n";
+	if ($size == 3) {
+		print Dumper($event); die 'debug';
+	}
+}
