@@ -78,6 +78,16 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/26800/dc76bb847fbb82ca81e122927541398d41638ac8.jpg",
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
+   "Caster" : {
+      "achievements" : true,
+      "app_id" : "29800",
+      "global_achievements" : true,
+      "name" : "Caster",
+      "name_short" : "29800",
+      "url_achievements" : "http://steamcommunity.com/stats/29800/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/29800/084589df4c8bfee7d5ccabd45862d2b081856644.jpg",
+      "url_store" : "http://store.steampowered.com/app/29800/"
+   },
    "Chucks Challenge 3D" : {
       "achievements" : true,
       "app_id" : "262590",
@@ -732,7 +742,7 @@
       "name" : "Hexcells",
       "name_short" : "265890",
       "url_achievements" : "http://steamcommunity.com/stats/265890/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265890/55ca8524669d078bcab80a38a7f1246ffdaf4810.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265890/b4e999c7b2986404138934c05a07d9308d673345.jpg",
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
@@ -742,7 +752,7 @@
       "name" : "Hexcells Infinite",
       "name_short" : "304410",
       "url_achievements" : "http://steamcommunity.com/stats/304410/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/9945a26796013fcd5a5bc2602f5d5d573d417e8e.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/00ef02809a1838959274c65feff3d82fd73e5c16.jpg",
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
@@ -752,7 +762,7 @@
       "name" : "Hexcells Plus",
       "name_short" : "271900",
       "url_achievements" : "http://steamcommunity.com/stats/271900/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/effd0095738f830f9e5fc4449b2837fb1db14efc.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/3ecc67fe65e8a2f0677c154e8ec70318b7363383.jpg",
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "I am Bread" : {
