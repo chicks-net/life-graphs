@@ -84,6 +84,17 @@ my $rga_text = trim($rga_div->as_text);
 $data_out->{$stats_time}->{'recent_game_activity'} = $rga_text;
 
 #
+# get player level
+#
+my $level_span = $tree->look_down(
+		'_tag' => 'span',
+		'class' => 'friendPlayerLevelNum',
+);
+
+my $level_text = trim($level_span->as_text);
+$data_out->{$stats_time}->{'steam_level'} = $level_text;
+
+#
 # get recent game activity details
 #
 
