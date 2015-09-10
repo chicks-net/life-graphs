@@ -167,6 +167,8 @@ foreach my $game (@sorted_games) {
 	$display_name .= "| [$name]($url_achievements)";
 	my $median = 100 * $games_data->{$name}->{achievement_median};
 	my $hardest = 100 * $games_data->{$name}->{achievement_hardest};
+	$median = sprintf("%.1f", $median);
+	$hardest = sprintf("%.1f", $hardest);
 
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
