@@ -216,7 +216,7 @@ sub write_file {
 sub write_json {
 	my ( $filename, $data ) = @_;
 	my $json     = JSON->new->allow_nonref;
-	my $json_out = $json->pretty->canonical->encode($data);
+	my $json_out = $json->pretty->canonical->allow_blessed->encode($data);
 	my $json_fh;
 	open( $json_fh, ">:utf8", $filename ) or croak "could not open $filename for write: $ERRNO";
 	print $json_fh $json_out;

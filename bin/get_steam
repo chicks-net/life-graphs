@@ -10,6 +10,7 @@ use LifeGraphs;
 #use utf8;
 use File::Slurp qw(read_file);
 use LWP::Simple qw(get);
+use Statistics::Basic qw(median);
 
 # verify data directory
 my $data_dir = verify_datadir();
@@ -181,14 +182,16 @@ foreach my $row (@rows) {
 
 			my $app_id = $game->{appid};
 			my $stats_links = $game->{'availStatLinks'};
+			my $name_short = $game->{friendlyURL};
+			my $url_achievements = "http://steamcommunity.com/stats/$name_short/achievements/compare/";
+			my($hardest,$median);
 			if ( defined $stats_links ) {
 				my @keys = keys %$stats_links;
 #				print Dumper($stats_links),"\n";
 				if ( $stats_links->{achievements} ) {
-					#print "$game_name has achievements\n";
-					my $friendly_url = $game->{'friendlyURL'};
-					game_achievements($game_name,$friendly_url,$app_id);
+					game_achievements($game_name,$name_short,$app_id);
 					$achievement_game_count++;
+					($hardest,$median) = game_difficulty($url_achievements);
 				} else {
 					#print "$game_name does not have achievements\n";
 				}
@@ -196,7 +199,6 @@ foreach my $row (@rows) {
 				print "no stats links for $game_name\n";
 			}
 
-			my $name_short = $game->{friendlyURL};
 
 			# store game metadata
 			my $this_game = {
@@ -205,8 +207,13 @@ foreach my $row (@rows) {
 				app_id => $app_id,
 				url_logo => $game->{logo},
 				url_store =>"http://store.steampowered.com/app/$app_id/",
-				url_achievements =>"http://steamcommunity.com/stats/$name_short/achievements/compare/",
+				url_achievements => $url_achievements,
 			};
+
+			if (defined $hardest) {
+				$this_game->{ 'achievement_hardest' } = $hardest;
+				$this_game->{ 'achievement_median' } = $median;
+			}
 
 			if ( defined $stats_links ) {
 				my @keys = keys %$stats_links;
@@ -228,6 +235,7 @@ sub game_achievements {
 	my ($game_name,$friendly_url,$appid) = @_;
 
 	my $achievements_url = "$profile_url/stats/$friendly_url/?tab=achievements";
+
 	my $quiet = 1;
 	my $tree = url_tree($achievements_url,$quiet);
 
@@ -283,6 +291,46 @@ sub game_achievements {
 	$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'achievements_total'} = $achievements_total;
 
 #	print "$game_name: $achievements_earned/$achievements_total\n";
+}
+
+sub game_difficulty {
+	my ($url_achievements) = @_;
+
+	my $quiet = 1;
+	my $tree = url_tree($url_achievements,$quiet);
+
+	my $hardest = .99;
+	my @percentages;
+
+	my @achievements = $tree->look_down(
+			'_tag' => 'div',
+			'class' => 'achieveRow ',
+	);
+
+	foreach my $achievement_div (@achievements) {
+		my $percentage_div = $achievement_div->look_down(
+			'_tag' => 'div',
+			'class' => 'achievePercent',
+		);
+		my $percentage_text = trim($percentage_div->as_text);
+		$percentage_text =~ s/%$//; # kill trailing %
+		my $percentage = $percentage_text / 100;
+		push(@percentages,$percentage);
+
+		$hardest = $percentage if $percentage < $hardest;
+
+		my $title_h3 = $achievement_div->look_down( '_tag' => 'h3' );
+		my $achievement_title = trim($title_h3->as_text);
+		#print "$achievement_title $percentage\n";
+	}
+	my $median;
+	if (scalar @percentages) {
+		$median = median(@percentages) + 0;
+	} else {
+		$median = 'undef';
+	}
+
+	return($hardest,$median);
 }
 
 
