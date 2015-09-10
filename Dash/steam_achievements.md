@@ -9,8 +9,8 @@ Steam Achievements
 Games by Achievement Percentage
 ------------------
 
-| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement | Median Difficulty | Hardest Achievement |
-| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------------------: | ----------------: | ------------------: |
+| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Median Diff. | Hardest |
+| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: | ------: |
 | 100.0% | 7 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/00ef02809a1838959274c65feff3d82fd73e5c16.jpg) ](http://store.steampowered.com/app/304410/) | [Hexcells Infinite](http://steamcommunity.com/stats/304410/achievements/compare/) | **29** | 4.14 | 0.579 | 0.278 |
 | 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/3ecc67fe65e8a2f0677c154e8ec70318b7363383.jpg) ](http://store.steampowered.com/app/271900/) | [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | **28** | 4.67 | 0.6225 | 0.378 |
 | 100.0% | 7 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207080/f2c3f3e7104ad6d8719c2698406c79efe6de41e7.jpg) ](http://store.steampowered.com/app/207080/) | [Indie Game: The Movie](http://steamcommunity.com/stats/207080/achievements/compare/) | **17.5** | 2.50 | 0.087 | 0.057 |

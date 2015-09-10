@@ -94,8 +94,8 @@ $content .= "$has_achievements out of $total_games games have achievements.\n";
 my $table_content .= "Games by Achievement Percentage\n";
 $table_content .= "------------------\n";
 $table_content .= "\n";
-$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement | Median Difficulty | Hardest Achievement |\n";
-$table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------------------: | ----------------: | ------------------: |\n";
+$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Median Diff. | Hardest |\n";
+$table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: | ------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
