@@ -94,8 +94,8 @@ $content .= "$has_achievements out of $total_games games have achievements.\n";
 my $table_content .= "Games by Achievement Percentage\n";
 $table_content .= "------------------\n";
 $table_content .= "\n";
-$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement |\n";
-$table_content .= "| ------------------: | :----------: | ----------- | ------------------ | -----------: | --------------------: |\n";
+$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per Achievement | Median Difficulty | Hardest Achievement |\n";
+$table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------------------: | ----------------: | ------------------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
@@ -165,6 +165,8 @@ foreach my $game (@sorted_games) {
 	my $url_store = $games_data->{$name}->{url_store};
 	$display_name .= "[ ![logo links to store]($url_logo) ]($url_store) ";
 	$display_name .= "| [$name]($url_achievements)";
+	my $median = $games_data->{$name}->{achievement_median};
+	my $hardest = $games_data->{$name}->{achievement_hardest};
 
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
@@ -183,7 +185,7 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = 'und';
 	}
 
-	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency |\n";
+	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency | $median | $hardest |\n";
 }
 $table_content .= "\n\n";
 
