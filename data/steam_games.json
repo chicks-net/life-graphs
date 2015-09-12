@@ -106,7 +106,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -202,7 +202,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.244",
+      "achievement_median" : "0.245",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -338,7 +338,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3075",
+      "achievement_median" : "0.308",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -458,7 +458,7 @@
       "url_store" : "http://store.steampowered.com/app/212680/"
    },
    "Faerie Solitaire" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.2175",
       "achievements" : true,
       "app_id" : "38600",
@@ -665,25 +665,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -767,7 +767,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.319",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.417",
-      "achievement_median" : "0.6895",
+      "achievement_median" : "0.689",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -858,8 +858,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.277",
-      "achievement_median" : "0.579",
+      "achievement_hardest" : "0.275",
+      "achievement_median" : "0.577",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -870,7 +870,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.377",
+      "achievement_hardest" : "0.376",
       "achievement_median" : "0.622",
       "achievements" : true,
       "app_id" : "271900",
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1292,7 +1292,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.049",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1392,7 +1392,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
