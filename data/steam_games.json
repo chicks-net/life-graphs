@@ -106,7 +106,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -846,8 +846,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.416",
-      "achievement_median" : "0.688",
+      "achievement_hardest" : "0.415",
+      "achievement_median" : "0.6875",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -858,8 +858,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.273",
-      "achievement_median" : "0.576",
+      "achievement_hardest" : "0.272",
+      "achievement_median" : "0.574",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -870,7 +870,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.376",
+      "achievement_hardest" : "0.375",
       "achievement_median" : "0.622",
       "achievements" : true,
       "app_id" : "271900",
@@ -909,7 +909,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -986,7 +986,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1047,7 +1047,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1392,7 +1392,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -1633,8 +1633,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.37",
-      "achievement_median" : "0.5075",
+      "achievement_hardest" : "0.371",
+      "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1657,8 +1657,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.131",
-      "achievement_median" : "0.131",
+      "achievement_hardest" : "0.132",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -1670,7 +1670,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.2175",
+      "achievement_median" : "0.2185",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
