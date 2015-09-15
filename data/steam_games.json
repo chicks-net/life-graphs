@@ -33,7 +33,7 @@
    },
    "Anomaly Warzone Earth" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.0465",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -201,8 +201,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.021",
-      "achievement_median" : "0.246",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.247",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -227,7 +227,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2035",
+      "achievement_median" : "0.2045",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.319",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -835,7 +835,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.355",
+      "achievement_median" : "0.356",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.415",
-      "achievement_median" : "0.6875",
+      "achievement_median" : "0.687",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -858,8 +858,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.272",
-      "achievement_median" : "0.574",
+      "achievement_hardest" : "0.271",
+      "achievement_median" : "0.573",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -870,8 +870,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.375",
-      "achievement_median" : "0.622",
+      "achievement_hardest" : "0.374",
+      "achievement_median" : "0.621",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1000,7 +1000,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1122,7 +1122,7 @@
       "url_store" : "http://store.steampowered.com/app/252670/"
    },
    "Not The Robots" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "257120",
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1292,7 +1292,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.049",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1598,7 +1598,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2275",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1669,7 +1669,7 @@
       "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.2185",
       "achievements" : true,
       "app_id" : "257510",
