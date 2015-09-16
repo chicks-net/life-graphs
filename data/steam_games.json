@@ -458,8 +458,8 @@
       "url_store" : "http://store.steampowered.com/app/212680/"
    },
    "Faerie Solitaire" : {
-      "achievement_hardest" : "0.043",
-      "achievement_median" : "0.2175",
+      "achievement_hardest" : "0.042",
+      "achievement_median" : "0.217",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -578,7 +578,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
@@ -767,7 +767,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.319",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -846,8 +846,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.415",
-      "achievement_median" : "0.687",
+      "achievement_hardest" : "0.416",
+      "achievement_median" : "0.6875",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.271",
-      "achievement_median" : "0.573",
+      "achievement_median" : "0.574",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -870,8 +870,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.374",
-      "achievement_median" : "0.621",
+      "achievement_hardest" : "0.375",
+      "achievement_median" : "0.622",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1146,7 +1146,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "232770",
@@ -1451,7 +1451,7 @@
    },
    "Signal Ops" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0085",
+      "achievement_median" : "0.008",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -1634,7 +1634,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.5085",
+      "achievement_median" : "0.5075",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
