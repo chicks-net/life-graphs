@@ -70,7 +70,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -202,7 +202,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.247",
+      "achievement_median" : "0.248",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2045",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -459,7 +459,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.217",
+      "achievement_median" : "0.2165",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -578,7 +578,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
@@ -847,7 +847,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.416",
-      "achievement_median" : "0.6875",
+      "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.375",
-      "achievement_median" : "0.622",
+      "achievement_median" : "0.623",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -986,7 +986,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0455",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1084,7 +1084,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "252750",
@@ -1123,7 +1123,7 @@
    },
    "Not The Robots" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "257120",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1487,7 +1487,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.09",
-      "achievement_median" : "0.326",
+      "achievement_median" : "0.3255",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1634,7 +1634,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.5075",
+      "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
