@@ -767,7 +767,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.319",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -846,7 +846,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.416",
+      "achievement_hardest" : "0.417",
       "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
@@ -960,8 +960,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.106",
-      "achievement_median" : "0.16",
+      "achievement_hardest" : "0.107",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -999,8 +999,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.025",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1487,7 +1487,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.09",
-      "achievement_median" : "0.3255",
+      "achievement_median" : "0.325",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
