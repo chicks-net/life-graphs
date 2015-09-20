@@ -15,6 +15,7 @@ Perl modules (debian packages):
 * Chart::Strip (`libchart-strip-perl`)
 * Readonly (`libreadonly-perl`)
 * Text::CSV (`libtext-csv-perl`)
+* Statistics::Basic (`libstatistics-basic-perl`)
 
 DATA COLLECTORS DONE
 --------------------
