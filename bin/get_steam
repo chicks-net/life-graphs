@@ -55,13 +55,14 @@ my $stats_time = DateTime->now->format_cldr("yyyy-MM-dd HH:mm");
 #
 # get right column data
 #
+my $right_column_count = 0;
 my $item_links_div = $tree->look_down(
 		'_tag' => 'div',
 		'class' => 'profile_item_links',
 );
 my @rows = $item_links_div->look_down(
 		'_tag' => 'div',
-		'class' => 'profile_count_link',
+		'class' => 'profile_count_link ellipsis',
 );
 foreach my $row (@rows) {
 	my $textified = $row->as_text;
@@ -70,7 +71,12 @@ foreach my $row (@rows) {
 	next unless defined $value;
 	#print "## $label => $value\n";
 	
+	$right_column_count++;
 	$data_out->{$stats_time}->{$label} = $value;
+}
+
+unless ($right_column_count) {
+	print "### WARNING: NO right column data retrieved\n";
 }
 
 #
