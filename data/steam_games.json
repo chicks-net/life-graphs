@@ -70,7 +70,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.2065",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.1105",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.418",
-      "achievement_median" : "0.6885",
+      "achievement_median" : "0.689",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -870,8 +870,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.376",
-      "achievement_median" : "0.624",
+      "achievement_hardest" : "0.377",
+      "achievement_median" : "0.6245",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0465",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1257,7 +1257,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "317610",
@@ -1404,7 +1404,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1115",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1498,7 +1498,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "297490",
@@ -1646,7 +1646,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
