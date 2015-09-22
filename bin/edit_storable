@@ -31,18 +31,14 @@ if (-f $steam_storable_filename) {
 
 foreach my $stats_time (sort keys %$data_out) {
 	my $snapshot = $data_out->{$stats_time};
-	next unless defined $snapshot->{recent_game_activity};
-	my $rga = $snapshot->{recent_game_activity};
-	next unless $rga =~ /^[Vv]iew/;
+	next unless $stats_time =~ /2015-09-\d\d/;
+	next if defined $snapshot->{Games};
+	print "$stats_time\n";
+	$snapshot->{Games} = 169;
+	$snapshot->{Screenshots} = 21;
+	$snapshot->{Reviews} = 5;
+	$snapshot->{Guides} = 1;
 
-	my $fixed_rga ='0 hours past 2 weeks'; 
-	if ($stats_time =~ /^2015-07-1[56] /) {
-		$fixed_rga ='21.8 hours past 2 weeks'; 
-	}
-	$snapshot->{recent_game_activity} = $fixed_rga;
-	#print "$stats_time $rga /=====/ $fixed_rga\n";
-
-#	delete $snapshot->{game_detals};
 }
 
 if (1) {
