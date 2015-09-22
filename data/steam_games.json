@@ -202,7 +202,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.25",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "Free to Play" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "245550",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1105",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.271",
-      "achievement_median" : "0.576",
+      "achievement_median" : "0.577",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -870,8 +870,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.377",
-      "achievement_median" : "0.6245",
+      "achievement_hardest" : "0.378",
+      "achievement_median" : "0.625",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1047,7 +1047,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1633,7 +1633,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.371",
+      "achievement_hardest" : "0.372",
       "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
@@ -1646,7 +1646,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.2245",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1800,7 +1800,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0635",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
