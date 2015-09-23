@@ -201,8 +201,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.251",
+      "achievement_hardest" : "0.021",
+      "achievement_median" : "0.244",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -227,7 +227,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -317,7 +317,7 @@
       "url_store" : "http://store.steampowered.com/app/218410/"
    },
    "Defense Grid 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "221540",
@@ -459,7 +459,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.216",
+      "achievement_median" : "0.2155",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -846,7 +846,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.418",
+      "achievement_hardest" : "0.419",
       "achievement_median" : "0.689",
       "achievements" : true,
       "app_id" : "265890",
@@ -858,7 +858,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.271",
+      "achievement_hardest" : "0.272",
       "achievement_median" : "0.577",
       "achievements" : true,
       "app_id" : "304410",
@@ -1046,8 +1046,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.026",
-      "achievement_median" : "0.036",
+      "achievement_hardest" : "0.025",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.0475",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1111,7 +1111,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1670,7 +1670,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.2195",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
