@@ -170,6 +170,11 @@ foreach my $game (@sorted_games) {
 	$median = sprintf("%.1f", $median);
 	$hardest = sprintf("%.1f", $hardest);
 
+	my $app_id = $games_data->{$name}->{app_id};
+	if ($app_id == 31280 or $app_id == 214360) {
+		$display_name .= "MacFail :warning:";
+	}
+
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
 		$achieve_efficiency = $hours/$achievements_current;
