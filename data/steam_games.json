@@ -106,7 +106,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -202,7 +202,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.244",
+      "achievement_median" : "0.245",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2065",
+      "achievement_median" : "0.2075",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -459,7 +459,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.272",
-      "achievement_median" : "0.577",
+      "achievement_median" : "0.578",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.378",
-      "achievement_median" : "0.625",
+      "achievement_median" : "0.626",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -883,7 +883,7 @@
    },
    "I am Bread" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.015",
+      "achievement_median" : "0.016",
       "achievements" : true,
       "app_id" : "327890",
       "global_achievements" : true,
@@ -986,7 +986,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1047,7 +1047,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1111,7 +1111,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1633,7 +1633,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.372",
+      "achievement_hardest" : "0.371",
       "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
