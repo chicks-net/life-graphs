@@ -172,7 +172,7 @@ foreach my $game (@sorted_games) {
 
 	my $app_id = $games_data->{$name}->{app_id};
 	if ($app_id == 31280 or $app_id == 214360) {
-		$display_name .= "MacFail :warning:";
+		$display_name .= " :warning: MacFail";
 	}
 
 	my $achieve_efficiency;
