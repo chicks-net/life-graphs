@@ -202,7 +202,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.245",
+      "achievement_median" : "0.246",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -226,8 +226,8 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Cube & Star: An Arbitrary Love" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.085",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -519,7 +519,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.0785",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -530,7 +530,7 @@
       "url_store" : "http://store.steampowered.com/app/244810/"
    },
    "Free to Play" : {
-      "achievement_hardest" : "0.105",
+      "achievement_hardest" : "0.106",
       "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "245550",
@@ -1047,7 +1047,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0475",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1208,7 +1208,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.098",
+      "achievement_hardest" : "0.099",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "31280",
@@ -1292,7 +1292,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.049",
+      "achievement_median" : "0.0495",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1634,7 +1634,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.5085",
+      "achievement_median" : "0.508",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
