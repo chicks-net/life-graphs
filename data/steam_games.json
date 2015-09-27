@@ -33,7 +33,7 @@
    },
    "Anomaly Warzone Earth" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.0475",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -106,7 +106,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -338,7 +338,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.308",
+      "achievement_median" : "0.3085",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2075",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -834,7 +834,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.049",
+      "achievement_hardest" : "0.05",
       "achievement_median" : "0.356",
       "achievements" : true,
       "app_id" : "299540",
@@ -908,7 +908,7 @@
       "url_store" : "http://store.steampowered.com/app/207080/"
    },
    "Influent" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "274980",
@@ -1046,8 +1046,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.025",
-      "achievement_median" : "0.0345",
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1498,7 +1498,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "297490",
@@ -1634,7 +1634,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.508",
+      "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1669,7 +1669,7 @@
       "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.2205",
       "achievements" : true,
       "app_id" : "257510",
@@ -1957,7 +1957,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
