@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2085",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.38",
-      "achievement_median" : "0.6265",
+      "achievement_median" : "0.627",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1000,7 +1000,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1047,7 +1047,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0345",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0485",
+      "achievement_median" : "0.0495",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1378,8 +1378,8 @@
       "url_store" : "http://store.steampowered.com/app/2700/"
    },
    "Sanctum" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.013",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.0135",
       "achievements" : true,
       "app_id" : "91600",
       "global_achievements" : true,
@@ -1498,8 +1498,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0345",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.0335",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -1977,7 +1977,7 @@
    },
    "Zen Bound® 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "61600",
       "global_achievements" : true,
