@@ -106,7 +106,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -201,8 +201,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.021",
-      "achievement_median" : "0.248",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.249",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -337,8 +337,8 @@
       "url_store" : "http://store.steampowered.com/app/312860/"
    },
    "Democracy 3" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3085",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.2095",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -858,7 +858,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.273",
+      "achievement_hardest" : "0.274",
       "achievement_median" : "0.578",
       "achievements" : true,
       "app_id" : "304410",
@@ -986,7 +986,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1159,7 +1159,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1670,7 +1670,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.2205",
+      "achievement_median" : "0.221",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1738,7 +1738,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1837,7 +1837,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.166",
+      "achievement_hardest" : "0.167",
       "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "306660",
