@@ -130,7 +130,7 @@
    },
    "Cities in Motion" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "73010",
       "global_achievements" : true,
@@ -142,7 +142,7 @@
    },
    "Cities in Motion 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "225420",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.249",
+      "achievement_median" : "0.25",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2095",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -743,7 +743,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.42",
-      "achievement_median" : "0.689",
+      "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.275",
-      "achievement_median" : "0.578",
+      "achievement_median" : "0.579",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -882,7 +882,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.381",
+      "achievement_hardest" : "0.382",
       "achievement_median" : "0.6275",
       "achievements" : true,
       "app_id" : "271900",
@@ -921,7 +921,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0195",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1221,7 +1221,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.516",
+      "achievement_median" : "0.5165",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1315,7 +1315,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "283660",
@@ -1330,7 +1330,7 @@
    },
    "Race The Sun" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "253030",
       "global_achievements" : true,
@@ -1390,7 +1390,7 @@
       "url_store" : "http://store.steampowered.com/app/2700/"
    },
    "Sanctum" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.0135",
       "achievements" : true,
       "app_id" : "91600",
@@ -1403,7 +1403,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "293200",
@@ -1585,7 +1585,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The Binding of Isaac" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "113200",
@@ -1645,8 +1645,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.371",
-      "achievement_median" : "0.5075",
+      "achievement_hardest" : "0.372",
+      "achievement_median" : "0.508",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
