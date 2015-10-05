@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -118,7 +118,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -154,7 +154,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.049",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.25",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -330,7 +330,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1835",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -998,7 +998,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1071,7 +1071,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0495",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1123,7 +1123,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1391,7 +1391,7 @@
    },
    "Sanctum" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0135",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "91600",
       "global_achievements" : true,
@@ -1511,7 +1511,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0335",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1750,7 +1750,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1635",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1812,7 +1812,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.064",
+      "achievement_median" : "0.0645",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
