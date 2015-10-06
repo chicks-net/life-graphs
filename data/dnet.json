@@ -11799,6 +11799,33 @@
          },
          "time_working" : "4683 days"
       },
+      "2015-10-05 23:59" : {
+         "blocks" : {
+            "overall" : "9727091",
+            "yesterday" : "0"
+         },
+         "keyrate" : {
+            "overall" : "103253538",
+            "yesterday" : "0"
+         },
+         "keys" : {
+            "overall" : "41777537730215936",
+            "yesterday" : "0"
+         },
+         "percentile" : {
+            "overall" : "99.29",
+            "yesterday" : "0.16"
+         },
+         "rank" : {
+            "overall" : "763 ",
+            "yesterday" : "1916"
+         },
+         "rank_delta" : {
+            "overall" : 0,
+            "yesterday" : "-1036"
+         },
+         "time_working" : "4683 days"
+      },
       "block_history" : {
          "2002-12-09" : "90",
          "2002-12-10" : "192",
