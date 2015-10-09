@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.2115",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -870,7 +870,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.276",
+      "achievement_hardest" : "0.277",
       "achievement_median" : "0.58",
       "achievements" : true,
       "app_id" : "304410",
@@ -1071,7 +1071,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0505",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/252750/"
    },
    "Multiwinia" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "1530",
@@ -1221,7 +1221,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.5165",
+      "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.001",
+      "achievement_median" : "0.0015",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1788,7 +1788,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.049",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
