@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -451,7 +451,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.1225",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -1011,7 +1011,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "352210",
@@ -1059,7 +1059,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/252750/"
    },
    "Multiwinia" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "1530",
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0015",
+      "achievement_median" : "0.002",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1270,7 +1270,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1559,7 +1559,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "440",
@@ -1658,7 +1658,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.2245",
+      "achievement_median" : "0.2255",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1681,8 +1681,8 @@
       "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.02",
-      "achievement_median" : "0.222",
+      "achievement_hardest" : "0.021",
+      "achievement_median" : "0.2225",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
