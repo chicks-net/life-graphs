@@ -213,8 +213,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.255",
+      "achievement_hardest" : "0.021",
+      "achievement_median" : "0.248",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -318,7 +318,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.213",
+      "achievement_median" : "0.2135",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -450,7 +450,7 @@
       "url_store" : "http://store.steampowered.com/app/291150/"
    },
    "FEZ" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "224760",
@@ -482,7 +482,7 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Farm for your Life" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.1275",
       "achievements" : true,
       "app_id" : "266390",
@@ -766,7 +766,7 @@
       "url_store" : "http://store.steampowered.com/app/320/"
    },
    "Half-Life 2: Episode One" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "380",
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.004",
+      "achievement_median" : "0.0045",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1304,7 +1304,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.0495",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1499,7 +1499,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.09",
-      "achievement_median" : "0.324",
+      "achievement_median" : "0.323",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.372",
-      "achievement_median" : "0.5085",
+      "achievement_median" : "0.508",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1682,7 +1682,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.2225",
+      "achievement_median" : "0.223",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
