@@ -57,7 +57,7 @@
       "url_store" : "http://store.steampowered.com/app/91200/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "218060",
@@ -142,7 +142,7 @@
    },
    "Cities in Motion 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "225420",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.248",
+      "achievement_median" : "0.249",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -397,7 +397,7 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.214",
       "achievements" : true,
       "app_id" : "237850",
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.005",
+      "achievement_median" : "0.0055",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1304,7 +1304,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0495",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1682,7 +1682,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.223",
+      "achievement_median" : "0.2235",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
