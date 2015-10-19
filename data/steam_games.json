@@ -57,7 +57,7 @@
       "url_store" : "http://store.steampowered.com/app/91200/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "218060",
@@ -226,7 +226,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2145",
+      "achievement_median" : "0.215",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -882,7 +882,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.385",
+      "achievement_hardest" : "0.386",
       "achievement_median" : "0.6295",
       "achievements" : true,
       "app_id" : "271900",
@@ -1012,7 +1012,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1058,8 +1058,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.027",
-      "achievement_median" : "0.036",
+      "achievement_hardest" : "0.028",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1097,7 +1097,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1316,7 +1316,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1498,8 +1498,8 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.09",
-      "achievement_median" : "0.3225",
+      "achievement_hardest" : "0.089",
+      "achievement_median" : "0.322",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
