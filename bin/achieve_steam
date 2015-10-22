@@ -94,8 +94,8 @@ $content .= "$has_achievements out of $total_games games have achievements.\n";
 my $table_content .= "Games by Achievement Percentage\n";
 $table_content .= "------------------\n";
 $table_content .= "\n";
-$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Comps. Diff. | Hardest |\n";
-$table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: | ------: |\n";
+$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Difficulty   |\n";
+$table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: |\n";
 
 #print Dumper(\@games_with_achievements);
 # descending percentage then ascending name
@@ -120,8 +120,6 @@ sub calc_difficulty {
 		+ 60 * ($hardest/100);
 
 	$difficulty = sprintf("%.1f", $difficulty);
-
-	print "$achievement_count+$hardest -> $difficulty\n";
 
 	return $difficulty;
 }
@@ -185,6 +183,12 @@ foreach my $game (@sorted_games) {
 	$hardest = sprintf("%.1f", $hardest);
 	my $composite_difficulty = calc_difficulty($achievements_total,$hardest,$median);
 
+	if ($composite_difficulty > 10) {
+		$composite_difficulty =  "**$composite_difficulty**";
+	} elsif ($composite_difficulty > 3) {
+		$composite_difficulty =  "*$composite_difficulty*";
+	}
+
 	my $app_id = $games_data->{$name}->{app_id};
 	if ($app_id == 31280 or $app_id == 214360) {
 		$display_name .= " :warning: MacFail";
@@ -207,7 +211,7 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = 'und';
 	}
 
-	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency | $composite_difficulty | $hardest |\n";
+	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency | $composite_difficulty |\n";
 }
 $table_content .= "\n\n";
 
