@@ -94,7 +94,7 @@ $content .= "$has_achievements out of $total_games games have achievements.\n";
 my $table_content .= "Games by Achievement Percentage\n";
 $table_content .= "------------------\n";
 $table_content .= "\n";
-$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Median Diff. | Hardest |\n";
+$table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Comps. Diff. | Hardest |\n";
 $table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: | ------: |\n";
 
 #print Dumper(\@games_with_achievements);
@@ -111,6 +111,20 @@ my $showed_imperfect_percentage = 0; # for table subheads
 my $showed_steam_percentage = 0;
 my $showed_zero_percentage = 0;
 my $showed_ever_played = 0;
+
+sub calc_difficulty {
+	my ($achievement_count, $hardest, $median) = @_;
+
+	my $difficulty = 
+		40 * ( 1 / $achievement_count )
+		+ 60 * ($hardest/100);
+
+	$difficulty = sprintf("%.1f", $difficulty);
+
+	print "$achievement_count+$hardest -> $difficulty\n";
+
+	return $difficulty;
+}
 
 foreach my $game (@sorted_games) {
 	my $perc = $game->{perc};
@@ -169,6 +183,7 @@ foreach my $game (@sorted_games) {
 	my $hardest = 100 * $games_data->{$name}->{achievement_hardest};
 	$median = sprintf("%.1f", $median);
 	$hardest = sprintf("%.1f", $hardest);
+	my $composite_difficulty = calc_difficulty($achievements_total,$hardest,$median);
 
 	my $app_id = $games_data->{$name}->{app_id};
 	if ($app_id == 31280 or $app_id == 214360) {
@@ -192,7 +207,7 @@ foreach my $game (@sorted_games) {
 		$achieve_efficiency = 'und';
 	}
 
-	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency | $median | $hardest |\n";
+	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency | $composite_difficulty | $hardest |\n";
 }
 $table_content .= "\n\n";
 
