@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -57,7 +57,7 @@
       "url_store" : "http://store.steampowered.com/app/91200/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "218060",
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.25",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -226,7 +226,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.215",
+      "achievement_median" : "0.2155",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1275",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0785",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -883,7 +883,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.386",
-      "achievement_median" : "0.6295",
+      "achievement_median" : "0.629",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -972,7 +972,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.11",
+      "achievement_hardest" : "0.111",
       "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "266010",
@@ -1012,7 +1012,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1071,7 +1071,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1097,7 +1097,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1123,7 +1123,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1185,7 +1185,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.006",
+      "achievement_median" : "0.007",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1428,11 +1428,11 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievements" : true,
+      "achievements" : null,
       "app_id" : "259510",
-      "global_achievements" : true,
-      "global_leaderboards" : true,
-      "leaderboards" : true,
+      "global_achievements" : null,
+      "global_leaderboards" : null,
+      "leaderboards" : null,
       "name" : "Shufflepuck Cantina Deluxe",
       "name_short" : "259510",
       "url_achievements" : "http://steamcommunity.com/stats/259510/achievements/compare/",
@@ -1499,7 +1499,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.322",
+      "achievement_median" : "0.3215",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1658,7 +1658,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1682,7 +1682,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.2235",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1737,8 +1737,8 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.197",
-      "achievement_median" : "0.197",
+      "achievement_hardest" : "0.198",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -1750,7 +1750,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1824,7 +1824,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
