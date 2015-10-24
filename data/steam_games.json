@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -330,7 +330,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.0785",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/252750/"
    },
    "Multiwinia" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "1530",
@@ -1159,7 +1159,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.007",
+      "achievement_median" : "0.0075",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1657,7 +1657,7 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The LEGO® Movie - Videogame" : {
-      "achievement_hardest" : "0.028",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
