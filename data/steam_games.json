@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -318,7 +318,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.2165",
+      "achievement_median" : "0.217",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0785",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.28",
-      "achievement_median" : "0.582",
+      "achievement_median" : "0.583",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -895,7 +895,7 @@
    },
    "I am Bread" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.016",
+      "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "327890",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0075",
+      "achievement_median" : "0.008",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.372",
-      "achievement_median" : "0.5075",
+      "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1693,7 +1693,7 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.001",
       "achievements" : true,
       "app_id" : "108200",
