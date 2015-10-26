@@ -153,7 +153,7 @@
       "url_store" : "http://store.steampowered.com/app/225420/"
    },
    "Cities: Skylines" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "255710",
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.216",
+      "achievement_median" : "0.217",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.217",
+      "achievement_median" : "0.2165",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.422",
-      "achievement_median" : "0.69",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -882,7 +882,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.386",
+      "achievement_hardest" : "0.387",
       "achievement_median" : "0.6295",
       "achievements" : true,
       "app_id" : "271900",
@@ -1012,7 +1012,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1071,7 +1071,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0535",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1304,7 +1304,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.0505",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1498,7 +1498,7 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.089",
+      "achievement_hardest" : "0.09",
       "achievement_median" : "0.3215",
       "achievements" : true,
       "app_id" : "253650",
@@ -1969,7 +1969,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
