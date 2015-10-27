@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.2165",
+      "achievement_median" : "0.217",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.357",
+      "achievement_median" : "0.358",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1559,7 +1559,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "440",
@@ -1682,7 +1682,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1776,7 +1776,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
