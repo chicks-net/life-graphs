@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -858,8 +858,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.422",
-      "achievement_median" : "0.6905",
+      "achievement_hardest" : "0.423",
+      "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.008",
+      "achievement_median" : "0.0085",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.372",
-      "achievement_median" : "0.5085",
+      "achievement_median" : "0.5075",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1681,7 +1681,7 @@
       "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "257510",
@@ -1943,7 +1943,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
