@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.254",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -317,8 +317,8 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1375",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -625,7 +625,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.423",
-      "achievement_median" : "0.6905",
+      "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -973,7 +973,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.166",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -998,7 +998,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1025",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1269,8 +1269,8 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.018",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.015",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1416,7 +1416,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.372",
-      "achievement_median" : "0.5085",
+      "achievement_median" : "0.5075",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
