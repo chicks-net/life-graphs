@@ -317,8 +317,8 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.128",
+      "achievement_median" : "0.1275",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.423",
-      "achievement_median" : "0.69",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1071,7 +1071,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1221,7 +1221,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.515",
+      "achievement_median" : "0.5155",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1269,7 +1269,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.015",
       "achievements" : true,
       "app_id" : "317610",
@@ -1416,7 +1416,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
