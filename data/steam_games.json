@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -226,7 +226,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.0785",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -624,7 +624,7 @@
       "url_store" : "http://store.steampowered.com/app/234040/"
    },
    "Goat Simulator" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
@@ -998,7 +998,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1058,8 +1058,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.037",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.009",
+      "achievement_median" : "0.0095",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1270,7 +1270,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.015",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1416,7 +1416,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -1850,7 +1850,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.167",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
