@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2175",
+      "achievement_median" : "0.2185",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1275",
+      "achievement_median" : "0.1285",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.358",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1058,8 +1058,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.0375",
+      "achievement_hardest" : "0.028",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1269,7 +1269,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "317610",
@@ -1416,7 +1416,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -1776,7 +1776,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.182",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
