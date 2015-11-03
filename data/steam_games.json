@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.256",
+      "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -226,7 +226,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1845",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -985,7 +985,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1058,8 +1058,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.037",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1185,7 +1185,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1270,7 +1270,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.014",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1416,7 +1416,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1115",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.372",
-      "achievement_median" : "0.5075",
+      "achievement_median" : "0.5065",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1682,7 +1682,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.2245",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
