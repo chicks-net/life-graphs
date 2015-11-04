@@ -118,7 +118,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -264,7 +264,7 @@
    },
    "DEFCON" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.0185",
       "achievements" : true,
       "app_id" : "1520",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2185",
+      "achievement_median" : "0.219",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1285",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.281",
-      "achievement_median" : "0.583",
+      "achievement_median" : "0.584",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -883,7 +883,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.387",
-      "achievement_median" : "0.6295",
+      "achievement_median" : "0.63",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -998,7 +998,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1025",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1012,7 +1012,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1059,7 +1059,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.0375",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1416,7 +1416,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1115",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -1812,7 +1812,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
