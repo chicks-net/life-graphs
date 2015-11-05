@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.257",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.281",
-      "achievement_median" : "0.584",
+      "achievement_median" : "0.583",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -972,7 +972,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.112",
+      "achievement_hardest" : "0.113",
       "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "266010",
@@ -1071,7 +1071,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.0555",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1269,7 +1269,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
@@ -1315,7 +1315,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "283660",
@@ -1645,8 +1645,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.372",
-      "achievement_median" : "0.5065",
+      "achievement_hardest" : "0.371",
+      "achievement_median" : "0.506",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1682,7 +1682,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
