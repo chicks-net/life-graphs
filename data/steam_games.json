@@ -44,7 +44,7 @@
       "url_store" : "http://store.steampowered.com/app/234900/"
    },
    "Anomaly Warzone Earth" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.0475",
       "achievements" : true,
       "app_id" : "91200",
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.251",
+      "achievement_median" : "0.252",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.219",
+      "achievement_median" : "0.2195",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.129",
+      "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -518,7 +518,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "201510",
@@ -767,7 +767,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.423",
-      "achievement_median" : "0.6905",
+      "achievement_median" : "0.691",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -973,7 +973,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.113",
-      "achievement_median" : "0.167",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1070,8 +1070,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0555",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1221,7 +1221,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.5155",
+      "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1258,7 +1258,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0095",
+      "achievement_median" : "0.01",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.506",
+      "achievement_median" : "0.5055",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1658,7 +1658,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1824,7 +1824,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
