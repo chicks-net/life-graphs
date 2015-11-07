@@ -1,6 +1,6 @@
 {
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "346900",
@@ -118,7 +118,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2195",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.359",
+      "achievement_median" : "0.358",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1646,7 +1646,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.5055",
+      "achievement_median" : "0.506",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1737,8 +1737,8 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.198",
-      "achievement_median" : "0.198",
+      "achievement_hardest" : "0.199",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
