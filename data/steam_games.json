@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -589,6 +589,20 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg",
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
+   "Game Corp DX" : {
+      "achievement_hardest" : "0.091",
+      "achievement_median" : "0.3965",
+      "achievements" : true,
+      "app_id" : "399670",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Game Corp DX",
+      "name_short" : "399670",
+      "url_achievements" : "http://steamcommunity.com/stats/399670/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/399670/e51bc6640fa85fcfc3ef36750aad7d9b8b6ba0e9.jpg",
+      "url_store" : "http://store.steampowered.com/app/399670/"
+   },
    "Garry's Mod" : {
       "achievement_hardest" : "0.015",
       "achievement_median" : "0.04",
@@ -603,7 +617,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -870,8 +884,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.281",
-      "achievement_median" : "0.583",
+      "achievement_hardest" : "0.282",
+      "achievement_median" : "0.584",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1012,7 +1026,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1071,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0235",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1220,7 +1234,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.1",
+      "achievement_hardest" : "0.101",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "31280",
@@ -1258,7 +1272,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.01",
+      "achievement_median" : "0.0105",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1315,7 +1329,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "283660",
@@ -1559,7 +1573,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "440",
@@ -1646,7 +1660,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.506",
+      "achievement_median" : "0.5065",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
