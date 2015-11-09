@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -482,8 +482,8 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Farm for your Life" : {
-      "achievement_hardest" : "0.016",
-      "achievement_median" : "0.13",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.1305",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -519,7 +519,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -590,8 +590,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.091",
-      "achievement_median" : "0.3965",
+      "achievement_hardest" : "0.092",
+      "achievement_median" : "0.397",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -757,7 +757,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1026,7 +1026,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0265",
+      "achievement_median" : "0.0325",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1172,7 +1172,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.035",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "232770",
@@ -1210,7 +1210,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "218510",
@@ -1329,7 +1329,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "283660",
@@ -1343,7 +1343,7 @@
       "url_store" : "http://store.steampowered.com/app/283660/"
    },
    "Race The Sun" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "253030",
@@ -1574,7 +1574,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1659,7 +1659,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.371",
+      "achievement_hardest" : "0.372",
       "achievement_median" : "0.5065",
       "achievements" : true,
       "app_id" : "319550",
