@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -330,7 +330,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1845",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.22",
+      "achievement_median" : "0.2205",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -896,7 +896,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.387",
+      "achievement_hardest" : "0.388",
       "achievement_median" : "0.63",
       "achievements" : true,
       "app_id" : "271900",
@@ -975,7 +975,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -987,7 +987,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.113",
-      "achievement_median" : "0.168",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0325",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "252750",
@@ -1284,7 +1284,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.013",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1672,7 +1672,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1683,8 +1683,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.133",
-      "achievement_median" : "0.133",
+      "achievement_hardest" : "0.134",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.2245",
+      "achievement_median" : "0.225",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1802,7 +1802,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -1954,6 +1954,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/Waveform/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/204180/182864a1336f4644baac33beeec8dd9065fc8cc6.jpg",
       "url_store" : "http://store.steampowered.com/app/204180/"
+   },
+   "Whispering Willows" : {
+      "achievement_hardest" : "0.094",
+      "achievement_median" : "0.24",
+      "achievements" : true,
+      "app_id" : "288060",
+      "global_achievements" : true,
+      "name" : "Whispering Willows",
+      "name_short" : "288060",
+      "url_achievements" : "http://steamcommunity.com/stats/288060/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288060/910ac4bc31a7422cd9705cdc4d022929e4c9b6aa.jpg",
+      "url_store" : "http://store.steampowered.com/app/288060/"
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.008",
