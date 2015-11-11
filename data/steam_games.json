@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2205",
+      "achievement_median" : "0.221",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.092",
-      "achievement_median" : "0.397",
+      "achievement_median" : "0.3975",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -986,7 +986,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.113",
+      "achievement_hardest" : "0.114",
       "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "266010",
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.035",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "252750",
@@ -1283,8 +1283,8 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.012",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1672,7 +1672,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.225",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1790,7 +1790,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.182",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -1956,7 +1956,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.094",
+      "achievement_hardest" : "0.095",
       "achievement_median" : "0.24",
       "achievements" : true,
       "app_id" : "288060",
