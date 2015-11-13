@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.254",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.092",
-      "achievement_median" : "0.398",
+      "achievement_median" : "0.3985",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -884,8 +884,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.282",
-      "achievement_median" : "0.583",
+      "achievement_hardest" : "0.283",
+      "achievement_median" : "0.584",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -897,7 +897,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.388",
-      "achievement_median" : "0.63",
+      "achievement_median" : "0.6305",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1084,8 +1084,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.0475",
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.0495",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1284,7 +1284,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1672,7 +1672,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.2245",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.2235",
+      "achievement_median" : "0.2225",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1764,7 +1764,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -1995,7 +1995,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
