@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.256",
+      "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.2215",
+      "achievement_median" : "0.222",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -590,8 +590,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.093",
-      "achievement_median" : "0.3995",
+      "achievement_hardest" : "0.092",
+      "achievement_median" : "0.4",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -987,7 +987,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.114",
-      "achievement_median" : "0.169",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1272,7 +1272,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0105",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1318,7 +1318,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1660,7 +1660,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.373",
-      "achievement_median" : "0.507",
+      "achievement_median" : "0.5075",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.301",
+      "achievement_median" : "0.3005",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1776,7 +1776,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1635",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1802,7 +1802,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.182",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -1955,7 +1955,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "204180",
@@ -2007,7 +2007,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
