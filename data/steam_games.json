@@ -117,7 +117,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "262590",
@@ -451,7 +451,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.217",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -590,7 +590,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.092",
+      "achievement_hardest" : "0.093",
       "achievement_median" : "0.4",
       "achievements" : true,
       "app_id" : "399670",
@@ -639,7 +639,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0305",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -873,7 +873,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.424",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.06",
+      "achievement_median" : "0.061",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1137,7 +1137,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1513,7 +1513,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.09",
-      "achievement_median" : "0.3215",
+      "achievement_median" : "0.321",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1708,7 +1708,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.2195",
+      "achievement_median" : "0.219",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1776,7 +1776,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.1635",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1802,7 +1802,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.182",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.095",
-      "achievement_median" : "0.24",
+      "achievement_median" : "0.2395",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
