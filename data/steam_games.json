@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -451,7 +451,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.4",
+      "achievement_median" : "0.4005",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -639,7 +639,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.0305",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -873,7 +873,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.424",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.691",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -909,7 +909,7 @@
    },
    "I am Bread" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.017",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "327890",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1318,7 +1318,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0515",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The LEGO® Movie - Videogame" : {
-      "achievement_hardest" : "0.028",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "267530",
@@ -1707,7 +1707,7 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.219",
       "achievements" : true,
       "app_id" : "257510",
@@ -1802,7 +1802,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.181",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
