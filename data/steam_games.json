@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.257",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -318,7 +318,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1845",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.4005",
+      "achievement_median" : "0.401",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -757,7 +757,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -896,7 +896,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.388",
+      "achievement_hardest" : "0.389",
       "achievement_median" : "0.631",
       "achievements" : true,
       "app_id" : "271900",
@@ -986,7 +986,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.114",
+      "achievement_hardest" : "0.115",
       "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "266010",
@@ -1012,7 +1012,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1084,8 +1084,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.062",
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1137,7 +1137,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1672,7 +1672,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1727,7 +1727,7 @@
       "name" : "Ticket to Ride",
       "name_short" : "108200",
       "url_achievements" : "http://steamcommunity.com/stats/108200/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108200/a2115386d0ff8126505b3057cd3f9dcd936b2f9f.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108200/82729516ba20b264ad25bd087b31c641b1dcf24d.jpg",
       "url_store" : "http://store.steampowered.com/app/108200/"
    },
    "Ticket to Ride - Europe" : {
@@ -1776,7 +1776,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1635",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
