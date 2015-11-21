@@ -33,7 +33,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0895",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -117,7 +117,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "262590",
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.222",
+      "achievement_median" : "0.2225",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.216",
+      "achievement_median" : "0.2155",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.0795",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -590,8 +590,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.093",
-      "achievement_median" : "0.401",
+      "achievement_hardest" : "0.094",
+      "achievement_median" : "0.402",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -639,7 +639,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0305",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -757,7 +757,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -861,7 +861,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.358",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1259,7 +1259,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1708,7 +1708,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.219",
+      "achievement_median" : "0.2195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1776,7 +1776,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.1635",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1838,7 +1838,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -1850,7 +1850,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
