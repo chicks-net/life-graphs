@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.258",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.1305",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -638,7 +638,7 @@
       "url_store" : "http://store.steampowered.com/app/234040/"
    },
    "Goat Simulator" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
@@ -1025,8 +1025,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.028",
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1173,7 +1173,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1199,7 +1199,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1259,7 +1259,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1318,7 +1318,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
