@@ -329,7 +329,7 @@
       "url_store" : "http://store.steampowered.com/app/218410/"
    },
    "Defense Grid 2" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "221540",
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.215",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -849,7 +849,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0245",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -873,7 +873,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.424",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1283,7 +1283,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
@@ -1430,7 +1430,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1573,8 +1573,8 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.106",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1660,7 +1660,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.374",
-      "achievement_median" : "0.508",
+      "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1708,7 +1708,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.2195",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1876,7 +1876,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.167",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
