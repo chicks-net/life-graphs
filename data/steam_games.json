@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -239,7 +239,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -872,7 +872,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.424",
+      "achievement_hardest" : "0.425",
       "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1283,8 +1283,8 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.012",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1659,7 +1659,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.374",
+      "achievement_hardest" : "0.373",
       "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
@@ -1763,8 +1763,8 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.199",
-      "achievement_median" : "0.199",
+      "achievement_hardest" : "0.2",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -1814,7 +1814,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -1876,7 +1876,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.167",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
