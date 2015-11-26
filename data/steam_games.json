@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -82,7 +82,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -329,7 +329,7 @@
       "url_store" : "http://store.steampowered.com/app/218410/"
    },
    "Defense Grid 2" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "221540",
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.094",
-      "achievement_median" : "0.403",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -872,8 +872,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6915",
+      "achievement_hardest" : "0.424",
+      "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1185,7 +1185,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1271,7 +1271,7 @@
       "url_store" : "http://store.steampowered.com/app/620/"
    },
    "Prison Architect" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.0115",
       "achievements" : true,
       "app_id" : "233450",
@@ -1317,7 +1317,7 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "ROCKETSROCKETSROCKETS" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "289760",
@@ -1430,7 +1430,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1968,7 +1968,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.095",
+      "achievement_hardest" : "0.094",
       "achievement_median" : "0.24",
       "achievements" : true,
       "app_id" : "288060",
