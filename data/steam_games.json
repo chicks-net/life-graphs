@@ -33,7 +33,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0895",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -397,8 +397,8 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.182",
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -757,7 +757,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -793,7 +793,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.319",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -861,7 +861,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.358",
+      "achievement_median" : "0.357",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.067",
+      "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1185,7 +1185,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.2975",
+      "achievement_median" : "0.298",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.001",
+      "achievement_median" : "0.0015",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -1802,7 +1802,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
