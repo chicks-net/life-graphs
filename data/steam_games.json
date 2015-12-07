@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -330,7 +330,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -350,7 +350,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1845",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.405",
+      "achievement_median" : "0.4055",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -691,25 +691,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -861,7 +861,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.357",
+      "achievement_median" : "0.358",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -872,7 +872,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.421",
+      "achievement_hardest" : "0.422",
       "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
@@ -897,7 +897,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.384",
-      "achievement_median" : "0.6285",
+      "achievement_median" : "0.629",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -923,7 +923,7 @@
    },
    "Indie Game: The Movie" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "207080",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -986,8 +986,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.115",
-      "achievement_median" : "0.17",
+      "achievement_hardest" : "0.116",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -999,7 +999,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1235,7 +1235,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.102",
-      "achievement_median" : "0.5165",
+      "achievement_median" : "0.517",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1247,7 +1247,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1259,7 +1259,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.2975",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1707,8 +1707,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.2175",
+      "achievement_hardest" : "0.024",
+      "achievement_median" : "0.2185",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0015",
+      "achievement_median" : "0.002",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -1875,7 +1875,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.165",
+      "achievement_hardest" : "0.164",
       "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "306660",
@@ -1980,7 +1980,7 @@
       "url_store" : "http://store.steampowered.com/app/288060/"
    },
    "Woah Dave!" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "315110",
