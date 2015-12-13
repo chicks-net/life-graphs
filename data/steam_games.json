@@ -33,7 +33,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.0895",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -130,7 +130,7 @@
    },
    "Cities in Motion" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "73010",
       "global_achievements" : true,
@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -397,8 +397,8 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1825",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.405",
+      "achievement_median" : "0.406",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -616,7 +616,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "214420",
@@ -872,8 +872,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.415",
-      "achievement_median" : "0.688",
+      "achievement_hardest" : "0.414",
+      "achievement_median" : "0.686",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -884,8 +884,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.266",
-      "achievement_median" : "0.564",
+      "achievement_hardest" : "0.264",
+      "achievement_median" : "0.563",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -896,8 +896,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.374",
-      "achievement_median" : "0.6225",
+      "achievement_hardest" : "0.373",
+      "achievement_median" : "0.6215",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -909,7 +909,7 @@
    },
    "I am Bread" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "327890",
       "global_achievements" : true,
@@ -1012,7 +1012,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1073,7 +1073,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.0705",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1330,7 +1330,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1659,7 +1659,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.373",
+      "achievement_hardest" : "0.374",
       "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
@@ -1708,7 +1708,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.2185",
+      "achievement_median" : "0.219",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.095",
-      "achievement_median" : "0.2425",
+      "achievement_median" : "0.243",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
