@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-120 out of 135 games have achievements.
-15.63% achieved overall. 34.43% achieved in games played. 43.76% in games with >1 achievement.
+121 out of 136 games have achievements.
+15.51% achieved overall. 34.43% achieved in games played. 43.76% in games with >1 achievement.
 
 
 
@@ -12,7 +12,7 @@ Games by Achievement Percentage
 | Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Difficulty   |
 | ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: |
 | 100.0% | 7 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/00ef02809a1838959274c65feff3d82fd73e5c16.jpg) ](http://store.steampowered.com/app/304410/) | [Hexcells Infinite](http://steamcommunity.com/stats/304410/achievements/compare/) | **29** | 4.14 | **21.4** |
-| 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/3ecc67fe65e8a2f0677c154e8ec70318b7363383.jpg) ](http://store.steampowered.com/app/271900/) | [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | **28** | 4.67 | **28.9** |
+| 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/3ecc67fe65e8a2f0677c154e8ec70318b7363383.jpg) ](http://store.steampowered.com/app/271900/) | [Hexcells Plus](http://steamcommunity.com/stats/271900/achievements/compare/) | **28** | 4.67 | **29.0** |
 | 100.0% | 7 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207080/f2c3f3e7104ad6d8719c2698406c79efe6de41e7.jpg) ](http://store.steampowered.com/app/207080/) | [Indie Game: The Movie](http://steamcommunity.com/stats/207080/achievements/compare/) | **17.5** | 2.50 | *9.2* |
 | 100.0% | 23 / 23 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252750/be47ba3c037a6363432bb0659110ea4837f75a77.jpg) ](http://store.steampowered.com/app/252750/) | [MouseCraft](http://steamcommunity.com/stats/252750/achievements/compare/) | 7.9 | **0.34** | *3.8* |
 | 100.0% | 36 / 36 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/399670/e51bc6640fa85fcfc3ef36750aad7d9b8b6ba0e9.jpg) ](http://store.steampowered.com/app/399670/) | [Game Corp DX](http://steamcommunity.com/stats/399670/achievements/compare/) | 7.7 | **0.21** | *6.9* |
@@ -95,6 +95,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 546 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209080/925b7c2a6b698144622bed4bd2d0086114df2fa9.jpg) ](http://store.steampowered.com/app/209080/) | [Guns of Icarus Online](http://steamcommunity.com/stats/209080/achievements/compare/) | 0 | und | 0.1 |
 | 0.0% | 0 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/380/b5a666a961d8b39896887abbed3b78c2b837c238.jpg) ](http://store.steampowered.com/app/380/) | [Half-Life 2: Episode One](http://steamcommunity.com/stats/HL2:EP1/achievements/compare/) | 0 | und | *4.9* |
 | 0.0% | 0 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/553e6a2e7a469dcbaada729baa1f5fd7764668df.jpg) ](http://store.steampowered.com/app/420/) | [Half-Life 2: Episode Two](http://steamcommunity.com/stats/HL2:EP2/achievements/compare/) | 0 | und | *3.4* |
+| 0.0% | 0 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368370/a05fc37b598a1ae5176b2a95a4819bfa0b93c4e5.jpg) ](http://store.steampowered.com/app/368370/) | [Her Story](http://steamcommunity.com/stats/368370/achievements/compare/) | 0 | und | *8.7* |
 | 0.0% | 0 / 8 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304290/132592a38e6246aca7b59a239c467c1fc70a960d.jpg) ](http://store.steampowered.com/app/304290/) | [Heroes Rise: The Hero Project](http://steamcommunity.com/stats/304290/achievements/compare/) | 0 | und | *5.3* |
 | 0.0% | 0 / 17 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299540/7bbdfdf2c01afc4070c0e2ba387c6883fbf10a12.jpg) ](http://store.steampowered.com/app/299540/) | [Heroes Rise: The Prodigy](http://steamcommunity.com/stats/299540/achievements/compare/) | 0 | und | *5.4* |
 | 0.0% | 0 / 35 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/327890/8f0109409b5b196e4d8be175529d23a3d5fbb140.jpg) ](http://store.steampowered.com/app/327890/) | [I am Bread](http://steamcommunity.com/stats/327890/achievements/compare/) | 0 | und | 1.4 |
@@ -120,7 +121,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 30 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg) ](http://store.steampowered.com/app/297490/) | [Spy Chameleon - RGB Agent](http://steamcommunity.com/stats/297490/achievements/compare/) | 0 | und | 2.0 |
 | 0.0% | 0 / 48 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40800/70f084857297d5fdd96d019db3a990d6d9ec64f1.jpg) ](http://store.steampowered.com/app/40800/) | [Super Meat Boy](http://steamcommunity.com/stats/SuperMeatBoy/achievements/compare/) | 0 | und | 1.3 |
 | 0.0% | 0 / 114 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg) ](http://store.steampowered.com/app/233720/) | [Surgeon Simulator](http://steamcommunity.com/stats/233720/achievements/compare/) | 0 | und | 0.7 |
-| 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234940/701e589c0436061a3c1120c1d3f8346dce50bbc6.jpg) ](http://store.steampowered.com/app/234940/) | [The 39 Steps](http://steamcommunity.com/stats/234940/achievements/compare/) | 0 | und | *9.7* |
+| 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234940/701e589c0436061a3c1120c1d3f8346dce50bbc6.jpg) ](http://store.steampowered.com/app/234940/) | [The 39 Steps](http://steamcommunity.com/stats/234940/achievements/compare/) | 0 | und | *9.3* |
 | 0.0% | 0 / 99 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/113200/d9a7ee7e07dffed1700cb8b3b9482105b88cc5b5.jpg) ](http://store.steampowered.com/app/113200/) | [The Binding of Isaac](http://steamcommunity.com/stats/BindingOfIsaac/achievements/compare/) | 0 | und | 0.7 |
 | 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/204240/112da2a1e4e4e7e86f07f6aafc7d5866edb55871.jpg) ](http://store.steampowered.com/app/204240/) | [The Bridge](http://steamcommunity.com/stats/TheBridge/achievements/compare/) | 0 | und | *3.3* |
 | 0.0% | 0 / 41 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/65930/52da3125ac55d5d1406c610f7e8c78755f0752ff.jpg) ](http://store.steampowered.com/app/65930/) | [The Bureau: XCOM Declassified](http://steamcommunity.com/stats/65930/achievements/compare/) | 0 | und | 1.6 |
