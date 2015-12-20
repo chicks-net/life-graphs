@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -45,7 +45,7 @@
    },
    "Anomaly Warzone Earth" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0475",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -69,7 +69,7 @@
       "url_store" : "http://store.steampowered.com/app/218060/"
    },
    "Bad Hotel" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "231720",
@@ -213,8 +213,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.266",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -318,7 +318,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -397,7 +397,7 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.1855",
       "achievements" : true,
       "app_id" : "237850",
@@ -578,7 +578,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "201040",
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.411",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -757,7 +757,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -908,8 +908,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.373",
-      "achievement_median" : "0.624",
+      "achievement_hardest" : "0.374",
+      "achievement_median" : "0.625",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1097,7 +1097,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.072",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1525,7 +1525,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.3175",
+      "achievement_median" : "0.317",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1611,8 +1611,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.118",
-      "achievement_median" : "0.137",
+      "achievement_hardest" : "0.115",
+      "achievement_median" : "0.1335",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1683,7 +1683,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.374",
+      "achievement_hardest" : "0.375",
       "achievement_median" : "0.5085",
       "achievements" : true,
       "app_id" : "319550",
@@ -1787,8 +1787,8 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.201",
-      "achievement_median" : "0.201",
+      "achievement_hardest" : "0.202",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -1800,7 +1800,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
