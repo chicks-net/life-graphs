@@ -214,7 +214,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.256",
+      "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4125",
+      "achievement_median" : "0.413",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -639,7 +639,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.0315",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -849,7 +849,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.483",
+      "achievement_median" : "0.481",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.416",
+      "achievement_hardest" : "0.417",
       "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
@@ -896,8 +896,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.262",
-      "achievement_median" : "0.564",
+      "achievement_hardest" : "0.261",
+      "achievement_median" : "0.563",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -998,7 +998,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.118",
+      "achievement_hardest" : "0.119",
       "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "266010",
@@ -1084,7 +1084,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "294230",
@@ -1197,7 +1197,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1235,7 +1235,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -1271,7 +1271,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1296,7 +1296,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.013",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1611,8 +1611,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.107",
-      "achievement_median" : "0.124",
+      "achievement_hardest" : "0.106",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2235",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.2965",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1732,7 +1732,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.214",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1800,7 +1800,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1826,7 +1826,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.175",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -1887,7 +1887,7 @@
       "url_store" : "http://store.steampowered.com/app/263760/"
    },
    "Type:Rider" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "258890",
@@ -1900,7 +1900,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.164",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
