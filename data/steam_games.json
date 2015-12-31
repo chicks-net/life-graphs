@@ -213,7 +213,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "730",
@@ -239,7 +239,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -317,7 +317,7 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "218410",
@@ -398,7 +398,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1865",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -578,7 +578,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "201040",
@@ -639,7 +639,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0315",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -896,7 +896,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.259",
+      "achievement_hardest" : "0.258",
       "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "304410",
@@ -999,7 +999,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.175",
+      "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1097,7 +1097,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.076",
+      "achievement_median" : "0.0765",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1184,7 +1184,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.072",
       "achievements" : true,
       "app_id" : "232770",
@@ -1247,7 +1247,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.103",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1259,7 +1259,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1271,7 +1271,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1296,7 +1296,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1442,7 +1442,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1525,7 +1525,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.3155",
+      "achievement_median" : "0.315",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.2955",
+      "achievement_median" : "0.295",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1732,7 +1732,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.2035",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1744,7 +1744,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.002",
+      "achievement_median" : "0.0025",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -1992,8 +1992,8 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.096",
-      "achievement_median" : "0.2455",
+      "achievement_hardest" : "0.097",
+      "achievement_median" : "0.2465",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2031,7 +2031,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
