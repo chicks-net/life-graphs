@@ -102,7 +102,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -127,7 +127,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -163,7 +163,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -199,7 +199,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -443,7 +443,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1875",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -528,7 +528,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.1345",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -645,7 +645,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1085",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -656,8 +656,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.102",
-      "achievement_median" : "0.416",
+      "achievement_hardest" : "0.103",
+      "achievement_median" : "0.4165",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0315",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -823,7 +823,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.3185",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -914,8 +914,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.094",
-      "achievement_median" : "0.474",
+      "achievement_hardest" : "0.093",
+      "achievement_median" : "0.472",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -927,7 +927,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.0245",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -951,7 +951,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.417",
-      "achievement_median" : "0.687",
+      "achievement_median" : "0.6865",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.371",
-      "achievement_median" : "0.6235",
+      "achievement_median" : "0.6245",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1064,8 +1064,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.122",
-      "achievement_median" : "0.178",
+      "achievement_hardest" : "0.123",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1103,8 +1103,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.03",
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1151,7 +1151,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1215,7 +1215,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1798,7 +1798,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.2945",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1809,8 +1809,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1965",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1878,7 +1878,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1585",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2071,7 +2071,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.2465",
+      "achievement_median" : "0.2475",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2109,7 +2109,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
@@ -2141,7 +2141,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.075",
+      "achievement_median" : "0.0755",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
