@@ -21,7 +21,7 @@
    },
    "Anna - Extended Edition" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "217690",
       "global_achievements" : true,
@@ -90,7 +90,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -175,7 +175,7 @@
    },
    "Cities in Motion" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "73010",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.264",
+      "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -362,7 +362,7 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.1365",
       "achievements" : true,
       "app_id" : "218410",
@@ -443,7 +443,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -528,7 +528,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.1345",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -939,7 +939,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.358",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -974,8 +974,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.372",
-      "achievement_median" : "0.6245",
+      "achievement_hardest" : "0.373",
+      "achievement_median" : "0.6255",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1163,7 +1163,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0785",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1215,7 +1215,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1325,7 +1325,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1337,7 +1337,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1350,7 +1350,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0135",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1664,7 +1664,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1689,7 +1689,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.101",
+      "achievement_hardest" : "0.1",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "234940",
@@ -1714,7 +1714,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -1810,7 +1810,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1952,7 +1952,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
@@ -2057,7 +2057,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "204180",
