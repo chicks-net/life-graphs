@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -127,7 +127,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.2915",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -148,6 +148,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/279990/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/279990/ff59fdd2166fa23cadb982029e42d70528bb18f1.jpg",
       "url_store" : "http://store.steampowered.com/app/279990/"
+   },
+   "Broken Age" : {
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.162",
+      "achievements" : true,
+      "app_id" : "232790",
+      "global_achievements" : true,
+      "name" : "Broken Age",
+      "name_short" : "232790",
+      "url_achievements" : "http://steamcommunity.com/stats/232790/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/232790/41b5954cafec81314d6f223e38faca0a23501252.jpg",
+      "url_store" : "http://store.steampowered.com/app/232790/"
    },
    "Caster" : {
       "achievement_hardest" : "0.99",
@@ -259,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.265",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -363,7 +375,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1365",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -443,7 +455,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -657,7 +669,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.104",
-      "achievement_median" : "0.4175",
+      "achievement_median" : "0.417",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -670,8 +682,8 @@
       "url_store" : "http://store.steampowered.com/app/399670/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.015",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -859,7 +871,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.3185",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -914,8 +926,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.094",
-      "achievement_median" : "0.472",
+      "achievement_hardest" : "0.095",
+      "achievement_median" : "0.473",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -927,7 +939,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0245",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -939,7 +951,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.359",
+      "achievement_median" : "0.358",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -950,8 +962,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.418",
-      "achievement_median" : "0.687",
+      "achievement_hardest" : "0.419",
+      "achievement_median" : "0.6875",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -962,8 +974,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.257",
-      "achievement_median" : "0.561",
+      "achievement_hardest" : "0.258",
+      "achievement_median" : "0.562",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -975,7 +987,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.374",
-      "achievement_median" : "0.6255",
+      "achievement_median" : "0.6265",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1090,7 +1102,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1163,7 +1175,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.0795",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1591,7 +1603,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.3145",
+      "achievement_median" : "0.3135",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1652,7 +1664,7 @@
    },
    "Surgeon Simulator" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0235",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "233720",
       "global_achievements" : true,
@@ -1761,8 +1773,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.377",
-      "achievement_median" : "0.5105",
+      "achievement_hardest" : "0.378",
+      "achievement_median" : "0.511",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1798,7 +1810,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.2945",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1810,7 +1822,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1866,7 +1878,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -1890,7 +1902,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1585",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1916,7 +1928,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2095,7 +2107,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
