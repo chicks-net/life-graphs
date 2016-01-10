@@ -30,6 +30,15 @@ my $content =
  
 ";
 
+my @game_bucket_minimums = ( 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 5, 1, 0 );
+my %game_buckets;
+foreach my $min (@game_bucket_minimums) {
+	$game_buckets{$min} = {
+		min => $min,
+		count => 0,
+	};
+}
+
 # retrieve existing data
 my $steam_storable_filename = 'steam.storable';
 my $data = get_storable("$data_dir/$steam_storable_filename",1);
@@ -67,6 +76,30 @@ my $total_games = scalar keys %$game_details;
 my @games_with_achievements = calc_achievements($lastday_statsday);
 my $has_achievements = scalar @games_with_achievements;
 
+sub barchart_bucket {
+	my ($raw_perc) = @_;
+	my $perc = $raw_perc * 100;
+	foreach my $min (@game_bucket_minimums) {
+		if ($perc >= $min) {
+			$game_buckets{$min}->{count}++;
+			last;
+		}
+	}
+}
+
+sub print_barchart {
+	my $barchart = "\n";
+	$barchart .= sprintf("\t%3s %3s\n",'min','c');
+	$barchart .= sprintf("\t%3s %3s\n",'---','---');
+	foreach my $min (@game_bucket_minimums) {
+		my $count = $game_buckets{$min}->{count};
+		my $bar = '*' x $count;
+		$barchart .= sprintf("\t%3d %3d %s\n",$min,$count,$bar);
+	}
+	$barchart .= "\n";
+	return $barchart;
+}
+
 sub calc_achievements {
 	my ($calc_statsday) = @_;
 
@@ -82,6 +115,7 @@ sub calc_achievements {
 			my $achieved_percentage = $achievements_current/$achievements_total;
 			$this_game->{perc} = $achieved_percentage;
 			$this_game->{name} = $game;
+			barchart_bucket($achieved_percentage) if $this_game->{hrs_total};
 			push (@games_that_have_achievements,$this_game);
 		}
 	}
@@ -292,6 +326,7 @@ $table_content .= "\n\n";
 
 # stitch together
 $content .= "$overall_perc% achieved overall. $played_perc% achieved in games played. $chieved_perc% in games with >1 achievement.\n\n";
+$content .= print_barchart();
 $content .= "\n\n";
 $content .= $table_content;
 $content .= "\n\n";
