@@ -5,6 +5,8 @@ Steam Achievements
 16.68% achieved overall. 36.80% achieved in games played. 46.00% in games with >1 achievement.
 
 
+	Game Achievement Percentage Histogram
+
 	min   c
 	--- ---
 	100   9 *********
@@ -17,8 +19,7 @@ Steam Achievements
 	 30   6 ******
 	 20   6 ******
 	 10   5 *****
-	  5   7 *******
-	  1   4 ****
+	  1  11 ***********
 	  0  13 *************
 
 

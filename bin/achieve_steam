@@ -30,7 +30,7 @@ my $content =
  
 ";
 
-my @game_bucket_minimums = ( 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 5, 1, 0 );
+my @game_bucket_minimums = ( 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 1, 0 );
 my %game_buckets;
 foreach my $min (@game_bucket_minimums) {
 	$game_buckets{$min} = {
@@ -89,6 +89,8 @@ sub barchart_bucket {
 
 sub print_barchart {
 	my $barchart = "\n";
+	$barchart .= "\tGame Achievement Percentage Histogram\n";
+	$barchart .= "\n";
 	$barchart .= sprintf("\t%3s %3s\n",'min','c');
 	$barchart .= sprintf("\t%3s %3s\n",'---','---');
 	foreach my $min (@game_bucket_minimums) {
