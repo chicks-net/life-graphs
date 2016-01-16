@@ -271,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -695,7 +695,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.319",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -926,8 +926,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.095",
-      "achievement_median" : "0.471",
+      "achievement_hardest" : "0.094",
+      "achievement_median" : "0.468",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -962,8 +962,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.41",
-      "achievement_median" : "0.6825",
+      "achievement_hardest" : "0.411",
+      "achievement_median" : "0.6835",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -974,8 +974,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.255",
-      "achievement_median" : "0.554",
+      "achievement_hardest" : "0.253",
+      "achievement_median" : "0.552",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -986,8 +986,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.369",
-      "achievement_median" : "0.62",
+      "achievement_hardest" : "0.367",
+      "achievement_median" : "0.6195",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1163,7 +1163,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1175,7 +1175,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0805",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1349,7 +1349,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1545,7 +1545,7 @@
    },
    "Shufflepuck Cantina Deluxe VR" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -1786,7 +1786,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2225",
+      "achievement_median" : "0.223",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2001,7 +2001,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.162",
+      "achievement_hardest" : "0.161",
       "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "306660",
@@ -2133,7 +2133,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
