@@ -127,7 +127,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.2915",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -175,7 +175,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -271,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.256",
+      "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -455,7 +455,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.1925",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -540,7 +540,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.1355",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -657,7 +657,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1075",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -835,7 +835,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -962,8 +962,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.413",
-      "achievement_median" : "0.685",
+      "achievement_hardest" : "0.414",
+      "achievement_median" : "0.686",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -975,7 +975,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.252",
-      "achievement_median" : "0.551",
+      "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -986,8 +986,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.366",
-      "achievement_median" : "0.6195",
+      "achievement_hardest" : "0.367",
+      "achievement_median" : "0.6205",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1175,7 +1175,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.0815",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1201,7 +1201,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1325,7 +1325,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.104",
-      "achievement_median" : "0.5185",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1603,7 +1603,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.3125",
+      "achievement_median" : "0.312",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1774,7 +1774,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.51",
+      "achievement_median" : "0.5095",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1821,8 +1821,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.2",
+      "achievement_hardest" : "0.024",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1877,7 +1877,7 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "385770",
@@ -2001,7 +2001,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.161",
+      "achievement_hardest" : "0.162",
       "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "306660",
@@ -2095,7 +2095,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.25",
+      "achievement_median" : "0.2505",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
