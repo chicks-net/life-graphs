@@ -127,7 +127,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.2915",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -138,7 +138,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
@@ -271,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.258",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -455,7 +455,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1925",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -683,7 +683,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -927,7 +927,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.467",
+      "achievement_median" : "0.466",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -951,7 +951,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.359",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -974,8 +974,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.252",
-      "achievement_median" : "0.553",
+      "achievement_hardest" : "0.253",
+      "achievement_median" : "0.554",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -986,8 +986,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.369",
-      "achievement_median" : "0.623",
+      "achievement_hardest" : "0.37",
+      "achievement_median" : "0.6235",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1227,7 +1227,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1774,7 +1774,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.51",
+      "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2094,7 +2094,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.099",
+      "achievement_hardest" : "0.1",
       "achievement_median" : "0.2505",
       "achievements" : true,
       "app_id" : "288060",
@@ -2133,7 +2133,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
