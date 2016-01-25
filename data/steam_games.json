@@ -175,7 +175,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -187,7 +187,7 @@
    },
    "Cities in Motion" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "73010",
       "global_achievements" : true,
@@ -223,7 +223,7 @@
    },
    "Closure" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "72000",
       "global_achievements" : true,
@@ -540,7 +540,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.1365",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -951,7 +951,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.36",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -963,7 +963,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.418",
-      "achievement_median" : "0.6875",
+      "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -986,8 +986,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.371",
-      "achievement_median" : "0.625",
+      "achievement_hardest" : "0.372",
+      "achievement_median" : "0.6255",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1175,7 +1175,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.0825",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1289,7 +1289,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.032",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1603,7 +1603,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.3105",
+      "achievement_median" : "0.31",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1834,7 +1834,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.003",
+      "achievement_median" : "0.0035",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -2001,7 +2001,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.161",
+      "achievement_hardest" : "0.162",
       "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "306660",
@@ -2081,7 +2081,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "204180",
@@ -2095,7 +2095,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.251",
+      "achievement_median" : "0.2515",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2145,7 +2145,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
