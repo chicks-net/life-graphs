@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.13",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -21,7 +21,7 @@
    },
    "Anna - Extended Edition" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "217690",
       "global_achievements" : true,
@@ -77,7 +77,7 @@
       "url_store" : "http://store.steampowered.com/app/218060/"
    },
    "Bad Hotel" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
@@ -454,8 +454,8 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.194",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -508,7 +508,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.1235",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -669,7 +669,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.42",
+      "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -926,7 +926,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.096",
+      "achievement_hardest" : "0.097",
       "achievement_median" : "0.466",
       "achievements" : true,
       "app_id" : "368370",
@@ -986,7 +986,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.373",
+      "achievement_hardest" : "0.374",
       "achievement_median" : "0.6265",
       "achievements" : true,
       "app_id" : "271900",
@@ -1702,7 +1702,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1773,8 +1773,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.377",
-      "achievement_median" : "0.51",
+      "achievement_hardest" : "0.378",
+      "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2082,7 +2082,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
@@ -2145,7 +2145,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
