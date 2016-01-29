@@ -271,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -455,7 +455,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -669,7 +669,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.4205",
+      "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -962,7 +962,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.418",
+      "achievement_hardest" : "0.419",
       "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
@@ -974,8 +974,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.255",
-      "achievement_median" : "0.556",
+      "achievement_hardest" : "0.256",
+      "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1025,7 +1025,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1603,7 +1603,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.3095",
+      "achievement_median" : "0.309",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1773,7 +1773,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.378",
+      "achievement_hardest" : "0.377",
       "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "319550",
@@ -1822,7 +1822,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.2035",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
