@@ -211,7 +211,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -467,7 +467,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1935",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -528,7 +528,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.044",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -540,7 +540,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.1365",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -963,7 +963,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.419",
-      "achievement_median" : "0.688",
+      "achievement_median" : "0.6885",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -986,7 +986,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.374",
+      "achievement_hardest" : "0.375",
       "achievement_median" : "0.6265",
       "achievements" : true,
       "app_id" : "271900",
@@ -1025,7 +1025,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1077,7 +1077,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.128",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1175,7 +1175,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.0835",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1702,7 +1702,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1738,7 +1738,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -1774,7 +1774,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.5105",
+      "achievement_median" : "0.51",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1786,7 +1786,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2235",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1821,7 +1821,7 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.2035",
       "achievements" : true,
       "app_id" : "257510",
@@ -1902,7 +1902,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -1951,7 +1951,7 @@
       "url_store" : "http://store.steampowered.com/app/35700/"
    },
    "Trine 2" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "35720",
@@ -2094,8 +2094,8 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.1",
-      "achievement_median" : "0.252",
+      "achievement_hardest" : "0.101",
+      "achievement_median" : "0.2525",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2145,7 +2145,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
