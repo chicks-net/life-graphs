@@ -271,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.262",
+      "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -293,6 +293,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/CS:S/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/240/ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283.jpg",
       "url_store" : "http://store.steampowered.com/app/240/"
+   },
+   "Crash Drive 2" : {
+      "achievement_hardest" : "0.016",
+      "achievement_median" : "0.111",
+      "achievements" : true,
+      "app_id" : "343440",
+      "global_achievements" : true,
+      "name" : "Crash Drive 2",
+      "name_short" : "343440",
+      "url_achievements" : "http://steamcommunity.com/stats/343440/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343440/e187c9a67c26cf6e779eb76490208665c628d3e2.jpg",
+      "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
@@ -407,7 +419,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1855",
+      "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -467,7 +479,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1935",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -669,7 +681,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.42",
+      "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -781,13 +793,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -951,7 +963,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.36",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -987,7 +999,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.375",
-      "achievement_median" : "0.6265",
+      "achievement_median" : "0.6275",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1012,7 +1024,7 @@
       "url_store" : "http://store.steampowered.com/app/327890/"
    },
    "Indie Game: The Movie" : {
-      "achievement_hardest" : "0.058",
+      "achievement_hardest" : "0.059",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "207080",
@@ -1025,7 +1037,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1637,6 +1649,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg",
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
+   "Sunless Sea" : {
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.079",
+      "achievements" : true,
+      "app_id" : "304650",
+      "global_achievements" : true,
+      "name" : "Sunless Sea",
+      "name_short" : "304650",
+      "url_achievements" : "http://steamcommunity.com/stats/304650/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304650/55a53eb3726baee2a97ff2d67b066e0de3adcce6.jpg",
+      "url_store" : "http://store.steampowered.com/app/304650/"
+   },
    "Super Game Jam" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
@@ -1738,7 +1762,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -1774,7 +1798,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.51",
+      "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1878,7 +1902,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -1902,7 +1926,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2145,7 +2169,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
