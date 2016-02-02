@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -271,7 +271,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -399,7 +399,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -552,7 +552,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.1365",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Flight Control HD" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.2555",
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
@@ -681,7 +681,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.421",
+      "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -871,7 +871,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -963,7 +963,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.36",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -987,7 +987,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.257",
-      "achievement_median" : "0.558",
+      "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1200,8 +1200,8 @@
       "url_store" : "http://store.steampowered.com/app/287980/"
    },
    "Monaco" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "113020",
       "global_achievements" : true,
@@ -1213,7 +1213,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1226,8 +1226,8 @@
       "url_store" : "http://store.steampowered.com/app/252750/"
    },
    "Multiwinia" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "1530",
       "global_achievements" : true,
@@ -1238,8 +1238,8 @@
       "url_store" : "http://store.steampowered.com/app/1530/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1286,8 +1286,8 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "Pivvot" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.021",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1312,8 +1312,8 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -1348,8 +1348,8 @@
       "url_store" : "http://store.steampowered.com/app/31280/"
    },
    "Portal" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1360,8 +1360,8 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1651,7 +1651,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1797,8 +1797,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.377",
-      "achievement_median" : "0.5105",
+      "achievement_hardest" : "0.378",
+      "achievement_median" : "0.511",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2169,7 +2169,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
