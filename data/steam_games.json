@@ -100,6 +100,20 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg",
       "url_store" : "http://store.steampowered.com/app/49520/"
    },
+   "Boson X" : {
+      "achievement_hardest" : "0.069",
+      "achievement_median" : "0.1405",
+      "achievements" : true,
+      "app_id" : "302610",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Boson X",
+      "name_short" : "302610",
+      "url_achievements" : "http://steamcommunity.com/stats/302610/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/302610/da5a0f9c18489ca57fa2dab9ea31a8aea3723fa2.jpg",
+      "url_store" : "http://store.steampowered.com/app/302610/"
+   },
    "Braid" : {
       "achievement_hardest" : "0.009",
       "achievement_median" : "0.3055",
@@ -138,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.045",
+      "achievement_hardest" : "0.044",
       "achievement_median" : "0.1385",
       "achievements" : true,
       "app_id" : "279990",
@@ -306,6 +320,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343440/e187c9a67c26cf6e779eb76490208665c628d3e2.jpg",
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
+   "Crusader Kings II" : {
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.006",
+      "achievements" : true,
+      "app_id" : "203770",
+      "global_achievements" : true,
+      "name" : "Crusader Kings II",
+      "name_short" : "203770",
+      "url_achievements" : "http://steamcommunity.com/stats/203770/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203770/a3170e4c1889a7e2a360feef61e07a5aee51dc88.jpg",
+      "url_store" : "http://store.steampowered.com/app/203770/"
+   },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
       "achievement_median" : "0.089",
@@ -467,7 +493,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -551,8 +577,8 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Farm for your Life" : {
-      "achievement_hardest" : "0.019",
-      "achievement_median" : "0.137",
+      "achievement_hardest" : "0.018",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -793,13 +819,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -950,7 +976,7 @@
       "url_store" : "http://store.steampowered.com/app/368370/"
    },
    "Heroes Rise: The Hero Project" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "304290",
@@ -963,7 +989,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.36",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -998,7 +1024,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.376",
+      "achievement_hardest" : "0.377",
       "achievement_median" : "0.6275",
       "achievements" : true,
       "app_id" : "271900",
@@ -1174,7 +1200,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "294230",
@@ -1615,7 +1641,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.309",
+      "achievement_median" : "0.3085",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1699,7 +1725,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
@@ -1810,7 +1836,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1902,7 +1928,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2169,7 +2195,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
