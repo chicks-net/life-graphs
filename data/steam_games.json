@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.1385",
       "achievements" : true,
       "app_id" : "279990",
@@ -285,7 +285,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.264",
+      "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -577,7 +577,7 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Farm for your Life" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "266390",
@@ -695,7 +695,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -837,7 +837,7 @@
    },
    "Guns of Icarus Online" : {
       "achievement_hardest" : 0,
-      "achievement_median" : 0,
+      "achievement_median" : "0.0005",
       "achievements" : true,
       "app_id" : "209080",
       "global_achievements" : true,
@@ -1025,7 +1025,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.6275",
+      "achievement_median" : "0.6285",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.129",
+      "achievement_hardest" : "0.13",
       "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "266010",
@@ -1583,7 +1583,7 @@
    },
    "Shufflepuck Cantina Deluxe VR" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -1641,7 +1641,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.3085",
+      "achievement_median" : "0.308",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1677,7 +1677,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.076",
+      "achievement_median" : "0.0765",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2144,7 +2144,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.101",
+      "achievement_hardest" : "0.102",
       "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "288060",
@@ -2170,7 +2170,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262410",
@@ -2195,7 +2195,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
