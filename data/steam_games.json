@@ -707,7 +707,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.421",
+      "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -718,6 +718,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/399670/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/399670/e51bc6640fa85fcfc3ef36750aad7d9b8b6ba0e9.jpg",
       "url_store" : "http://store.steampowered.com/app/399670/"
+   },
+   "Game Dev Tycoon" : {
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.269",
+      "achievements" : true,
+      "app_id" : "239820",
+      "global_achievements" : true,
+      "name" : "Game Dev Tycoon",
+      "name_short" : "239820",
+      "url_achievements" : "http://steamcommunity.com/stats/239820/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239820/9e60329a8cef940323063c8b744ed4d8bc01638c.jpg",
+      "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.015",
@@ -732,7 +744,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "214420",
@@ -807,25 +819,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -837,7 +849,7 @@
    },
    "Guns of Icarus Online" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0005",
+      "achievement_median" : "0.001",
       "achievements" : true,
       "app_id" : "209080",
       "global_achievements" : true,
@@ -977,7 +989,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1025,7 +1037,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.6285",
+      "achievement_median" : "0.628",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1677,7 +1689,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0765",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1872,7 +1884,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.2045",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1881,6 +1893,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/257510/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257510/0392d2bd5d1bec31f2fd283bc4555fdc22dd44a9.jpg",
       "url_store" : "http://store.steampowered.com/app/257510/"
+   },
+   "This War of Mine" : {
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.3695",
+      "achievements" : true,
+      "app_id" : "282070",
+      "global_achievements" : true,
+      "name" : "This War of Mine",
+      "name_short" : "282070",
+      "url_achievements" : "http://steamcommunity.com/stats/282070/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/282070/a806ec2170dc3b10740b150bfd6392964fd92656.jpg",
+      "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
@@ -1927,7 +1951,7 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "385770",
@@ -2170,7 +2194,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262410",
@@ -2195,7 +2219,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
