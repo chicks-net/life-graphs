@@ -44,8 +44,8 @@
       "url_store" : "http://store.steampowered.com/app/234900/"
    },
    "Anomaly Warzone Earth" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -90,7 +90,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -141,7 +141,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -284,8 +284,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -310,7 +310,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -578,7 +578,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.1375",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -707,7 +707,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.421",
+      "achievement_median" : "0.4215",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -977,7 +977,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.465",
+      "achievement_median" : "0.464",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1013,7 +1013,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.42",
-      "achievement_median" : "0.688",
+      "achievement_median" : "0.6885",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1025,7 +1025,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.257",
-      "achievement_median" : "0.557",
+      "achievement_median" : "0.556",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1036,8 +1036,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.377",
-      "achievement_median" : "0.6275",
+      "achievement_hardest" : "0.376",
+      "achievement_median" : "0.627",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1127,7 +1127,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.13",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1152,7 +1152,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1399,7 +1399,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1570,7 +1570,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1800,7 +1800,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -1835,8 +1835,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.378",
-      "achievement_median" : "0.511",
+      "achievement_hardest" : "0.377",
+      "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1884,7 +1884,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.2025",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1896,7 +1896,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.3665",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.161",
+      "achievement_hardest" : "0.16",
       "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "306660",
@@ -2219,7 +2219,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
