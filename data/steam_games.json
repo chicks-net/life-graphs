@@ -90,7 +90,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -310,7 +310,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.1105",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -989,7 +989,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1012,8 +1012,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.42",
-      "achievement_median" : "0.6885",
+      "achievement_hardest" : "0.419",
+      "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1024,8 +1024,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.257",
-      "achievement_median" : "0.556",
+      "achievement_hardest" : "0.256",
+      "achievement_median" : "0.555",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1037,7 +1037,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.376",
-      "achievement_median" : "0.627",
+      "achievement_median" : "0.6275",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1095,7 +1095,7 @@
    },
    "Jack Lumber" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
       "global_achievements" : true,
@@ -1165,7 +1165,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "352210",
@@ -1277,7 +1277,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1339,7 +1339,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1374,7 +1374,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.104",
+      "achievement_hardest" : "0.105",
       "achievement_median" : "0.5195",
       "achievements" : true,
       "app_id" : "31280",
@@ -1399,7 +1399,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1570,7 +1570,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1738,7 +1738,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1763,7 +1763,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.098",
+      "achievement_hardest" : "0.097",
       "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "234940",
@@ -1835,7 +1835,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.377",
+      "achievement_hardest" : "0.378",
       "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "319550",
@@ -1884,7 +1884,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.2025",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1896,7 +1896,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.3665",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2001,8 +2001,8 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Train Fever" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.173",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2050,7 +2050,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
@@ -2076,7 +2076,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.16",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2219,7 +2219,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
