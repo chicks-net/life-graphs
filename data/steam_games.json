@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.133",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -157,6 +157,8 @@
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Bridge Constructor Medieval",
       "name_short" : "319850",
       "url_achievements" : "http://steamcommunity.com/stats/319850/achievements/compare/",
@@ -169,6 +171,8 @@
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Bridge Constructor Playground",
       "name_short" : "279990",
       "url_achievements" : "http://steamcommunity.com/stats/279990/achievements/compare/",
@@ -322,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1105",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -437,7 +441,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -719,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.4215",
+      "achievement_median" : "0.4225",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -989,7 +993,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.464",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1037,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.256",
-      "achievement_median" : "0.554",
+      "achievement_median" : "0.555",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1049,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.376",
-      "achievement_median" : "0.6275",
+      "achievement_median" : "0.627",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1289,7 +1293,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1495,7 +1499,7 @@
       "url_store" : "http://store.steampowered.com/app/283660/"
    },
    "Race The Sun" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "253030",
@@ -1532,7 +1536,7 @@
    },
    "Rock of Ages" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.076",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "22230",
       "global_achievements" : true,
@@ -1665,7 +1669,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.3075",
+      "achievement_median" : "0.307",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1860,7 +1864,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2235",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1896,7 +1900,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.2025",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1908,7 +1912,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.367",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1988,7 +1992,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.1585",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2087,8 +2091,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.16",
-      "achievement_median" : "0.2",
+      "achievement_hardest" : "0.159",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2181,7 +2185,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.102",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.2535",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2207,7 +2211,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
