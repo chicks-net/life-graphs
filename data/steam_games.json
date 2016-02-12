@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.1095",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -594,7 +594,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.1385",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -992,8 +992,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.098",
-      "achievement_median" : "0.463",
+      "achievement_hardest" : "0.097",
+      "achievement_median" : "0.462",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1017,7 +1017,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.359",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1040,8 +1040,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.256",
-      "achievement_median" : "0.555",
+      "achievement_hardest" : "0.255",
+      "achievement_median" : "0.554",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1168,7 +1168,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.0855",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1804,7 +1804,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -1852,7 +1852,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.378",
-      "achievement_median" : "0.5105",
+      "achievement_median" : "0.511",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1900,7 +1900,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1912,7 +1912,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1979,8 +1979,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.206",
-      "achievement_median" : "0.206",
+      "achievement_hardest" : "0.205",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -1992,7 +1992,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1585",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2018,7 +2018,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2211,7 +2211,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -2235,7 +2235,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
