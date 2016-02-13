@@ -20,7 +20,7 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Anna - Extended Edition" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "217690",
@@ -205,7 +205,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -865,7 +865,7 @@
    },
    "Guns of Icarus Online" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.001",
+      "achievement_median" : 0,
       "achievements" : true,
       "app_id" : "209080",
       "global_achievements" : true,
@@ -992,7 +992,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.097",
+      "achievement_hardest" : "0.098",
       "achievement_median" : "0.462",
       "achievements" : true,
       "app_id" : "368370",
@@ -1168,7 +1168,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1439,7 +1439,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317610",
@@ -1780,7 +1780,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1115",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1875,8 +1875,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.139",
-      "achievement_median" : "0.139",
+      "achievement_hardest" : "0.14",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -1888,7 +1888,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.2945",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1912,7 +1912,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.3655",
+      "achievement_median" : "0.3645",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1992,7 +1992,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2235,7 +2235,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
