@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.1385",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1095",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -594,7 +594,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.1385",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -630,7 +630,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -722,8 +722,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.106",
-      "achievement_median" : "0.4225",
+      "achievement_hardest" : "0.107",
+      "achievement_median" : "0.4235",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -901,7 +901,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.181",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1028,7 +1028,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.419",
+      "achievement_hardest" : "0.42",
       "achievement_median" : "0.6875",
       "achievements" : true,
       "app_id" : "265890",
@@ -1040,7 +1040,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.255",
+      "achievement_hardest" : "0.256",
       "achievement_median" : "0.554",
       "achievements" : true,
       "app_id" : "304410",
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.376",
-      "achievement_median" : "0.627",
+      "achievement_median" : "0.6275",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.131",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1415,7 +1415,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1439,8 +1439,8 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.013",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1754,7 +1754,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1888,7 +1888,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2945",
+      "achievement_median" : "0.2935",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1900,7 +1900,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.2015",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1979,8 +1979,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.205",
-      "achievement_median" : "0.205",
+      "achievement_hardest" : "0.206",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2185,7 +2185,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.102",
-      "achievement_median" : "0.2535",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2235,7 +2235,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
