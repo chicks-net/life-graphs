@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.1385",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.175",
+      "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -205,7 +205,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.1105",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -441,7 +441,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -630,7 +630,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -748,7 +748,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.376",
+      "achievement_hardest" : "0.377",
       "achievement_median" : "0.6275",
       "achievements" : true,
       "app_id" : "271900",
@@ -1142,7 +1142,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.131",
+      "achievement_hardest" : "0.132",
       "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "266010",
@@ -1267,7 +1267,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0535",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1693,7 +1693,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -1864,7 +1864,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2235",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1888,7 +1888,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2935",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -1992,7 +1992,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2185,7 +2185,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.102",
-      "achievement_median" : "0.254",
+      "achievement_median" : "0.2535",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
