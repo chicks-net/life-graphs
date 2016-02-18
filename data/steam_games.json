@@ -114,7 +114,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.1405",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -205,7 +205,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1105",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -461,7 +461,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.1865",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.107",
-      "achievement_median" : "0.4225",
+      "achievement_median" : "0.423",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1004,8 +1004,8 @@
       "url_store" : "http://store.steampowered.com/app/368370/"
    },
    "Heroes Rise: The Hero Project" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.025",
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1028,7 +1028,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.42",
+      "achievement_hardest" : "0.421",
       "achievement_median" : "0.688",
       "achievements" : true,
       "app_id" : "265890",
@@ -1040,7 +1040,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.256",
+      "achievement_hardest" : "0.257",
       "achievement_median" : "0.555",
       "achievements" : true,
       "app_id" : "304410",
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.377",
-      "achievement_median" : "0.628",
+      "achievement_median" : "0.6285",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.132",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1229,7 +1229,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1414,8 +1414,8 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1669,7 +1669,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.307",
+      "achievement_median" : "0.306",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1780,7 +1780,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.1115",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1804,7 +1804,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -1912,7 +1912,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.3645",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1924,7 +1924,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0035",
+      "achievement_median" : "0.004",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
