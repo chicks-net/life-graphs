@@ -33,7 +33,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0895",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.2905",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4235",
+      "achievement_median" : "0.423",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1005,7 +1005,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.379",
-      "achievement_median" : "0.629",
+      "achievement_median" : "0.6295",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.133",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1155,7 +1155,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1229,7 +1229,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.0865",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1486,7 +1486,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1633,7 +1633,7 @@
    },
    "Signal Ops" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.008",
+      "achievement_median" : "0.0085",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -1669,7 +1669,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1968,7 +1968,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -1979,8 +1979,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.206",
-      "achievement_median" : "0.206",
+      "achievement_hardest" : "0.207",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2184,7 +2184,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.102",
+      "achievement_hardest" : "0.103",
       "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "288060",
