@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0325",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1486,7 +1486,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1804,7 +1804,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -1899,7 +1899,7 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "257510",
@@ -2171,7 +2171,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "204180",
@@ -2235,7 +2235,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
