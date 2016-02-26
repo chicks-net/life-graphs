@@ -737,7 +737,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.269",
+      "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -748,7 +748,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.259",
+      "achievement_hardest" : "0.26",
       "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "304410",
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.38",
+      "achievement_hardest" : "0.381",
       "achievement_median" : "0.63",
       "achievements" : true,
       "app_id" : "271900",
@@ -1216,7 +1216,7 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metro: Last Light" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.0645",
       "achievements" : true,
       "app_id" : "43160",
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0865",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1391,7 +1391,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.5205",
+      "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -1911,8 +1911,8 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.3655",
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1968,7 +1968,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
