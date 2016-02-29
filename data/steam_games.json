@@ -114,7 +114,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.1415",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -140,7 +140,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -152,8 +152,8 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.073",
-      "achievement_median" : "0.2855",
+      "achievement_hardest" : "0.072",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.044",
-      "achievement_median" : "0.1365",
+      "achievement_median" : "0.1355",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0335",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -300,8 +300,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.266",
+      "achievement_hardest" : "0.024",
+      "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -313,7 +313,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -581,7 +581,7 @@
       "url_store" : "http://store.steampowered.com/app/212680/"
    },
    "Faerie Solitaire" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "38600",
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.425",
+      "achievement_median" : "0.4255",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -992,7 +992,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.098",
+      "achievement_hardest" : "0.099",
       "achievement_median" : "0.462",
       "achievements" : true,
       "app_id" : "368370",
@@ -1040,7 +1040,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.26",
+      "achievement_hardest" : "0.261",
       "achievement_median" : "0.558",
       "achievements" : true,
       "app_id" : "304410",
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.135",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1168,7 +1168,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1754,7 +1754,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1875,8 +1875,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.14",
-      "achievement_median" : "0.14",
+      "achievement_hardest" : "0.141",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -1992,7 +1992,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
