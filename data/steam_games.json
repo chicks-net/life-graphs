@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -113,7 +113,7 @@
       "url_store" : "http://store.steampowered.com/app/49520/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.07",
+      "achievement_hardest" : "0.071",
       "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "302610",
@@ -204,7 +204,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "262590",
@@ -228,7 +228,7 @@
       "url_store" : "http://store.steampowered.com/app/73010/"
    },
    "Cities in Motion 2" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "225420",
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.382",
-      "achievement_median" : "0.6315",
+      "achievement_median" : "0.632",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1091,7 +1091,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0875",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1390,7 +1390,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.105",
+      "achievement_hardest" : "0.106",
       "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "31280",
@@ -1474,7 +1474,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0545",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.084",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1694,7 +1694,7 @@
       "url_store" : "http://store.steampowered.com/app/209790/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "297490",
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.2055",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2068,7 +2068,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
