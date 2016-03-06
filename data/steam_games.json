@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.069",
+      "achievement_hardest" : "0.07",
       "achievement_median" : "0.2775",
       "achievements" : true,
       "app_id" : "319850",
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -629,7 +629,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "201510",
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.382",
+      "achievement_hardest" : "0.383",
       "achievement_median" : "0.632",
       "achievements" : true,
       "app_id" : "271900",
@@ -1065,7 +1065,7 @@
    },
    "I am Bread" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "327890",
       "global_achievements" : true,
@@ -1091,7 +1091,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1341,7 +1341,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.0545",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.084",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1707,7 +1707,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1854,7 +1854,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.38",
-      "achievement_median" : "0.512",
+      "achievement_median" : "0.511",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1901,8 +1901,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.026",
-      "achievement_median" : "0.204",
+      "achievement_hardest" : "0.025",
+      "achievement_median" : "0.1995",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2020,7 +2020,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.17",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
