@@ -153,7 +153,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.2785",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.2005",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.426",
+      "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.263",
-      "achievement_median" : "0.559",
+      "achievement_median" : "0.56",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1091,7 +1091,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.136",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1329,7 +1329,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1670,8 +1670,8 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.084",
-      "achievement_median" : "0.287",
+      "achievement_hardest" : "0.083",
+      "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1782,7 +1782,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.1105",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
