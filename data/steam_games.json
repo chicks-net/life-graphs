@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -240,8 +240,8 @@
       "url_store" : "http://store.steampowered.com/app/225420/"
    },
    "Cities: Skylines" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0345",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.263",
-      "achievement_median" : "0.56",
+      "achievement_median" : "0.559",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.383",
-      "achievement_median" : "0.632",
+      "achievement_median" : "0.6325",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.0885",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1328,7 +1328,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "232770",
@@ -1695,7 +1695,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0345",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -1707,7 +1707,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2032,7 +2032,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
