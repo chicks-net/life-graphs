@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.1935",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -993,7 +993,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.462",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1091,7 +1091,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0885",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.1135",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1901,8 +1901,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.024",
-      "achievement_median" : "0.192",
+      "achievement_hardest" : "0.025",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2186,7 +2186,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.103",
+      "achievement_hardest" : "0.104",
       "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "288060",
