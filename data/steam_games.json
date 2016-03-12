@@ -153,7 +153,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.2785",
+      "achievement_median" : "0.2795",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1935",
+      "achievement_median" : "0.1925",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -722,7 +722,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.11",
+      "achievement_hardest" : "0.109",
       "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "399670",
@@ -782,7 +782,7 @@
       "url_store" : "http://store.steampowered.com/app/234040/"
    },
    "Goat Simulator" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "265930",
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.383",
+      "achievement_hardest" : "0.384",
       "achievement_median" : "0.6325",
       "achievements" : true,
       "app_id" : "271900",
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2855",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1695,7 +1695,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2032,7 +2032,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -2186,7 +2186,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.104",
+      "achievement_hardest" : "0.103",
       "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "288060",
