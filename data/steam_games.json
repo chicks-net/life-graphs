@@ -90,7 +90,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.262",
+      "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -461,7 +461,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.1865",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1925",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -561,7 +561,7 @@
       "url_store" : "http://store.steampowered.com/app/291150/"
    },
    "FEZ" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.049",
       "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "224760",
@@ -722,8 +722,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.109",
-      "achievement_median" : "0.427",
+      "achievement_hardest" : "0.11",
+      "achievement_median" : "0.4275",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -901,7 +901,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.181",
+      "achievement_median" : "0.182",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1028,7 +1028,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.423",
+      "achievement_hardest" : "0.424",
       "achievement_median" : "0.6895",
       "achievements" : true,
       "app_id" : "265890",
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.137",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.0895",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2032,7 +2032,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -2186,7 +2186,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.103",
+      "achievement_hardest" : "0.104",
       "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "288060",
