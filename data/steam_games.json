@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -90,7 +90,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -630,7 +630,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.4275",
+      "achievement_median" : "0.428",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -993,7 +993,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.462",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1091,7 +1091,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1217,7 +1217,7 @@
    },
    "Metro: Last Light" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "43160",
       "global_achievements" : true,
@@ -1341,7 +1341,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1440,7 +1440,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.011",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.2845",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1981,8 +1981,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.208",
-      "achievement_median" : "0.208",
+      "achievement_hardest" : "0.209",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2032,7 +2032,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.104",
-      "achievement_median" : "0.257",
+      "achievement_median" : "0.2575",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
