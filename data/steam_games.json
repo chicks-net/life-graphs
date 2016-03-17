@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.07",
+      "achievement_hardest" : "0.071",
       "achievement_median" : "0.2795",
       "achievements" : true,
       "app_id" : "319850",
@@ -325,7 +325,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "343440",
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.1885",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1004,7 +1004,7 @@
       "url_store" : "http://store.steampowered.com/app/368370/"
    },
    "Heroes Rise: The Hero Project" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "304290",
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.384",
+      "achievement_hardest" : "0.385",
       "achievement_median" : "0.633",
       "achievements" : true,
       "app_id" : "271900",
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0895",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1267,7 +1267,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
@@ -1428,7 +1428,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.016",
+      "achievement_median" : "0.0165",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1756,7 +1756,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1865,7 +1865,7 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The LEGO® Movie - Videogame" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.2255",
       "achievements" : true,
       "app_id" : "267530",
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2237,7 +2237,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
