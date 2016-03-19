@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.1875",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -675,7 +675,7 @@
    },
    "Free to Play" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "245550",
       "global_achievements" : true,
@@ -1428,7 +1428,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0165",
+      "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1135",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1853,8 +1853,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.381",
-      "achievement_median" : "0.512",
+      "achievement_hardest" : "0.38",
+      "achievement_median" : "0.5115",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2186,7 +2186,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.104",
+      "achievement_hardest" : "0.105",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "288060",
