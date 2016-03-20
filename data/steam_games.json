@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -114,7 +114,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.071",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.071",
-      "achievement_median" : "0.2795",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -166,7 +166,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.043",
+      "achievement_hardest" : "0.042",
       "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "279990",
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.265",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1875",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -993,7 +993,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.462",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1004,7 +1004,7 @@
       "url_store" : "http://store.steampowered.com/app/368370/"
    },
    "Heroes Rise: The Hero Project" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "304290",
@@ -1041,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.265",
-      "achievement_median" : "0.56",
+      "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1366,7 +1366,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "218510",
@@ -1391,7 +1391,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.521",
+      "achievement_median" : "0.5215",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1683,7 +1683,7 @@
    },
    "Splice" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.1365",
       "achievements" : true,
       "app_id" : "209790",
       "global_achievements" : true,
@@ -1854,7 +1854,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.38",
-      "achievement_median" : "0.5115",
+      "achievement_median" : "0.512",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.1955",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
