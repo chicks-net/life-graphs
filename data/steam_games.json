@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.136",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.1865",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -521,7 +521,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -710,7 +710,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "201040",
@@ -783,7 +783,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0235",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.265",
-      "achievement_median" : "0.561",
+      "achievement_median" : "0.56",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
@@ -1586,7 +1586,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1755,8 +1755,8 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.107",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1853,7 +1853,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.38",
+      "achievement_hardest" : "0.381",
       "achievement_median" : "0.512",
       "achievements" : true,
       "app_id" : "319550",
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
