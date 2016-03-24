@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -102,7 +102,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -441,7 +441,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.1855",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -847,13 +847,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -993,7 +993,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.462",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1029,7 +1029,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.424",
-      "achievement_median" : "0.69",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.266",
-      "achievement_median" : "0.561",
+      "achievement_median" : "0.56",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1229,7 +1229,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1755,7 +1755,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
