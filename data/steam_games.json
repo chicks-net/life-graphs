@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.267",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -710,7 +710,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "201040",
@@ -737,7 +737,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.269",
+      "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -993,7 +993,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.462",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1017,7 +1017,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.361",
+      "achievement_median" : "0.362",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0905",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1853,7 +1853,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.381",
+      "achievement_hardest" : "0.38",
       "achievement_median" : "0.512",
       "achievements" : true,
       "app_id" : "319550",
@@ -1866,7 +1866,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.226",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,7 +1994,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
