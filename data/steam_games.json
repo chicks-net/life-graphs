@@ -113,7 +113,7 @@
       "url_store" : "http://store.steampowered.com/app/49520/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.071",
+      "achievement_hardest" : "0.072",
       "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "302610",
@@ -205,7 +205,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -710,7 +710,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "201040",
@@ -1041,7 +1041,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.266",
-      "achievement_median" : "0.56",
+      "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1167,7 +1167,7 @@
       "url_store" : "http://store.steampowered.com/app/500/"
    },
    "Left 4 Dead 2" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.0915",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1866,7 +1866,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2068,7 +2068,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
