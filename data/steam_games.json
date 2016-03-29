@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.266",
+      "achievement_hardest" : "0.267",
       "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "304410",
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.386",
-      "achievement_median" : "0.6335",
+      "achievement_median" : "0.634",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1143,7 +1143,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.14",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0915",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1304,7 +1304,7 @@
       "url_store" : "http://store.steampowered.com/app/252670/"
    },
    "Not The Robots" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "257120",
@@ -1707,7 +1707,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0785",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1866,7 +1866,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2245",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1914,7 +1914,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1970,7 +1970,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2056,7 +2056,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.067",
+      "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.258",
+      "achievement_median" : "0.2585",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
