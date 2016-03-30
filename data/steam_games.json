@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.269",
+      "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -582,7 +582,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.216",
+      "achievement_median" : "0.2165",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -594,7 +594,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.1415",
+      "achievement_median" : "0.1405",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.43",
+      "achievement_median" : "0.4295",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1168,7 +1168,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1217,7 +1217,7 @@
    },
    "Metro: Last Light" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "43160",
       "global_achievements" : true,
@@ -1586,7 +1586,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1970,7 +1970,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2020,7 +2020,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.169",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2056,7 +2056,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2094,7 +2094,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.159",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.2585",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
