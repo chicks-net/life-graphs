@@ -300,8 +300,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.024",
-      "achievement_median" : "0.27",
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.4295",
+      "achievement_median" : "0.43",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1090,7 +1090,7 @@
       "url_store" : "http://store.steampowered.com/app/207080/"
    },
    "Influent" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "274980",
@@ -1428,7 +1428,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.017",
+      "achievement_median" : "0.0175",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1914,7 +1914,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1970,7 +1970,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -1981,8 +1981,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.209",
-      "achievement_median" : "0.209",
+      "achievement_hardest" : "0.21",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
