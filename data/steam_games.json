@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.262",
+      "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1110,7 +1110,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1167,8 +1167,8 @@
       "url_store" : "http://store.steampowered.com/app/500/"
    },
    "Left 4 Dead 2" : {
-      "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1671,7 +1671,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1914,7 +1914,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3655",
+      "achievement_median" : "0.365",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -1970,7 +1970,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
