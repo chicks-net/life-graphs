@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.1335",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -205,7 +205,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -992,7 +992,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.099",
+      "achievement_hardest" : "0.1",
       "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
@@ -1167,7 +1167,7 @@
       "url_store" : "http://store.steampowered.com/app/500/"
    },
    "Left 4 Dead 2" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
@@ -1428,7 +1428,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0175",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0545",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.258",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
