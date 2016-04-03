@@ -89,8 +89,8 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.065",
-      "achievement_median" : "0.081",
+      "achievement_hardest" : "0.066",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -128,7 +128,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.306",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.133",
+      "achievement_median" : "0.1335",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -326,7 +326,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -461,7 +461,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.1875",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -594,7 +594,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.1405",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.43",
+      "achievement_median" : "0.4305",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.386",
+      "achievement_hardest" : "0.387",
       "achievement_median" : "0.634",
       "achievements" : true,
       "app_id" : "271900",
@@ -1866,7 +1866,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.224",
+      "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.1985",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1914,7 +1914,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
