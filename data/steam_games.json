@@ -102,7 +102,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -562,7 +562,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.1245",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.387",
-      "achievement_median" : "0.634",
+      "achievement_median" : "0.6345",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1228,7 +1228,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
@@ -1415,7 +1415,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1485,7 +1485,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "283660",
@@ -1902,7 +1902,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.1995",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2186,7 +2186,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.105",
+      "achievement_hardest" : "0.106",
       "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "288060",
