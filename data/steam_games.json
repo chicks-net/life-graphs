@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.264",
+      "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -710,8 +710,8 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1055",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1925,8 +1925,8 @@
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0045",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.004",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -2094,7 +2094,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.159",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
