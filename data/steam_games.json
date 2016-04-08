@@ -153,7 +153,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.071",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -655,7 +655,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0795",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -710,7 +710,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "201040",
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
    },
    "Multiwinia" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "1530",
       "global_achievements" : true,
@@ -1707,7 +1707,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2068,7 +2068,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.153",
-      "achievement_median" : "0.192",
+      "achievement_hardest" : "0.15",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
