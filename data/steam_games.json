@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.265",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -761,7 +761,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1005,7 +1005,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.462",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1053,7 +1053,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.269",
-      "achievement_median" : "0.561",
+      "achievement_median" : "0.562",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1180,7 +1180,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
    },
    "Multiwinia" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "1530",
       "global_achievements" : true,
@@ -1317,7 +1317,7 @@
    },
    "Not The Robots" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "257120",
       "global_achievements" : true,
@@ -1877,7 +1877,7 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The LEGO® Movie - Videogame" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.2245",
       "achievements" : true,
       "app_id" : "267530",
@@ -2080,7 +2080,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.148",
-      "achievement_median" : "0.186",
+      "achievement_hardest" : "0.145",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
