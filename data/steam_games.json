@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.181",
+      "achievement_median" : "0.182",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -441,7 +441,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -582,7 +582,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.2165",
+      "achievement_median" : "0.217",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -1040,8 +1040,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6905",
+      "achievement_hardest" : "0.426",
+      "achievement_median" : "0.691",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1154,8 +1154,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.141",
-      "achievement_median" : "0.201",
+      "achievement_hardest" : "0.142",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1253,7 +1253,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1341,7 +1341,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.074",
+      "achievement_median" : "0.075",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1403,7 +1403,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.107",
-      "achievement_median" : "0.522",
+      "achievement_median" : "0.5225",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1865,7 +1865,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.381",
+      "achievement_hardest" : "0.382",
       "achievement_median" : "0.512",
       "achievements" : true,
       "app_id" : "319550",
@@ -1914,7 +1914,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.145",
-      "achievement_median" : "0.183",
+      "achievement_hardest" : "0.144",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2199,7 +2199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2249,7 +2249,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
