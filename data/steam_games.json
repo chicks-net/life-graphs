@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.266",
+      "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1194,7 +1194,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1253,7 +1253,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.093",
+      "achievement_median" : "0.0935",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1304,8 +1304,8 @@
       "url_store" : "http://store.steampowered.com/app/1530/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1427,7 +1427,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1767,7 +1767,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.144",
-      "achievement_median" : "0.181",
+      "achievement_hardest" : "0.143",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2249,7 +2249,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
@@ -2281,7 +2281,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0755",
+      "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
