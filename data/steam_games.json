@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -300,7 +300,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "730",
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.143",
-      "achievement_median" : "0.18",
+      "achievement_hardest" : "0.142",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
