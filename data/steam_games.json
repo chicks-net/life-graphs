@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.267",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -865,7 +865,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.326",
+      "achievement_median" : "0.3265",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1017,7 +1017,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1719,7 +1719,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.0795",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1794,7 +1794,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.1095",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -1889,8 +1889,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.142",
-      "achievement_median" : "0.142",
+      "achievement_hardest" : "0.143",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.14",
-      "achievement_median" : "0.176",
+      "achievement_hardest" : "0.139",
+      "achievement_median" : "0.175",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2249,7 +2249,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
