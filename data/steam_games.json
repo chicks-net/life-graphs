@@ -128,7 +128,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.306",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -204,7 +204,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0285",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -509,7 +509,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1865",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -710,7 +710,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "201040",
@@ -1041,7 +1041,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.691",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1052,7 +1052,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.269",
+      "achievement_hardest" : "0.27",
       "achievement_median" : "0.562",
       "achievements" : true,
       "app_id" : "304410",
@@ -1155,7 +1155,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.142",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1180,7 +1180,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.139",
-      "achievement_median" : "0.175",
+      "achievement_hardest" : "0.138",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
