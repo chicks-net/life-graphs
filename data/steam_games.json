@@ -594,7 +594,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -723,7 +723,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.4305",
+      "achievement_median" : "0.4315",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -913,7 +913,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.182",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1076,7 +1076,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "I am Bread" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "327890",
@@ -1154,7 +1154,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.142",
+      "achievement_hardest" : "0.143",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "266010",
@@ -1253,7 +1253,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1305,7 +1305,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1403,7 +1403,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.521",
+      "achievement_median" : "0.5205",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1573,7 +1573,7 @@
    },
    "Sanctum" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0135",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "91600",
       "global_achievements" : true,
@@ -1694,7 +1694,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Splice" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "209790",
@@ -1878,7 +1878,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.225",
+      "achievement_median" : "0.2255",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1914,7 +1914,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.2005",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1993,8 +1993,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.21",
-      "achievement_median" : "0.21",
+      "achievement_hardest" : "0.211",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2105,8 +2105,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.138",
-      "achievement_median" : "0.174",
+      "achievement_hardest" : "0.137",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2199,7 +2199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
