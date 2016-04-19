@@ -301,7 +301,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.269",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -521,7 +521,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -543,6 +543,19 @@
       "url_achievements" : "http://steamcommunity.com/stats/DungeonDefenders/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/65800/71af270cff61ab197f9932212012134a436d9682.jpg",
       "url_store" : "http://store.steampowered.com/app/65800/"
+   },
+   "EDGE" : {
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.032",
+      "achievements" : true,
+      "app_id" : "38740",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "name" : "EDGE",
+      "name_short" : "Edge",
+      "url_achievements" : "http://steamcommunity.com/stats/Edge/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38740/9c86ad3f647def777dc7072d72f4081b006b4844.jpg",
+      "url_store" : "http://store.steampowered.com/app/38740/"
    },
    "Earth 2160" : {
       "app_id" : "1900",
@@ -723,7 +736,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.4315",
+      "achievement_median" : "0.43",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -847,13 +860,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1166,7 +1179,7 @@
       "url_store" : "http://store.steampowered.com/app/266010/"
    },
    "Left 4 Dead" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "500",
@@ -1180,7 +1193,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1305,7 +1318,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1495,6 +1508,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/289760/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289760/96191c17f42b62cf5b4d6825d7b6ff5d5d5a22bd.jpg",
       "url_store" : "http://store.steampowered.com/app/289760/"
+   },
+   "RUSH" : {
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.088",
+      "achievements" : true,
+      "app_id" : "38720",
+      "global_achievements" : true,
+      "name" : "RUSH",
+      "name_short" : "Rush",
+      "url_achievements" : "http://steamcommunity.com/stats/Rush/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38720/b1359d9a1d37199493dee056a854ff70735924de.jpg",
+      "url_store" : "http://store.steampowered.com/app/38720/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.032",
@@ -2004,6 +2029,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206440/f0e5a7037facd7bff7656ebe2396a23735c608c2.jpg",
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
+   "Toki Tori" : {
+      "achievement_hardest" : "0.024",
+      "achievement_median" : "0.0645",
+      "achievements" : true,
+      "app_id" : "38700",
+      "global_achievements" : true,
+      "name" : "Toki Tori",
+      "name_short" : "TokiTori",
+      "url_achievements" : "http://steamcommunity.com/stats/TokiTori/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38700/7840e49fc48b78295983973d0d2158d020fa5f75.jpg",
+      "url_store" : "http://store.steampowered.com/app/38700/"
+   },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
       "achievement_median" : "0.16",
@@ -2105,8 +2142,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.137",
-      "achievement_median" : "0.173",
+      "achievement_hardest" : "0.136",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2198,7 +2235,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.106",
+      "achievement_hardest" : "0.107",
       "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "288060",
