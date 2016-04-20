@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.182",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -461,7 +461,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.1885",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.43",
+      "achievement_median" : "0.4295",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -773,7 +773,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "214420",
@@ -1135,7 +1135,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1317,7 +1317,7 @@
       "url_store" : "http://store.steampowered.com/app/1530/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
@@ -1708,7 +1708,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1793,7 +1793,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2043,7 +2043,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2069,7 +2069,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.168",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2142,8 +2142,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.136",
-      "achievement_median" : "0.172",
+      "achievement_hardest" : "0.135",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2222,7 +2222,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "204180",
