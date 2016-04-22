@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -204,7 +204,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
@@ -487,6 +487,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/282470/4273eeb0657945d87eca92a4fa9876eacbd8aeab.jpg",
       "url_store" : "http://store.steampowered.com/app/282470/"
    },
+   "Don't Starve Together" : {
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
+      "achievements" : true,
+      "app_id" : "322330",
+      "global_achievements" : true,
+      "name" : "Don't Starve Together",
+      "name_short" : "322330",
+      "url_achievements" : "http://steamcommunity.com/stats/322330/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/322330/fab2e3b2ec6d14c6fc3ccd1671e85f85d0bbd91e.jpg",
+      "url_store" : "http://store.steampowered.com/app/322330/"
+   },
    "Don't Starve Together Beta" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
@@ -687,7 +699,7 @@
       "url_store" : "http://store.steampowered.com/app/61310/"
    },
    "Free to Play" : {
-      "achievement_hardest" : "0.108",
+      "achievement_hardest" : "0.109",
       "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "245550",
@@ -736,7 +748,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.43",
+      "achievement_median" : "0.4295",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1951,7 +1963,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
