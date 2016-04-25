@@ -204,7 +204,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "262590",
@@ -325,7 +325,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "343440",
@@ -461,7 +461,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1885",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -1054,7 +1054,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.362",
+      "achievement_median" : "0.363",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1180,7 +1180,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.143",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1304,7 +1304,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1634,7 +1634,7 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Serious Sam 3: BFE" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.1135",
       "achievements" : true,
       "app_id" : "41070",
@@ -1720,7 +1720,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2805",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1805,7 +1805,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2129,7 +2129,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
