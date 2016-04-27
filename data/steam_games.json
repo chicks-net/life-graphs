@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -429,7 +429,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -747,7 +747,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.11",
+      "achievement_hardest" : "0.111",
       "achievement_median" : "0.4295",
       "achievements" : true,
       "app_id" : "399670",
@@ -1090,7 +1090,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.388",
-      "achievement_median" : "0.6355",
+      "achievement_median" : "0.636",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1265,7 +1265,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
@@ -1854,7 +1854,7 @@
       "url_store" : "http://store.steampowered.com/app/113200/"
    },
    "The Bridge" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
@@ -1903,7 +1903,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.382",
-      "achievement_median" : "0.5125",
+      "achievement_median" : "0.513",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2054,8 +2054,8 @@
       "url_store" : "http://store.steampowered.com/app/38700/"
    },
    "Tomb Raider" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2155,7 +2155,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.133",
-      "achievement_median" : "0.169",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
