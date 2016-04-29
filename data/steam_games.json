@@ -66,7 +66,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.0305",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -587,7 +587,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.1245",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -1042,7 +1042,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0265",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1090,7 +1090,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.388",
-      "achievement_median" : "0.636",
+      "achievement_median" : "0.6355",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1465,7 +1465,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1963,7 +1963,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
