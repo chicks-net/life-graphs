@@ -66,7 +66,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -102,7 +102,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -429,7 +429,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -533,7 +533,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -587,7 +587,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.1245",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -619,7 +619,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -890,7 +890,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3265",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1265,7 +1265,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
@@ -1428,7 +1428,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.5195",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.2805",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1950,7 +1950,7 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "257510",
@@ -2019,7 +2019,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2248,7 +2248,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.107",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
