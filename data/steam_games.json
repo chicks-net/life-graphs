@@ -66,7 +66,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -204,8 +204,8 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.021",
-      "achievement_median" : "0.044",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0305",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -429,7 +429,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1375",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -521,7 +521,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -890,7 +890,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.3265",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -962,7 +962,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1089,7 +1089,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.388",
+      "achievement_hardest" : "0.389",
       "achievement_median" : "0.6355",
       "achievements" : true,
       "app_id" : "271900",
@@ -1278,7 +1278,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.0955",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1720,7 +1720,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1756,7 +1756,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0795",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1805,7 +1805,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1951,7 +1951,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.2015",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2043,7 +2043,7 @@
    },
    "Toki Tori" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "38700",
       "global_achievements" : true,
@@ -2154,8 +2154,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.133",
-      "achievement_median" : "0.168",
+      "achievement_hardest" : "0.132",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
