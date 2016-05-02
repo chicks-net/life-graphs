@@ -66,7 +66,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -102,7 +102,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -300,8 +300,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.265",
+      "achievement_hardest" : "0.024",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -533,7 +533,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -619,7 +619,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -890,7 +890,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3265",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1205,7 +1205,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.382",
+      "achievement_hardest" : "0.383",
       "achievement_median" : "0.5125",
       "achievements" : true,
       "app_id" : "319550",
@@ -2019,7 +2019,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2055,7 +2055,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2247,8 +2247,8 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.107",
-      "achievement_median" : "0.2605",
+      "achievement_hardest" : "0.106",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
