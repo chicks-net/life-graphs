@@ -191,6 +191,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/232790/41b5954cafec81314d6f223e38faca0a23501252.jpg",
       "url_store" : "http://store.steampowered.com/app/232790/"
    },
+   "Broken Dreams" : {
+      "app_id" : "444480",
+      "name" : "Broken Dreams",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/444480/fa699b3f546806db99c4f8f9b5078224ca606893.jpg",
+      "url_store" : "http://store.steampowered.com/app/444480/"
+   },
    "Caster" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
@@ -429,7 +437,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -461,7 +469,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.1895",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -1065,8 +1073,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.426",
-      "achievement_median" : "0.6915",
+      "achievement_hardest" : "0.423",
+      "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1077,8 +1085,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.271",
-      "achievement_median" : "0.561",
+      "achievement_hardest" : "0.268",
+      "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1089,8 +1097,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.388",
-      "achievement_median" : "0.6345",
+      "achievement_hardest" : "0.385",
+      "achievement_median" : "0.6325",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1278,7 +1286,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0955",
+      "achievement_median" : "0.0945",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1452,7 +1460,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2017,9 +2025,23 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108232/4a39ce3c4099b1eaf3146487a39e3117de81624f.jpg",
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
+   "Timberman" : {
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.0665",
+      "achievements" : true,
+      "app_id" : "398710",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Timberman",
+      "name_short" : "398710",
+      "url_achievements" : "http://steamcommunity.com/stats/398710/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/398710/aef3de0f3c53373c1df015c5fdfd9bdb2f3787fe.jpg",
+      "url_store" : "http://store.steampowered.com/app/398710/"
+   },
    "Time Clickers" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2055,7 +2077,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2081,7 +2103,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.167",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2155,7 +2177,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.132",
-      "achievement_median" : "0.167",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
