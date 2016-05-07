@@ -90,7 +90,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.067",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -334,7 +334,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.1155",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -528,7 +528,7 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "237850",
@@ -688,7 +688,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0805",
+      "achievement_median" : "0.0795",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1073,7 +1073,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.422",
+      "achievement_hardest" : "0.423",
       "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
@@ -1085,7 +1085,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.265",
+      "achievement_hardest" : "0.264",
       "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "304410",
@@ -1098,7 +1098,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.382",
-      "achievement_median" : "0.631",
+      "achievement_median" : "0.6305",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1286,7 +1286,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1460,7 +1460,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1959,7 +1959,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.2025",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1971,7 +1971,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.3655",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2270,7 +2270,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.107",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
