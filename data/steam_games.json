@@ -756,7 +756,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.431",
+      "achievement_median" : "0.4315",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -770,7 +770,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.271",
+      "achievement_median" : "0.272",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.264",
+      "achievement_hardest" : "0.263",
       "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "304410",
@@ -1728,7 +1728,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2795",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1958,8 +1958,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.027",
-      "achievement_median" : "0.2015",
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2103,7 +2103,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
