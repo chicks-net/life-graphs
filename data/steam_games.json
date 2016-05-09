@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -212,7 +212,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
@@ -249,7 +249,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.032",
+      "achievement_median" : "0.0325",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -309,7 +309,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.267",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1073,8 +1073,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.423",
-      "achievement_median" : "0.69",
+      "achievement_hardest" : "0.422",
+      "achievement_median" : "0.6895",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1097,8 +1097,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.382",
-      "achievement_median" : "0.6305",
+      "achievement_hardest" : "0.381",
+      "achievement_median" : "0.631",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1155,7 +1155,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1188,7 +1188,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.145",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1286,7 +1286,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.0925",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1386,7 +1386,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1812,7 +1812,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
@@ -1923,7 +1923,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.226",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1959,7 +1959,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1971,7 +1971,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3655",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2077,7 +2077,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2139,7 +2139,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.067",
+      "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2151,7 +2151,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.153",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
