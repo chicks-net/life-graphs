@@ -114,7 +114,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.1455",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.072",
+      "achievement_hardest" : "0.073",
       "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "319850",
@@ -249,7 +249,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0325",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -449,7 +449,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -529,7 +529,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.1885",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1050,7 +1050,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1074,7 +1074,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.423",
-      "achievement_median" : "0.69",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1086,7 +1086,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.262",
-      "achievement_median" : "0.553",
+      "achievement_median" : "0.554",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1097,8 +1097,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.381",
-      "achievement_median" : "0.631",
+      "achievement_hardest" : "0.382",
+      "achievement_median" : "0.632",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1473,7 +1473,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1813,7 +1813,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1911,7 +1911,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.383",
-      "achievement_median" : "0.5125",
+      "achievement_median" : "0.513",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.226",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -1982,7 +1982,7 @@
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.005",
       "achievements" : true,
       "app_id" : "108200",
@@ -2295,7 +2295,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.028",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262410",
