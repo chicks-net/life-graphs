@@ -89,8 +89,8 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.067",
-      "achievement_median" : "0.084",
+      "achievement_hardest" : "0.068",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -309,7 +309,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.269",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -540,7 +540,7 @@
       "url_store" : "http://store.steampowered.com/app/237850/"
    },
    "Duke Nukem Forever" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "57900",
@@ -1073,7 +1073,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.423",
+      "achievement_hardest" : "0.424",
       "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
@@ -1097,7 +1097,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.382",
+      "achievement_hardest" : "0.383",
       "achievement_median" : "0.632",
       "achievements" : true,
       "app_id" : "271900",
@@ -1460,7 +1460,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1813,7 +1813,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1863,7 +1863,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -2052,8 +2052,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.211",
-      "achievement_median" : "0.211",
+      "achievement_hardest" : "0.212",
+      "achievement_median" : "0.212",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2077,7 +2077,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2295,7 +2295,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262410",
