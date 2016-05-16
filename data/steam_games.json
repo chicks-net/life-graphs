@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -309,7 +309,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.269",
+      "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -541,7 +541,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -756,7 +756,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.431",
+      "achievement_median" : "0.4315",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -794,7 +794,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1085,8 +1085,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.262",
-      "achievement_median" : "0.555",
+      "achievement_hardest" : "0.263",
+      "achievement_median" : "0.556",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1097,7 +1097,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.383",
+      "achievement_hardest" : "0.384",
       "achievement_median" : "0.6325",
       "achievements" : true,
       "app_id" : "271900",
@@ -1971,7 +1971,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.3665",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2282,7 +2282,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.2625",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
