@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 142 out of 158 games have achievements.
-17.75% achieved overall. 40.51% achieved in games played. 50.82% in games with >1 achievement.
+17.79% achieved overall. 40.59% achieved in games played. 50.92% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -14,8 +14,8 @@ Steam Achievements
 	 80   2 **
 	 70   5 *****
 	 60   3 ***
-	 50   2 **
-	 40   3 ***
+	 50   3 ***
+	 40   2 **
 	 30   7 *******
 	 20   7 *******
 	 10   4 ****
@@ -55,9 +55,9 @@ Games by Achievement Percentage
 | 60.0% | 12 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/) | [Poker Night at the Inventory](http://steamcommunity.com/stats/PokerNight/achievements/compare/) :warning: MacFail | 4.6 | **0.38** | *8.4* |
 | 59.3% | 16 / 27 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220900/3f5aa1d546b5b82eedacbf8f5ae76ed46303a241.jpg) ](http://store.steampowered.com/app/220900/) | [Jack Lumber](http://steamcommunity.com/stats/220900/achievements/compare/) | **13.1** | *0.82* | 2.5 |
 | 55.2% | 16 / 29 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/dca12980667e32ab072d79f5dbe91884056a03a2.jpg) ](http://store.steampowered.com/app/4000/) | [Garry's Mod](http://steamcommunity.com/stats/GarrysMod/achievements/compare/) | **144** | 9.00 | 2.3 |
+| 50.0% | 9 / 18 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/) | [Galcon Legends](http://steamcommunity.com/stats/201040/achievements/compare/) | 2.2 | **0.24** | 2.9 |
 | 50% | | | **Steam Completion Average** | | |
 | 45.2% | 234 / 518 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) | [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | **733** | 3.13 | 1.3 |
-| 44.4% | 8 / 18 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/) | [Galcon Legends](http://steamcommunity.com/stats/201040/achievements/compare/) | 2.0 | **0.25** | 2.9 |
 | 42.0% | 21 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **31** | *1.48* | 1.3 |
 | 36.4% | 4 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/) | [Zen Bound® 2](http://steamcommunity.com/stats/ZenBound2/achievements/compare/) | 6.4 | 1.60 | *4.1* |
 | 35.3% | 30 / 85 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | **50** | 1.67 | 0.8 |
@@ -226,7 +226,7 @@ Most played games
 | 3.4 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214420/65861018dfcbf225bf5d3e68420c5787b6954c04.jpg) ](http://store.steampowered.com/app/214420/) | [Gear Up](http://steamcommunity.com/stats/GearUp/achievements/compare/) | 0 / 25 = 0.0% | und |
 | 2.9 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/29180/d14a2097cad1a45fdb6eca2c22cc31d8dd133705.jpg) ](http://store.steampowered.com/app/29180/) | [Osmos](http://steamcommunity.com/stats/Osmos/achievements/compare/) | 1 / 11 = 9.1% | 2.90 |
 | 2.3 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261960/48ce158aaad9dbb68f267e012f953e73232d75a9.jpg) ](http://store.steampowered.com/app/261960/) | [Cube & Star: An Arbitrary Love](http://steamcommunity.com/stats/261960/achievements/compare/) | 28 / 93 = 30.1% | **0.08** |
-| 2.0 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/) | [Galcon Legends](http://steamcommunity.com/stats/201040/achievements/compare/) | 8 / 18 = 44.4% | **0.25** |
+| 2.2 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/) | [Galcon Legends](http://steamcommunity.com/stats/201040/achievements/compare/) | 9 / 18 = 50.0% | **0.24** |
 | 1.9 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg) ](http://store.steampowered.com/app/550/) | [Left 4 Dead 2](http://steamcommunity.com/stats/L4D2/achievements/compare/) | 0 / 70 = 0.0% | und |
 | 1.8 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245470/4c2e14499c3cbda796994a00586f7d384fa1a56b.jpg) ](http://store.steampowered.com/app/245470/) | [Democracy 3](http://steamcommunity.com/stats/245470/achievements/compare/) | 1 / 42 = 2.4% | 1.80 |
 | 1.7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233250/c9fcec848203470a2ff487fdb42e0fc9f6500e8d.jpg) ](http://store.steampowered.com/app/233250/) | [Planetary Annihilation](http://steamcommunity.com/stats/233250/achievements/compare/) | 0 / 19 = 0.0% | und |

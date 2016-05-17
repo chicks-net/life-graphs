@@ -794,7 +794,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1038,7 +1038,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.464",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1338,7 +1338,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1386,7 +1386,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1399,7 +1399,7 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Planetary Annihilation" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "233250",
@@ -1412,7 +1412,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -1934,8 +1934,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.143",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.144",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -1971,7 +1971,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3665",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
