@@ -469,7 +469,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1895",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -1038,7 +1038,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.464",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1074,7 +1074,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6905",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1098,7 +1098,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.384",
-      "achievement_median" : "0.6325",
+      "achievement_median" : "0.633",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1286,7 +1286,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.093",
+      "achievement_median" : "0.0935",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1311,7 +1311,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
@@ -1764,7 +1764,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.0805",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1959,7 +1959,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.1975",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1971,7 +1971,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.3665",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
