@@ -309,7 +309,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.27",
+      "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -333,8 +333,8 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.116",
+      "achievement_hardest" : "0.019",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -1074,7 +1074,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1085,7 +1085,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.263",
+      "achievement_hardest" : "0.264",
       "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "304410",
@@ -1097,8 +1097,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.384",
-      "achievement_median" : "0.633",
+      "achievement_hardest" : "0.385",
+      "achievement_median" : "0.6335",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1473,7 +1473,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2282,7 +2282,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.2625",
+      "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
