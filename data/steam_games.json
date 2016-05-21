@@ -1,6 +1,6 @@
 {
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
@@ -249,7 +249,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -529,7 +529,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1885",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -627,7 +627,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -782,7 +782,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1074,7 +1074,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6905",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1311,7 +1311,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
@@ -1763,7 +1763,7 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "Sunless Sea" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.0805",
       "achievements" : true,
       "app_id" : "304650",
@@ -1959,7 +1959,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -1994,8 +1994,8 @@
       "url_store" : "http://store.steampowered.com/app/220780/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.005",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.0045",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
