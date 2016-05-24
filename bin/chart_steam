@@ -42,6 +42,7 @@ foreach my $day ( sort keys %{ $data } ) {
 
 
 	my $metric = $data->{$day}->{Achievements};
+	$metric =~ s/,//g; # strip commas
 	#print "Achievements: $metric $unix_seconds\n";
 	my $data_item = { time => $unix_seconds, value => $metric };
 	push (@data_achievements, $data_item);
