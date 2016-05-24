@@ -102,10 +102,12 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.056",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Blueprint Tycoon",
       "name_short" : "454060",
       "url_achievements" : "http://steamcommunity.com/stats/454060/achievements/compare/",
@@ -126,7 +128,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.1455",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -151,8 +153,8 @@
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
    "Bridge Constructor" : {
-      "achievement_hardest" : "0.019",
-      "achievement_median" : "0.152",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -192,8 +194,8 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0205",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -239,7 +241,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -275,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0345",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -335,7 +337,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.271",
+      "achievement_median" : "0.272",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1008,7 +1010,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1099,7 +1101,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.425",
+      "achievement_hardest" : "0.426",
       "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
@@ -1363,7 +1365,7 @@
       "url_store" : "http://store.steampowered.com/app/1530/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
@@ -1754,7 +1756,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.279",
+      "achievement_median" : "0.2785",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2127,7 +2129,7 @@
    },
    "Tower Wars" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.006",
+      "achievement_median" : "0.007",
       "achievements" : true,
       "app_id" : "214360",
       "global_achievements" : true,
@@ -2214,7 +2216,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.13",
+      "achievement_hardest" : "0.129",
       "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "306660",
@@ -2307,7 +2309,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.109",
+      "achievement_hardest" : "0.108",
       "achievement_median" : "0.2635",
       "achievements" : true,
       "app_id" : "288060",
