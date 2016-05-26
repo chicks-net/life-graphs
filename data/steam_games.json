@@ -101,8 +101,8 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.059",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -194,7 +194,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "419080",
@@ -240,8 +240,8 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.035",
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -337,7 +337,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -843,8 +843,8 @@
       "url_store" : "http://store.steampowered.com/app/234040/"
    },
    "Goat Simulator" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.024",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -1113,8 +1113,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.265",
-      "achievement_median" : "0.558",
+      "achievement_hardest" : "0.266",
+      "achievement_median" : "0.559",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1501,7 +1501,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1828,8 +1828,8 @@
       "url_store" : "http://store.steampowered.com/app/40800/"
    },
    "Surgeon Simulator" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0245",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "233720",
       "global_achievements" : true,
@@ -1987,7 +1987,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.1985",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2116,8 +2116,8 @@
       "url_store" : "http://store.steampowered.com/app/38700/"
    },
    "Tomb Raider" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.161",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2191,7 +2191,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
