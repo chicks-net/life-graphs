@@ -90,7 +90,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.06",
+      "achievement_median" : "0.061",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -1216,7 +1216,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.147",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0945",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1464,7 +1464,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.52",
+      "achievement_median" : "0.5205",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2104,7 +2104,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toki Tori" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "38700",
@@ -2116,8 +2116,8 @@
       "url_store" : "http://store.steampowered.com/app/38700/"
    },
    "Tomb Raider" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
