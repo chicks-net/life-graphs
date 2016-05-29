@@ -101,8 +101,8 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.061",
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -195,7 +195,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -974,7 +974,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1010,7 +1010,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.32",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.101",
-      "achievement_median" : "0.464",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1366,7 +1366,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.009",
+      "achievement_median" : "0.0095",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1853,7 +1853,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -1951,7 +1951,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.383",
-      "achievement_median" : "0.5125",
+      "achievement_median" : "0.512",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -1999,7 +1999,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.1995",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
