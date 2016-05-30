@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -497,7 +497,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -810,7 +810,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1010,7 +1010,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.101",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.464",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1090,7 +1090,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.364",
+      "achievement_median" : "0.363",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -2092,7 +2092,7 @@
       "url_store" : "http://store.steampowered.com/app/398710/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "385770",
