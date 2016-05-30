@@ -31,6 +31,7 @@ my $rating_span = $tree->look_down('_tag' => 'span', 'class' => 'mbg-l');
 my $rating_raw = $rating_span->as_text;
 if ($rating_raw =~ /(\d+)\)/) {
 	my $rating = $1;
+	print "rating=$rating\n";
 	$data_out->{$stats_time}->{$ebay_user}->{rating} = $rating;
 } else {
 	croak "could not find rating in '$rating_raw'";
@@ -43,11 +44,12 @@ if ($positive_raw =~ /(\d+)% positive/) {
 	my $percentage = $1;
 	$data_out->{$stats_time}->{$ebay_user}->{feedback_percent_positive} = $percentage;
 } else {
-	croak "could not find percentage in '$positive_raw'";
+	carp "WARN: could not find percentage in '$positive_raw'";
 }
 
 # recent feedback ratings
 my @score_rows = $tree->look_down('_tag' => 'div', 'class' => 'score');
+carp "WARN: no recent feedback ratings" unless scalar @score_rows;
 foreach my $score (@score_rows) {
 	my $txt_span = $score->look_down('_tag' => 'span', 'class' => 'txt');
 	my $txt_raw = lc $txt_span->as_text;
