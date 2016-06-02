@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -655,7 +655,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1010,7 +1010,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1065,8 +1065,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.101",
-      "achievement_median" : "0.464",
+      "achievement_hardest" : "0.1",
+      "achievement_median" : "0.455",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1125,8 +1125,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.387",
-      "achievement_median" : "0.635",
+      "achievement_hardest" : "0.388",
+      "achievement_median" : "0.6355",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0955",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1487,7 +1487,7 @@
       "url_store" : "http://store.steampowered.com/app/31280/"
    },
    "Portal" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
@@ -1852,7 +1852,7 @@
       "url_store" : "http://store.steampowered.com/app/233720/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
@@ -1987,7 +1987,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2935",
+      "achievement_median" : "0.296",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
