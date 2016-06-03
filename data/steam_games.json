@@ -90,7 +90,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -101,8 +101,8 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.065",
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -362,7 +362,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -690,7 +690,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "201510",
@@ -784,7 +784,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.432",
+      "achievement_median" : "0.4325",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -896,13 +896,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
@@ -1010,7 +1010,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.32",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1065,8 +1065,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.1",
-      "achievement_median" : "0.455",
+      "achievement_hardest" : "0.099",
+      "achievement_median" : "0.453",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1113,8 +1113,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.267",
-      "achievement_median" : "0.559",
+      "achievement_hardest" : "0.268",
+      "achievement_median" : "0.56",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1174,6 +1174,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274980/aab113bb00901da04afd5e435cd1d0c18e5fa3f4.jpg",
       "url_store" : "http://store.steampowered.com/app/274980/"
    },
+   "Influent DLC - Español [Learn Spanish]" : {
+      "app_id" : "286964",
+      "name" : "Influent DLC - Español [Learn Spanish]",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/286964/2f5faabddb76b3a637376f2669cbdf8d9cb21604.jpg",
+      "url_store" : "http://store.steampowered.com/app/286964/"
+   },
    "Influent DLC - Français [Learn French]" : {
       "app_id" : "286963",
       "name" : "Influent DLC - Français [Learn French]",
@@ -1216,7 +1224,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.148",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1475,7 +1483,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.106",
+      "achievement_hardest" : "0.107",
       "achievement_median" : "0.5205",
       "achievements" : true,
       "app_id" : "31280",
@@ -1487,7 +1495,7 @@
       "url_store" : "http://store.steampowered.com/app/31280/"
    },
    "Portal" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
@@ -1768,7 +1776,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.2775",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1987,7 +1995,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.296",
+      "achievement_median" : "0.292",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2011,7 +2019,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1855",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2079,7 +2087,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -2104,8 +2112,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.212",
-      "achievement_median" : "0.212",
+      "achievement_hardest" : "0.213",
+      "achievement_median" : "0.213",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
