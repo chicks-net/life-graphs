@@ -128,7 +128,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.1465",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -362,7 +362,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -386,7 +386,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Cubemen" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0965",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "207250",
       "global_achievements" : true,
@@ -655,7 +655,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -798,7 +798,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.273",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1065,8 +1065,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.099",
-      "achievement_median" : "0.453",
+      "achievement_hardest" : "0.1",
+      "achievement_median" : "0.452",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1249,7 +1249,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1532,7 +1532,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
@@ -1812,7 +1812,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0805",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -1995,7 +1995,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.2935",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.1995",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1845",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
