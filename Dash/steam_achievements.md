@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-145 out of 161 games have achievements.
-18.18% achieved overall. 41.08% achieved in games played. 51.18% in games with >1 achievement.
+146 out of 162 games have achievements.
+18.06% achieved overall. 41.08% achieved in games played. 51.18% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -77,7 +77,7 @@ Games by Achievement Percentage
 | 18.8% | 3 / 16 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/98200/3b20447980b019783a4e37893660d1ce54893699.jpg) ](http://store.steampowered.com/app/98200/) | [Frozen Synapse](http://steamcommunity.com/stats/FrozenSynapse/achievements/compare/) | 1.1 | **0.37** | 2.7 |
 | 18.8% | 3 / 16 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209790/ee5c6cca66ce1f897bbc6b23fd8982a5b59c2621.jpg) ](http://store.steampowered.com/app/209790/) | [Splice](http://steamcommunity.com/stats/209790/achievements/compare/) | 0.2 | **0.07** | *4.5* |
 | 16.7% | 1 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/ce8d28352178a7c4911f22000bce4cc76f58c80d.jpg) ](http://store.steampowered.com/app/234900/) | [Anodyne](http://steamcommunity.com/stats/234900/achievements/compare/) | 0.5 | *0.50* | *7.6* |
-| 14.3% | 1 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg) ](http://store.steampowered.com/app/293200/) | [Sentinel](http://steamcommunity.com/stats/293200/achievements/compare/) | 3.7 | 3.70 | *7.2* |
+| 14.3% | 1 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg) ](http://store.steampowered.com/app/293200/) | [Sentinel](http://steamcommunity.com/stats/293200/achievements/compare/) | 3.7 | 3.70 | *7.3* |
 | 9.5% | 4 / 42 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91200/9b71353b7e93eb3c82ca5f35d4d7241c8f545a07.jpg) ](http://store.steampowered.com/app/91200/) | [Anomaly Warzone Earth](http://steamcommunity.com/stats/AnomalyWarZoneEarth/achievements/compare/) | 0 | und | 3.0 |
 | 9.1% | 1 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/29180/d14a2097cad1a45fdb6eca2c22cc31d8dd133705.jpg) ](http://store.steampowered.com/app/29180/) | [Osmos](http://steamcommunity.com/stats/Osmos/achievements/compare/) | 2.9 | 2.90 | *4.1* |
 | 9.0% | 9 / 100 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91600/d63198590c7bab5a332327a54f8ed0a00ac4b0d3.jpg) ](http://store.steampowered.com/app/91600/) | [Sanctum](http://steamcommunity.com/stats/Sanctum/achievements/compare/) | 4.5 | *0.50* | 0.7 |
@@ -164,6 +164,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/204240/112da2a1e4e4e7e86f07f6aafc7d5866edb55871.jpg) ](http://store.steampowered.com/app/204240/) | [The Bridge](http://steamcommunity.com/stats/TheBridge/achievements/compare/) | 0 | und | *3.4* |
 | 0.0% | 0 / 41 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/65930/52da3125ac55d5d1406c610f7e8c78755f0752ff.jpg) ](http://store.steampowered.com/app/65930/) | [The Bureau: XCOM Declassified](http://steamcommunity.com/stats/65930/achievements/compare/) | 0 | und | 1.6 |
 | 0.0% | 0 / 24 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319550/4a8b9cc14002a9eabec088ab38f3ef34fe5149c1.jpg) ](http://store.steampowered.com/app/319550/) | [The Collider](http://steamcommunity.com/stats/319550/achievements/compare/) | 0 | und | **24.6** |
+| 0.0% | 0 / 37 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/298630/a8c068a3c3d4b73935f98d6522dfd676723bcb71.jpg) ](http://store.steampowered.com/app/298630/) | [The Escapists](http://steamcommunity.com/stats/298630/achievements/compare/) | 0 | und | 1.3 |
 | 0.0% | 0 / 40 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257510/0392d2bd5d1bec31f2fd283bc4555fdc22dd44a9.jpg) ](http://store.steampowered.com/app/257510/) | [The Talos Principle](http://steamcommunity.com/stats/257510/achievements/compare/) | 0 | und | 2.6 |
 | 0.0% | 0 / 30 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/282070/a806ec2170dc3b10740b150bfd6392964fd92656.jpg) ](http://store.steampowered.com/app/282070/) | [This War of Mine](http://steamcommunity.com/stats/282070/achievements/compare/) | 0 | und | 1.3 |
 | 0.0% | 0 / 35 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220780/b2194d8b207193e0e3d8ae2bc47a91685c577750.jpg) ](http://store.steampowered.com/app/220780/) | [Thomas Was Alone](http://steamcommunity.com/stats/220780/achievements/compare/) | 0 | und | **11.2** |

@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.066",
+      "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -194,8 +194,8 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0195",
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -337,7 +337,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.269",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -643,7 +643,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.217",
+      "achievement_median" : "0.2175",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -784,7 +784,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4325",
+      "achievement_median" : "0.433",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -908,13 +908,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1066,7 +1066,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.452",
+      "achievement_median" : "0.451",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1422,7 +1422,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.075",
+      "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1495,7 +1495,7 @@
       "url_store" : "http://store.steampowered.com/app/31280/"
    },
    "Portal" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
@@ -1521,7 +1521,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1547,7 +1547,7 @@
    },
    "Puddle" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "222140",
       "global_achievements" : true,
@@ -1591,7 +1591,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1605,7 +1605,7 @@
    },
    "Race The Sun" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "253030",
       "global_achievements" : true,
@@ -1678,7 +1678,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "293200",
@@ -1691,7 +1691,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1135",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1969,6 +1969,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319550/4a8b9cc14002a9eabec088ab38f3ef34fe5149c1.jpg",
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
+   "The Escapists" : {
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.009",
+      "achievements" : true,
+      "app_id" : "298630",
+      "global_achievements" : true,
+      "name" : "The Escapists",
+      "name_short" : "298630",
+      "url_achievements" : "http://steamcommunity.com/stats/298630/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/298630/a8c068a3c3d4b73935f98d6522dfd676723bcb71.jpg",
+      "url_store" : "http://store.steampowered.com/app/298630/"
+   },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
       "achievement_median" : "0.2265",
@@ -1995,7 +2007,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2935",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2031,7 +2043,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.168",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.328",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2043,7 +2055,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0045",
+      "achievement_median" : "0.005",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -2380,7 +2392,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
