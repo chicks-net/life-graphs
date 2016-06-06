@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.067",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -195,7 +195,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -209,7 +209,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -398,7 +398,7 @@
    },
    "Cubemen" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "207250",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.451",
+      "achievement_median" : "0.45",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1192,7 +1192,7 @@
    },
    "Jack Lumber" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.2915",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2031,7 +2031,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2248,7 +2248,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.129",
+      "achievement_hardest" : "0.128",
       "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "306660",
@@ -2392,7 +2392,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
