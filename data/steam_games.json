@@ -241,7 +241,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.45",
+      "achievement_median" : "0.449",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1374,7 +1374,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.01",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1521,7 +1521,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2915",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2342,7 +2342,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.2645",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2392,7 +2392,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
