@@ -101,7 +101,7 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "454060",
@@ -167,7 +167,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -241,7 +241,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -655,7 +655,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -998,7 +998,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.449",
+      "achievement_median" : "0.448",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1113,7 +1113,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.268",
+      "achievement_hardest" : "0.269",
       "achievement_median" : "0.56",
       "achievements" : true,
       "app_id" : "304410",
@@ -1322,7 +1322,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1776,7 +1776,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2775",
+      "achievement_median" : "0.277",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2905",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2031,7 +2031,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2249,7 +2249,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.128",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
