@@ -195,7 +195,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -962,7 +962,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1086,7 +1086,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.447",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1243,8 +1243,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.148",
-      "achievement_median" : "0.209",
+      "achievement_hardest" : "0.149",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1760,7 +1760,7 @@
    },
    "Signal Ops" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.008",
+      "achievement_median" : "0.0085",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -2027,7 +2027,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2905",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2362,7 +2362,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.2635",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2374,7 +2374,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -2412,7 +2412,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
