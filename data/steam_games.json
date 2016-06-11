@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
    "Bridge Constructor" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
@@ -195,7 +195,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -209,7 +209,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -444,7 +444,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -497,7 +497,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -654,7 +654,7 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Farm for your Life" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "266390",
@@ -962,7 +962,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1134,7 +1134,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.269",
-      "achievement_median" : "0.56",
+      "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1269,7 +1269,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -2027,7 +2027,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2051,7 +2051,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.1845",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
