@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -961,8 +961,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.041",
-      "achievement_median" : "0.118",
+      "achievement_hardest" : "0.042",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1086,7 +1086,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.445",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1122,7 +1122,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.427",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1342,7 +1342,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0965",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1516,7 +1516,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -2051,7 +2051,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1845",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2118,7 +2118,7 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "Timberman" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "398710",
@@ -2243,7 +2243,7 @@
    },
    "Turbo Dismount" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "263760",
       "global_achievements" : true,
@@ -2362,7 +2362,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.264",
+      "achievement_median" : "0.2635",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
