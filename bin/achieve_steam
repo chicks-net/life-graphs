@@ -119,6 +119,13 @@ sub calc_achievements {
 			$this_game->{name} = $game;
 			barchart_bucket($achieved_percentage) if $this_game->{hrs_total};
 			push (@games_that_have_achievements,$this_game);
+
+			# difficulty
+			my $median = 100 * $games_data->{$game}->{achievement_median};
+			my $hardest = 100 * $games_data->{$game}->{achievement_hardest};
+			$median = sprintf("%.1f", $median);
+			$hardest = sprintf("%.1f", $hardest);
+			$this_game->{difficulty} = calc_difficulty($achievements_total,$hardest,$median);
 		}
 	}
 
@@ -133,11 +140,12 @@ $table_content .= "\n";
 $table_content .= "| Percentage Complete | Done / Total | Game -> store | Game -> achievements | Hours Played | Hours per | Difficulty   |\n";
 $table_content .= "| ------------------: | :----------: | ------------- | -------------------- | -----------: | --------: | -----------: |\n";
 
-#print Dumper(\@games_with_achievements);
+#print Dumper(\@games_with_achievements);die"debug";
 # descending percentage then ascending name
 my @sorted_games = sort {
 		   $b->{perc} <=> $a->{perc}					# desc percentage
 		or ( $b->{hrs_total} || 0 )   <=>   ( $a->{hrs_total} || 0 )	# desc hrs_total
+		or $b->{difficulty} <=> $a->{difficulty}			# desc difficulty
 		or $a->{name} cmp $b->{name}					# ascend name
 	} @games_with_achievements;
 my $perc_accumulator;
@@ -213,12 +221,8 @@ foreach my $game (@sorted_games) {
 	my $url_store = $games_data->{$name}->{url_store};
 	$display_name .= "[ ![logo links to store]($url_logo) ]($url_store) ";
 	$display_name .= "| [$name]($url_achievements)";
-	my $median = 100 * $games_data->{$name}->{achievement_median};
-	my $hardest = 100 * $games_data->{$name}->{achievement_hardest};
-	$median = sprintf("%.1f", $median);
-	$hardest = sprintf("%.1f", $hardest);
-	my $composite_difficulty = calc_difficulty($achievements_total,$hardest,$median);
 
+	my $composite_difficulty = $game->{difficulty};
 	if ($composite_difficulty > 10) {
 		$composite_difficulty =  "**$composite_difficulty**";
 	} elsif ($composite_difficulty > 3) {
