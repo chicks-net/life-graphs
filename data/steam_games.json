@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -337,7 +337,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.27",
+      "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -477,7 +477,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -557,7 +557,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1895",
+      "achievement_median" : "0.1905",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -784,7 +784,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.433",
+      "achievement_median" : "0.4325",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -962,7 +962,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1086,7 +1086,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.1",
-      "achievement_median" : "0.445",
+      "achievement_median" : "0.444",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1133,8 +1133,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.269",
-      "achievement_median" : "0.561",
+      "achievement_hardest" : "0.27",
+      "achievement_median" : "0.56",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1283,7 +1283,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1468,7 +1468,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1587,7 +1587,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1907,7 +1907,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.1095",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2362,7 +2362,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.2635",
+      "achievement_median" : "0.2645",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
