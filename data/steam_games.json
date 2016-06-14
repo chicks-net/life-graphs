@@ -1,7 +1,7 @@
 {
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -101,7 +101,7 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "454060",
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -655,7 +655,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.1445",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -713,6 +713,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/FlightControlHD/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/62000/34de2e89a598a7fabb2827a7680d18601c314108.jpg",
       "url_store" : "http://store.steampowered.com/app/62000/"
+   },
+   "Fort Defense" : {
+      "achievement_hardest" : "0.145",
+      "achievement_median" : "0.257",
+      "achievements" : true,
+      "app_id" : "343930",
+      "global_achievements" : true,
+      "name" : "Fort Defense",
+      "name_short" : "343930",
+      "url_achievements" : "http://steamcommunity.com/stats/343930/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343930/c1cb7883c1ecec32957627f7f8008528f67771f4.jpg",
+      "url_store" : "http://store.steampowered.com/app/343930/"
    },
    "Foul Play" : {
       "achievement_hardest" : "0.008",
@@ -784,7 +796,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4325",
+      "achievement_median" : "0.432",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -908,13 +920,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -961,8 +973,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.042",
-      "achievement_median" : "0.121",
+      "achievement_hardest" : "0.043",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1085,7 +1097,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.1",
+      "achievement_hardest" : "0.101",
       "achievement_median" : "0.444",
       "achievements" : true,
       "app_id" : "368370",
@@ -1121,7 +1133,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.427",
+      "achievement_hardest" : "0.428",
       "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
@@ -1146,7 +1158,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.389",
-      "achievement_median" : "0.6355",
+      "achievement_median" : "0.636",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1881,7 +1893,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2003,7 +2015,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2348,7 +2360,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "204180",
