@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.074",
+      "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -464,8 +464,8 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.138",
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.1395",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -796,7 +796,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.432",
+      "achievement_median" : "0.4315",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1158,7 +1158,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.389",
-      "achievement_median" : "0.6355",
+      "achievement_median" : "0.636",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1224,7 +1224,7 @@
    },
    "Jack Lumber" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
       "global_achievements" : true,
@@ -1528,7 +1528,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1991,7 +1991,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.383",
-      "achievement_median" : "0.512",
+      "achievement_median" : "0.5125",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2145,7 +2145,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
