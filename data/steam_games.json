@@ -33,7 +33,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.0905",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -101,8 +101,8 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.014",
-      "achievement_median" : "0.076",
+      "achievement_hardest" : "0.015",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -166,7 +166,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.073",
+      "achievement_hardest" : "0.074",
       "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "319850",
@@ -337,7 +337,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.271",
+      "achievement_median" : "0.272",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -348,7 +348,7 @@
       "url_store" : "http://store.steampowered.com/app/730/"
    },
    "Counter-Strike: Source" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "240",
@@ -465,7 +465,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1395",
+      "achievement_median" : "0.1405",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -1098,7 +1098,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.101",
-      "achievement_median" : "0.444",
+      "achievement_median" : "0.443",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
