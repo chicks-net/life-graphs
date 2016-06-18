@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -127,7 +127,7 @@
       "url_store" : "http://store.steampowered.com/app/49520/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.074",
+      "achievement_hardest" : "0.075",
       "achievement_median" : "0.1465",
       "achievements" : true,
       "app_id" : "302610",
@@ -195,7 +195,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -209,7 +209,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -464,8 +464,8 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1405",
+      "achievement_hardest" : "0.015",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -556,8 +556,8 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1905",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -715,7 +715,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.145",
+      "achievement_hardest" : "0.146",
       "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "343930",
@@ -796,7 +796,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4315",
+      "achievement_median" : "0.431",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -974,7 +974,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1294,8 +1294,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.029",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1453,7 +1453,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "232770",
@@ -1832,7 +1832,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0345",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -1990,7 +1990,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.383",
+      "achievement_hardest" : "0.384",
       "achievement_median" : "0.5125",
       "achievements" : true,
       "app_id" : "319550",
@@ -2051,7 +2051,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.2005",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2063,7 +2063,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.1855",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2386,7 +2386,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
