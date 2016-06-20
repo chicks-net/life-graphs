@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -128,7 +128,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.1465",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -194,7 +194,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "419080",
@@ -348,7 +348,7 @@
       "url_store" : "http://store.steampowered.com/app/730/"
    },
    "Counter-Strike: Source" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "240",
@@ -465,7 +465,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -556,8 +556,8 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -973,8 +973,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.043",
-      "achievement_median" : "0.124",
+      "achievement_hardest" : "0.044",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1042,7 +1042,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1281,7 +1281,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1354,7 +1354,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.0975",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.011",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1528,7 +1528,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1553,7 +1553,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2131,7 +2131,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -2243,7 +2243,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2360,7 +2360,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "204180",
