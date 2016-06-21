@@ -101,8 +101,8 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.015",
-      "achievement_median" : "0.081",
+      "achievement_hardest" : "0.016",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -277,7 +277,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -337,7 +337,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.273",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -465,7 +465,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.1445",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -556,7 +556,7 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Dreamfall Chapters" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "237850",
@@ -716,7 +716,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.146",
-      "achievement_median" : "0.257",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -810,7 +810,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.274",
+      "achievement_median" : "0.275",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1042,7 +1042,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.32",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1134,7 +1134,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.428",
-      "achievement_median" : "0.692",
+      "achievement_median" : "0.6925",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1893,7 +1893,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1075",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2050,8 +2050,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.027",
-      "achievement_median" : "0.201",
+      "achievement_hardest" : "0.028",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2360,7 +2360,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "204180",
