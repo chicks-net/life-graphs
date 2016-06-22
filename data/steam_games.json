@@ -32,7 +32,7 @@
       "url_store" : "http://store.steampowered.com/app/217690/"
    },
    "Anodyne" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.0905",
       "achievements" : true,
       "app_id" : "234900",
@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -194,7 +194,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "419080",
@@ -594,7 +594,7 @@
    },
    "EDGE" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.032",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "38740",
       "global_achievements" : true,
@@ -642,7 +642,7 @@
       "url_store" : "http://store.steampowered.com/app/212680/"
    },
    "Faerie Solitaire" : {
-      "achievement_hardest" : "0.045",
+      "achievement_hardest" : "0.046",
       "achievement_median" : "0.2175",
       "achievements" : true,
       "app_id" : "38600",
@@ -1243,8 +1243,8 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "LIMBO" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.138",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1281,7 +1281,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.0115",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
