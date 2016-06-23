@@ -102,7 +102,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -336,7 +336,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.273",
       "achievements" : true,
       "app_id" : "730",
@@ -464,7 +464,7 @@
       "url_store" : "http://store.steampowered.com/app/40/"
    },
    "Defender's Quest: Valley of the Forgotten" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.1445",
       "achievements" : true,
       "app_id" : "218410",
@@ -950,7 +950,7 @@
    },
    "Guns of Icarus Online" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.001",
+      "achievement_median" : 0,
       "achievements" : true,
       "app_id" : "209080",
       "global_achievements" : true,
@@ -1042,7 +1042,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1146,7 +1146,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.27",
-      "achievement_median" : "0.56",
+      "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1244,7 +1244,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1565,7 +1565,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -2026,8 +2026,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.144",
-      "achievement_median" : "0.144",
+      "achievement_hardest" : "0.145",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2062,7 +2062,7 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "282070",
@@ -2280,8 +2280,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.128",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.127",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
