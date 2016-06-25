@@ -56,10 +56,12 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 	push (@data_rank_overall, $data_item);
 
 
+	my $days_ago = $day_obj->delta_days( DateTime->now() )->in_units('days');
 	$metric = $data->{'rc5-72'}->{$day}->{blocks}->{yesterday};
-#	print "blocks.yesterday $metric $unix_seconds\n";
+#	print "blocks.yesterday $metric $unix_seconds $days_ago\n";
 	$data_item = { time => $unix_seconds, value => $metric };
-	push (@data_blocks_yesterday, $data_item);
+	push (@data_blocks_yesterday, $data_item)
+		if ($days_ago < 366);
 
 }
 
@@ -76,6 +78,7 @@ $chart->add_data(\@data_delta_yesterday, { style => 'line', label => 'Yesterday'
 $filename = "rank_delta_rc5-72_chicks.png";
 write_file($filename, $chart->png(), 'Dash');
 
+print "blocks_yesterday " . scalar(@data_blocks_yesterday) . "\n";
 $chart = Chart::Strip->new( title => "chicks rc5-72 blocks", width => $chart_width );
 $chart->add_data(\@data_blocks_yesterday, { style => 'line', label => 'Yesterday', color => $color_set[3] });
 $filename = "blocks_rc5-72_chicks.png";
