@@ -19,6 +19,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/247830/9ad5927dda09bbca2e2f2fc1f05abe49099bb0b6.jpg",
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
+   "Airscape: The Fall of Gravity" : {
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.015",
+      "achievements" : true,
+      "app_id" : "317250",
+      "global_achievements" : true,
+      "name" : "Airscape: The Fall of Gravity",
+      "name_short" : "317250",
+      "url_achievements" : "http://steamcommunity.com/stats/317250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/317250/36b92248033241ce474fd659829883c11b5d0884.jpg",
+      "url_store" : "http://store.steampowered.com/app/317250/"
+   },
    "Anna - Extended Edition" : {
       "achievement_hardest" : "0.012",
       "achievement_median" : "0.086",
@@ -101,8 +113,8 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.016",
-      "achievement_median" : "0.084",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -142,7 +154,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.306",
+      "achievement_median" : "0.3055",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -195,7 +207,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -277,7 +289,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0375",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -362,7 +374,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -477,7 +489,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -497,7 +509,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -569,7 +581,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -796,7 +808,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4305",
+      "achievement_median" : "0.43",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -810,7 +822,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.275",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -920,13 +932,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1042,7 +1054,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1145,8 +1157,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.269",
-      "achievement_median" : "0.559",
+      "achievement_hardest" : "0.268",
+      "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1157,8 +1169,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.389",
-      "achievement_median" : "0.6355",
+      "achievement_hardest" : "0.388",
+      "achievement_median" : "0.6345",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1244,7 +1256,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.306",
+      "achievement_median" : "0.3055",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1256,7 +1268,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1268,7 +1280,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.15",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1366,7 +1378,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0975",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1463,6 +1475,20 @@
       "url_achievements" : "http://steamcommunity.com/stats/Osmos/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/29180/d14a2097cad1a45fdb6eca2c22cc31d8dd133705.jpg",
       "url_store" : "http://store.steampowered.com/app/29180/"
+   },
+   "PARTICLE MACE" : {
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.025",
+      "achievements" : true,
+      "app_id" : "295690",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "PARTICLE MACE",
+      "name_short" : "295690",
+      "url_achievements" : "http://steamcommunity.com/stats/295690/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/295690/304fb0ac2de1930367d3193725a732c8865027c4.jpg",
+      "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "POSTAL" : {
       "achievement_hardest" : "0.039",
@@ -1708,6 +1734,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2700/7addd959192ec30a7c34793440c4ae16b59914b1.jpg",
       "url_store" : "http://store.steampowered.com/app/2700/"
    },
+   "Rolling Sun" : {
+      "app_id" : "371670",
+      "name" : "Rolling Sun",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/371670/8af9e7fcc9b8786ba5b5097f47ec11f9712ea40c.jpg",
+      "url_store" : "http://store.steampowered.com/app/371670/"
+   },
    "Sanctum" : {
       "achievement_hardest" : "0.005",
       "achievement_median" : "0.014",
@@ -1820,7 +1854,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2765",
+      "achievement_median" : "0.276",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1942,7 +1976,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.096",
+      "achievement_hardest" : "0.095",
       "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "234940",
@@ -1978,7 +2012,7 @@
       "url_store" : "http://store.steampowered.com/app/204240/"
    },
    "The Bureau: XCOM Declassified" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "65930",
@@ -2063,7 +2097,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2075,7 +2109,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2087,7 +2121,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.1805",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2180,8 +2214,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.214",
-      "achievement_median" : "0.214",
+      "achievement_hardest" : "0.213",
+      "achievement_median" : "0.213",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2205,7 +2239,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2231,7 +2265,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2267,7 +2301,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2398,7 +2432,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.2645",
+      "achievement_median" : "0.2635",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2410,7 +2444,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
