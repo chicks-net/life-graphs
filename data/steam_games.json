@@ -20,7 +20,7 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.015",
       "achievements" : true,
       "app_id" : "317250",
@@ -569,7 +569,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -634,7 +634,7 @@
       "url_store" : "http://store.steampowered.com/app/291150/"
    },
    "FEZ" : {
-      "achievement_hardest" : "0.049",
+      "achievement_hardest" : "0.05",
       "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "224760",
@@ -808,7 +808,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4295",
+      "achievement_median" : "0.429",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -950,7 +950,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3265",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -986,7 +986,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.044",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
       "url_store" : "http://store.steampowered.com/app/320/"
    },
    "Half-Life 2: Episode One" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "380",
@@ -1146,7 +1146,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1158,7 +1158,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.265",
-      "achievement_median" : "0.554",
+      "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1279,7 +1279,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.151",
+      "achievement_hardest" : "0.152",
       "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "266010",
@@ -1319,7 +1319,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.0125",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1554,7 +1554,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.521",
+      "achievement_median" : "0.5215",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1818,7 +1818,7 @@
    },
    "Signal Ops" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0085",
+      "achievement_median" : "0.008",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -1950,7 +1950,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
@@ -2097,7 +2097,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2109,7 +2109,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2121,7 +2121,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.1795",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2133,7 +2133,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.168",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.328",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2203,7 +2203,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2239,7 +2239,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
