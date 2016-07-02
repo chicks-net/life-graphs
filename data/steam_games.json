@@ -114,7 +114,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -477,7 +477,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.1445",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -569,7 +569,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1041,7 +1041,7 @@
       "url_store" : "http://store.steampowered.com/app/320/"
    },
    "Half-Life 2: Episode One" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "380",
@@ -1146,7 +1146,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1157,7 +1157,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.265",
+      "achievement_hardest" : "0.264",
       "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "304410",
@@ -1268,7 +1268,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1578,7 +1578,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1603,7 +1603,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.011",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -1687,7 +1687,7 @@
    },
    "Revenge of the Titans" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.057",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "93200",
       "global_achievements" : true,
@@ -2048,8 +2048,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.385",
-      "achievement_median" : "0.5135",
+      "achievement_hardest" : "0.384",
+      "achievement_median" : "0.513",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2097,7 +2097,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2895",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2121,7 +2121,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1795",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2133,7 +2133,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.168",
-      "achievement_median" : "0.328",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2214,8 +2214,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.213",
-      "achievement_median" : "0.213",
+      "achievement_hardest" : "0.214",
+      "achievement_median" : "0.214",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2482,7 +2482,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
