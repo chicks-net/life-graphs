@@ -1,4 +1,18 @@
 {
+   "12 is Better Than 6" : {
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.292",
+      "achievements" : true,
+      "app_id" : "410110",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "12 is Better Than 6",
+      "name_short" : "410110",
+      "url_achievements" : "http://steamcommunity.com/stats/410110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/410110/940e82cb56b2cd604f3e5a33da573e2dbf32c9a2.jpg",
+      "url_store" : "http://store.steampowered.com/app/410110/"
+   },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.012",
       "achievement_median" : "0.137",
@@ -21,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.015",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -114,7 +128,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -221,7 +235,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -289,7 +303,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -456,7 +470,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -569,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -667,7 +681,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.1455",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -678,8 +692,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.629",
-      "achievement_median" : "0.664",
+      "achievement_hardest" : "0.626",
+      "achievement_median" : "0.661",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -819,8 +833,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4285",
+      "achievement_hardest" : "0.112",
+      "achievement_median" : "0.428",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -846,7 +860,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -932,13 +946,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
@@ -997,7 +1011,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "365450",
@@ -1054,7 +1068,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.165",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1169,8 +1183,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.263",
-      "achievement_median" : "0.551",
+      "achievement_hardest" : "0.262",
+      "achievement_median" : "0.55",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1291,7 +1305,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.152",
+      "achievement_hardest" : "0.153",
       "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "266010",
@@ -1304,7 +1318,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1603,7 +1617,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.0245",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1781,7 +1795,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1145",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1866,7 +1880,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.276",
+      "achievement_median" : "0.2755",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1963,7 +1977,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2060,8 +2074,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.384",
-      "achievement_median" : "0.5135",
+      "achievement_hardest" : "0.385",
+      "achievement_median" : "0.513",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2109,7 +2123,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2885",
+      "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2133,7 +2147,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2226,8 +2240,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.213",
-      "achievement_median" : "0.213",
+      "achievement_hardest" : "0.214",
+      "achievement_median" : "0.214",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2238,8 +2252,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.076",
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2263,7 +2277,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2363,7 +2377,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.125",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2442,7 +2456,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "204180",
@@ -2482,7 +2496,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -2506,7 +2520,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
