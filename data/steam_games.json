@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.2925",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -115,8 +115,8 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.067",
-      "achievement_median" : "0.084",
+      "achievement_hardest" : "0.066",
+      "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.271",
+      "achievement_median" : "0.272",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -692,8 +692,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.626",
-      "achievement_median" : "0.661",
+      "achievement_hardest" : "0.624",
+      "achievement_median" : "0.659",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -976,7 +976,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3265",
+      "achievement_median" : "0.326",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1068,7 +1068,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1080,7 +1080,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1183,7 +1183,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.262",
+      "achievement_hardest" : "0.261",
       "achievement_median" : "0.55",
       "achievements" : true,
       "app_id" : "304410",
@@ -1195,8 +1195,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.385",
-      "achievement_median" : "0.633",
+      "achievement_hardest" : "0.384",
+      "achievement_median" : "0.6335",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1282,7 +1282,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.304",
+      "achievement_median" : "0.3045",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1306,7 +1306,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.153",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.212",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1331,7 +1331,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1467,8 +1467,8 @@
       "url_store" : "http://store.steampowered.com/app/4920/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1592,7 +1592,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1604,7 +1604,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1795,7 +1795,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.385",
-      "achievement_median" : "0.513",
+      "achievement_median" : "0.5135",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2123,7 +2123,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2895",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2135,7 +2135,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2147,7 +2147,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2171,7 +2171,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.005",
+      "achievement_median" : "0.0055",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -2228,7 +2228,7 @@
       "url_store" : "http://store.steampowered.com/app/398710/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "385770",
@@ -2253,7 +2253,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2482,7 +2482,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -2496,7 +2496,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
