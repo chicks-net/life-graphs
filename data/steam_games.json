@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.014",
+      "achievement_median" : "0.015",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -128,7 +128,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -142,7 +142,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -470,7 +470,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -692,8 +692,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.625",
-      "achievement_median" : "0.659",
+      "achievement_hardest" : "0.626",
+      "achievement_median" : "0.66",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -785,8 +785,8 @@
       "url_store" : "http://store.steampowered.com/app/61310/"
    },
    "Free to Play" : {
-      "achievement_hardest" : "0.109",
-      "achievement_median" : "0.179",
+      "achievement_hardest" : "0.11",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "245550",
       "global_achievements" : true,
@@ -1184,7 +1184,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.261",
-      "achievement_median" : "0.551",
+      "achievement_median" : "0.552",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1628,7 +1628,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "317610",
@@ -1795,7 +1795,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -1976,8 +1976,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.106",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2123,7 +2123,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2885",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2147,7 +2147,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.1775",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2159,7 +2159,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.168",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.328",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2253,7 +2253,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2470,7 +2470,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.2635",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
