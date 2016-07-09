@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.295",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -154,7 +154,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.1475",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -470,7 +470,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -692,8 +692,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.626",
-      "achievement_median" : "0.66",
+      "achievement_hardest" : "0.627",
+      "achievement_median" : "0.661",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -729,7 +729,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -1148,7 +1148,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1195,8 +1195,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.385",
-      "achievement_median" : "0.634",
+      "achievement_hardest" : "0.386",
+      "achievement_median" : "0.6345",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1221,7 +1221,7 @@
       "url_store" : "http://store.steampowered.com/app/327890/"
    },
    "Indie Game: The Movie" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "207080",
@@ -1456,7 +1456,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0125",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1916,7 +1916,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0815",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2253,7 +2253,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2496,7 +2496,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -2520,7 +2520,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
