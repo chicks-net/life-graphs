@@ -142,7 +142,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -207,7 +207,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -235,7 +235,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.273",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -491,7 +491,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.1445",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -766,7 +766,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0795",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1135,7 +1135,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.101",
+      "achievement_hardest" : "0.102",
       "achievement_median" : "0.438",
       "achievements" : true,
       "app_id" : "368370",
@@ -1172,7 +1172,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.427",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1196,7 +1196,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.386",
-      "achievement_median" : "0.6345",
+      "achievement_median" : "0.635",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1282,7 +1282,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.3045",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1294,7 +1294,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.153",
-      "achievement_median" : "0.212",
+      "achievement_hardest" : "0.154",
+      "achievement_median" : "0.213",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1604,7 +1604,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1617,7 +1617,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1880,7 +1880,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2755",
+      "achievement_median" : "0.275",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1977,7 +1977,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.385",
-      "achievement_median" : "0.5135",
+      "achievement_median" : "0.514",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2110,8 +2110,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.145",
-      "achievement_median" : "0.145",
+      "achievement_hardest" : "0.146",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2252,7 +2252,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "395160",
@@ -2277,7 +2277,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2456,7 +2456,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "204180",
@@ -2470,7 +2470,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.2635",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -2520,7 +2520,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
