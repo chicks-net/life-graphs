@@ -61,7 +61,7 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 #	print "blocks.yesterday $metric $unix_seconds $days_ago\n";
 	$data_item = { time => $unix_seconds, value => $metric };
 	push (@data_blocks_yesterday, $data_item)
-		if ($days_ago < 326);
+		if ($days_ago < 365);
 
 }
 
