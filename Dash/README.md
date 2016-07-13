@@ -1,13 +1,6 @@
 chicks dashboard
 ================
 
-fitbit
-------
-![fitbit!](fitbit_chicks.png)
-
-:information_source: :walking: Fitbit stats are currently downloaded by a human so expect heinous latency. :satellite:
-Everything else is updated daily by reliable machines.
-
 distributed.net
 ---------------
 ![rc5_rank](rank_rc5-72_chicks.png)
