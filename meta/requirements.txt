@@ -1,0 +1,8 @@
+[Perl]
+DateTime
+LWP::Simple
+JSON
+Chart::Strip
+Readonly
+Text::CSV
+Statistics::Basic
