@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.299",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.273",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -388,7 +388,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -411,8 +411,8 @@
       "url_store" : "http://store.steampowered.com/app/203770/"
    },
    "Cube & Star: An Arbitrary Love" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.09",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -491,7 +491,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1445",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -693,7 +693,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.629",
-      "achievement_median" : "0.662",
+      "achievement_median" : "0.663",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1011,7 +1011,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.045",
+      "achievement_hardest" : "0.046",
       "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
@@ -1517,7 +1517,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.039",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "232770",
@@ -1580,7 +1580,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.5215",
+      "achievement_median" : "0.5225",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2135,7 +2135,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2240,8 +2240,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.214",
-      "achievement_median" : "0.214",
+      "achievement_hardest" : "0.215",
+      "achievement_median" : "0.215",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2469,7 +2469,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.109",
+      "achievement_hardest" : "0.11",
       "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "288060",
