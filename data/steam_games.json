@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.299",
+      "achievement_median" : "0.2995",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -127,7 +127,7 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "454060",
@@ -523,7 +523,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -693,7 +693,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.629",
-      "achievement_median" : "0.663",
+      "achievement_median" : "0.662",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -753,7 +753,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.147",
+      "achievement_hardest" : "0.148",
       "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "343930",
@@ -1044,7 +1044,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1184,7 +1184,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.262",
-      "achievement_median" : "0.553",
+      "achievement_median" : "0.554",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1222,7 +1222,7 @@
    },
    "Indie Game: The Movie" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "207080",
       "global_achievements" : true,
@@ -1305,7 +1305,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.154",
+      "achievement_hardest" : "0.155",
       "achievement_median" : "0.214",
       "achievements" : true,
       "app_id" : "266010",
@@ -1468,7 +1468,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1617,7 +1617,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2099,7 +2099,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.226",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2147,7 +2147,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.1785",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2469,7 +2469,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.11",
+      "achievement_hardest" : "0.109",
       "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "288060",
