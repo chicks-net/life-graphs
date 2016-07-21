@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.302",
+      "achievement_median" : "0.3025",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "346900",
@@ -188,7 +188,7 @@
       "name" : "Bridge Constructor",
       "name_short" : "BridgeConstructor",
       "url_achievements" : "http://steamcommunity.com/stats/BridgeConstructor/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250460/39853c8a79229e95e95d8599012d0a9d819d5850.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250460/8bad0180c742dd38d79898ea1c3b6e823fc7b448.jpg",
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
@@ -491,7 +491,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.1455",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -692,8 +692,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.63",
-      "achievement_median" : "0.663",
+      "achievement_hardest" : "0.631",
+      "achievement_median" : "0.664",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -958,13 +958,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -976,7 +976,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3265",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1196,7 +1196,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.389",
-      "achievement_median" : "0.637",
+      "achievement_median" : "0.6375",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1205,6 +1205,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/271900/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/3ecc67fe65e8a2f0677c154e8ec70318b7363383.jpg",
       "url_store" : "http://store.steampowered.com/app/271900/"
+   },
+   "Hook" : {
+      "achievement_hardest" : "0.337",
+      "achievement_median" : "0.337",
+      "achievements" : true,
+      "app_id" : "367580",
+      "global_achievements" : true,
+      "name" : "Hook",
+      "name_short" : "367580",
+      "url_achievements" : "http://steamcommunity.com/stats/367580/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367580/e1ee63f7f0603048e59b6ad107f920856028927e.jpg",
+      "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "I am Bread" : {
       "achievement_hardest" : "0.005",
@@ -1331,7 +1343,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
