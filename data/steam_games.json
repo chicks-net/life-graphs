@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.3025",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "346900",
@@ -116,7 +116,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.066",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.275",
+      "achievement_median" : "0.276",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -523,7 +523,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -595,7 +595,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -729,7 +729,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -1160,7 +1160,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.364",
+      "achievement_median" : "0.365",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1207,8 +1207,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.337",
-      "achievement_median" : "0.337",
+      "achievement_hardest" : "0.338",
+      "achievement_median" : "0.338",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1306,7 +1306,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1318,7 +1318,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.156",
-      "achievement_median" : "0.215",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1628,7 +1628,7 @@
       "url_store" : "http://store.steampowered.com/app/620/"
    },
    "Prison Architect" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "233450",
@@ -1904,7 +1904,7 @@
    },
    "Splice" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "209790",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.025",
-      "achievement_median" : "0.086",
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2481,8 +2481,8 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.11",
-      "achievement_median" : "0.2655",
+      "achievement_hardest" : "0.111",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
