@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.303",
+      "achievement_median" : "0.3035",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "346900",
@@ -278,7 +278,7 @@
       "url_store" : "http://store.steampowered.com/app/262590/"
    },
    "Cities in Motion" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "73010",
@@ -595,7 +595,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -1012,7 +1012,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1148,7 +1148,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1171,7 +1171,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.429",
+      "achievement_hardest" : "0.43",
       "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
@@ -1183,8 +1183,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.264",
-      "achievement_median" : "0.555",
+      "achievement_hardest" : "0.265",
+      "achievement_median" : "0.556",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1207,8 +1207,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.338",
-      "achievement_median" : "0.338",
+      "achievement_hardest" : "0.339",
+      "achievement_median" : "0.339",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1330,7 +1330,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1416,7 +1416,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.099",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1468,7 +1468,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0135",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1480,7 +1480,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1699,7 +1699,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2159,7 +2159,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2265,7 +2265,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
