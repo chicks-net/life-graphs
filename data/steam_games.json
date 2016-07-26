@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.3035",
+      "achievement_median" : "0.304",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "346900",
@@ -116,7 +116,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.066",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -303,7 +303,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -692,8 +692,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.631",
-      "achievement_median" : "0.664",
+      "achievement_hardest" : "0.632",
+      "achievement_median" : "0.665",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -753,7 +753,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.148",
+      "achievement_hardest" : "0.149",
       "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "343930",
@@ -833,7 +833,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.113",
+      "achievement_hardest" : "0.112",
       "achievement_median" : "0.429",
       "achievements" : true,
       "app_id" : "399670",
@@ -894,7 +894,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -1068,7 +1068,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.165",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1148,7 +1148,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0265",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1196,7 +1196,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.39",
-      "achievement_median" : "0.6375",
+      "achievement_median" : "0.638",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.058",
+      "achievement_hardest" : "0.059",
       "achievement_median" : "0.3055",
       "achievements" : true,
       "app_id" : "246420",
@@ -1354,6 +1354,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/L4D2/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg",
       "url_store" : "http://store.steampowered.com/app/550/"
+   },
+   "Life Is Strange™" : {
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.1675",
+      "achievements" : true,
+      "app_id" : "319630",
+      "global_achievements" : true,
+      "name" : "Life Is Strange™",
+      "name_short" : "319630",
+      "url_achievements" : "http://steamcommunity.com/stats/319630/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319630/e92d2b3a0c01be3bdd77ec665a3014028efaa105.jpg",
+      "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Little Cells" : {
       "achievement_hardest" : "0.01",
@@ -1468,7 +1480,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.014",
+      "achievement_median" : "0.0145",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1480,7 +1492,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1591,7 +1603,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.108",
+      "achievement_hardest" : "0.109",
       "achievement_median" : "0.5225",
       "achievements" : true,
       "app_id" : "31280",
@@ -1629,7 +1641,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0275",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1687,7 +1699,7 @@
    },
    "RUSH" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "38720",
       "global_achievements" : true,
@@ -1699,7 +1711,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
