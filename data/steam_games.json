@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.304",
+      "achievement_median" : "0.3045",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "346900",
@@ -128,7 +128,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -595,7 +595,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -693,7 +693,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.632",
-      "achievement_median" : "0.665",
+      "achievement_median" : "0.664",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -754,7 +754,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.149",
-      "achievement_median" : "0.264",
+      "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1068,7 +1068,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.165",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1080,7 +1080,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.32",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1172,7 +1172,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.43",
-      "achievement_median" : "0.693",
+      "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1294,7 +1294,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.306",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1715",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.235",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.1625",
+      "achievement_median" : "0.1635",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1380,7 +1380,7 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "352210",
@@ -1465,7 +1465,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
@@ -1504,7 +1504,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1640,7 +1640,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2134,7 +2134,7 @@
       "url_store" : "http://store.steampowered.com/app/298630/"
    },
    "The LEGO® Movie - Videogame" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
@@ -2171,7 +2171,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2289,7 +2289,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2312,7 +2312,7 @@
       "url_store" : "http://store.steampowered.com/app/38700/"
    },
    "Tomb Raider" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
