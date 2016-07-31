@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.305",
+      "achievement_median" : "0.3055",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "346900",
@@ -154,7 +154,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.1475",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -168,7 +168,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.306",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -267,7 +267,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -278,7 +278,7 @@
       "url_store" : "http://store.steampowered.com/app/262590/"
    },
    "Cities in Motion" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "73010",
@@ -362,7 +362,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "730",
@@ -867,7 +867,7 @@
       "name" : "Garry's Mod",
       "name_short" : "GarrysMod",
       "url_achievements" : "http://steamcommunity.com/stats/GarrysMod/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/dca12980667e32ab072d79f5dbe91884056a03a2.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/b7015ec6048cd54e356acc7877158f7b7cfe5899.jpg",
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
@@ -1080,7 +1080,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.32",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1172,7 +1172,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.43",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.325",
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.3545",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1368,8 +1368,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.161",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.1585",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1465,7 +1465,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
@@ -1699,7 +1699,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0565",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1819,7 +1819,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -1927,7 +1927,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Splice" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "209790",
@@ -2301,7 +2301,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2517,7 +2517,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.111",
+      "achievement_hardest" : "0.112",
       "achievement_median" : "0.2665",
       "achievements" : true,
       "app_id" : "288060",
