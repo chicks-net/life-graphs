@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "346900",
@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.016",
+      "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -115,7 +115,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.066",
+      "achievement_hardest" : "0.067",
       "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "348400",
@@ -193,7 +193,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -669,7 +669,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.2175",
+      "achievement_median" : "0.218",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -754,7 +754,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.149",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -834,7 +834,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.427",
+      "achievement_median" : "0.4265",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -860,7 +860,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1080,7 +1080,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1172,7 +1172,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.43",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.017",
-      "achievement_median" : "0.3825",
+      "achievement_hardest" : "0.019",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1329,8 +1329,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.157",
-      "achievement_median" : "0.217",
+      "achievement_hardest" : "0.158",
+      "achievement_median" : "0.218",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.099",
-      "achievement_median" : "0.099",
+      "achievement_hardest" : "0.097",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1565,7 +1565,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.039",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "232770",
@@ -1603,7 +1603,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "218510",
@@ -2099,7 +2099,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -2337,7 +2337,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
