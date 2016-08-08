@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.3065",
+      "achievement_median" : "0.307",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "346900",
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -523,7 +523,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1925",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.129",
+      "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -681,7 +681,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.1465",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1294,7 +1294,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.3065",
+      "achievement_median" : "0.307",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.4265",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.437",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1318,7 +1318,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.101",
-      "achievement_median" : "0.101",
+      "achievement_hardest" : "0.098",
+      "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1452,7 +1452,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1652,7 +1652,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1734,8 +1734,8 @@
       "url_store" : "http://store.steampowered.com/app/38720/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_hardest" : "0.032",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1952,7 +1952,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2063,7 +2063,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.556",
+      "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2134,7 +2134,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.385",
+      "achievement_hardest" : "0.386",
       "achievement_median" : "0.514",
       "achievements" : true,
       "app_id" : "319550",
@@ -2183,7 +2183,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.2885",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2195,7 +2195,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.1995",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2312,7 +2312,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "395160",
@@ -2337,7 +2337,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
