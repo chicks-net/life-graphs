@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.3075",
+      "achievement_median" : "0.308",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "346900",
@@ -154,7 +154,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.1485",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -503,7 +503,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -834,7 +834,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.427",
+      "achievement_median" : "0.4275",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -860,7 +860,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1011,7 +1011,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "365450",
@@ -1044,7 +1044,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1171,7 +1171,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.43",
+      "achievement_hardest" : "0.431",
       "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.4505",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.4575",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.102",
-      "achievement_median" : "0.102",
+      "achievement_hardest" : "0.101",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1452,7 +1452,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1628,7 +1628,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.5225",
+      "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1735,7 +1735,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1952,7 +1952,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2159,7 +2159,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
