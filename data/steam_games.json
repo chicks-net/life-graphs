@@ -193,7 +193,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.274",
+      "achievement_median" : "0.275",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -692,7 +692,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.633",
+      "achievement_hardest" : "0.634",
       "achievement_median" : "0.666",
       "achievements" : true,
       "app_id" : "383870",
@@ -833,7 +833,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.112",
+      "achievement_hardest" : "0.113",
       "achievement_median" : "0.4275",
       "achievements" : true,
       "app_id" : "399670",
@@ -1207,8 +1207,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.343",
-      "achievement_median" : "0.343",
+      "achievement_hardest" : "0.344",
+      "achievement_median" : "0.344",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.4575",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.464",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.1555",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1504,7 +1504,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.015",
+      "achievement_median" : "0.0155",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1652,7 +1652,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1702,10 +1702,14 @@
       "url_store" : "http://store.steampowered.com/app/222140/"
    },
    "Puzzle Agent" : {
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
+      "achievements" : true,
       "app_id" : "31270",
+      "global_achievements" : true,
       "name" : "Puzzle Agent",
-      "name_short" : false,
-      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "name_short" : "31270",
+      "url_achievements" : "http://steamcommunity.com/stats/31270/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31270/f1bd7dd0bae1026b17c61a605a567ed68e683fef.jpg",
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
@@ -1735,7 +1739,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2062,7 +2066,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.557",
       "achievements" : true,
       "app_id" : "445130",
@@ -2135,7 +2139,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.386",
-      "achievement_median" : "0.514",
+      "achievement_median" : "0.5145",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2159,7 +2163,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2275",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2183,7 +2187,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.2885",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2289,7 +2293,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2300,8 +2304,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.216",
-      "achievement_median" : "0.216",
+      "achievement_hardest" : "0.217",
+      "achievement_median" : "0.217",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2313,7 +2317,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2363,7 +2367,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
