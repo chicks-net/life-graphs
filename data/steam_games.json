@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.015",
-      "achievement_median" : "0.116",
+      "achievement_hardest" : "0.016",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -128,7 +128,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -388,7 +388,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.1185",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -958,13 +958,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.468",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.4735",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1330,7 +1330,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.159",
-      "achievement_median" : "0.219",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.112",
-      "achievement_median" : "0.112",
+      "achievement_hardest" : "0.117",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1715,7 +1715,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.057",
+      "achievement_median" : "0.0575",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2029,7 +2029,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2079,7 +2079,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
