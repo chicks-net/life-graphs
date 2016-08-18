@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.3085",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.309",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -179,7 +179,7 @@
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
    "Bridge Constructor" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.0765",
       "achievements" : true,
       "app_id" : "250460",
@@ -193,7 +193,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -860,7 +860,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1306,7 +1306,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.4815",
+      "achievement_median" : "0.4855",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1555",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.128",
-      "achievement_median" : "0.128",
+      "achievement_hardest" : "0.127",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1652,7 +1652,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1896,7 +1896,7 @@
    },
    "Signal Ops" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.008",
+      "achievement_median" : "0.0085",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -2079,7 +2079,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -2292,7 +2292,7 @@
       "url_store" : "http://store.steampowered.com/app/398710/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "385770",
@@ -2534,7 +2534,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.2675",
+      "achievement_median" : "0.2685",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
