@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "346900",
@@ -59,7 +59,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0905",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.276",
+      "achievement_median" : "0.277",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -412,7 +412,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -693,7 +693,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.634",
-      "achievement_median" : "0.666",
+      "achievement_median" : "0.667",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1293,7 +1293,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.3075",
       "achievements" : true,
       "app_id" : "246420",
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.04",
-      "achievement_median" : "0.4855",
+      "achievement_hardest" : "0.041",
+      "achievement_median" : "0.488",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.127",
-      "achievement_median" : "0.127",
+      "achievement_hardest" : "0.126",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1603,7 +1603,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "218510",
@@ -2139,7 +2139,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.386",
-      "achievement_median" : "0.5145",
+      "achievement_median" : "0.515",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2317,7 +2317,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.094",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2403,7 +2403,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.067",
+      "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2534,7 +2534,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.2685",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
