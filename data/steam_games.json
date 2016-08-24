@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.3095",
+      "achievement_median" : "0.31",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -399,8 +399,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "Crusader Kings II" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.007",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.006",
       "achievements" : true,
       "app_id" : "203770",
       "global_achievements" : true,
@@ -681,7 +681,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.1475",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -753,7 +753,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.149",
+      "achievement_hardest" : "0.15",
       "achievement_median" : "0.264",
       "achievements" : true,
       "app_id" : "343930",
@@ -872,7 +872,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1171,8 +1171,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.431",
-      "achievement_median" : "0.6935",
+      "achievement_hardest" : "0.43",
+      "achievement_median" : "0.6945",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1183,8 +1183,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.268",
-      "achievement_median" : "0.558",
+      "achievement_hardest" : "0.267",
+      "achievement_median" : "0.556",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1195,8 +1195,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.393",
-      "achievement_median" : "0.6395",
+      "achievement_hardest" : "0.392",
+      "achievement_median" : "0.6385",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.043",
-      "achievement_median" : "0.4975",
+      "achievement_hardest" : "0.044",
+      "achievement_median" : "0.5",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.1545",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.126",
-      "achievement_median" : "0.126",
+      "achievement_hardest" : "0.125",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2067,7 +2067,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.56",
+      "achievement_median" : "0.561",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2139,7 +2139,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.386",
-      "achievement_median" : "0.515",
+      "achievement_median" : "0.5145",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2341,7 +2341,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2560,7 +2560,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -2616,7 +2616,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.076",
+      "achievement_median" : "0.0765",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
