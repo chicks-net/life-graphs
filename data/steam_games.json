@@ -206,7 +206,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.049",
       "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "279990",
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -728,7 +728,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "201510",
@@ -1068,7 +1068,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.166",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1183,8 +1183,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.264",
-      "achievement_median" : "0.551",
+      "achievement_hardest" : "0.263",
+      "achievement_median" : "0.55",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1195,8 +1195,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.386",
-      "achievement_median" : "0.635",
+      "achievement_hardest" : "0.385",
+      "achievement_median" : "0.6345",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1293,8 +1293,8 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.059",
-      "achievement_median" : "0.3065",
+      "achievement_hardest" : "0.057",
+      "achievement_median" : "0.3",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1305,8 +1305,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.045",
-      "achievement_median" : "0.504",
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.5035",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1330,7 +1330,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.161",
-      "achievement_median" : "0.221",
+      "achievement_median" : "0.222",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1545",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.129",
-      "achievement_median" : "0.129",
+      "achievement_hardest" : "0.128",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1665,7 +1665,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2187,7 +2187,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.2885",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2199,7 +2199,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2222,7 +2222,7 @@
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Thomas Was Alone" : {
-      "achievement_hardest" : "0.168",
+      "achievement_hardest" : "0.169",
       "achievement_median" : "0.329",
       "achievements" : true,
       "app_id" : "220780",
@@ -2329,7 +2329,7 @@
    },
    "Toki Tori" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "38700",
       "global_achievements" : true,
@@ -2616,7 +2616,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0765",
+      "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
