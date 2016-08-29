@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.275",
+      "achievement_median" : "0.276",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -692,7 +692,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.634",
+      "achievement_hardest" : "0.635",
       "achievement_median" : "0.667",
       "achievements" : true,
       "app_id" : "383870",
@@ -1160,7 +1160,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1171,8 +1171,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6895",
+      "achievement_hardest" : "0.424",
+      "achievement_median" : "0.6885",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1183,8 +1183,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.263",
-      "achievement_median" : "0.55",
+      "achievement_hardest" : "0.262",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1195,8 +1195,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.385",
-      "achievement_median" : "0.6345",
+      "achievement_hardest" : "0.384",
+      "achievement_median" : "0.635",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1293,8 +1293,8 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.057",
-      "achievement_median" : "0.3",
+      "achievement_hardest" : "0.056",
+      "achievement_median" : "0.297",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1306,7 +1306,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.5035",
+      "achievement_median" : "0.505",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.1545",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1956,7 +1956,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2079,7 +2079,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -2138,7 +2138,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.386",
+      "achievement_hardest" : "0.387",
       "achievement_median" : "0.5145",
       "achievements" : true,
       "app_id" : "319550",
@@ -2187,7 +2187,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.2885",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2304,8 +2304,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.217",
-      "achievement_median" : "0.217",
+      "achievement_hardest" : "0.218",
+      "achievement_median" : "0.218",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2317,7 +2317,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
