@@ -116,7 +116,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -142,7 +142,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -388,7 +388,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -400,7 +400,7 @@
    },
    "Crusader Kings II" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.006",
+      "achievement_median" : "0.0065",
       "achievements" : true,
       "app_id" : "203770",
       "global_achievements" : true,
@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1012,7 +1012,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.128",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1171,7 +1171,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.423",
+      "achievement_hardest" : "0.424",
       "achievement_median" : "0.6885",
       "achievements" : true,
       "app_id" : "265890",
@@ -1184,7 +1184,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.26",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1195,7 +1195,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.383",
+      "achievement_hardest" : "0.384",
       "achievement_median" : "0.6355",
       "achievements" : true,
       "app_id" : "271900",
@@ -1294,7 +1294,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.057",
-      "achievement_median" : "0.3",
+      "achievement_median" : "0.3005",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1306,7 +1306,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.5095",
+      "achievement_median" : "0.5105",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1535",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1415,8 +1415,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.133",
-      "achievement_median" : "0.133",
+      "achievement_hardest" : "0.132",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1440,7 +1440,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1739,7 +1739,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1932,7 +1932,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2745",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2222,7 +2222,7 @@
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Thomas Was Alone" : {
-      "achievement_hardest" : "0.169",
+      "achievement_hardest" : "0.168",
       "achievement_median" : "0.329",
       "achievements" : true,
       "app_id" : "220780",
@@ -2596,7 +2596,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
