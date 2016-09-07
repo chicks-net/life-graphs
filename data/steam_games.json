@@ -583,7 +583,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -754,7 +754,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.15",
-      "achievement_median" : "0.266",
+      "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1196,7 +1196,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.384",
-      "achievement_median" : "0.636",
+      "achievement_median" : "0.6365",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1306,7 +1306,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.513",
+      "achievement_median" : "0.5145",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1369,7 +1369,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1535",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1440,7 +1440,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1578,7 +1578,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -2055,7 +2055,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.095",
-      "achievement_median" : "0.1085",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2186,7 +2186,7 @@
       "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "The Stanley Parable" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "221910",
@@ -2222,7 +2222,7 @@
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Thomas Was Alone" : {
-      "achievement_hardest" : "0.169",
+      "achievement_hardest" : "0.168",
       "achievement_median" : "0.328",
       "achievements" : true,
       "app_id" : "220780",
@@ -2316,8 +2316,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.098",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2628,7 +2628,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0765",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
