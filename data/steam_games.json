@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.3115",
+      "achievement_median" : "0.312",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -523,7 +523,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -595,7 +595,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1855",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -822,7 +822,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -1195,7 +1195,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.384",
+      "achievement_hardest" : "0.385",
       "achievement_median" : "0.637",
       "achievements" : true,
       "app_id" : "271900",
@@ -1306,7 +1306,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.5155",
+      "achievement_median" : "0.5165",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1516,7 +1516,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1578,7 +1578,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1738,7 +1738,7 @@
       "url_store" : "http://store.steampowered.com/app/38720/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
@@ -2029,7 +2029,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
