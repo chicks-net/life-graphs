@@ -609,7 +609,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -707,7 +707,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1475",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -719,7 +719,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.635",
-      "achievement_median" : "0.668",
+      "achievement_median" : "0.667",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -860,7 +860,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.113",
-      "achievement_median" : "0.428",
+      "achievement_median" : "0.4275",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -919,7 +919,7 @@
       "url_store" : "http://store.steampowered.com/app/234040/"
    },
    "Goat Simulator" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "265930",
@@ -1197,7 +1197,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.424",
+      "achievement_hardest" : "0.425",
       "achievement_median" : "0.689",
       "achievements" : true,
       "app_id" : "265890",
@@ -1332,7 +1332,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.518",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1441,8 +1441,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.133",
-      "achievement_median" : "0.133",
+      "achievement_hardest" : "0.141",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1530,7 +1530,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.017",
+      "achievement_median" : "0.0175",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1603,8 +1603,8 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "Pivvot" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.045",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1653,7 +1653,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.109",
+      "achievement_hardest" : "0.11",
       "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "31280",
@@ -1860,7 +1860,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.032",
       "achievements" : true,
       "app_id" : "293200",
@@ -1958,7 +1958,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2735",
+      "achievement_median" : "0.273",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -1970,7 +1970,7 @@
    },
    "Splice" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.1375",
       "achievements" : true,
       "app_id" : "209790",
       "global_achievements" : true,
@@ -2224,8 +2224,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.195",
+      "achievement_hardest" : "0.027",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2237,7 +2237,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2249,7 +2249,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.169",
-      "achievement_median" : "0.328",
+      "achievement_median" : "0.329",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2305,7 +2305,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
