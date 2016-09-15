@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.313",
+      "achievement_median" : "0.3135",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.118",
+      "achievement_hardest" : "0.019",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -142,7 +142,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -219,7 +219,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0225",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -633,7 +633,7 @@
       "url_store" : "http://store.steampowered.com/app/57900/"
    },
    "Dungeon Defenders" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "65800",
@@ -1002,7 +1002,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.3275",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1331,7 +1331,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.051",
       "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "458710",
@@ -1344,7 +1344,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1441,8 +1441,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.141",
-      "achievement_median" : "0.141",
+      "achievement_hardest" : "0.146",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1765,7 +1765,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2249,7 +2249,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.169",
-      "achievement_median" : "0.328",
+      "achievement_median" : "0.329",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2304,7 +2304,7 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "Timberman" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "398710",
@@ -2429,7 +2429,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2572,7 +2572,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.113",
-      "achievement_median" : "0.27",
+      "achievement_median" : "0.2695",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
