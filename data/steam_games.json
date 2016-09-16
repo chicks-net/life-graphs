@@ -129,7 +129,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.069",
+      "achievement_hardest" : "0.068",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
@@ -180,7 +180,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.1495",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -246,7 +246,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "419080",
@@ -389,7 +389,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -549,7 +549,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -766,7 +766,7 @@
       "url_store" : "http://store.steampowered.com/app/201510/"
    },
    "Flight Control HD" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.2555",
       "achievements" : true,
       "app_id" : "62000",
@@ -1319,7 +1319,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.057",
+      "achievement_hardest" : "0.058",
       "achievement_median" : "0.302",
       "achievements" : true,
       "app_id" : "246420",
@@ -1332,7 +1332,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.5195",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1344,7 +1344,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1355,7 +1355,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.163",
+      "achievement_hardest" : "0.164",
       "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "266010",
@@ -1441,8 +1441,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.146",
-      "achievement_median" : "0.146",
+      "achievement_hardest" : "0.156",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1604,7 +1604,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1970,7 +1970,7 @@
    },
    "Splice" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1375",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "209790",
       "global_achievements" : true,
@@ -2165,7 +2165,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.387",
-      "achievement_median" : "0.515",
+      "achievement_median" : "0.5145",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2237,7 +2237,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1765",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
