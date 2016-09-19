@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.3145",
+      "achievement_median" : "0.315",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -129,7 +129,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.068",
+      "achievement_hardest" : "0.069",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.022",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -389,7 +389,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -549,7 +549,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -621,7 +621,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -897,8 +897,8 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.11",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1162,7 +1162,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.104",
-      "achievement_median" : "0.439",
+      "achievement_median" : "0.44",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1185,7 +1185,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.052",
+      "achievement_hardest" : "0.053",
       "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
@@ -1332,7 +1332,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.5205",
+      "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1592,7 +1592,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.076",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1765,7 +1765,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1982,7 +1982,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2055,7 +2055,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2092,8 +2092,8 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.063",
-      "achievement_median" : "0.563",
+      "achievement_hardest" : "0.064",
+      "achievement_median" : "0.564",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2189,7 +2189,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2275",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2225,7 +2225,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2237,7 +2237,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1775",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2343,7 +2343,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2572,7 +2572,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.113",
-      "achievement_median" : "0.2695",
+      "achievement_median" : "0.2705",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
