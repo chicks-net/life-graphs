@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.315",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.3155",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -75,7 +75,6 @@
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Anomaly Warzone Earth",
       "name_short" : "AnomalyWarZoneEarth",
       "url_achievements" : "http://steamcommunity.com/stats/AnomalyWarZoneEarth/achievements/compare/",
@@ -84,7 +83,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -156,7 +155,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -210,7 +209,6 @@
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Bridge Constructor",
       "name_short" : "BridgeConstructor",
       "url_achievements" : "http://steamcommunity.com/stats/BridgeConstructor/achievements/compare/",
@@ -414,7 +412,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -455,6 +453,7 @@
       "app_id" : "207250",
       "global_achievements" : true,
       "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Cubemen",
       "name_short" : "Cubemen",
       "url_achievements" : "http://steamcommunity.com/stats/Cubemen/achievements/compare/",
@@ -609,7 +608,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -625,7 +624,6 @@
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Duke Nukem Forever",
       "name_short" : "DukeNukemForever",
       "url_achievements" : "http://steamcommunity.com/stats/DukeNukemForever/achievements/compare/",
@@ -650,7 +648,6 @@
       "achievements" : true,
       "app_id" : "38740",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "EDGE",
       "name_short" : "Edge",
       "url_achievements" : "http://steamcommunity.com/stats/Edge/achievements/compare/",
@@ -707,7 +704,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.1475",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -771,7 +768,6 @@
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Flight Control HD",
       "name_short" : "FlightControlHD",
       "url_achievements" : "http://steamcommunity.com/stats/FlightControlHD/achievements/compare/",
@@ -1070,7 +1066,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1185,7 +1181,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.053",
+      "achievement_hardest" : "0.052",
       "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
@@ -1209,7 +1205,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.26",
+      "achievement_hardest" : "0.261",
       "achievement_median" : "0.551",
       "achievements" : true,
       "app_id" : "304410",
@@ -1221,7 +1217,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.386",
+      "achievement_hardest" : "0.387",
       "achievement_median" : "0.639",
       "achievements" : true,
       "app_id" : "271900",
@@ -1320,7 +1316,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.302",
+      "achievement_median" : "0.3025",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1331,8 +1327,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.052",
-      "achievement_median" : "0.521",
+      "achievement_hardest" : "0.053",
+      "achievement_median" : "0.5215",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1433,7 +1429,6 @@
       "achievements" : true,
       "app_id" : "42910",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Magicka",
       "name_short" : "Magicka",
       "url_achievements" : "http://steamcommunity.com/stats/Magicka/achievements/compare/",
@@ -1478,7 +1473,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1654,7 +1649,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.523",
+      "achievement_median" : "0.5235",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1682,7 +1677,6 @@
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Portal 2",
       "name_short" : "Portal2",
       "url_achievements" : "http://steamcommunity.com/stats/Portal2/achievements/compare/",
@@ -1741,7 +1735,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0575",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1819,7 +1813,6 @@
       "achievements" : true,
       "app_id" : "22230",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Rock of Ages",
       "name_short" : "RockOfAges",
       "url_achievements" : "http://steamcommunity.com/stats/RockOfAges/achievements/compare/",
@@ -1852,7 +1845,6 @@
       "achievements" : true,
       "app_id" : "91600",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Sanctum",
       "name_short" : "Sanctum",
       "url_achievements" : "http://steamcommunity.com/stats/Sanctum/achievements/compare/",
@@ -1878,6 +1870,7 @@
       "app_id" : "41070",
       "global_achievements" : true,
       "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Serious Sam 3: BFE",
       "name_short" : "SeriousSam3BFE",
       "url_achievements" : "http://steamcommunity.com/stats/SeriousSam3BFE/achievements/compare/",
@@ -2022,7 +2015,6 @@
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Super Meat Boy",
       "name_short" : "SuperMeatBoy",
       "url_achievements" : "http://steamcommunity.com/stats/SuperMeatBoy/achievements/compare/",
@@ -2059,7 +2051,6 @@
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Team Fortress 2",
       "name_short" : "TF2",
       "stats" : true,
@@ -2189,7 +2180,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2224,7 +2215,7 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "257510",
@@ -2343,7 +2334,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2383,11 +2374,10 @@
       "achievements" : true,
       "app_id" : "214360",
       "global_achievements" : true,
-      "global_leaderboards" : true,
       "name" : "Tower Wars",
-      "name_short" : "TowerWars",
+      "name_short" : "214360",
       "stats" : true,
-      "url_achievements" : "http://steamcommunity.com/stats/TowerWars/achievements/compare/",
+      "url_achievements" : "http://steamcommunity.com/stats/214360/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214360/4c0065c5489898d092bf778632529efcab3a8b1e.jpg",
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
@@ -2429,7 +2419,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2466,7 +2456,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.123",
+      "achievement_hardest" : "0.122",
       "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "306660",
@@ -2564,6 +2554,7 @@
       "app_id" : "204180",
       "global_achievements" : true,
       "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Waveform",
       "name_short" : "Waveform",
       "url_achievements" : "http://steamcommunity.com/stats/Waveform/achievements/compare/",
@@ -2571,7 +2562,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.113",
+      "achievement_hardest" : "0.114",
       "achievement_median" : "0.2705",
       "achievements" : true,
       "app_id" : "288060",
