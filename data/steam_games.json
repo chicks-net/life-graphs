@@ -143,7 +143,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -157,7 +157,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1076,7 +1076,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1191,7 +1191,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.053",
+      "achievement_hardest" : "0.052",
       "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
@@ -1203,7 +1203,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.425",
+      "achievement_hardest" : "0.426",
       "achievement_median" : "0.6895",
       "achievements" : true,
       "app_id" : "265890",
@@ -1361,7 +1361,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.164",
+      "achievement_hardest" : "0.165",
       "achievement_median" : "0.225",
       "achievements" : true,
       "app_id" : "266010",
@@ -1401,7 +1401,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.153",
+      "achievement_median" : "0.1535",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1537,7 +1537,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0175",
+      "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1661,7 +1661,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.5235",
+      "achievement_median" : "0.524",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.273",
+      "achievement_median" : "0.2725",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2356,7 +2356,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2612,7 +2612,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "262410",
