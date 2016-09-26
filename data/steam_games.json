@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/205870/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "218060",
@@ -723,7 +723,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.319",
       "achievements" : true,
       "app_id" : "383870",
@@ -926,7 +926,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -1168,7 +1168,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.104",
-      "achievement_median" : "0.439",
+      "achievement_median" : "0.44",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1204,7 +1204,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.69",
+      "achievement_median" : "0.6895",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1216,7 +1216,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.261",
-      "achievement_median" : "0.551",
+      "achievement_median" : "0.552",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1338,7 +1338,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.523",
+      "achievement_median" : "0.524",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1625,7 +1625,7 @@
    },
    "Planetary Annihilation" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "233250",
       "global_achievements" : true,
@@ -1773,7 +1773,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1870,7 +1870,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "293200",
@@ -1992,7 +1992,7 @@
       "url_store" : "http://store.steampowered.com/app/209790/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "297490",
@@ -2106,7 +2106,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.564",
+      "achievement_median" : "0.565",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2178,7 +2178,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.387",
-      "achievement_median" : "0.515",
+      "achievement_median" : "0.5145",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2238,7 +2238,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2332,7 +2332,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
