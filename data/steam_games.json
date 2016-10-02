@@ -84,7 +84,7 @@
       "url_store" : "http://store.steampowered.com/app/91200/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "444220",
@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/205870/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "218060",
@@ -712,7 +712,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -798,7 +798,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0805",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1337,7 +1337,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.506",
       "achievements" : true,
       "app_id" : "458710",
@@ -1401,7 +1401,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1525",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1699,7 +1699,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0325",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2005,7 +2005,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.0845",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2142,7 +2142,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -2178,7 +2178,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.387",
-      "achievement_median" : "0.5145",
+      "achievement_median" : "0.515",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2189,8 +2189,8 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The Escapists" : {
-      "achievement_hardest" : "0.004",
-      "achievement_median" : "0.01",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "298630",
       "global_achievements" : true,
@@ -2356,7 +2356,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2407,7 +2407,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
