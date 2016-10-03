@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3165",
+      "achievement_median" : "0.317",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -263,7 +263,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -724,7 +724,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.321",
+      "achievement_median" : "0.3215",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1228,7 +1228,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.388",
-      "achievement_median" : "0.64",
+      "achievement_median" : "0.6405",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1239,8 +1239,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.348",
-      "achievement_median" : "0.348",
+      "achievement_hardest" : "0.349",
+      "achievement_median" : "0.349",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1337,8 +1337,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.506",
+      "achievement_hardest" : "0.031",
+      "achievement_median" : "0.507",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1361,7 +1361,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.165",
+      "achievement_hardest" : "0.166",
       "achievement_median" : "0.226",
       "achievements" : true,
       "app_id" : "266010",
@@ -1401,7 +1401,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.153",
+      "achievement_median" : "0.1525",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1448,8 +1448,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.152",
-      "achievement_median" : "0.152",
+      "achievement_hardest" : "0.15",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1870,7 +1870,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "293200",
@@ -2189,8 +2189,8 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The Escapists" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.01",
       "achievements" : true,
       "app_id" : "298630",
       "global_achievements" : true,
@@ -2238,7 +2238,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2355,8 +2355,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.03",
-      "achievement_median" : "0.095",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2587,7 +2587,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.114",
-      "achievement_median" : "0.2705",
+      "achievement_median" : "0.2715",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
