@@ -34,7 +34,7 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "317250",
@@ -143,7 +143,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -532,7 +532,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -880,7 +880,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -978,13 +978,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
@@ -1167,7 +1167,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.104",
+      "achievement_hardest" : "0.105",
       "achievement_median" : "0.44",
       "achievements" : true,
       "app_id" : "368370",
@@ -1203,8 +1203,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.425",
-      "achievement_median" : "0.6895",
+      "achievement_hardest" : "0.424",
+      "achievement_median" : "0.6885",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1215,8 +1215,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.262",
-      "achievement_median" : "0.552",
+      "achievement_hardest" : "0.261",
+      "achievement_median" : "0.55",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1227,8 +1227,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.388",
-      "achievement_median" : "0.64",
+      "achievement_hardest" : "0.387",
+      "achievement_median" : "0.639",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1337,8 +1337,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.507",
+      "achievement_hardest" : "0.041",
+      "achievement_median" : "0.508",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1448,8 +1448,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.15",
-      "achievement_median" : "0.15",
+      "achievement_hardest" : "0.148",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1473,7 +1473,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1610,7 +1610,7 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "Pivvot" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "293900",
@@ -1685,7 +1685,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.2715",
+      "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2127,6 +2127,46 @@
       "url_achievements" : "http://steamcommunity.com/stats/BindingOfIsaac/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/113200/d9a7ee7e07dffed1700cb8b3b9482105b88cc5b5.jpg",
       "url_store" : "http://store.steampowered.com/app/113200/"
+   },
+   "The Book of Unwritten Tales" : {
+      "app_id" : "215160",
+      "name" : "The Book of Unwritten Tales",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/215160/93f1f5dfa8843bec47eecf8a281fcb43cb953151.jpg",
+      "url_store" : "http://store.steampowered.com/app/215160/"
+   },
+   "The Book of Unwritten Tales 2" : {
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.405",
+      "achievements" : true,
+      "app_id" : "279940",
+      "global_achievements" : true,
+      "name" : "The Book of Unwritten Tales 2",
+      "name_short" : "279940",
+      "url_achievements" : "http://steamcommunity.com/stats/279940/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/279940/87a3b2264ade049e988276f5ad292d48d83dc070.jpg",
+      "url_store" : "http://store.steampowered.com/app/279940/"
+   },
+   "The Book of Unwritten Tales Extras" : {
+      "app_id" : "215200",
+      "name" : "The Book of Unwritten Tales Extras",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/215200/089471b97a477d1edd139c01370ceaf43b8d2168.jpg",
+      "url_store" : "http://store.steampowered.com/app/215200/"
+   },
+   "The Book of Unwritten Tales: The Critter Chronicles" : {
+      "achievement_hardest" : "0.096",
+      "achievement_median" : "0.4445",
+      "achievements" : true,
+      "app_id" : "221830",
+      "global_achievements" : true,
+      "name" : "The Book of Unwritten Tales: The Critter Chronicles",
+      "name_short" : "TheBookofUnwrittenTalesTheCritterChronicles",
+      "url_achievements" : "http://steamcommunity.com/stats/TheBookofUnwrittenTalesTheCritterChronicles/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221830/af4e537fbc21d53d3e6b40e23656afb567144269.jpg",
+      "url_store" : "http://store.steampowered.com/app/221830/"
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
@@ -2355,8 +2395,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.094",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2367,7 +2407,7 @@
       "url_store" : "http://store.steampowered.com/app/395160/"
    },
    "Toki Tori" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "38700",
@@ -2492,8 +2532,8 @@
       "url_store" : "http://store.steampowered.com/app/306660/"
    },
    "Unium" : {
-      "achievement_hardest" : "0.087",
-      "achievement_median" : "0.121",
+      "achievement_hardest" : "0.088",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -2587,7 +2627,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.114",
-      "achievement_median" : "0.2715",
+      "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
