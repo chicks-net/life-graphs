@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -866,7 +866,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.427",
+      "achievement_median" : "0.4265",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1215,8 +1215,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.26",
-      "achievement_median" : "0.549",
+      "achievement_hardest" : "0.259",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1227,7 +1227,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.386",
+      "achievement_hardest" : "0.385",
       "achievement_median" : "0.6385",
       "achievements" : true,
       "app_id" : "271900",
@@ -1337,7 +1337,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.05",
       "achievement_median" : "0.509",
       "achievements" : true,
       "app_id" : "458710",
@@ -1685,7 +1685,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.271",
+      "achievement_median" : "0.2705",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2105,7 +2105,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.065",
+      "achievement_hardest" : "0.066",
       "achievement_median" : "0.565",
       "achievements" : true,
       "app_id" : "445130",
@@ -2242,7 +2242,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2278,7 +2278,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2407,7 +2407,7 @@
       "url_store" : "http://store.steampowered.com/app/395160/"
    },
    "Toki Tori" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "38700",
@@ -2533,7 +2533,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.087",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -2627,7 +2627,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.114",
-      "achievement_median" : "0.271",
+      "achievement_median" : "0.2715",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
