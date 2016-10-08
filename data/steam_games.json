@@ -157,7 +157,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -612,7 +612,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -724,7 +724,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.3225",
+      "achievement_median" : "0.323",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -866,7 +866,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.4265",
+      "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -880,7 +880,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1191,7 +1191,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.052",
+      "achievement_hardest" : "0.053",
       "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
@@ -1337,7 +1337,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.054",
       "achievement_median" : "0.509",
       "achievements" : true,
       "app_id" : "458710",
@@ -1448,8 +1448,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.148",
-      "achievement_median" : "0.148",
+      "achievement_hardest" : "0.146",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1537,7 +1537,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.0185",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2395,8 +2395,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.03",
-      "achievement_median" : "0.093",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
