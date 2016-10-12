@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3175",
+      "achievement_median" : "0.318",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -724,7 +724,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.1485",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -797,8 +797,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.026",
-      "achievement_median" : "0.03",
+      "achievement_hardest" : "0.025",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -892,7 +892,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.427",
+      "achievement_median" : "0.4275",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1069,7 +1069,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "365450",
@@ -1254,7 +1254,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.385",
-      "achievement_median" : "0.6385",
+      "achievement_median" : "0.639",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1363,7 +1363,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.057",
+      "achievement_hardest" : "0.058",
       "achievement_median" : "0.512",
       "achievements" : true,
       "app_id" : "458710",
@@ -1725,7 +1725,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.0335",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2184,7 +2184,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.444",
+      "achievement_median" : "0.4435",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
