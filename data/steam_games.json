@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.318",
+      "achievement_median" : "0.3185",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -330,8 +330,8 @@
       "url_store" : "http://store.steampowered.com/app/225420/"
    },
    "Cities: Skylines" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0395",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -624,7 +624,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -724,7 +724,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1485",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1125,7 +1125,7 @@
       "url_store" : "http://store.steampowered.com/app/320/"
    },
    "Half-Life 2: Episode One" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "380",
@@ -1363,7 +1363,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.058",
+      "achievement_hardest" : "0.059",
       "achievement_median" : "0.513",
       "achievements" : true,
       "app_id" : "458710",
@@ -1550,7 +1550,7 @@
       "url_store" : "http://store.steampowered.com/app/252750/"
    },
    "Multiwinia" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "1530",
@@ -1896,7 +1896,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "293200",
@@ -2031,7 +2031,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2144,7 +2144,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -2559,7 +2559,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.087",
-      "achievement_median" : "0.1215",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
