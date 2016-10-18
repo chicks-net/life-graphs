@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -235,7 +235,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.135",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.325",
+      "achievement_median" : "0.3255",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -798,7 +798,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1364,7 +1364,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.514",
+      "achievement_median" : "0.515",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1799,7 +1799,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2131,7 +2131,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.066",
+      "achievement_hardest" : "0.067",
       "achievement_median" : "0.566",
       "achievements" : true,
       "app_id" : "445130",
@@ -2473,7 +2473,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2679,7 +2679,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
