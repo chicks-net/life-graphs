@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.3255",
+      "achievement_median" : "0.326",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1230,7 +1230,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.6895",
+      "achievement_median" : "0.69",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1364,7 +1364,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.484",
+      "achievement_median" : "0.4845",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1896,7 +1896,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "293200",
@@ -2184,7 +2184,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.4435",
+      "achievement_median" : "0.444",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2384,7 +2384,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -2446,7 +2446,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2473,7 +2473,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
