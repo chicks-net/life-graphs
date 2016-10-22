@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -84,7 +84,7 @@
       "url_store" : "http://store.steampowered.com/app/91200/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.072",
       "achievements" : true,
       "app_id" : "444220",
@@ -563,7 +563,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "457480",
@@ -735,7 +735,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.326",
       "achievements" : true,
       "app_id" : "383870",
@@ -811,7 +811,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.154",
+      "achievement_hardest" : "0.153",
       "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "343930",
@@ -1241,7 +1241,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.258",
+      "achievement_hardest" : "0.259",
       "achievement_median" : "0.55",
       "achievements" : true,
       "app_id" : "304410",
@@ -1254,7 +1254,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.387",
-      "achievement_median" : "0.64",
+      "achievement_median" : "0.641",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1510,8 +1510,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.105",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1799,7 +1799,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1995,7 +1995,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.2675",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2520,7 +2520,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Turbo Dismount" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "263760",
