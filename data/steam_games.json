@@ -249,7 +249,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0225",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.2185",
+      "achievement_median" : "0.219",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -811,7 +811,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.153",
+      "achievement_hardest" : "0.154",
       "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "343930",
@@ -1253,7 +1253,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.387",
+      "achievement_hardest" : "0.388",
       "achievement_median" : "0.641",
       "achievements" : true,
       "app_id" : "271900",
@@ -1364,7 +1364,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.4845",
+      "achievement_median" : "0.484",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1537,7 +1537,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1563,7 +1563,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1897,7 +1897,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2069,7 +2069,7 @@
    },
    "Surgeon Simulator" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "233720",
       "global_achievements" : true,
@@ -2164,7 +2164,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.403",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2397,7 +2397,7 @@
       "url_store" : "http://store.steampowered.com/app/398710/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "385770",
@@ -2421,8 +2421,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.03",
-      "achievement_median" : "0.093",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2446,7 +2446,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2653,7 +2653,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.2715",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
