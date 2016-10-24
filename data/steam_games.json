@@ -130,7 +130,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.069",
+      "achievement_hardest" : "0.07",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
@@ -331,7 +331,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -563,8 +563,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.063",
-      "achievement_median" : "0.158",
+      "achievement_hardest" : "0.064",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -624,7 +624,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.326",
+      "achievement_median" : "0.3265",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -812,7 +812,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.154",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.269",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1230,7 +1230,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.69",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1352,7 +1352,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.303",
+      "achievement_median" : "0.3035",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1364,7 +1364,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.484",
+      "achievement_median" : "0.485",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1387,8 +1387,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.167",
-      "achievement_median" : "0.228",
+      "achievement_hardest" : "0.168",
+      "achievement_median" : "0.229",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -2031,7 +2031,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.0795",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2243,7 +2243,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.387",
+      "achievement_hardest" : "0.388",
       "achievement_median" : "0.515",
       "achievements" : true,
       "app_id" : "319550",
@@ -2446,7 +2446,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2473,7 +2473,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2653,7 +2653,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.2715",
+      "achievement_median" : "0.272",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
