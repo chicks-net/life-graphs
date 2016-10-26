@@ -207,7 +207,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -249,7 +249,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.3275",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -798,7 +798,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1138,7 +1138,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.321",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1206,7 +1206,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.0275",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1242,7 +1242,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.259",
-      "achievement_median" : "0.55",
+      "achievement_median" : "0.551",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1352,7 +1352,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.3035",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1510,7 +1510,7 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "287980",
@@ -1725,7 +1725,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1881,9 +1881,21 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/371670/8af9e7fcc9b8786ba5b5097f47ec11f9712ea40c.jpg",
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
+   "SUPERHOT" : {
+      "achievement_hardest" : "0.016",
+      "achievement_median" : "0.351",
+      "achievements" : true,
+      "app_id" : "322500",
+      "global_achievements" : true,
+      "name" : "SUPERHOT",
+      "name_short" : "322500",
+      "url_achievements" : "http://steamcommunity.com/stats/322500/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/322500/d07cfbe2c3b2c204f4bc269aba3c448c09a81b75.jpg",
+      "url_store" : "http://store.steampowered.com/app/322500/"
+   },
    "Sanctum" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.014",
+      "achievement_median" : "0.0145",
       "achievements" : true,
       "app_id" : "91600",
       "global_achievements" : true,
@@ -1896,7 +1908,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "293200",
@@ -1995,7 +2007,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.2675",
+      "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2031,7 +2043,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0795",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2092,7 +2104,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
@@ -2120,7 +2132,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.095",
-      "achievement_median" : "0.1075",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2132,7 +2144,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.067",
-      "achievement_median" : "0.567",
+      "achievement_median" : "0.566",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2144,7 +2156,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -2422,7 +2434,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2446,7 +2458,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2639,7 +2651,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
