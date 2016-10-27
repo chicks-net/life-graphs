@@ -130,7 +130,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.07",
+      "achievement_hardest" : "0.069",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
@@ -181,7 +181,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.1495",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -564,7 +564,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.3275",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1363,8 +1363,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.4855",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.486",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1882,8 +1882,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.016",
-      "achievement_median" : "0.351",
+      "achievement_hardest" : "0.015",
+      "achievement_median" : "0.35",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -1908,7 +1908,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "293200",
@@ -1934,7 +1934,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "259510",
@@ -2042,8 +2042,8 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "Sunless Sea" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.079",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.01",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2093,7 +2093,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -2105,7 +2105,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2156,7 +2156,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -2458,7 +2458,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2665,7 +2665,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.2725",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
