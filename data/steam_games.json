@@ -1,6 +1,6 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "410110",
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "346900",
@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.072",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -624,7 +624,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.3275",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1069,7 +1069,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
@@ -1363,7 +1363,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.486",
       "achievements" : true,
       "app_id" : "458710",
@@ -1499,7 +1499,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1883,7 +1883,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.35",
+      "achievement_median" : "0.345",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -1934,7 +1934,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "259510",
@@ -2143,8 +2143,8 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.067",
-      "achievement_median" : "0.566",
+      "achievement_hardest" : "0.068",
+      "achievement_median" : "0.567",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2520,7 +2520,7 @@
       "url_store" : "http://store.steampowered.com/app/35720/"
    },
    "Tropico 5" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "245620",
