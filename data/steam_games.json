@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0725",
+      "achievement_median" : "0.072",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -181,7 +181,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.1505",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -552,7 +552,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.1955",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -564,7 +564,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -736,7 +736,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.3275",
+      "achievement_median" : "0.328",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -784,7 +784,7 @@
    },
    "Flight Control HD" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.2555",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
@@ -1229,7 +1229,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.426",
+      "achievement_hardest" : "0.427",
       "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
@@ -1363,8 +1363,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.025",
-      "achievement_median" : "0.486",
+      "achievement_hardest" : "0.041",
+      "achievement_median" : "0.484",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1427,7 +1427,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1525",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1474,8 +1474,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.147",
-      "achievement_median" : "0.147",
+      "achievement_hardest" : "0.146",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1563,7 +1563,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0195",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1882,8 +1882,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.015",
-      "achievement_median" : "0.345",
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.334",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -1908,7 +1908,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "293200",
@@ -2458,7 +2458,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1625",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
