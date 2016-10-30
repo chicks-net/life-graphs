@@ -34,7 +34,7 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "317250",
@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.072",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -140,6 +140,42 @@
       "url_achievements" : "http://steamcommunity.com/stats/348400/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/348400/4c93c8043b9dcd6c12f3c21e969b08ba6e0422d6.jpg",
       "url_store" : "http://store.steampowered.com/app/348400/"
+   },
+   "BioShock Infinite" : {
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.0935",
+      "achievements" : true,
+      "app_id" : "8870",
+      "global_achievements" : true,
+      "name" : "BioShock Infinite",
+      "name_short" : "BioShockInfinite",
+      "url_achievements" : "http://steamcommunity.com/stats/BioShockInfinite/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/8870/870bb889e192cf8d31876ed04d329a5d51c6fc2c.jpg",
+      "url_store" : "http://store.steampowered.com/app/8870/"
+   },
+   "BioShock Infinite - Season Pass" : {
+      "app_id" : "214933",
+      "name" : "BioShock Infinite - Season Pass",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214933/68c13c182f55c1e077b3c51278df6453c1924d09.jpg",
+      "url_store" : "http://store.steampowered.com/app/214933/"
+   },
+   "BioShock Infinite: Burial at Sea - Episode 1" : {
+      "app_id" : "214931",
+      "name" : "BioShock Infinite: Burial at Sea - Episode 1",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214931/ff14ef6177834ecdf3efc59dbd7145012cb21da5.jpg",
+      "url_store" : "http://store.steampowered.com/app/214931/"
+   },
+   "BioShock Infinite: Burial at Sea - Episode 2" : {
+      "app_id" : "214932",
+      "name" : "BioShock Infinite: Burial at Sea - Episode 2",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214932/cd783570d5b90bec674e0db9bd7c80a43dee42d0.jpg",
+      "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.022",
@@ -207,7 +243,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.0765",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -249,7 +285,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0225",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -564,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -736,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.328",
+      "achievement_median" : "0.3275",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -917,7 +953,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
@@ -929,7 +965,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "214420",
@@ -1192,6 +1228,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280/a612dd944b768e55389140298dcfda2165db8ced.jpg",
       "url_store" : "http://store.steampowered.com/app/280/"
    },
+   "Halfway" : {
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.264",
+      "achievements" : true,
+      "app_id" : "253150",
+      "global_achievements" : true,
+      "name" : "Halfway",
+      "name_short" : "253150",
+      "url_achievements" : "http://steamcommunity.com/stats/253150/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253150/39b2db460847b83057ab8efba55dd30e482be661.jpg",
+      "url_store" : "http://store.steampowered.com/app/253150/"
+   },
    "Her Story" : {
       "achievement_hardest" : "0.105",
       "achievement_median" : "0.44",
@@ -1253,8 +1301,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.388",
-      "achievement_median" : "0.641",
+      "achievement_hardest" : "0.389",
+      "achievement_median" : "0.6415",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1352,7 +1400,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.303",
+      "achievement_median" : "0.3035",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1363,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.041",
-      "achievement_median" : "0.484",
+      "achievement_hardest" : "0.055",
+      "achievement_median" : "0.478",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1427,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.1525",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1537,7 +1585,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1675,7 +1723,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -1687,7 +1735,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.11",
-      "achievement_median" : "0.524",
+      "achievement_median" : "0.5245",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1787,7 +1835,7 @@
    },
    "RUSH" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "38720",
       "global_achievements" : true,
@@ -1882,7 +1930,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.334",
       "achievements" : true,
       "app_id" : "322500",
@@ -1906,6 +1954,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/Sanctum/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91600/d63198590c7bab5a332327a54f8ed0a00ac4b0d3.jpg",
       "url_store" : "http://store.steampowered.com/app/91600/"
+   },
+   "Scrap Garden" : {
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.2525",
+      "achievements" : true,
+      "app_id" : "465760",
+      "global_achievements" : true,
+      "name" : "Scrap Garden",
+      "name_short" : "465760",
+      "url_achievements" : "http://steamcommunity.com/stats/465760/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465760/8fa923239f4eeeb8c04249c46dbc3061364555de.jpg",
+      "url_store" : "http://store.steampowered.com/app/465760/"
    },
    "Sentinel" : {
       "achievement_hardest" : "0.034",
@@ -2007,7 +2067,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.267",
+      "achievement_median" : "0.2665",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2067,7 +2127,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2132,7 +2192,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.095",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.1075",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2196,7 +2256,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.444",
+      "achievement_median" : "0.4445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2256,7 +2316,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.388",
-      "achievement_median" : "0.515",
+      "achievement_median" : "0.5155",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2328,7 +2388,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1805",
+      "achievement_median" : "0.1815",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2410,7 +2470,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2458,7 +2518,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2494,6 +2554,20 @@
       "url_achievements" : "http://steamcommunity.com/stats/304730/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg",
       "url_store" : "http://store.steampowered.com/app/304730/"
+   },
+   "Train Valley" : {
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.13",
+      "achievements" : true,
+      "app_id" : "353640",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Train Valley",
+      "name_short" : "353640",
+      "url_achievements" : "http://steamcommunity.com/stats/353640/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/03d8937b3b857b28784fbcfc5971ad1138c596e5.jpg",
+      "url_store" : "http://store.steampowered.com/app/353640/"
    },
    "Trine" : {
       "achievement_hardest" : "0.018",
@@ -2651,7 +2725,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
