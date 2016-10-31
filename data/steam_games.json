@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3195",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.319",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0725",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -216,7 +216,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.077",
+      "achievement_hardest" : "0.078",
       "achievement_median" : "0.1505",
       "achievements" : true,
       "app_id" : "302610",
@@ -271,7 +271,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.135",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -556,7 +556,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1465",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -599,7 +599,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.065",
+      "achievement_hardest" : "0.066",
       "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "457480",
@@ -727,7 +727,7 @@
       "url_store" : "http://store.steampowered.com/app/291150/"
    },
    "FEZ" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.051",
       "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "224760",
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.3275",
+      "achievement_median" : "0.328",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -941,8 +941,8 @@
       "url_store" : "http://store.steampowered.com/app/399670/"
    },
    "Game Dev Tycoon" : {
-      "achievement_hardest" : "0.026",
-      "achievement_median" : "0.279",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -953,7 +953,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.321",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1400,7 +1400,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.3035",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1411,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.055",
-      "achievement_median" : "0.478",
+      "achievement_hardest" : "0.059",
+      "achievement_median" : "0.4765",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1448,7 +1448,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -1823,7 +1823,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1930,8 +1930,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.334",
+      "achievement_hardest" : "0.015",
+      "achievement_median" : "0.333",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.2525",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2388,7 +2388,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1815",
+      "achievement_median" : "0.1805",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2557,7 +2557,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.13",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -2739,7 +2739,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.2725",
+      "achievement_median" : "0.272",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
