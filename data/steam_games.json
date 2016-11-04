@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3185",
+      "achievement_median" : "0.3135",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -284,8 +284,8 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.022",
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -599,7 +599,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.065",
+      "achievement_hardest" : "0.066",
       "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "457480",
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.33",
+      "achievement_median" : "0.3295",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -833,7 +833,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "490820",
@@ -847,7 +847,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.154",
+      "achievement_hardest" : "0.155",
       "achievement_median" : "0.269",
       "achievements" : true,
       "app_id" : "343930",
@@ -1070,7 +1070,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.3275",
+      "achievement_median" : "0.327",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.321",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1302,7 +1302,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.389",
-      "achievement_median" : "0.6415",
+      "achievement_median" : "0.642",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.476",
+      "achievement_median" : "0.477",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1435,7 +1435,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.168",
+      "achievement_hardest" : "0.169",
       "achievement_median" : "0.23",
       "achievements" : true,
       "app_id" : "266010",
@@ -1509,7 +1509,7 @@
    },
    "Magicka" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "42910",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.145",
-      "achievement_median" : "0.145",
+      "achievement_hardest" : "0.144",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1559,7 +1559,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0695",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.2565",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2165,7 +2165,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2376,7 +2376,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.1965",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2411,7 +2411,7 @@
       "url_store" : "http://store.steampowered.com/app/220780/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : 0,
       "achievement_median" : "0.006",
       "achievements" : true,
       "app_id" : "108200",
@@ -2481,8 +2481,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.22",
-      "achievement_median" : "0.22",
+      "achievement_hardest" : "0.218",
+      "achievement_median" : "0.218",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2493,8 +2493,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.091",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2632,7 +2632,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.122",
+      "achievement_hardest" : "0.121",
       "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "306660",
@@ -2739,7 +2739,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.2725",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
