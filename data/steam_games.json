@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3135",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.311",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -285,7 +285,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0225",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -299,7 +299,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -760,7 +760,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.1495",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.3295",
+      "achievement_median" : "0.3285",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -833,7 +833,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "490820",
@@ -847,7 +847,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.155",
+      "achievement_hardest" : "0.154",
       "achievement_median" : "0.269",
       "achievements" : true,
       "app_id" : "343930",
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.321",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.477",
+      "achievement_median" : "0.479",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1559,7 +1559,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2565",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
