@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.309",
+      "achievement_median" : "0.3075",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -143,7 +143,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.094",
+      "achievement_median" : "0.0935",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -178,7 +178,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
@@ -193,7 +193,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -331,7 +331,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -599,7 +599,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.065",
+      "achievement_hardest" : "0.066",
       "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "457480",
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.334",
+      "achievement_median" : "0.3345",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -953,7 +953,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.321",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1290,7 +1290,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.261",
-      "achievement_median" : "0.551",
+      "achievement_median" : "0.552",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.481",
+      "achievement_median" : "0.482",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.1515",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1834,7 +1834,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "RUSH" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "38720",
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.256",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2203,8 +2203,8 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.068",
-      "achievement_median" : "0.567",
+      "achievement_hardest" : "0.069",
+      "achievement_median" : "0.568",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2364,7 +2364,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.2865",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2388,7 +2388,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1805",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
