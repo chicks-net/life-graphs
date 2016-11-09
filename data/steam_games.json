@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.3075",
+      "achievement_median" : "0.306",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -556,7 +556,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.1465",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -660,7 +660,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -771,8 +771,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.3345",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.3365",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -848,7 +848,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.155",
-      "achievement_median" : "0.269",
+      "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1052,13 +1052,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1138,7 +1138,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1254,7 +1254,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0275",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1278,7 +1278,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.427",
-      "achievement_median" : "0.6905",
+      "achievement_median" : "0.691",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.35",
-      "achievement_median" : "0.35",
+      "achievement_hardest" : "0.349",
+      "achievement_median" : "0.349",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.482",
+      "achievement_median" : "0.483",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1515",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1623,7 +1623,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.257",
+      "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2364,7 +2364,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2865",
+      "achievement_median" : "0.2875",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2645,7 +2645,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.1225",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
