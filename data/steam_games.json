@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.0735",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -143,7 +143,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -299,7 +299,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -426,7 +426,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "730",
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.3365",
+      "achievement_median" : "0.337",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -966,7 +966,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.349",
-      "achievement_median" : "0.349",
+      "achievement_hardest" : "0.348",
+      "achievement_median" : "0.348",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.483",
+      "achievement_median" : "0.4835",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1956,7 +1956,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.035",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "465760",
@@ -2236,7 +2236,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.404",
+      "achievement_median" : "0.405",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2364,7 +2364,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2875",
+      "achievement_median" : "0.2865",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2644,7 +2644,7 @@
       "url_store" : "http://store.steampowered.com/app/306660/"
    },
    "Unium" : {
-      "achievement_hardest" : "0.088",
+      "achievement_hardest" : "0.089",
       "achievement_median" : "0.1225",
       "achievements" : true,
       "app_id" : "357600",
@@ -2738,7 +2738,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.115",
+      "achievement_hardest" : "0.116",
       "achievement_median" : "0.2725",
       "achievements" : true,
       "app_id" : "288060",
