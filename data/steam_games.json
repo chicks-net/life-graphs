@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.306",
+      "achievement_median" : "0.3045",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0735",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -216,7 +216,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.078",
+      "achievement_hardest" : "0.077",
       "achievement_median" : "0.1505",
       "achievements" : true,
       "app_id" : "302610",
@@ -257,7 +257,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.1935",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.066",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.337",
+      "achievement_median" : "0.3385",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -916,7 +916,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.348",
-      "achievement_median" : "0.348",
+      "achievement_hardest" : "0.349",
+      "achievement_median" : "0.349",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.1515",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.143",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.142",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1658,7 +1658,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "PARTICLE MACE" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "295690",
@@ -1722,8 +1722,8 @@
       "url_store" : "http://store.steampowered.com/app/218510/"
    },
    "Plants vs. Zombies: Game of the Year" : {
-      "achievement_hardest" : "0.063",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.256",
+      "achievement_median" : "0.2565",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2236,7 +2236,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.405",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2375,8 +2375,8 @@
       "url_store" : "http://store.steampowered.com/app/221910/"
    },
    "The Talos Principle" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.1965",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2387,8 +2387,8 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.181",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2470,7 +2470,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -2595,7 +2595,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0695",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
