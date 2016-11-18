@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.3035",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -452,7 +452,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.1215",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -599,7 +599,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.066",
+      "achievement_hardest" : "0.065",
       "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "457480",
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.3435",
+      "achievement_median" : "0.344",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -833,7 +833,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "490820",
@@ -1278,7 +1278,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.428",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1411,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.061",
-      "achievement_median" : "0.4875",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.4835",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1585,7 +1585,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1611,7 +1611,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.2595",
+      "achievement_median" : "0.2585",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2315,7 +2315,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.388",
+      "achievement_hardest" : "0.389",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "319550",
@@ -2351,8 +2351,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.148",
-      "achievement_median" : "0.148",
+      "achievement_hardest" : "0.149",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2388,7 +2388,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
