@@ -285,7 +285,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -535,7 +535,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -760,7 +760,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.1505",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -771,8 +771,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.3435",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.3445",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -834,7 +834,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -928,7 +928,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.4265",
+      "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -942,7 +942,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.279",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.327",
+      "achievement_median" : "0.3275",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1424,7 +1424,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.144",
-      "achievement_median" : "0.144",
+      "achievement_hardest" : "0.143",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1585,7 +1585,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0635",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2177,7 +2177,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2268,7 +2268,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.445",
+      "achievement_median" : "0.4445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2327,7 +2327,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.388",
+      "achievement_hardest" : "0.389",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "319550",
@@ -2388,7 +2388,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
