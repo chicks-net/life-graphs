@@ -660,7 +660,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -966,7 +966,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.485",
+      "achievement_median" : "0.4855",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1424,7 +1424,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1534,7 +1534,7 @@
       "url_store" : "http://store.steampowered.com/app/479040/"
    },
    "Metro: Last Light" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.0665",
       "achievements" : true,
       "app_id" : "43160",
@@ -1823,7 +1823,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1930,8 +1930,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "SHENZHEN I/O" : {
-      "achievement_hardest" : "0.016",
-      "achievement_median" : "0.065",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.2605",
+      "achievement_median" : "0.2615",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2267,7 +2267,7 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.097",
+      "achievement_hardest" : "0.096",
       "achievement_median" : "0.445",
       "achievements" : true,
       "app_id" : "221830",
@@ -2327,7 +2327,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.389",
+      "achievement_hardest" : "0.388",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "319550",
@@ -2352,7 +2352,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.228",
+      "achievement_median" : "0.2285",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
