@@ -216,7 +216,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.077",
+      "achievement_hardest" : "0.078",
       "achievement_median" : "0.1505",
       "achievements" : true,
       "app_id" : "302610",
@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.286",
+      "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.3455",
+      "achievement_median" : "0.346",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1040,25 +1040,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1289,7 +1289,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.262",
+      "achievement_hardest" : "0.263",
       "achievement_median" : "0.552",
       "achievements" : true,
       "app_id" : "304410",
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.35",
-      "achievement_median" : "0.35",
+      "achievement_hardest" : "0.351",
+      "achievement_median" : "0.351",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.2615",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2088,6 +2088,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/253650/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253650/24398d6a9580d1ba33f54dc73b04a9f79ae4c935.jpg",
       "url_store" : "http://store.steampowered.com/app/253650/"
+   },
+   "Spin Rush" : {
+      "achievement_hardest" : "0.057",
+      "achievement_median" : "0.1",
+      "achievements" : true,
+      "app_id" : "528660",
+      "global_achievements" : true,
+      "name" : "Spin Rush",
+      "name_short" : "528660",
+      "url_achievements" : "http://steamcommunity.com/stats/528660/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/528660/0f7b9d5418866ebf4ab7217e76e0ceecc0348932.jpg",
+      "url_store" : "http://store.steampowered.com/app/528660/"
    },
    "Splice" : {
       "achievement_hardest" : "0.034",
@@ -2505,8 +2517,8 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.032",
-      "achievement_median" : "0.095",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
