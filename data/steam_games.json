@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0735",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -131,7 +131,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.069",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -179,7 +179,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -568,7 +568,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -599,8 +599,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.066",
-      "achievement_median" : "0.158",
+      "achievement_hardest" : "0.065",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -771,8 +771,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.347",
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.349",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -847,7 +847,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.155",
+      "achievement_hardest" : "0.156",
       "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "343930",
@@ -954,7 +954,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1230,7 +1230,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.264",
+      "achievement_median" : "0.263",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1278,7 +1278,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.427",
-      "achievement_median" : "0.6905",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1289,8 +1289,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.261",
-      "achievement_median" : "0.549",
+      "achievement_hardest" : "0.26",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1301,7 +1301,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.39",
+      "achievement_hardest" : "0.389",
       "achievement_median" : "0.642",
       "achievements" : true,
       "app_id" : "271900",
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.4785",
+      "achievement_median" : "0.4775",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1435,7 +1435,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.17",
+      "achievement_hardest" : "0.171",
       "achievement_median" : "0.231",
       "achievements" : true,
       "app_id" : "266010",
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1475",
+      "achievement_median" : "0.1485",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.152",
-      "achievement_median" : "0.152",
+      "achievement_hardest" : "0.153",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1585,7 +1585,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1685,7 +1685,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1735,7 +1735,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.5245",
+      "achievement_median" : "0.525",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0195",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.2565",
+      "achievement_median" : "0.2545",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -1980,8 +1980,8 @@
       "url_store" : "http://store.steampowered.com/app/465760/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.04",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2091,7 +2091,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.057",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2292,7 +2292,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.4455",
+      "achievement_median" : "0.445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2424,7 +2424,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2581,7 +2581,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -2631,7 +2631,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0705",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2656,7 +2656,7 @@
       "url_store" : "http://store.steampowered.com/app/263760/"
    },
    "Type:Rider" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.1295",
       "achievements" : true,
       "app_id" : "258890",
@@ -2825,7 +2825,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.212",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
