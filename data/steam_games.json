@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "346900",
@@ -142,7 +142,7 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "BioShock Infinite" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "8870",
@@ -439,7 +439,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3505",
+      "achievement_median" : "0.351",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -807,7 +807,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "201510",
@@ -966,7 +966,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.321",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.477",
+      "achievement_median" : "0.478",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1559,7 +1559,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2292,7 +2292,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.096",
-      "achievement_median" : "0.4445",
+      "achievement_median" : "0.445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2857,7 +2857,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
