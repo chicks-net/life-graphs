@@ -142,7 +142,7 @@
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
    "BioShock Infinite" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "8870",
@@ -256,7 +256,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.076",
+      "achievement_hardest" : "0.075",
       "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "319850",
@@ -452,7 +452,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -966,7 +966,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.321",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.478",
+      "achievement_median" : "0.4785",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1747,7 +1747,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1823,7 +1823,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1897,7 +1897,7 @@
    },
    "Rock of Ages" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "22230",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.0195",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1980,8 +1980,8 @@
       "url_store" : "http://store.steampowered.com/app/465760/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.041",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2090,8 +2090,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.058",
-      "achievement_median" : "0.102",
+      "achievement_hardest" : "0.057",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2351,7 +2351,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.389",
+      "achievement_hardest" : "0.388",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "319550",
@@ -2412,7 +2412,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2517,8 +2517,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.219",
-      "achievement_median" : "0.219",
+      "achievement_hardest" : "0.22",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2800,8 +2800,8 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0385",
+      "achievement_hardest" : "0.002",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -2825,7 +2825,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.212",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
