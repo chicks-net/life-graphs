@@ -193,7 +193,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1915",
+      "achievement_median" : "0.1905",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3525",
+      "achievement_median" : "0.353",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -848,7 +848,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.156",
-      "achievement_median" : "0.27",
+      "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -966,7 +966,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.321",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1266,7 +1266,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.365",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1278,7 +1278,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.427",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1302,7 +1302,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.39",
-      "achievement_median" : "0.642",
+      "achievement_median" : "0.6425",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1411,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.4795",
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.4805",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1461,7 +1461,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.156",
-      "achievement_median" : "0.156",
+      "achievement_hardest" : "0.159",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0195",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1968,8 +1968,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.25",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.2485",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2091,7 +2091,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2189,7 +2189,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.451",
-      "achievement_median" : "0.52",
+      "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2593,7 +2593,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -2801,7 +2801,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
