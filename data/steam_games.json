@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -452,7 +452,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1215",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -535,7 +535,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -698,7 +698,7 @@
    },
    "EDGE" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "38740",
       "global_achievements" : true,
@@ -760,7 +760,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.1505",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.354",
+      "achievement_median" : "0.3545",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.321",
+      "achievement_median" : "0.3205",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1277,7 +1277,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.428",
+      "achievement_hardest" : "0.427",
       "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
@@ -1290,7 +1290,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.259",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.4815",
+      "achievement_median" : "0.482",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.158",
-      "achievement_median" : "0.158",
+      "achievement_hardest" : "0.162",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1747,7 +1747,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1773,7 +1773,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -1980,7 +1980,7 @@
       "url_store" : "http://store.steampowered.com/app/465760/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "293200",
@@ -2007,7 +2007,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2090,8 +2090,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.058",
-      "achievement_median" : "0.103",
+      "achievement_hardest" : "0.057",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2115,7 +2115,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2272,7 +2272,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.405",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2291,7 +2291,7 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.096",
+      "achievement_hardest" : "0.097",
       "achievement_median" : "0.445",
       "achievements" : true,
       "app_id" : "221830",
@@ -2530,7 +2530,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2681,7 +2681,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.1215",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -2857,7 +2857,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
