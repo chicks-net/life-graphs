@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.06",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -193,7 +193,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -452,7 +452,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -535,7 +535,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -599,8 +599,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.065",
-      "achievement_median" : "0.156",
+      "achievement_hardest" : "0.064",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3545",
+      "achievement_median" : "0.355",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -928,7 +928,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.426",
+      "achievement_median" : "0.4255",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1105,8 +1105,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.047",
-      "achievement_median" : "0.124",
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1174,7 +1174,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.3205",
+      "achievement_median" : "0.321",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1277,7 +1277,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.427",
+      "achievement_hardest" : "0.428",
       "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.482",
+      "achievement_median" : "0.483",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1461,7 +1461,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1942,7 +1942,7 @@
       "url_store" : "http://store.steampowered.com/app/504210/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.333",
       "achievements" : true,
       "app_id" : "322500",
@@ -1968,7 +1968,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.035",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.248",
       "achievements" : true,
       "app_id" : "465760",
@@ -2090,8 +2090,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.057",
-      "achievement_median" : "0.101",
+      "achievement_hardest" : "0.052",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2115,7 +2115,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2292,7 +2292,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.445",
+      "achievement_median" : "0.4445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2431,7 +2431,7 @@
       "name" : "This War of Mine",
       "name_short" : "282070",
       "url_achievements" : "http://steamcommunity.com/stats/282070/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/282070/a806ec2170dc3b10740b150bfd6392964fd92656.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/282070/4d2ecaa400d7937fdfae6642b73ad5695c393bf7.jpg",
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Thomas Was Alone" : {
