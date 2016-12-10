@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -367,7 +367,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -660,7 +660,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1301,7 +1301,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.39",
+      "achievement_hardest" : "0.391",
       "achievement_median" : "0.6425",
       "achievements" : true,
       "app_id" : "271900",
@@ -1474,7 +1474,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.1445",
       "achievements" : true,
       "app_id" : "319630",
@@ -1981,7 +1981,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2090,8 +2090,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.052",
-      "achievement_median" : "0.093",
+      "achievement_hardest" : "0.049",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2115,7 +2115,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2681,7 +2681,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.1225",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
