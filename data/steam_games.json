@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/205870/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "218060",
@@ -118,7 +118,7 @@
       "url_store" : "http://store.steampowered.com/app/218060/"
    },
    "Bad Hotel" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
@@ -179,7 +179,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -193,7 +193,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -299,7 +299,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -535,7 +535,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -599,8 +599,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.064",
-      "achievement_median" : "0.156",
+      "achievement_hardest" : "0.065",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -697,7 +697,7 @@
       "url_store" : "http://store.steampowered.com/app/65800/"
    },
    "EDGE" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "38740",
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.355",
+      "achievement_median" : "0.3555",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1105,7 +1105,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "365450",
@@ -1302,7 +1302,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.391",
-      "achievement_median" : "0.6425",
+      "achievement_median" : "0.643",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.352",
-      "achievement_median" : "0.352",
+      "achievement_hardest" : "0.353",
+      "achievement_median" : "0.353",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1412,7 +1412,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.483",
+      "achievement_median" : "0.4835",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1474,8 +1474,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1445",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1558,8 +1558,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0695",
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1847,7 +1847,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1992,7 +1992,7 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Serious Sam 3: BFE" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "41070",
@@ -2007,7 +2007,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2090,8 +2090,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.049",
-      "achievement_median" : "0.088",
+      "achievement_hardest" : "0.048",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2292,7 +2292,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.4445",
+      "achievement_median" : "0.445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2351,7 +2351,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.388",
+      "achievement_hardest" : "0.389",
       "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "319550",
@@ -2424,7 +2424,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2680,7 +2680,7 @@
       "url_store" : "http://store.steampowered.com/app/306660/"
    },
    "Unium" : {
-      "achievement_hardest" : "0.088",
+      "achievement_hardest" : "0.089",
       "achievement_median" : "0.1225",
       "achievements" : true,
       "app_id" : "357600",
