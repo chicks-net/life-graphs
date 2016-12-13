@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.0575",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -285,7 +285,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -535,7 +535,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -1105,8 +1105,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.047",
-      "achievement_median" : "0.124",
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1290,7 +1290,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.259",
-      "achievement_median" : "0.549",
+      "achievement_median" : "0.55",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1445",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.162",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.165",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1623,7 +1623,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1673,7 +1673,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1847,7 +1847,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2090,8 +2090,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.048",
-      "achievement_median" : "0.086",
+      "achievement_hardest" : "0.047",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2127,7 +2127,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.01",
+      "achievement_median" : "0.0105",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2352,7 +2352,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.389",
-      "achievement_median" : "0.516",
+      "achievement_median" : "0.5165",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2412,7 +2412,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2581,7 +2581,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
