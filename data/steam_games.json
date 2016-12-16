@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3015",
+      "achievement_median" : "0.301",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -118,7 +118,7 @@
       "url_store" : "http://store.steampowered.com/app/218060/"
    },
    "Bad Hotel" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
@@ -179,7 +179,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -204,7 +204,7 @@
       "url_store" : "http://store.steampowered.com/app/49520/"
    },
    "Borderlands: The Pre-Sequel" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "261640",
@@ -243,7 +243,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -439,7 +439,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -660,7 +660,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.357",
+      "achievement_median" : "0.358",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -833,7 +833,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
@@ -1411,7 +1411,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.4845",
       "achievements" : true,
       "app_id" : "458710",
@@ -1448,7 +1448,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1445",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1747,7 +1747,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -1823,7 +1823,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0595",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2091,7 +2091,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2188,7 +2188,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.452",
+      "achievement_hardest" : "0.453",
       "achievement_median" : "0.522",
       "achievements" : true,
       "app_id" : "330830",
@@ -2201,7 +2201,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2774,8 +2774,8 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.116",
-      "achievement_median" : "0.2745",
+      "achievement_hardest" : "0.117",
+      "achievement_median" : "0.2755",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
