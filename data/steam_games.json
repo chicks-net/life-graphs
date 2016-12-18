@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.301",
+      "achievement_median" : "0.3015",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -118,7 +118,7 @@
       "url_store" : "http://store.steampowered.com/app/218060/"
    },
    "Bad Hotel" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
@@ -600,7 +600,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -672,7 +672,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1835",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.3575",
+      "achievement_median" : "0.358",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1302,7 +1302,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.391",
-      "achievement_median" : "0.6435",
+      "achievement_median" : "0.644",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.353",
-      "achievement_median" : "0.353",
+      "achievement_hardest" : "0.354",
+      "achievement_median" : "0.354",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1411,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.485",
+      "achievement_hardest" : "0.024",
+      "achievement_median" : "0.486",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1445",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.165",
-      "achievement_median" : "0.165",
+      "achievement_hardest" : "0.169",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1930,7 +1930,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "SHENZHEN I/O" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "504210",
@@ -1969,7 +1969,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.249",
+      "achievement_median" : "0.2455",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2090,7 +2090,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.046",
       "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "528660",
@@ -2201,7 +2201,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2530,7 +2530,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.098",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
