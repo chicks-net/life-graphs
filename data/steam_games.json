@@ -85,7 +85,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.057",
+      "achievement_median" : "0.0565",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -427,7 +427,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -672,7 +672,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.1835",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.3585",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -820,7 +820,7 @@
    },
    "Flight Control HD" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.2555",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
@@ -954,7 +954,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1290,7 +1290,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.26",
-      "achievement_median" : "0.55",
+      "achievement_median" : "0.551",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.354",
-      "achievement_median" : "0.354",
+      "achievement_hardest" : "0.353",
+      "achievement_median" : "0.353",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1411,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.4865",
+      "achievement_hardest" : "0.032",
+      "achievement_median" : "0.487",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1436,7 +1436,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.173",
-      "achievement_median" : "0.234",
+      "achievement_median" : "0.235",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1558,8 +1558,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.07",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1585,7 +1585,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1682,6 +1682,20 @@
       "url_achievements" : "http://steamcommunity.com/stats/POSTAL/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/232770/4a16f584db0795c6a63064fcf3c4f62774dfc503.jpg",
       "url_store" : "http://store.steampowered.com/app/232770/"
+   },
+   "Papers, Please" : {
+      "achievement_hardest" : "0.039",
+      "achievement_median" : "0.11",
+      "achievements" : true,
+      "app_id" : "239030",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Papers, Please",
+      "name_short" : "PapersPlease",
+      "url_achievements" : "http://steamcommunity.com/stats/PapersPlease/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239030/eb4c045f73f9a4b1bac708e70fb12f12cd53010f.jpg",
+      "url_store" : "http://store.steampowered.com/app/239030/"
    },
    "Pivvot" : {
       "achievement_hardest" : "0.023",
@@ -1931,7 +1945,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0225",
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -1968,8 +1982,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.241",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.2325",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2007,7 +2021,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2240,7 +2254,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.571",
+      "achievement_median" : "0.572",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2292,7 +2306,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.445",
+      "achievement_median" : "0.4445",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2412,7 +2426,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.1975",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2517,8 +2531,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.22",
-      "achievement_median" : "0.22",
+      "achievement_hardest" : "0.221",
+      "achievement_median" : "0.221",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
