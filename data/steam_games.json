@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3015",
+      "achievement_median" : "0.301",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -242,7 +242,7 @@
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
    "Bridge Constructor" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
@@ -285,7 +285,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -568,7 +568,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.1875",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.36",
+      "achievement_median" : "0.3595",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1040,25 +1040,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1411,8 +1411,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.4875",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.4865",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1522,8 +1522,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.169",
-      "achievement_median" : "0.169",
+      "achievement_hardest" : "0.167",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1559,7 +1559,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1585,7 +1585,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1885,6 +1885,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253030/ff0d04cb05dc03ec4b9a136d6b35b00166c475fc.jpg",
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
+   "Reigns" : {
+      "achievement_hardest" : "0.002",
+      "achievement_median" : "0.047",
+      "achievements" : true,
+      "app_id" : "474750",
+      "global_achievements" : true,
+      "name" : "Reigns",
+      "name_short" : "474750",
+      "url_achievements" : "http://steamcommunity.com/stats/474750/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/474750/abaf6fd064da8ac0ee155c09e4972a55a66204d3.jpg",
+      "url_store" : "http://store.steampowered.com/app/474750/"
+   },
    "Revenge of the Titans" : {
       "achievement_hardest" : "0.008",
       "achievement_median" : "0.058",
@@ -1957,7 +1969,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.333",
+      "achievement_median" : "0.3325",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -1983,7 +1995,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.229",
+      "achievement_median" : "0.2275",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2021,7 +2033,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2056,7 +2068,7 @@
       "url_store" : "http://store.steampowered.com/app/3900/"
    },
    "Signal Ops" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.008",
       "achievements" : true,
       "app_id" : "257770",
@@ -2104,7 +2116,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.045",
+      "achievement_hardest" : "0.046",
       "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "528660",
@@ -2138,6 +2150,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/297490/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg",
       "url_store" : "http://store.steampowered.com/app/297490/"
+   },
+   "Stardew Valley" : {
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.1105",
+      "achievements" : true,
+      "app_id" : "413150",
+      "global_achievements" : true,
+      "name" : "Stardew Valley",
+      "name_short" : "413150",
+      "url_achievements" : "http://steamcommunity.com/stats/413150/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/413150/694de1f9cf09aba9d6d118bcff07714343529a0a.jpg",
+      "url_store" : "http://store.steampowered.com/app/413150/"
    },
    "Sunless Sea" : {
       "achievement_hardest" : 0,
@@ -2378,7 +2402,7 @@
    },
    "The Escapists" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.01",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "298630",
       "global_achievements" : true,
@@ -2401,8 +2425,8 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.149",
-      "achievement_median" : "0.149",
+      "achievement_hardest" : "0.15",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2438,7 +2462,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
