@@ -34,8 +34,8 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.019",
-      "achievement_median" : "0.021",
+      "achievement_hardest" : "0.02",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.06",
+      "achievement_hardest" : "0.031",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -140,7 +140,7 @@
       "url_store" : "http://store.steampowered.com/app/218060/"
    },
    "Bad Hotel" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
@@ -236,6 +236,46 @@
       "url_achievements" : "http://steamcommunity.com/stats/Borderlands2/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg",
       "url_store" : "http://store.steampowered.com/app/49520/"
+   },
+   "Borderlands 2: Headhunter 1: Bloody Harvest" : {
+      "app_id" : "245890",
+      "name" : "Borderlands 2: Headhunter 1: Bloody Harvest",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245890/a98ccfdfce3f9caa26b7c8221e4117318cc07ec0.jpg",
+      "url_store" : "http://store.steampowered.com/app/245890/"
+   },
+   "Borderlands 2: Headhunter 2: Wattle Gobbler" : {
+      "app_id" : "245910",
+      "name" : "Borderlands 2: Headhunter 2: Wattle Gobbler",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245910/4e284ec333c4d13457578a20d677240c82f0ff39.jpg",
+      "url_store" : "http://store.steampowered.com/app/245910/"
+   },
+   "Borderlands 2: Headhunter 3: Mercenary Day" : {
+      "app_id" : "245930",
+      "name" : "Borderlands 2: Headhunter 3: Mercenary Day",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245930/78bd983dc6ceef403e8c4c647c711b4683ab8565.jpg",
+      "url_store" : "http://store.steampowered.com/app/245930/"
+   },
+   "Borderlands 2: Headhunter 4: Wedding Day Massacre" : {
+      "app_id" : "245950",
+      "name" : "Borderlands 2: Headhunter 4: Wedding Day Massacre",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245950/9ee951fa900282d583dab7d20f22bae90f3aae27.jpg",
+      "url_store" : "http://store.steampowered.com/app/245950/"
+   },
+   "Borderlands 2: Headhunter 5: Son of Crawmerax" : {
+      "app_id" : "245970",
+      "name" : "Borderlands 2: Headhunter 5: Son of Crawmerax",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245970/d070042a1abeed60249e91e55400806bd6304ac6.jpg",
+      "url_store" : "http://store.steampowered.com/app/245970/"
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
@@ -401,7 +441,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -499,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -511,7 +551,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -660,7 +700,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.1875",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -671,8 +711,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.062",
-      "achievement_median" : "0.148",
+      "achievement_hardest" : "0.061",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -844,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -988,7 +1028,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -1000,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4245",
+      "achievement_median" : "0.424",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1038,7 +1078,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1074,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.535",
+      "achievement_median" : "0.533",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1154,7 +1194,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.3255",
+      "achievement_median" : "0.326",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1362,7 +1402,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.426",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1373,8 +1413,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.254",
-      "achievement_median" : "0.543",
+      "achievement_hardest" : "0.253",
+      "achievement_median" : "0.542",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1397,8 +1437,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.353",
-      "achievement_median" : "0.353",
+      "achievement_hardest" : "0.354",
+      "achievement_median" : "0.354",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1495,7 +1535,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.3025",
       "achievements" : true,
       "app_id" : "246420",
@@ -1508,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.464",
+      "achievement_median" : "0.4635",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1570,8 +1610,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1435",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1582,8 +1622,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.03",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1618,8 +1658,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.162",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.166",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1655,7 +1695,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0515",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1809,7 +1849,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -1823,7 +1863,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1895,9 +1935,21 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg",
       "url_store" : "http://store.steampowered.com/app/31280/"
    },
+   "Poly Bridge" : {
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.0115",
+      "achievements" : true,
+      "app_id" : "367450",
+      "global_achievements" : true,
+      "name" : "Poly Bridge",
+      "name_short" : "367450",
+      "url_achievements" : "http://steamcommunity.com/stats/367450/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/d5fd2146d109140289052b3584bf632d3643fc04.jpg",
+      "url_store" : "http://store.steampowered.com/app/367450/"
+   },
    "Portal" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -2023,7 +2075,7 @@
    },
    "Reigns" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "474750",
       "global_achievements" : true,
@@ -2105,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.3255",
+      "achievement_median" : "0.3245",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2131,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.2135",
+      "achievement_median" : "0.2115",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2155,7 +2207,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2231,6 +2283,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/235620/aa143ba69cbd832cfcaf909543f3a90fa981e2b9.jpg",
       "url_store" : "http://store.steampowered.com/app/235620/"
    },
+   "Space Food Truck" : {
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.249",
+      "achievements" : true,
+      "app_id" : "397390",
+      "global_achievements" : true,
+      "name" : "Space Food Truck",
+      "name_short" : "397390",
+      "url_achievements" : "http://steamcommunity.com/stats/397390/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/397390/abe570d55e2d45e9b27f09bb09be2c20e317af2e.jpg",
+      "url_store" : "http://store.steampowered.com/app/397390/"
+   },
    "Spacebase DF-9" : {
       "app_id" : "246090",
       "name" : "Spacebase DF-9",
@@ -2252,8 +2316,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.058",
+      "achievement_hardest" : "0.032",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2289,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2301,7 +2365,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.011",
+      "achievement_median" : "0.0115",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2362,8 +2426,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.449",
-      "achievement_median" : "0.519",
+      "achievement_hardest" : "0.448",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2586,7 +2650,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2624,7 +2688,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2636,7 +2700,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.169",
-      "achievement_median" : "0.328",
+      "achievement_median" : "0.329",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -2987,7 +3051,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.116",
-      "achievement_median" : "0.2745",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
