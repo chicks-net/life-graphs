@@ -177,7 +177,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.094",
+      "achievement_median" : "0.0945",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -499,7 +499,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.2575",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -563,7 +563,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "343440",
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.166",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.111",
-      "achievement_median" : "0.4235",
+      "achievement_median" : "0.424",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1065,7 +1065,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.53",
+      "achievement_median" : "0.531",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1401,8 +1401,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.426",
-      "achievement_median" : "0.69",
+      "achievement_hardest" : "0.427",
+      "achievement_median" : "0.6905",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1413,8 +1413,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.251",
-      "achievement_median" : "0.541",
+      "achievement_hardest" : "0.252",
+      "achievement_median" : "0.542",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.467",
+      "achievement_median" : "0.468",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1571,7 +1571,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.179",
+      "achievement_hardest" : "0.18",
       "achievement_median" : "0.24",
       "achievements" : true,
       "app_id" : "266010",
@@ -1611,7 +1611,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1658,8 +1658,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.167",
-      "achievement_median" : "0.167",
+      "achievement_hardest" : "0.17",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1683,7 +1683,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1695,7 +1695,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0545",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
    },
    "Reigns" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "474750",
       "global_achievements" : true,
@@ -2145,7 +2145,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.2115",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1155",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2256,7 +2256,7 @@
       "url_store" : "http://store.steampowered.com/app/3900/"
    },
    "Signal Ops" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.008",
       "achievements" : true,
       "app_id" : "257770",
@@ -2365,7 +2365,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.0125",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2427,7 +2427,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.448",
-      "achievement_median" : "0.517",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2439,7 +2439,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2510,7 +2510,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.403",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2662,7 +2662,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.085",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2818,7 +2818,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2956,7 +2956,7 @@
       "url_store" : "http://store.steampowered.com/app/306660/"
    },
    "Unium" : {
-      "achievement_hardest" : "0.089",
+      "achievement_hardest" : "0.09",
       "achievement_median" : "0.1235",
       "achievements" : true,
       "app_id" : "357600",
