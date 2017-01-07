@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "444220",
@@ -305,7 +305,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3045",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -331,7 +331,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -600,7 +600,7 @@
    },
    "Cubemen" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0965",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "207250",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.3725",
+      "achievement_median" : "0.374",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -960,7 +960,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.157",
-      "achievement_median" : "0.272",
+      "achievement_median" : "0.273",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.531",
+      "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1262,7 +1262,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1426,7 +1426,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.388",
-      "achievement_median" : "0.6425",
+      "achievement_median" : "0.643",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1450,7 +1450,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2155",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1547,8 +1547,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.468",
+      "achievement_hardest" : "0.04",
+      "achievement_median" : "0.4695",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1571,8 +1571,8 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.18",
-      "achievement_median" : "0.24",
+      "achievement_hardest" : "0.181",
+      "achievement_median" : "0.241",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1658,8 +1658,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.17",
-      "achievement_median" : "0.17",
+      "achievement_hardest" : "0.169",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0395",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1721,7 +1721,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1115",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -1961,7 +1961,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.2115",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2305,7 +2305,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.263",
+      "achievement_median" : "0.2625",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2353,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2426,7 +2426,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.448",
+      "achievement_hardest" : "0.449",
       "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
@@ -2614,7 +2614,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.226",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2673,7 +2673,7 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "This Is the Police" : {
-      "achievement_hardest" : "0.085",
+      "achievement_hardest" : "0.086",
       "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "443810",
@@ -2818,7 +2818,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3050,7 +3050,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.116",
+      "achievement_hardest" : "0.117",
       "achievement_median" : "0.2745",
       "achievements" : true,
       "app_id" : "288060",
