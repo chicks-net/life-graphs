@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3015",
+      "achievement_median" : "0.301",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -227,7 +227,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -404,7 +404,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "262590",
@@ -499,7 +499,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.2575",
+      "achievement_median" : "0.2585",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "457480",
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.376",
+      "achievement_median" : "0.3775",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.533",
+      "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1164,25 +1164,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12250",
+      "app_id" : "12120",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12250",
-      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12250/"
+      "name_short" : "12120",
+      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12120/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1425,8 +1425,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.389",
-      "achievement_median" : "0.643",
+      "achievement_hardest" : "0.39",
+      "achievement_median" : "0.644",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1450,7 +1450,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2165",
+      "achievement_median" : "0.216",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1547,8 +1547,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.041",
-      "achievement_median" : "0.4715",
+      "achievement_hardest" : "0.042",
+      "achievement_median" : "0.4725",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1572,7 +1572,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.181",
-      "achievement_median" : "0.241",
+      "achievement_median" : "0.242",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1611,7 +1611,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1749,7 +1749,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1863,7 +1863,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -1877,7 +1877,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.213",
+      "achievement_median" : "0.2125",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2317,7 +2317,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2353,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2426,8 +2426,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.449",
-      "achievement_median" : "0.518",
+      "achievement_hardest" : "0.45",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2637,8 +2637,8 @@
       "url_store" : "http://store.steampowered.com/app/323380/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.15",
-      "achievement_median" : "0.15",
+      "achievement_hardest" : "0.151",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.086",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2919,7 +2919,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.279",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3145,7 +3145,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
