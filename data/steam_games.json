@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3",
+      "achievement_median" : "0.3005",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0615",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -227,7 +227,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -441,7 +441,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0235",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.168",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.3815",
+      "achievement_median" : "0.382",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1099,7 +1099,7 @@
       "url_store" : "http://store.steampowered.com/app/234040/"
    },
    "Goat Simulator" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "265930",
@@ -1261,7 +1261,7 @@
       "url_store" : "http://store.steampowered.com/app/70/"
    },
    "Half-Life 2" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "220",
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.474",
+      "achievement_median" : "0.4745",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1597,7 +1597,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1611,7 +1611,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1415",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1695,7 +1695,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0565",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1849,7 +1849,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -1961,7 +1961,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2157,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.3215",
+      "achievement_median" : "0.322",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2305,7 +2305,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.2625",
+      "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2353,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2625,7 +2625,7 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Magic Circle" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "323380",
@@ -2856,7 +2856,7 @@
       "url_store" : "http://store.steampowered.com/app/304730/"
    },
    "Train Valley" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "353640",
@@ -2871,7 +2871,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.363",
+      "achievement_median" : "0.364",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -2907,7 +2907,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0705",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2919,7 +2919,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
