@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.0615",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -317,7 +317,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -405,7 +405,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0355",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.3865",
+      "achievement_median" : "0.387",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -945,7 +945,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "490820",
@@ -1164,25 +1164,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1353,8 +1353,8 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Halfway" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.261",
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1390,7 +1390,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1425,7 +1425,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.392",
+      "achievement_hardest" : "0.393",
       "achievement_median" : "0.645",
       "achievements" : true,
       "app_id" : "271900",
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.475",
+      "achievement_median" : "0.4735",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1924,7 +1924,7 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.112",
+      "achievement_hardest" : "0.113",
       "achievement_median" : "0.5255",
       "achievements" : true,
       "app_id" : "31280",
@@ -2157,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.32",
+      "achievement_median" : "0.3195",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.212",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2427,7 +2427,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.451",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2688,7 +2688,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3145,7 +3145,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
