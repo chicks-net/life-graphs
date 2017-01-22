@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.3015",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.302",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.0615",
       "achievements" : true,
       "app_id" : "379610",
@@ -317,7 +317,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -405,7 +405,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -473,7 +473,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.0615",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -498,7 +498,7 @@
       "url_store" : "http://store.steampowered.com/app/115100/"
    },
    "Costume Quest 2" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.2585",
       "achievements" : true,
       "app_id" : "275180",
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.387",
+      "achievement_median" : "0.3875",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.533",
+      "achievement_median" : "0.534",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1401,7 +1401,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.429",
+      "achievement_hardest" : "0.43",
       "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
@@ -1413,7 +1413,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.254",
+      "achievement_hardest" : "0.255",
       "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "304410",
@@ -1426,7 +1426,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.393",
-      "achievement_median" : "0.645",
+      "achievement_median" : "0.6455",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.4735",
+      "achievement_median" : "0.473",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1695,7 +1695,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0595",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2157,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.3195",
+      "achievement_median" : "0.3185",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.212",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2304,8 +2304,8 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.082",
-      "achievement_median" : "0.262",
+      "achievement_hardest" : "0.081",
+      "achievement_median" : "0.2615",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2316,8 +2316,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.032",
-      "achievement_median" : "0.057",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2353,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1075",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2794,7 +2794,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2907,7 +2907,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2919,7 +2919,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -2968,7 +2968,7 @@
       "url_store" : "http://store.steampowered.com/app/306660/"
    },
    "Unium" : {
-      "achievement_hardest" : "0.09",
+      "achievement_hardest" : "0.091",
       "achievement_median" : "0.1245",
       "achievements" : true,
       "app_id" : "357600",
