@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0615",
+      "achievement_hardest" : "0.032",
+      "achievement_median" : "0.061",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.17",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.3875",
+      "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -946,7 +946,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1285,7 +1285,7 @@
       "url_store" : "http://store.steampowered.com/app/320/"
    },
    "Half-Life 2: Episode One" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "380",
@@ -1354,7 +1354,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.262",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1572,7 +1572,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.184",
-      "achievement_median" : "0.244",
+      "achievement_median" : "0.245",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -2157,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.3185",
+      "achievement_median" : "0.318",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2194,8 +2194,8 @@
       "url_store" : "http://store.steampowered.com/app/465760/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.042",
-      "achievement_median" : "0.046",
+      "achievement_hardest" : "0.043",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2426,7 +2426,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.451",
+      "achievement_hardest" : "0.452",
       "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
@@ -2510,7 +2510,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.405",
+      "achievement_median" : "0.406",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2614,7 +2614,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.226",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2919,7 +2919,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -2957,7 +2957,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.119",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -2969,7 +2969,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1245",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3048,7 +3048,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "204180",
@@ -3145,7 +3145,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
