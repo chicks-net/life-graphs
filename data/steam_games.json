@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.389",
+      "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1426,7 +1426,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.393",
-      "achievement_median" : "0.6455",
+      "achievement_median" : "0.646",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1437,8 +1437,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.358",
-      "achievement_median" : "0.358",
+      "achievement_hardest" : "0.357",
+      "achievement_median" : "0.357",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1475,7 +1475,7 @@
       "url_store" : "http://store.steampowered.com/app/327890/"
    },
    "Indie Game: The Movie" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "207080",
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.473",
+      "achievement_median" : "0.4735",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1960,7 +1960,7 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
@@ -2048,7 +2048,7 @@
       "url_store" : "http://store.steampowered.com/app/38720/"
    },
    "Rabbit Hole 3D: Steam Edition" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "283660",
@@ -2157,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.3175",
+      "achievement_median" : "0.318",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.2105",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2316,8 +2316,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.058",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2439,7 +2439,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2781,8 +2781,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.223",
-      "achievement_median" : "0.223",
+      "achievement_hardest" : "0.224",
+      "achievement_median" : "0.224",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2957,7 +2957,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.119",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3063,7 +3063,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.118",
-      "achievement_median" : "0.2765",
+      "achievement_median" : "0.277",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
