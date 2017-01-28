@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0485",
+      "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -498,7 +498,7 @@
       "url_store" : "http://store.steampowered.com/app/115100/"
    },
    "Costume Quest 2" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.2585",
       "achievements" : true,
       "app_id" : "275180",
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.3895",
+      "achievement_median" : "0.39",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.533",
+      "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1437,8 +1437,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.357",
-      "achievement_median" : "0.357",
+      "achievement_hardest" : "0.356",
+      "achievement_median" : "0.356",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.474",
+      "achievement_median" : "0.4735",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1960,7 +1960,7 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
@@ -2049,7 +2049,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2439,7 +2439,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
