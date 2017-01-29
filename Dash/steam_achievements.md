@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 192 out of 209 games have achievements.
-15.97% achieved overall. 41.09% achieved in games played. 54.56% in games with >1 achievement.
+15.98% achieved overall. 41.10% achieved in games played. 54.58% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -14,8 +14,8 @@ Steam Achievements
 	 80   4 ****
 	 70   5 *****
 	 60   6 ******
-	 50   2 **
-	 40   3 ***
+	 50   3 ***
+	 40   2 **
 	 30   6 ******
 	 20   7 *******
 	 10   4 ****
@@ -62,10 +62,10 @@ Games by Achievement Percentage
 | 60.0% | 12 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/) | [Poker Night at the Inventory](http://steamcommunity.com/stats/PokerNight/achievements/compare/) :warning: MacFail | 4.6 | **0.38** | *8.8* |
 | 55.2% | 16 / 29 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/93c9364c3942223ab66195182fe1982af8a16584.jpg) ](http://store.steampowered.com/app/4000/) | [Garry's Mod](http://steamcommunity.com/stats/GarrysMod/achievements/compare/) | **144** | 9.00 | 2.4 |
 | 53% | | | **Steam Completion Average** | | |
+| 50.6% | 43 / 85 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | **78** | 1.81 | 0.8 |
 | 50.0% | 9 / 18 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/) | [Galcon Legends](http://steamcommunity.com/stats/201040/achievements/compare/) | 2.4 | **0.27** | 2.9 |
-| 49.4% | 42 / 85 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | **74** | 1.76 | 0.8 |
 | 45.8% | 238 / 520 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) | [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | **778** | 3.27 | 0.6 |
-| 42.0% | 21 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **31** | *1.48* | 1.3 |
+| 42.0% | 21 / 50 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | **31** | *1.48* | **60.2** |
 | 36.4% | 4 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/) | [Zen Bound® 2](http://steamcommunity.com/stats/ZenBound2/achievements/compare/) | 6.4 | 1.60 | *4.1* |
 | 33.3% | 11 / 33 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239820/9e60329a8cef940323063c8b744ed4d8bc01638c.jpg) ](http://store.steampowered.com/app/239820/) | [Game Dev Tycoon](http://steamcommunity.com/stats/239820/achievements/compare/) | 4.5 | **0.41** | 2.8 |
 | 33.3% | 1 / 3 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/306660/2a408bcad713015bed082c1e24574b0113b6125e.jpg) ](http://store.steampowered.com/app/306660/) | [Ultimate General: Gettysburg](http://steamcommunity.com/stats/306660/achievements/compare/) | 3.7 | 3.70 | **20.5** |
@@ -110,7 +110,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/279990/ff59fdd2166fa23cadb982029e42d70528bb18f1.jpg) ](http://store.steampowered.com/app/279990/) | [Bridge Constructor Playground](http://steamcommunity.com/stats/279990/achievements/compare/) | 0.3 | und | *4.9* |
 | 0.0% | 0 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/d1ced16a23a15441fbbdf5370f6b299a1e8cb427.jpg) ](http://store.steampowered.com/app/504210/) | [SHENZHEN I/O](http://steamcommunity.com/stats/504210/achievements/compare/) | 0.2 | und | *6.8* |
 | 0.0% | 0 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/315110/652d1dd680f16dce08f104d88e966a2946e00f73.jpg) ](http://store.steampowered.com/app/315110/) | [Woah Dave!](http://steamcommunity.com/stats/315110/achievements/compare/) | 0.2 | und | 2.4 |
-| 0.0% | 0 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343930/c1cb7883c1ecec32957627f7f8008528f67771f4.jpg) ](http://store.steampowered.com/app/343930/) | [Fort Defense](http://steamcommunity.com/stats/343930/achievements/compare/) | 0.1 | und | **12.6** |
+| 0.0% | 0 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343930/c1cb7883c1ecec32957627f7f8008528f67771f4.jpg) ](http://store.steampowered.com/app/343930/) | [Fort Defense](http://steamcommunity.com/stats/343930/achievements/compare/) | 0.1 | und | **12.7** |
 | 0.0% | 0 / 15 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257120/30329248252b1e52ad34754cd005c23314361b6e.jpg) ](http://store.steampowered.com/app/257120/) | [Not The Robots](http://steamcommunity.com/stats/257120/achievements/compare/) | 0.1 | und | *3.6* |
 | 0.0% | 0 / 54 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300/e3a4313690bd551495a88e1c01951eb26cec7611.jpg) ](http://store.steampowered.com/app/300/) | [Day of Defeat: Source](http://steamcommunity.com/stats/DOD:S/achievements/compare/) | 0.1 | und | 1.5 |
 | 0.0% | 0 / 42 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289760/96191c17f42b62cf5b4d6825d7b6ff5d5d5a22bd.jpg) ](http://store.steampowered.com/app/289760/) | [ROCKETSROCKETSROCKETS](http://steamcommunity.com/stats/289760/achievements/compare/) | 0.1 | und | 1.3 |
@@ -240,7 +240,7 @@ Most played games
 | **148** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | 17 / 21 = 81.0% | 8.71 |
 | **144** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/93c9364c3942223ab66195182fe1982af8a16584.jpg) ](http://store.steampowered.com/app/4000/) | [Garry's Mod](http://steamcommunity.com/stats/GarrysMod/achievements/compare/) | 16 / 29 = 55.2% | 9.00 |
 | **92** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | 22 / 32 = 68.8% | 4.18 |
-| **74** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | 42 / 85 = 49.4% | 1.76 |
+| **78** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | 43 / 85 = 50.6% | 1.81 |
 | **72** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg) ](http://store.steampowered.com/app/233450/) | [Prison Architect](http://steamcommunity.com/stats/233450/achievements/compare/) | 0 / 18 = 0.0% | und |
 | **56** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe](http://steamcommunity.com/stats/259510/achievements/compare/) | 55 / 76 = 72.4% | *1.02* |
 | **46** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/) | [Kingdom Rush](http://steamcommunity.com/stats/246420/achievements/compare/) | 68 / 72 = 94.4% | *0.68* |

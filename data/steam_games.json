@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.069",
+      "achievement_hardest" : "0.07",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
@@ -473,7 +473,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0615",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.39",
+      "achievement_median" : "0.3905",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -959,8 +959,8 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.159",
-      "achievement_median" : "0.274",
+      "achievement_hardest" : "0.16",
+      "achievement_median" : "0.275",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.532",
+      "achievement_median" : "0.535",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1262,7 +1262,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1571,7 +1571,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.184",
+      "achievement_hardest" : "0.185",
       "achievement_median" : "0.245",
       "achievements" : true,
       "app_id" : "266010",
@@ -1623,7 +1623,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1658,8 +1658,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.169",
-      "achievement_median" : "0.169",
+      "achievement_hardest" : "0.168",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2317,7 +2317,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2353,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1085",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2510,7 +2510,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.405",
+      "achievement_median" : "0.406",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2662,7 +2662,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2817,8 +2817,8 @@
       "url_store" : "http://store.steampowered.com/app/38700/"
    },
    "Tomb Raider" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.161",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
