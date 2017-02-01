@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.3025",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0615",
+      "achievement_median" : "0.061",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "444220",
@@ -177,7 +177,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.0945",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -358,7 +358,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "419080",
@@ -668,7 +668,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.06",
+      "achievement_hardest" : "0.061",
       "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "457480",
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.391",
+      "achievement_median" : "0.3915",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1354,7 +1354,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.257",
-      "achievement_median" : "0.546",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.2075",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2285,7 +2285,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2477,7 +2477,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.075",
+      "achievement_hardest" : "0.076",
       "achievement_median" : "0.575",
       "achievements" : true,
       "app_id" : "445130",
@@ -2542,7 +2542,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
