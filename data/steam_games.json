@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -106,8 +106,8 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0485",
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.0475",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -331,7 +331,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -441,7 +441,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0245",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1164,25 +1164,25 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1413,7 +1413,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.257",
+      "achievement_hardest" : "0.258",
       "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
@@ -1450,7 +1450,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.217",
+      "achievement_median" : "0.2175",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.474",
+      "achievement_median" : "0.4745",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1658,8 +1658,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.167",
-      "achievement_median" : "0.167",
+      "achievement_hardest" : "0.17",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1749,7 +1749,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1975,7 +1975,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2065",
+      "achievement_median" : "0.2055",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2317,7 +2317,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2353,7 +2353,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1095",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2427,7 +2427,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.453",
-      "achievement_median" : "0.52",
+      "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -3063,7 +3063,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.119",
-      "achievement_median" : "0.2775",
+      "achievement_median" : "0.278",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
