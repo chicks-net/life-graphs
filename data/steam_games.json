@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.302",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.2985",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.0505",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.174",
+      "achievement_median" : "0.175",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -872,7 +872,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.1515",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -883,8 +883,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.02",
-      "achievement_median" : "0.393",
+      "achievement_hardest" : "0.021",
+      "achievement_median" : "0.394",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -932,7 +932,7 @@
    },
    "Flight Control HD" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.2555",
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
@@ -946,7 +946,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.032",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -960,7 +960,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.16",
-      "achievement_median" : "0.276",
+      "achievement_median" : "0.277",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1039,8 +1039,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.112",
-      "achievement_median" : "0.424",
+      "achievement_hardest" : "0.111",
+      "achievement_median" : "0.419",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1176,13 +1176,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12110",
+      "app_id" : "12240",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12110",
-      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12110/"
+      "name_short" : "12240",
+      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12240/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1262,7 +1262,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1402,7 +1402,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.431",
-      "achievement_median" : "0.693",
+      "achievement_median" : "0.6925",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1425,7 +1425,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.396",
+      "achievement_hardest" : "0.397",
       "achievement_median" : "0.648",
       "achievements" : true,
       "app_id" : "271900",
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "Human Resource Machine" : {
-      "achievement_hardest" : "0.031",
-      "achievement_median" : "0.218",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.213",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1548,7 +1548,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.4755",
+      "achievement_median" : "0.476",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1571,7 +1571,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.186",
+      "achievement_hardest" : "0.187",
       "achievement_median" : "0.247",
       "achievements" : true,
       "app_id" : "266010",
@@ -1695,7 +1695,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0605",
+      "achievement_median" : "0.0595",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1748,8 +1748,8 @@
       "url_store" : "http://store.steampowered.com/app/321300/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.086",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1837,7 +1837,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -1961,7 +1961,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2025,7 +2025,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0595",
+      "achievement_median" : "0.0575",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2156,8 +2156,8 @@
       "url_store" : "http://store.steampowered.com/app/504210/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.015",
-      "achievement_median" : "0.314",
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.311",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2183,7 +2183,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.2025",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2285,7 +2285,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2304,7 +2304,7 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.081",
+      "achievement_hardest" : "0.082",
       "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "253650",
@@ -2389,7 +2389,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2477,7 +2477,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.076",
+      "achievement_hardest" : "0.077",
       "achievement_median" : "0.576",
       "achievements" : true,
       "app_id" : "445130",
@@ -2756,7 +2756,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.0705",
+      "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -2871,7 +2871,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.365",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3088,7 +3088,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "262410",
