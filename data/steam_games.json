@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2985",
+      "achievement_median" : "0.2975",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.0505",
       "achievements" : true,
       "app_id" : "444220",
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "457480",
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.394",
+      "achievement_median" : "0.3945",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1039,8 +1039,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.111",
-      "achievement_median" : "0.419",
+      "achievement_hardest" : "0.11",
+      "achievement_median" : "0.418",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1402,7 +1402,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.431",
-      "achievement_median" : "0.6925",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1450,7 +1450,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.213",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1488,7 +1488,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -2025,7 +2025,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0575",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2157,7 +2157,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.311",
+      "achievement_median" : "0.309",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2285,7 +2285,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.254",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2316,8 +2316,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.065",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2389,7 +2389,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2969,7 +2969,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
