@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-192 out of 209 games have achievements.
-15.98% achieved overall. 41.12% achieved in games played. 54.60% in games with >1 achievement.
+194 out of 211 games have achievements.
+15.83% achieved overall. 41.12% achieved in games played. 54.60% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -123,6 +123,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 33 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/266010/c2e5b693de7cd46328aa8dd24add10b4f425e7f1.jpg) ](http://store.steampowered.com/app/266010/) | [LYNE](http://steamcommunity.com/stats/266010/achievements/compare/) | 0 | und | **12.4** |
 | 0.0% | 0 / 35 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220780/b2194d8b207193e0e3d8ae2bc47a91685c577750.jpg) ](http://store.steampowered.com/app/220780/) | [Thomas Was Alone](http://steamcommunity.com/stats/220780/achievements/compare/) | 0 | und | **11.3** |
 | 0.0% | 0 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/395160/5024f282dd43abdf99937249b3b9a39a2f2f54a1.jpg) ](http://store.steampowered.com/app/395160/) | [Toby: The Secret Mine](http://steamcommunity.com/stats/395160/achievements/compare/) | 0 | und | **10.2** |
+| 0.0% | 0 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/435400/53f72fd5d544ea5b8dfbe91843c766d7fb8f374c.jpg) ](http://store.steampowered.com/app/435400/) | [Hidden Folks](http://steamcommunity.com/stats/435400/achievements/compare/) | 0 | und | **10.1** |
 | 0.0% | 0 / 7 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/348400/4c93c8043b9dcd6c12f3c21e969b08ba6e0422d6.jpg) ](http://store.steampowered.com/app/348400/) | [BattleLore: Command](http://steamcommunity.com/stats/348400/achievements/compare/) | 0 | und | *9.9* |
 | 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288060/910ac4bc31a7422cd9705cdc4d022929e4c9b6aa.jpg) ](http://store.steampowered.com/app/288060/) | [Whispering Willows](http://steamcommunity.com/stats/288060/achievements/compare/) | 0 | und | *9.1* |
 | 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234940/701e589c0436061a3c1120c1d3f8346dce50bbc6.jpg) ](http://store.steampowered.com/app/234940/) | [The 39 Steps](http://steamcommunity.com/stats/234940/achievements/compare/) | 0 | und | *7.6* |
@@ -205,6 +206,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 40 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/413150/694de1f9cf09aba9d6d118bcff07714343529a0a.jpg) ](http://store.steampowered.com/app/413150/) | [Stardew Valley](http://steamcommunity.com/stats/413150/achievements/compare/) | 0 | und | 1.2 |
 | 0.0% | 0 / 45 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/232790/41b5954cafec81314d6f223e38faca0a23501252.jpg) ](http://store.steampowered.com/app/232790/) | [Broken Age](http://steamcommunity.com/stats/232790/achievements/compare/) | 0 | und | 1.1 |
 | 0.0% | 0 / 62 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/57900/a8d1246ad6962f0bfe9f59b1a314fcf53e712fd3.jpg) ](http://store.steampowered.com/app/57900/) | [Duke Nukem Forever](http://steamcommunity.com/stats/DukeNukemForever/achievements/compare/) | 0 | und | 1.1 |
+| 0.0% | 0 / 69 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/236870/f5fd359876446c22c995b1071407c8b4beff99d0.jpg) ](http://store.steampowered.com/app/236870/) | [HITMAN™](http://steamcommunity.com/stats/236870/achievements/compare/) | 0 | und | 1.1 |
 | 0.0% | 0 / 48 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257770/62b3e57fa76d22963a1fdccb6faea6ec5d114597.jpg) ](http://store.steampowered.com/app/257770/) | [Signal Ops](http://steamcommunity.com/stats/257770/achievements/compare/) | 0 | und | 1.1 |
 | 0.0% | 0 / 42 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262410/3efded148765038cab061ae6499b1f7ced93b489.jpg) ](http://store.steampowered.com/app/262410/) | [World of Guns: Gun Disassembly](http://steamcommunity.com/stats/262410/achievements/compare/) | 0 | und | 1.1 |
 | 0.0% | 0 / 63 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261640/df64c72fd335a03dbcc0a19b1f81acc8db1b94ba.jpg) ](http://store.steampowered.com/app/261640/) | [Borderlands: The Pre-Sequel](http://steamcommunity.com/stats/261640/achievements/compare/) | 0 | und | 1.0 |
