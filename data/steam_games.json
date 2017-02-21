@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2955",
+      "achievement_median" : "0.2945",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.0615",
       "achievements" : true,
       "app_id" : "379610",
@@ -85,7 +85,7 @@
    },
    "Anomaly Warzone Earth" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0505",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -499,7 +499,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.2595",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -564,7 +564,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.1235",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -872,7 +872,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1515",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -959,7 +959,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.16",
+      "achievement_hardest" : "0.161",
       "achievement_median" : "0.278",
       "achievements" : true,
       "app_id" : "343930",
@@ -1039,8 +1039,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.11",
-      "achievement_median" : "0.414",
+      "achievement_hardest" : "0.109",
+      "achievement_median" : "0.413",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1218,7 +1218,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1413,7 +1413,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.432",
+      "achievement_hardest" : "0.431",
       "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
@@ -1425,7 +1425,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.26",
+      "achievement_hardest" : "0.259",
       "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.058",
-      "achievement_median" : "0.076",
+      "achievement_hardest" : "0.065",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1473,8 +1473,8 @@
       "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "Human Resource Machine" : {
-      "achievement_hardest" : "0.03",
-      "achievement_median" : "0.209",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.2085",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1634,8 +1634,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1415",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.167",
-      "achievement_median" : "0.167",
+      "achievement_hardest" : "0.165",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.0545",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2098,7 +2098,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Reigns" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "474750",
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.3075",
+      "achievement_median" : "0.3065",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2025",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2341,7 +2341,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.064",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2842,7 +2842,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2943,7 +2943,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3086,7 +3086,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.119",
+      "achievement_hardest" : "0.12",
       "achievement_median" : "0.2785",
       "achievements" : true,
       "app_id" : "288060",
