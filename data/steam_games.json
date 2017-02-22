@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2945",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -85,7 +85,7 @@
    },
    "Anomaly Warzone Earth" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.0505",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -679,7 +679,7 @@
       "url_store" : "http://store.steampowered.com/app/218410/"
    },
    "Defense Grid 2" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "221540",
@@ -883,7 +883,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.397",
       "achievements" : true,
       "app_id" : "383870",
@@ -932,7 +932,7 @@
    },
    "Flight Control HD" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.2555",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
@@ -960,7 +960,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.161",
-      "achievement_median" : "0.278",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.413",
+      "achievement_median" : "0.4125",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1241,7 +1241,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "365450",
@@ -1413,8 +1413,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.431",
-      "achievement_median" : "0.693",
+      "achievement_hardest" : "0.429",
+      "achievement_median" : "0.691",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1425,8 +1425,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.259",
-      "achievement_median" : "0.548",
+      "achievement_hardest" : "0.258",
+      "achievement_median" : "0.546",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1437,8 +1437,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.397",
-      "achievement_median" : "0.6485",
+      "achievement_hardest" : "0.396",
+      "achievement_median" : "0.647",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.065",
-      "achievement_median" : "0.088",
+      "achievement_hardest" : "0.074",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1461,8 +1461,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.358",
-      "achievement_median" : "0.358",
+      "achievement_hardest" : "0.359",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2085",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1572,7 +1572,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.475",
+      "achievement_median" : "0.4755",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -2309,7 +2309,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2329,7 +2329,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2389,7 +2389,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0135",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2554,7 +2554,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.4455",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2698,7 +2698,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.13",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2842,7 +2842,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2881,7 +2881,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
