@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.2935",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0615",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -499,7 +499,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.2595",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -538,7 +538,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "730",
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.175",
+      "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.397",
+      "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -932,7 +932,7 @@
    },
    "Flight Control HD" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.2555",
       "achievements" : true,
       "app_id" : "62000",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.4125",
+      "achievement_median" : "0.412",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.429",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1426,7 +1426,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.258",
-      "achievement_median" : "0.546",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1437,8 +1437,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.396",
-      "achievement_median" : "0.647",
+      "achievement_hardest" : "0.395",
+      "achievement_median" : "0.646",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.074",
-      "achievement_median" : "0.097",
+      "achievement_hardest" : "0.081",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.2085",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1634,8 +1634,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1425",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.1415",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.165",
-      "achievement_median" : "0.165",
+      "achievement_hardest" : "0.164",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1937,7 +1937,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2015",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2451,7 +2451,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.454",
-      "achievement_median" : "0.521",
+      "achievement_median" : "0.522",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2502,7 +2502,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.576",
+      "achievement_median" : "0.577",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
