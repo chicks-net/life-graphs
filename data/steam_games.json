@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2935",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0625",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "444220",
@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -499,7 +499,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.2595",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.412",
+      "achievement_median" : "0.411",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1217,7 +1217,7 @@
       "url_store" : "http://store.steampowered.com/app/209080/"
    },
    "HITMAN™" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "236870",
@@ -1425,8 +1425,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.258",
-      "achievement_median" : "0.545",
+      "achievement_hardest" : "0.257",
+      "achievement_median" : "0.544",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1437,7 +1437,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.395",
+      "achievement_hardest" : "0.394",
       "achievement_median" : "0.646",
       "achievements" : true,
       "app_id" : "271900",
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.081",
-      "achievement_median" : "0.105",
+      "achievement_hardest" : "0.089",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.2085",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1634,8 +1634,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1415",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.164",
-      "achievement_median" : "0.164",
+      "achievement_hardest" : "0.163",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.3065",
+      "achievement_median" : "0.3055",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2341,7 +2341,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2451,7 +2451,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.454",
-      "achievement_median" : "0.522",
+      "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2817,7 +2817,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "395160",
@@ -3087,7 +3087,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.2785",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
