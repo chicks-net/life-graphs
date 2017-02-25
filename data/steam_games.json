@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.0615",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -212,7 +212,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
@@ -499,7 +499,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.2595",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -859,7 +859,7 @@
       "url_store" : "http://store.steampowered.com/app/212680/"
    },
    "Faerie Solitaire" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.2195",
       "achievements" : true,
       "app_id" : "38600",
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.411",
+      "achievement_median" : "0.4105",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1066,7 +1066,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.089",
-      "achievement_median" : "0.112",
+      "achievement_hardest" : "0.094",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1473,8 +1473,8 @@
       "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "Human Resource Machine" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.208",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.2085",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.163",
-      "achievement_median" : "0.163",
+      "achievement_hardest" : "0.165",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1872,7 +1872,7 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "Papers, Please" : {
-      "achievement_hardest" : "0.039",
+      "achievement_hardest" : "0.04",
       "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "239030",
@@ -1936,7 +1936,7 @@
       "url_store" : "http://store.steampowered.com/app/218510/"
    },
    "Plants vs. Zombies: Game of the Year" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
@@ -2049,7 +2049,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0545",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2169,7 +2169,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.0275",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.3055",
+      "achievement_median" : "0.3045",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0205",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2462,7 +2462,7 @@
       "url_store" : "http://store.steampowered.com/app/330830/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
@@ -2554,7 +2554,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2805,8 +2805,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.225",
-      "achievement_median" : "0.225",
+      "achievement_hardest" : "0.226",
+      "achievement_median" : "0.226",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2829,7 +2829,7 @@
       "url_store" : "http://store.steampowered.com/app/395160/"
    },
    "Toki Tori" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "38700",
@@ -2842,7 +2842,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
