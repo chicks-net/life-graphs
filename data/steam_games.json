@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.061",
       "achievements" : true,
       "app_id" : "379610",
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -290,7 +290,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.08",
+      "achievement_hardest" : "0.079",
       "achievement_median" : "0.1525",
       "achievements" : true,
       "app_id" : "302610",
@@ -373,7 +373,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -564,7 +564,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1235",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -680,7 +680,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.064",
       "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.3985",
+      "achievement_median" : "0.399",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.4095",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.429",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.101",
-      "achievement_median" : "0.127",
+      "achievement_hardest" : "0.107",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1584,7 +1584,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1595,7 +1595,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.187",
+      "achievement_hardest" : "0.188",
       "achievement_median" : "0.248",
       "achievements" : true,
       "app_id" : "266010",
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.162",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.16",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1985,7 +1985,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -1999,7 +1999,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.305",
+      "achievement_median" : "0.304",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2309,7 +2309,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.254",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2329,7 +2329,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.2605",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2674,7 +2674,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2697,7 +2697,7 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "This Is the Police" : {
-      "achievement_hardest" : "0.089",
+      "achievement_hardest" : "0.09",
       "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "443810",
@@ -2895,7 +2895,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -2931,7 +2931,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0705",
+      "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -2942,7 +2942,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "372350",
