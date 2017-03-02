@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -563,7 +563,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "343440",
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.3995",
+      "achievement_median" : "0.4",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4065",
+      "achievement_median" : "0.4055",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.114",
-      "achievement_median" : "0.14",
+      "achievement_hardest" : "0.117",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2075",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1799,7 +1799,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1822,7 +1822,7 @@
       "url_store" : "http://store.steampowered.com/app/252670/"
    },
    "Not The Robots" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "257120",
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.304",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2377,7 +2377,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
