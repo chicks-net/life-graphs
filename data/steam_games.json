@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.2895",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0625",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -563,7 +563,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "343440",
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -772,7 +772,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -959,7 +959,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.161",
+      "achievement_hardest" : "0.162",
       "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "343930",
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.395",
+      "achievement_median" : "0.396",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.429",
-      "achievement_median" : "0.691",
+      "achievement_median" : "0.6915",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.117",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.119",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.2075",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1635,7 +1635,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.162",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.161",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.303",
+      "achievement_median" : "0.302",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2015",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2377,7 +2377,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.1115",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2895,7 +2895,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
