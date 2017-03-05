@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -34,8 +34,8 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.024",
-      "achievement_median" : "0.026",
+      "achievement_hardest" : "0.025",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -668,7 +668,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -883,8 +883,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.022",
-      "achievement_median" : "0.4",
+      "achievement_hardest" : "0.023",
+      "achievement_median" : "0.401",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4055",
+      "achievement_median" : "0.4045",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1414,7 +1414,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.43",
-      "achievement_median" : "0.6915",
+      "achievement_median" : "0.692",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1426,7 +1426,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.256",
-      "achievement_median" : "0.543",
+      "achievement_median" : "0.544",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.118",
-      "achievement_median" : "0.144",
+      "achievement_hardest" : "0.122",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.3035",
+      "achievement_median" : "0.304",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1583,7 +1583,7 @@
       "url_store" : "http://store.steampowered.com/app/458710/"
    },
    "LIMBO" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "48000",
@@ -1635,7 +1635,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1961,7 +1961,7 @@
    },
    "Poly Bridge" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.0115",
       "achievements" : true,
       "app_id" : "367450",
       "global_achievements" : true,
@@ -2048,7 +2048,7 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "ROCKETSROCKETSROCKETS" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.0535",
       "achievements" : true,
       "app_id" : "289760",
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.302",
+      "achievement_median" : "0.301",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2015",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2389,7 +2389,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1105",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2475,7 +2475,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2565,7 +2565,7 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.098",
+      "achievement_hardest" : "0.097",
       "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
@@ -2893,7 +2893,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -2906,7 +2906,7 @@
       "url_store" : "http://store.steampowered.com/app/353640/"
    },
    "Transmissions: Element 120" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "365300",
