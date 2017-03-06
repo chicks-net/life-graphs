@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.2885",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "346900",
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0625",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -128,7 +128,7 @@
       "url_store" : "http://store.steampowered.com/app/205870/"
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "218060",
@@ -227,7 +227,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -711,8 +711,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.065",
-      "achievement_median" : "0.147",
+      "achievement_hardest" : "0.066",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -872,7 +872,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.1525",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1077,7 +1077,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "214420",
@@ -1274,7 +1274,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1437,7 +1437,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.394",
+      "achievement_hardest" : "0.395",
       "achievement_median" : "0.646",
       "achievements" : true,
       "app_id" : "271900",
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.122",
-      "achievement_median" : "0.148",
+      "achievement_hardest" : "0.124",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1560,7 +1560,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.304",
+      "achievement_median" : "0.3035",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1572,7 +1572,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.475",
+      "achievement_median" : "0.4755",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1635,7 +1635,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1682,8 +1682,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.161",
-      "achievement_median" : "0.161",
+      "achievement_hardest" : "0.164",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1707,7 +1707,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1811,7 +1811,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -1961,7 +1961,7 @@
    },
    "Poly Bridge" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0115",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "367450",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.301",
+      "achievement_median" : "0.3",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2015",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2566,7 +2566,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.4465",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2625,7 +2625,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.39",
+      "achievement_hardest" : "0.391",
       "achievement_median" : "0.517",
       "achievements" : true,
       "app_id" : "319550",
@@ -2893,7 +2893,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.13",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -2906,7 +2906,7 @@
       "url_store" : "http://store.steampowered.com/app/353640/"
    },
    "Transmissions: Element 120" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "365300",
@@ -2955,7 +2955,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
