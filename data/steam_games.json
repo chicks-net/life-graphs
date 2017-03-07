@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.027",
-      "achievement_median" : "0.135",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -304,8 +304,8 @@
       "url_store" : "http://store.steampowered.com/app/302610/"
    },
    "Braid" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.305",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -712,7 +712,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.066",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1040,7 +1040,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4045",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.396",
+      "achievement_median" : "0.3955",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1218,7 +1218,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1438,7 +1438,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.395",
-      "achievement_median" : "0.646",
+      "achievement_median" : "0.6465",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.124",
-      "achievement_median" : "0.15",
+      "achievement_hardest" : "0.125",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1635,7 +1635,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1706,7 +1706,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
@@ -1718,8 +1718,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0585",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1745,7 +1745,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1135",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -1834,8 +1834,8 @@
       "url_store" : "http://store.steampowered.com/app/257120/"
    },
    "Osmos" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.023",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "29180",
       "global_achievements" : true,
@@ -2376,8 +2376,8 @@
       "url_store" : "http://store.steampowered.com/app/209790/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.036",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2565,8 +2565,8 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.097",
-      "achievement_median" : "0.446",
+      "achievement_hardest" : "0.098",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2625,7 +2625,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.391",
+      "achievement_hardest" : "0.39",
       "achievement_median" : "0.517",
       "achievements" : true,
       "app_id" : "319550",
@@ -2686,7 +2686,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2835",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2710,7 +2710,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.09",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
