@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.027",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.032",
-      "achievement_median" : "0.064",
+      "achievement_hardest" : "0.031",
+      "achievement_median" : "0.0645",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -106,8 +106,8 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.0515",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -304,8 +304,8 @@
       "url_store" : "http://store.steampowered.com/app/302610/"
    },
    "Braid" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -711,7 +711,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.066",
+      "achievement_hardest" : "0.067",
       "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
@@ -884,7 +884,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.401",
+      "achievement_median" : "0.4015",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.3955",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1449,8 +1449,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.125",
-      "achievement_median" : "0.151",
+      "achievement_hardest" : "0.127",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1718,8 +1718,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1834,8 +1834,8 @@
       "url_store" : "http://store.steampowered.com/app/257120/"
    },
    "Osmos" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "29180",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.3",
+      "achievement_median" : "0.299",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2365,7 +2365,7 @@
    },
    "Splice" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1385",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "209790",
       "global_achievements" : true,
@@ -2376,8 +2376,8 @@
       "url_store" : "http://store.steampowered.com/app/209790/"
    },
    "Spy Chameleon - RGB Agent" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2625,7 +2625,7 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.39",
+      "achievement_hardest" : "0.391",
       "achievement_median" : "0.517",
       "achievements" : true,
       "app_id" : "319550",
@@ -2686,7 +2686,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2835",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -3071,6 +3071,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4570/2068980dca52521b069abc109f976d72ba0b1651.jpg",
       "url_store" : "http://store.steampowered.com/app/4570/"
    },
+   "Warhammer 40,000: Dawn of War - Winter Assault" : {
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
+      "achievements" : true,
+      "app_id" : "9310",
+      "global_achievements" : true,
+      "name" : "Warhammer 40,000: Dawn of War - Winter Assault",
+      "name_short" : "9310",
+      "url_achievements" : "http://steamcommunity.com/stats/9310/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/9310/88ca73c99d1a64b81a3306c690f0354a1643c1c1.jpg",
+      "url_store" : "http://store.steampowered.com/app/9310/"
+   },
    "Warhammer 40,000: Dawn of War – Winter Assault" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
@@ -3110,7 +3122,7 @@
       "url_store" : "http://store.steampowered.com/app/288060/"
    },
    "Woah Dave!" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "315110",
