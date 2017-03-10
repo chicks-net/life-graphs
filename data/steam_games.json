@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.071",
+      "achievement_hardest" : "0.07",
       "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "348400",
@@ -212,8 +212,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.244",
-      "achievement_median" : "0.3655",
+      "achievement_hardest" : "0.243",
+      "achievement_median" : "0.3665",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -239,7 +239,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -896,7 +896,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.4015",
+      "achievement_median" : "0.402",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -957,8 +957,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.032",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1004,7 +1004,7 @@
    },
    "Free to Play" : {
       "achievement_hardest" : "0.112",
-      "achievement_median" : "0.181",
+      "achievement_median" : "0.182",
       "achievements" : true,
       "app_id" : "245550",
       "global_achievements" : true,
@@ -1438,7 +1438,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.256",
-      "achievement_median" : "0.544",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1461,8 +1461,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.127",
-      "achievement_median" : "0.154",
+      "achievement_hardest" : "0.128",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -2111,7 +2111,7 @@
    },
    "Reigns" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "474750",
       "global_achievements" : true,
@@ -2193,7 +2193,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.2985",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2365,7 +2365,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1115",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2577,7 +2577,7 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.097",
+      "achievement_hardest" : "0.098",
       "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
@@ -2918,7 +2918,7 @@
       "url_store" : "http://store.steampowered.com/app/353640/"
    },
    "Transmissions: Element 120" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "365300",
