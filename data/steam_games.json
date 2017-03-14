@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2885",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0635",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -212,8 +212,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.245",
-      "achievement_median" : "0.3675",
+      "achievement_hardest" : "0.246",
+      "achievement_median" : "0.3685",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -329,7 +329,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -416,8 +416,8 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.036",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -851,7 +851,7 @@
       "url_store" : "http://store.steampowered.com/app/291150/"
    },
    "FEZ" : {
-      "achievement_hardest" : "0.051",
+      "achievement_hardest" : "0.052",
       "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "224760",
@@ -971,8 +971,8 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.162",
-      "achievement_median" : "0.28",
+      "achievement_hardest" : "0.163",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1090,7 +1090,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1310,7 +1310,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1461,8 +1461,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.132",
-      "achievement_median" : "0.159",
+      "achievement_hardest" : "0.133",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1647,7 +1647,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1859,7 +1859,7 @@
    },
    "PARTICLE MACE" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "295690",
       "global_achievements" : true,
@@ -1949,7 +1949,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2193,7 +2193,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2965",
+      "achievement_median" : "0.2955",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0155",
+      "achievement_median" : "0.016",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2437,7 +2437,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2514,7 +2514,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.094",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2525,7 +2525,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.077",
+      "achievement_hardest" : "0.078",
       "achievement_median" : "0.577",
       "achievements" : true,
       "app_id" : "445130",
@@ -2578,7 +2578,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4465",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2841,7 +2841,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "395160",
@@ -2918,7 +2918,7 @@
       "url_store" : "http://store.steampowered.com/app/353640/"
    },
    "Transmissions: Element 120" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "365300",
@@ -3123,7 +3123,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.2795",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
