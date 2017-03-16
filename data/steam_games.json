@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.2875",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -371,7 +371,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.0245",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -588,7 +588,7 @@
    },
    "Crusader Kings II" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0065",
+      "achievement_median" : "0.007",
       "achievements" : true,
       "app_id" : "203770",
       "global_achievements" : true,
@@ -599,7 +599,7 @@
       "url_store" : "http://store.steampowered.com/app/203770/"
    },
    "Cube & Star: An Arbitrary Love" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "261960",
@@ -724,7 +724,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.067",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1052,7 +1052,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4035",
+      "achievement_median" : "0.403",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1310,7 +1310,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1461,8 +1461,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.134",
-      "achievement_median" : "0.161",
+      "achievement_hardest" : "0.135",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1647,7 +1647,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2365,7 +2365,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2817,7 +2817,7 @@
       "url_store" : "http://store.steampowered.com/app/398710/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "385770",

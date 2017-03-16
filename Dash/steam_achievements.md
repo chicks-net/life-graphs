@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 196 out of 213 games have achievements.
-16.61% achieved overall. 41.51% achieved in games played. 55.14% in games with >1 achievement.
+16.63% achieved overall. 41.55% achieved in games played. 55.18% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -12,8 +12,8 @@ Steam Achievements
 	100  14 **************
 	 90   3 ***
 	 80   4 ****
-	 70   5 *****
-	 60   6 ******
+	 70   6 ******
+	 60   5 *****
 	 50   3 ***
 	 40   2 **
 	 30   6 ******
@@ -38,7 +38,7 @@ Games by Achievement Percentage
 | 100.0% | 36 / 36 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/399670/e51bc6640fa85fcfc3ef36750aad7d9b8b6ba0e9.jpg) ](http://store.steampowered.com/app/399670/) | [Game Corp DX](http://steamcommunity.com/stats/399670/achievements/compare/) | 7.7 | **0.21** | *7.6* |
 | 100.0% | 14 / 14 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/38beffb4081a5af5e68fdf0e85f9f3262270fa40.jpg) ](http://store.steampowered.com/app/319850/) | [Bridge Constructor Medieval](http://steamcommunity.com/stats/319850/achievements/compare/) | 6.7 | **0.48** | *7.4* |
 | 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265890/c7829dd893d414315992090d6f30fc4536d91b61.jpg) ](http://store.steampowered.com/app/265890/) | [Hexcells](http://steamcommunity.com/stats/265890/achievements/compare/) | 5.3 | *0.88* | **32.5** |
-| 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/435400/53f72fd5d544ea5b8dfbe91843c766d7fb8f374c.jpg) ](http://store.steampowered.com/app/435400/) | [Hidden Folks](http://steamcommunity.com/stats/435400/achievements/compare/) | 4.6 | *0.92* | **16.0** |
+| 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/435400/53f72fd5d544ea5b8dfbe91843c766d7fb8f374c.jpg) ](http://store.steampowered.com/app/435400/) | [Hidden Folks](http://steamcommunity.com/stats/435400/achievements/compare/) | 4.6 | *0.92* | **16.1** |
 | 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245550/98defd2daedb3910583439bffb12e0baeb20ff6c.jpg) ](http://store.steampowered.com/app/245550/) | [Free to Play](http://steamcommunity.com/stats/245550/achievements/compare/) | 4.4 | *0.88* | **14.8** |
 | 100.0% | 13 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368370/a05fc37b598a1ae5176b2a95a4819bfa0b93c4e5.jpg) ](http://store.steampowered.com/app/368370/) | [Her Story](http://steamcommunity.com/stats/368370/achievements/compare/) | 3.7 | **0.28** | *9.4* |
 | 100.0% | 1 / 1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367580/e1ee63f7f0603048e59b6ad107f920856028927e.jpg) ](http://store.steampowered.com/app/367580/) | [Hook](http://steamcommunity.com/stats/367580/achievements/compare/) | 1.3 | *1.30* | **61.6** |
@@ -56,7 +56,7 @@ Games by Achievement Percentage
 | 75.0% | 9 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg) ](http://store.steampowered.com/app/258890/) | [Type:Rider](http://steamcommunity.com/stats/258890/achievements/compare/) | 5.1 | *0.57* | *6.1* |
 | 73.9% | 17 / 23 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg) ](http://store.steampowered.com/app/263760/) | [Turbo Dismount](http://steamcommunity.com/stats/263760/achievements/compare/) | **11.0** | *0.65* | 2.3 |
 | 72.4% | 55 / 76 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe](http://steamcommunity.com/stats/259510/achievements/compare/) | **56** | *1.02* | 1.6 |
-| 68.8% | 22 / 32 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | **92** | 4.18 | 1.4 |
+| 71.9% | 23 / 32 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | **93** | 4.04 | 1.4 |
 | 68.8% | 11 / 16 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/62000/34de2e89a598a7fabb2827a7680d18601c314108.jpg) ](http://store.steampowered.com/app/62000/) | [Flight Control HD](http://steamcommunity.com/stats/FlightControlHD/achievements/compare/) | **17.9** | 1.63 | *5.0* |
 | 68.2% | 15 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/b6a8e06210d2da419565c33ec2c639ef412803fc.jpg) ](http://store.steampowered.com/app/357600/) | [Unium](http://steamcommunity.com/stats/357600/achievements/compare/) | 2.7 | **0.18** | *7.3* |
 | 66.7% | 10 / 15 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457480/b3fa986962a8eae1d5a77f7956bea02a16196031.jpg) ](http://store.steampowered.com/app/457480/) | [Domino Sky](http://steamcommunity.com/stats/457480/achievements/compare/) | 2.1 | **0.21** | *6.7* |
@@ -243,7 +243,7 @@ Most played games
 | **267** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | 57 / 69 = 82.6% | 4.68 |
 | **148** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | 17 / 21 = 81.0% | 8.71 |
 | **144** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/93c9364c3942223ab66195182fe1982af8a16584.jpg) ](http://store.steampowered.com/app/4000/) | [Garry's Mod](http://steamcommunity.com/stats/GarrysMod/achievements/compare/) | 16 / 29 = 55.2% | 9.00 |
-| **92** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | 22 / 32 = 68.8% | 4.18 |
+| **93** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | 23 / 32 = 71.9% | 4.04 |
 | **82** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/) | [XCOM: Enemy Unknown](http://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/compare/) | 44 / 85 = 51.8% | 1.86 |
 | **72** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg) ](http://store.steampowered.com/app/233450/) | [Prison Architect](http://steamcommunity.com/stats/233450/achievements/compare/) | 0 / 18 = 0.0% | und |
 | **56** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe](http://steamcommunity.com/stats/259510/achievements/compare/) | 55 / 76 = 72.4% | *1.02* |
