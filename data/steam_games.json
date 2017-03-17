@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "444220",
@@ -723,7 +723,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.067",
+      "achievement_hardest" : "0.068",
       "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "457480",
@@ -1286,7 +1286,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1461,8 +1461,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.135",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.136",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1633,7 +1633,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1647,7 +1647,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1757,7 +1757,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1135",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2193,7 +2193,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2955",
+      "achievement_median" : "0.2935",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2218,8 +2218,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2005",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2638,7 +2638,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.391",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.517",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2662,7 +2662,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
