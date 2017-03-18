@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.064",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.0645",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -212,7 +212,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.247",
+      "achievement_hardest" : "0.248",
       "achievement_median" : "0.3685",
       "achievements" : true,
       "app_id" : "568020",
@@ -342,7 +342,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.076",
+      "achievement_hardest" : "0.077",
       "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "319850",
@@ -896,7 +896,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.403",
+      "achievement_median" : "0.4035",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1126,7 +1126,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3975",
+      "achievement_median" : "0.3985",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1230,7 +1230,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1449,7 +1449,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.396",
+      "achievement_hardest" : "0.397",
       "achievement_median" : "0.647",
       "achievements" : true,
       "app_id" : "271900",
@@ -1461,8 +1461,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.136",
-      "achievement_median" : "0.163",
+      "achievement_hardest" : "0.137",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1647,7 +1647,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1694,8 +1694,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.164",
-      "achievement_median" : "0.164",
+      "achievement_hardest" : "0.163",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2193,7 +2193,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2935",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2219,7 +2219,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2602,7 +2602,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -2638,7 +2638,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.391",
-      "achievement_median" : "0.517",
+      "achievement_median" : "0.5175",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2662,7 +2662,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2804,7 +2804,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.071",
+      "achievement_median" : "0.0715",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -3204,7 +3204,7 @@
       "url_store" : "http://store.steampowered.com/app/61600/"
    },
    "rymdkapsel" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
