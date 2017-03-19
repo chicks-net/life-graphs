@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -163,6 +163,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/348400/4c93c8043b9dcd6c12f3c21e969b08ba6e0422d6.jpg",
       "url_store" : "http://store.steampowered.com/app/348400/"
    },
+   "Beglitched" : {
+      "app_id" : "461220",
+      "name" : "Beglitched",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461220/facd61cc4b30004dbf6920b070c8991c6412165b.jpg",
+      "url_store" : "http://store.steampowered.com/app/461220/"
+   },
    "Besiege" : {
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
@@ -212,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.248",
-      "achievement_median" : "0.3685",
+      "achievement_hardest" : "0.25",
+      "achievement_median" : "0.3705",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -328,7 +336,7 @@
       "url_store" : "http://store.steampowered.com/app/26800/"
    },
    "Bridge Constructor" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "250460",
@@ -417,7 +425,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -551,7 +559,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -680,7 +688,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -712,7 +720,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1875",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -784,7 +792,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1188,13 +1196,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1229,7 +1237,7 @@
       "url_store" : "http://store.steampowered.com/app/209080/"
    },
    "HITMAN™" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "236870",
@@ -1426,7 +1434,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.431",
-      "achievement_median" : "0.692",
+      "achievement_median" : "0.6925",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1437,7 +1445,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.257",
+      "achievement_hardest" : "0.258",
       "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "304410",
@@ -1462,7 +1470,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.137",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1594,6 +1602,30 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/458710/b01728959898a7203c30a304df6c3771d7521316.jpg",
       "url_store" : "http://store.steampowered.com/app/458710/"
    },
+   "Kingdom: Classic" : {
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.07",
+      "achievements" : true,
+      "app_id" : "368230",
+      "global_achievements" : true,
+      "name" : "Kingdom: Classic",
+      "name_short" : "368230",
+      "url_achievements" : "http://steamcommunity.com/stats/368230/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368230/b684a91e7bf997a7a1acf121747ba843c7bb66fd.jpg",
+      "url_store" : "http://store.steampowered.com/app/368230/"
+   },
+   "Kingdom: New Lands" : {
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.0795",
+      "achievements" : true,
+      "app_id" : "496300",
+      "global_achievements" : true,
+      "name" : "Kingdom: New Lands",
+      "name_short" : "496300",
+      "url_achievements" : "http://steamcommunity.com/stats/496300/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496300/5662913c07750c882478e03be144982421e07628.jpg",
+      "url_store" : "http://store.steampowered.com/app/496300/"
+   },
    "LIMBO" : {
       "achievement_hardest" : "0.012",
       "achievement_median" : "0.122",
@@ -1647,7 +1679,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1694,8 +1726,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.163",
-      "achievement_median" : "0.163",
+      "achievement_hardest" : "0.166",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1707,7 +1739,7 @@
    },
    "Metro: Last Light" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0665",
+      "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "43160",
       "global_achievements" : true,
@@ -1757,7 +1789,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.1135",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2193,7 +2225,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.2935",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2218,8 +2250,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.2005",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2401,7 +2433,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1125",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2487,7 +2519,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2955,7 +2987,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.071",
+      "achievement_median" : "0.0715",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3171,6 +3203,34 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22600/8dc524779f89d3f5ef6a7d30102ae6bafe4a1cd4.jpg",
       "url_store" : "http://store.steampowered.com/app/22600/"
    },
+   "XCOM 2" : {
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.198",
+      "achievements" : true,
+      "app_id" : "268500",
+      "global_achievements" : true,
+      "name" : "XCOM 2",
+      "name_short" : "268500",
+      "url_achievements" : "http://steamcommunity.com/stats/268500/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268500/10a6157d6614f63cd8a95d002d022778c207c218.jpg",
+      "url_store" : "http://store.steampowered.com/app/268500/"
+   },
+   "XCOM 2 - Digital Soundtrack" : {
+      "app_id" : "426320",
+      "name" : "XCOM 2 - Digital Soundtrack",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/426320/10a6157d6614f63cd8a95d002d022778c207c218.jpg",
+      "url_store" : "http://store.steampowered.com/app/426320/"
+   },
+   "XCOM 2 - Reinforcement Pack" : {
+      "app_id" : "426321",
+      "name" : "XCOM 2 - Reinforcement Pack",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/426321/319a5b09af87baa758b2a91cd19007bdc26a14c1.jpg",
+      "url_store" : "http://store.steampowered.com/app/426321/"
+   },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
       "achievement_median" : "0.213",
@@ -3204,7 +3264,7 @@
       "url_store" : "http://store.steampowered.com/app/61600/"
    },
    "rymdkapsel" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
@@ -3216,5 +3276,19 @@
       "url_achievements" : "http://steamcommunity.com/stats/253790/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg",
       "url_store" : "http://store.steampowered.com/app/253790/"
+   },
+   "simian.interface++" : {
+      "achievement_hardest" : "0.4",
+      "achievement_median" : "0.78",
+      "achievements" : true,
+      "app_id" : "467780",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "simian.interface++",
+      "name_short" : "467780",
+      "url_achievements" : "http://steamcommunity.com/stats/467780/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467780/fedd813f5de959625a4671f629054af4252aa132.jpg",
+      "url_store" : "http://store.steampowered.com/app/467780/"
    }
 }
