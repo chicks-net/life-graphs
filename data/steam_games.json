@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -185,7 +185,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0955",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.251",
-      "achievement_median" : "0.3735",
+      "achievement_hardest" : "0.253",
+      "achievement_median" : "0.375",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -732,7 +732,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.069",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -904,7 +904,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.4035",
+      "achievement_median" : "0.404",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1060,7 +1060,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.403",
+      "achievement_median" : "0.4025",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1238,7 +1238,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1330,7 +1330,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.3215",
+      "achievement_median" : "0.322",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.431",
-      "achievement_median" : "0.6925",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1446,7 +1446,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.258",
-      "achievement_median" : "0.546",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1469,7 +1469,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.138",
+      "achievement_hardest" : "0.139",
       "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "435400",
@@ -1592,7 +1592,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.476",
+      "achievement_median" : "0.4765",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1616,7 +1616,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0795",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1679,7 +1679,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1726,8 +1726,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.166",
-      "achievement_median" : "0.166",
+      "achievement_hardest" : "0.165",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1789,7 +1789,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1135",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2225,7 +2225,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2925",
+      "achievement_median" : "0.292",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2251,7 +2251,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.2005",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2365,7 +2365,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2519,7 +2519,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2590,7 +2590,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2670,7 +2670,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.391",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.517",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2999,7 +2999,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3155,7 +3155,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.279",
+      "achievement_median" : "0.2795",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3204,8 +3204,8 @@
       "url_store" : "http://store.steampowered.com/app/22600/"
    },
    "XCOM 2" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.199",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
