@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.0535",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -299,7 +299,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -1134,7 +1134,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.398",
+      "achievement_median" : "0.399",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1294,7 +1294,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1469,7 +1469,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.139",
+      "achievement_hardest" : "0.14",
       "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "435400",
@@ -1855,7 +1855,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -2225,7 +2225,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.2915",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2250,8 +2250,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.199",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2263,7 +2263,7 @@
    },
    "Scrap Garden - The Day Before" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "508390",
       "global_achievements" : true,
@@ -2396,8 +2396,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.064",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2590,7 +2590,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.408",
+      "achievement_median" : "0.407",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2609,7 +2609,7 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.098",
+      "achievement_hardest" : "0.097",
       "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
@@ -3049,7 +3049,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3205,7 +3205,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3279,7 +3279,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.401",
-      "achievement_median" : "0.7805",
+      "achievement_median" : "0.781",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
