@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.256",
-      "achievement_median" : "0.3775",
+      "achievement_hardest" : "0.255",
+      "achievement_median" : "0.376",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -365,7 +365,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -519,7 +519,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2595",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -584,7 +584,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.1245",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -904,7 +904,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.404",
+      "achievement_median" : "0.4045",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1433,7 +1433,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.431",
+      "achievement_hardest" : "0.432",
       "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
@@ -1458,7 +1458,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.397",
-      "achievement_median" : "0.647",
+      "achievement_median" : "0.6475",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1469,8 +1469,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.141",
-      "achievement_median" : "0.168",
+      "achievement_hardest" : "0.142",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1616,7 +1616,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.0805",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1640,7 +1640,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.19",
-      "achievement_median" : "0.25",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1665,7 +1665,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -2043,7 +2043,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2225,7 +2225,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2250,8 +2250,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.179",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2275,7 +2275,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.044",
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2519,7 +2519,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2590,7 +2590,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.407",
+      "achievement_median" : "0.406",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2951,7 +2951,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.367",
+      "achievement_median" : "0.368",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3205,7 +3205,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3279,7 +3279,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.402",
-      "achievement_median" : "0.7825",
+      "achievement_median" : "0.7835",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
