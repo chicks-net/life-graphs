@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2895",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "346900",
@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
@@ -73,7 +73,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0915",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -393,7 +393,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -1329,7 +1329,7 @@
       "url_store" : "http://store.steampowered.com/app/380/"
    },
    "Half-Life 2: Episode Two" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.322",
       "achievements" : true,
       "app_id" : "420",
@@ -1592,7 +1592,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.4765",
+      "achievement_median" : "0.477",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1843,7 +1843,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2250,8 +2250,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.177",
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2546,7 +2546,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.094",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2694,7 +2694,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2275",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2754,7 +2754,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3155,7 +3155,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.2795",
+      "achievement_median" : "0.279",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3278,8 +3278,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.402",
-      "achievement_median" : "0.7835",
+      "achievement_hardest" : "0.403",
+      "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
