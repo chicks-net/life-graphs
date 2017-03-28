@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.255",
-      "achievement_median" : "0.376",
+      "achievement_hardest" : "0.256",
+      "achievement_median" : "0.3765",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -559,7 +559,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -732,7 +732,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.07",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -979,7 +979,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.163",
+      "achievement_hardest" : "0.164",
       "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "343930",
@@ -1060,7 +1060,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4025",
+      "achievement_median" : "0.402",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1134,7 +1134,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.399",
+      "achievement_median" : "0.3995",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.432",
-      "achievement_median" : "0.693",
+      "achievement_median" : "0.6925",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1457,7 +1457,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.397",
+      "achievement_hardest" : "0.398",
       "achievement_median" : "0.6475",
       "achievements" : true,
       "app_id" : "271900",
@@ -1469,8 +1469,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.142",
-      "achievement_median" : "0.169",
+      "achievement_hardest" : "0.143",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1481,8 +1481,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.359",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1665,7 +1665,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -2092,7 +2092,7 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "ROCKETSROCKETSROCKETS" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "289760",
@@ -2250,8 +2250,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.176",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2433,7 +2433,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2622,7 +2622,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -2694,7 +2694,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.2275",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2768,7 +2768,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.175",
+      "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2999,7 +2999,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3279,7 +3279,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.403",
-      "achievement_median" : "0.784",
+      "achievement_median" : "0.7835",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
