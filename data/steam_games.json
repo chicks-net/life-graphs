@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -73,7 +73,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.0925",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -365,7 +365,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -731,8 +731,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.07",
-      "achievement_median" : "0.144",
+      "achievement_hardest" : "0.069",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -904,7 +904,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.4045",
+      "achievement_median" : "0.405",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1481,8 +1481,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.359",
-      "achievement_median" : "0.359",
+      "achievement_hardest" : "0.357",
+      "achievement_median" : "0.357",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1678,7 +1678,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
@@ -2143,7 +2143,7 @@
    },
    "Reigns" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "474750",
       "global_achievements" : true,
@@ -2251,7 +2251,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.174",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2274,7 +2274,7 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "293200",
@@ -2287,7 +2287,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2365,7 +2365,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.256",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2742,7 +2742,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1995",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
