@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.256",
-      "achievement_median" : "0.3765",
+      "achievement_hardest" : "0.258",
+      "achievement_median" : "0.3785",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -804,7 +804,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.1825",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -1469,8 +1469,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.143",
-      "achievement_median" : "0.17",
+      "achievement_hardest" : "0.144",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1592,7 +1592,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.477",
+      "achievement_median" : "0.4765",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1616,7 +1616,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0805",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1652,7 +1652,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.192",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1678,7 +1678,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
@@ -2225,7 +2225,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2251,7 +2251,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.173",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2397,7 +2397,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2469,7 +2469,7 @@
    },
    "Super Meat Boy" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "40800",
       "global_achievements" : true,
@@ -2506,7 +2506,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.455",
+      "achievement_hardest" : "0.456",
       "achievement_median" : "0.522",
       "achievements" : true,
       "app_id" : "330830",
@@ -2622,7 +2622,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3140,7 +3140,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "204180",
@@ -3278,8 +3278,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.403",
-      "achievement_median" : "0.7835",
+      "achievement_hardest" : "0.405",
+      "achievement_median" : "0.7855",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
