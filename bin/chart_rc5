@@ -32,17 +32,20 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 	next unless $day =~ /^\d+-\d+-\d+/;
 	my $day_obj = parse_statsday($day);
 	my $unix_seconds = $day_obj->epoch();
+	my $days_ago = $day_obj->delta_days( DateTime->now() )->in_units('days');
 	#print "$day $day_obj $unix_seconds\n";
 
 	my $metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{yesterday};
 #	print "rank_delta.yesterday $metric $unix_seconds\n";
 	my $data_item = { time => $unix_seconds, value => $metric };
-	push (@data_delta_yesterday, $data_item);
+	push (@data_delta_yesterday, $data_item)
+		if ($days_ago < 365);
 
 	$metric = $data->{'rc5-72'}->{$day}->{rank_delta}->{overall};
 #	print "rank_delta.overall $metric $unix_seconds\n";
 	$data_item = { time => $unix_seconds, value => $metric };
-	push (@data_delta_overall, $data_item);
+	push (@data_delta_overall, $data_item)
+		if ($days_ago < 365);
 
 
 	$metric = $data->{'rc5-72'}->{$day}->{rank}->{yesterday};
@@ -56,7 +59,6 @@ foreach my $day ( sort keys %{ $data->{'rc5-72'} } ) {
 	push (@data_rank_overall, $data_item);
 
 
-	my $days_ago = $day_obj->delta_days( DateTime->now() )->in_units('days');
 	$metric = $data->{'rc5-72'}->{$day}->{blocks}->{yesterday};
 #	print "blocks.yesterday $metric $unix_seconds $days_ago\n";
 	$data_item = { time => $unix_seconds, value => $metric };
