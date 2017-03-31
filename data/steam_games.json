@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.258",
-      "achievement_median" : "0.3785",
+      "achievement_hardest" : "0.257",
+      "achievement_median" : "0.378",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -732,7 +732,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.069",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -792,7 +792,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.179",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1262,7 +1262,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1294,7 +1294,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1422,7 +1422,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1531,7 +1531,7 @@
       "url_store" : "http://store.steampowered.com/app/207080/"
    },
    "Influent" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "274980",
@@ -1678,7 +1678,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
@@ -1855,7 +1855,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -2142,7 +2142,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Reigns" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "474750",
@@ -2251,7 +2251,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2433,7 +2433,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1145",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2622,7 +2622,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -2694,7 +2694,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2275",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3155,7 +3155,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.279",
+      "achievement_median" : "0.2795",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3205,7 +3205,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.2005",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3279,7 +3279,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.405",
-      "achievement_median" : "0.7855",
+      "achievement_median" : "0.7845",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
