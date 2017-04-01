@@ -136,10 +136,10 @@ write_file($filename,$chart->png(), 'Dash');
 
 $chart = Chart::Strip->new( title => "Steam Achievement Percentages", width => $chart_width );
 $chart->add_data(\@data_completion_rate, { style => 'line', label => 'Steam', color => $color_set[3], thickness => 2 });
-$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => $color_set[4] });
 $chart->add_data(\@data_percent_chicks_played, { style => 'line', label => 'played', color => $color_set[2] });
 $chart->add_data(\@data_percent_chicks_overall, { style => 'line', label => 'overall', color => $color_set[1] });
-$chart->add_data(\@data_percent_chicks_chieved, { style => 'line', label => 'chieved', color => $color_set[0], thickness => 2 });
+$chart->add_data(\@data_percent_chicks_chieved, { style => 'line', label => 'chieved', color => $color_set[4] });
+$chart->add_data(\@data_perfect_games, { style => 'line', label => 'Perfect Games', color => $color_set[0], thickness => 2 });
 
 $filename = "steam_achievement_percentage.png";
 write_file($filename,$chart->png(), 'Dash');
