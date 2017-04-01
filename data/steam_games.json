@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0645",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -73,7 +73,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.257",
-      "achievement_median" : "0.378",
+      "achievement_median" : "0.3785",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -559,7 +559,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.292",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -731,7 +731,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.069",
+      "achievement_hardest" : "0.07",
       "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "457480",
@@ -1134,7 +1134,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3995",
+      "achievement_median" : "0.4005",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1226,7 +1226,7 @@
    },
    "Guns of Icarus Online" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.001",
+      "achievement_median" : 0,
       "achievements" : true,
       "app_id" : "209080",
       "global_achievements" : true,
@@ -1237,7 +1237,7 @@
       "url_store" : "http://store.steampowered.com/app/209080/"
    },
    "HITMAN™" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "236870",
@@ -1261,7 +1261,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.049",
       "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
@@ -1294,7 +1294,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1470,7 +1470,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.144",
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1531,7 +1531,7 @@
       "url_store" : "http://store.steampowered.com/app/207080/"
    },
    "Influent" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "274980",
@@ -1592,7 +1592,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.4765",
+      "achievement_median" : "0.476",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1652,7 +1652,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.192",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1993,7 +1993,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.114",
-      "achievement_median" : "0.527",
+      "achievement_median" : "0.5275",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2225,7 +2225,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2250,8 +2250,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.17",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2506,7 +2506,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.456",
+      "achievement_hardest" : "0.455",
       "achievement_median" : "0.522",
       "achievements" : true,
       "app_id" : "330830",
@@ -2557,7 +2557,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.078",
+      "achievement_hardest" : "0.079",
       "achievement_median" : "0.578",
       "achievements" : true,
       "app_id" : "445130",
@@ -2742,7 +2742,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.2",
+      "achievement_median" : "0.1995",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2861,8 +2861,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.227",
-      "achievement_median" : "0.227",
+      "achievement_hardest" : "0.228",
+      "achievement_median" : "0.228",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -3205,7 +3205,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.2005",
+      "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
