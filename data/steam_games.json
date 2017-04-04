@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.259",
-      "achievement_median" : "0.38",
+      "achievement_hardest" : "0.26",
+      "achievement_median" : "0.382",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -365,7 +365,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -1442,7 +1442,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.432",
-      "achievement_median" : "0.6925",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.358",
-      "achievement_median" : "0.358",
+      "achievement_hardest" : "0.357",
+      "achievement_median" : "0.357",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1567,7 +1567,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1600,7 +1600,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.4665",
+      "achievement_median" : "0.4655",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1673,7 +1673,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -2233,7 +2233,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.2875",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2259,7 +2259,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.168",
+      "achievement_median" : "0.167",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2295,7 +2295,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2372,8 +2372,8 @@
       "url_store" : "http://store.steampowered.com/app/235620/"
    },
    "Space Food Truck" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.255",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2503,7 +2503,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.017",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -2553,7 +2553,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.094",
+      "achievement_hardest" : "0.093",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "234940",
@@ -2566,7 +2566,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.079",
-      "achievement_median" : "0.578",
+      "achievement_median" : "0.579",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2618,7 +2618,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.4455",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2630,7 +2630,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -2750,7 +2750,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1995",
+      "achievement_median" : "0.199",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2761,7 +2761,7 @@
       "url_store" : "http://store.steampowered.com/app/257510/"
    },
    "This Is the Police" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "443810",
@@ -3223,6 +3223,22 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268500/10a6157d6614f63cd8a95d002d022778c207c218.jpg",
       "url_store" : "http://store.steampowered.com/app/268500/"
    },
+   "XCOM 2 - Alien Hunters" : {
+      "app_id" : "433090",
+      "name" : "XCOM 2 - Alien Hunters",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/433090/d7580e5ad1130762cb1393e2646e065315cecbbd.jpg",
+      "url_store" : "http://store.steampowered.com/app/433090/"
+   },
+   "XCOM 2 - Anarchy's Children" : {
+      "app_id" : "433080",
+      "name" : "XCOM 2 - Anarchy's Children",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/433080/691a419307ad564b81073a47539d4b84ae47366e.jpg",
+      "url_store" : "http://store.steampowered.com/app/433080/"
+   },
    "XCOM 2 - Digital Soundtrack" : {
       "app_id" : "426320",
       "name" : "XCOM 2 - Digital Soundtrack",
@@ -3236,8 +3252,16 @@
       "name" : "XCOM 2 - Reinforcement Pack",
       "name_short" : false,
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/426321/319a5b09af87baa758b2a91cd19007bdc26a14c1.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/426321/a2a21d5fbc0f8ed8761edff88cd76452ba0b8127.jpg",
       "url_store" : "http://store.steampowered.com/app/426321/"
+   },
+   "XCOM 2 - Shen's Last Gift" : {
+      "app_id" : "433091",
+      "name" : "XCOM 2 - Shen's Last Gift",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/433091/4f14b45a20c11aae9b636511753c7c155415d0a5.jpg",
+      "url_store" : "http://store.steampowered.com/app/433091/"
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
@@ -3286,8 +3310,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.405",
-      "achievement_median" : "0.7835",
+      "achievement_hardest" : "0.406",
+      "achievement_median" : "0.7845",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
