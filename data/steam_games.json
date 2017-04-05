@@ -106,8 +106,8 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.03",
-      "achievement_median" : "0.053",
+      "achievement_hardest" : "0.031",
+      "achievement_median" : "0.0535",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.26",
+      "achievement_hardest" : "0.261",
       "achievement_median" : "0.382",
       "achievements" : true,
       "app_id" : "568020",
@@ -351,7 +351,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -888,7 +888,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.2195",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.4",
+      "achievement_median" : "0.4005",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1477,8 +1477,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.145",
-      "achievement_median" : "0.172",
+      "achievement_hardest" : "0.146",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -2232,7 +2232,7 @@
       "url_store" : "http://store.steampowered.com/app/504210/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.2875",
       "achievements" : true,
       "app_id" : "322500",
@@ -2259,7 +2259,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.167",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2393,7 +2393,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.2595",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2441,7 +2441,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2491,7 +2491,7 @@
    },
    "Surgeon Simulator" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "233720",
       "global_achievements" : true,
@@ -2618,7 +2618,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4455",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2630,7 +2630,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -2906,7 +2906,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3189,7 +3189,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -3310,7 +3310,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.406",
+      "achievement_hardest" : "0.407",
       "achievement_median" : "0.7845",
       "achievements" : true,
       "app_id" : "467780",
