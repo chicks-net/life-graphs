@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.261",
-      "achievement_median" : "0.382",
+      "achievement_hardest" : "0.262",
+      "achievement_median" : "0.383",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -739,8 +739,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.069",
-      "achievement_median" : "0.142",
+      "achievement_hardest" : "0.07",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -974,7 +974,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.4005",
+      "achievement_median" : "0.3995",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.367",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1454,7 +1454,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.26",
-      "achievement_median" : "0.547",
+      "achievement_median" : "0.546",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1567,7 +1567,7 @@
       "url_store" : "http://store.steampowered.com/app/286963/"
    },
    "Jack Lumber" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "220900",
@@ -1600,7 +1600,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.4655",
+      "achievement_median" : "0.466",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1912,7 +1912,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "POSTAL" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "232770",
@@ -2233,7 +2233,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.2875",
+      "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2259,7 +2259,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.166",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2618,7 +2618,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.097",
-      "achievement_median" : "0.4455",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2882,7 +2882,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3310,8 +3310,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.407",
-      "achievement_median" : "0.7845",
+      "achievement_hardest" : "0.406",
+      "achievement_median" : "0.783",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
