@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2905",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.263",
-      "achievement_median" : "0.384",
+      "achievement_hardest" : "0.264",
+      "achievement_median" : "0.3845",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -739,8 +739,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.07",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.069",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -868,7 +868,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.129",
+      "achievement_median" : "0.1295",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.396",
+      "achievement_median" : "0.3945",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1302,7 +1302,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1599,8 +1599,8 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.051",
-      "achievement_median" : "0.467",
+      "achievement_hardest" : "0.052",
+      "achievement_median" : "0.4675",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1612,7 +1612,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0815",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1952,8 +1952,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Plague Inc: Evolved" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.025",
+      "achievement_hardest" : "0.002",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -1964,7 +1964,7 @@
       "url_store" : "http://store.steampowered.com/app/246620/"
    },
    "Planetary Annihilation" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "233250",
@@ -2233,7 +2233,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.2875",
+      "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2554,7 +2554,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2750,7 +2750,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.1985",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2762,7 +2762,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3007,7 +3007,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.284",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3213,7 +3213,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
