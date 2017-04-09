@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -973,7 +973,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "490820",
@@ -1068,7 +1068,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.402",
+      "achievement_median" : "0.4015",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3945",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1204,13 +1204,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12240",
+      "app_id" : "12110",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: Vice City",
-      "name_short" : "12240",
-      "url_achievements" : "http://steamcommunity.com/stats/12240/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
-      "url_store" : "http://store.steampowered.com/app/12240/"
+      "name_short" : "12110",
+      "url_achievements" : "http://steamcommunity.com/stats/12110/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg",
+      "url_store" : "http://store.steampowered.com/app/12110/"
    },
    "Gratuitous Space Battles" : {
       "app_id" : "41800",
@@ -1302,7 +1302,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1393,7 +1393,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Halfway" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "253150",
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1477,7 +1477,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.146",
+      "achievement_hardest" : "0.147",
       "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "435400",
@@ -1537,6 +1537,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/207080/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207080/f2c3f3e7104ad6d8719c2698406c79efe6de41e7.jpg",
       "url_store" : "http://store.steampowered.com/app/207080/"
+   },
+   "Infinifactory" : {
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.0425",
+      "achievements" : true,
+      "app_id" : "300570",
+      "global_achievements" : true,
+      "name" : "Infinifactory",
+      "name_short" : "300570",
+      "url_achievements" : "http://steamcommunity.com/stats/300570/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/5b41f9020fa38615e7a40e3db2bf2b50bd2dbb64.jpg",
+      "url_store" : "http://store.steampowered.com/app/300570/"
    },
    "Influent" : {
       "achievement_hardest" : "0.01",
@@ -1612,7 +1624,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0695",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1624,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1648,7 +1660,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.191",
-      "achievement_median" : "0.251",
+      "achievement_median" : "0.252",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1734,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.164",
-      "achievement_median" : "0.164",
+      "achievement_hardest" : "0.163",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1796,7 +1808,7 @@
       "url_store" : "http://store.steampowered.com/app/113020/"
    },
    "Mount & Blade: Warband" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "48700",
@@ -2100,7 +2112,7 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "ROCKETSROCKETSROCKETS" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "289760",
@@ -2258,8 +2270,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.165",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2295,7 +2307,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2383,6 +2395,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/397390/abe570d55e2d45e9b27f09bb09be2c20e317af2e.jpg",
       "url_store" : "http://store.steampowered.com/app/397390/"
    },
+   "SpaceChem" : {
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.0555",
+      "achievements" : true,
+      "app_id" : "92800",
+      "global_achievements" : true,
+      "name" : "SpaceChem",
+      "name_short" : "SpaceChem",
+      "url_achievements" : "http://steamcommunity.com/stats/SpaceChem/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/5ffbf030cd3e3af293e0509df7be6f9b2a159ca8.jpg",
+      "url_store" : "http://store.steampowered.com/app/92800/"
+   },
    "Spacebase DF-9" : {
       "app_id" : "246090",
       "name" : "Spacebase DF-9",
@@ -2441,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1155",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2500,6 +2524,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/233720/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg",
       "url_store" : "http://store.steampowered.com/app/233720/"
+   },
+   "TIS-100" : {
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.0635",
+      "achievements" : true,
+      "app_id" : "370360",
+      "global_achievements" : true,
+      "name" : "TIS-100",
+      "name_short" : "370360",
+      "url_achievements" : "http://steamcommunity.com/stats/370360/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/5cafbe7be54aaf54999915159839949a5841d591.jpg",
+      "url_store" : "http://store.steampowered.com/app/370360/"
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
@@ -2618,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3006,7 +3042,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "372350",
@@ -3162,7 +3198,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.12",
+      "achievement_hardest" : "0.121",
       "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "288060",
