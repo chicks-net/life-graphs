@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.264",
+      "achievement_hardest" : "0.266",
       "achievement_median" : "0.3845",
       "achievements" : true,
       "app_id" : "568020",
@@ -739,8 +739,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.069",
-      "achievement_median" : "0.142",
+      "achievement_hardest" : "0.07",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3965",
+      "achievement_median" : "0.3955",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1270,7 +1270,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.398",
-      "achievement_median" : "0.6475",
+      "achievement_median" : "0.648",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.147",
-      "achievement_median" : "0.174",
+      "achievement_median" : "0.175",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1612,7 +1612,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.4675",
+      "achievement_median" : "0.468",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1636,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1783,7 +1783,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0595",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2063,7 +2063,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.2865",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2270,7 +2270,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "465760",
@@ -2307,7 +2307,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2477,7 +2477,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0165",
+      "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4465",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3042,7 +3042,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "372350",
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.406",
-      "achievement_median" : "0.783",
+      "achievement_median" : "0.7825",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
