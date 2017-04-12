@@ -85,7 +85,7 @@
    },
    "Anomaly Warzone Earth" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "91200",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.267",
-      "achievement_median" : "0.386",
+      "achievement_hardest" : "0.266",
+      "achievement_median" : "0.387",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -739,8 +739,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.07",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.071",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1246,7 +1246,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1453,7 +1453,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.26",
+      "achievement_hardest" : "0.261",
       "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
@@ -1635,8 +1635,8 @@
       "url_store" : "http://store.steampowered.com/app/368230/"
    },
    "Kingdom: New Lands" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0775",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.076",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1710,8 +1710,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.029",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -2112,7 +2112,7 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "ROCKETSROCKETSROCKETS" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "289760",
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2307,7 +2307,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2384,8 +2384,8 @@
       "url_store" : "http://store.steampowered.com/app/235620/"
    },
    "Space Food Truck" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.255",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2428,7 +2428,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "528660",
@@ -2453,7 +2453,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1985",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2918,7 +2918,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.2795",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3225,7 +3225,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
