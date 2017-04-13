@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0645",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.266",
-      "achievement_median" : "0.387",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/568020/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.025",
-      "achievement_median" : "0.114",
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -740,7 +740,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.071",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.395",
+      "achievement_median" : "0.396",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1477,8 +1477,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.147",
-      "achievement_median" : "0.174",
+      "achievement_hardest" : "0.148",
+      "achievement_median" : "0.175",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1623,8 +1623,8 @@
       "url_store" : "http://store.steampowered.com/app/458710/"
    },
    "Kingdom: Classic" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.068",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1636,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.076",
+      "achievement_median" : "0.0755",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1783,7 +1783,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0595",
+      "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2270,8 +2270,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.036",
-      "achievement_median" : "0.1625",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2563,7 +2563,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.198",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3225,7 +3225,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0375",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -3346,8 +3346,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.406",
-      "achievement_median" : "0.783",
+      "achievement_hardest" : "0.405",
+      "achievement_median" : "0.782",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
