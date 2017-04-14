@@ -60,7 +60,7 @@
       "url_store" : "http://store.steampowered.com/app/379610/"
    },
    "Anna - Extended Edition" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "217690",
@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/568020/"
    },
    "Blueprint Tycoon" : {
-      "achievement_hardest" : "0.026",
-      "achievement_median" : "0.113",
+      "achievement_hardest" : "0.025",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -310,7 +310,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.08",
+      "achievement_hardest" : "0.081",
       "achievement_median" : "0.1535",
       "achievements" : true,
       "app_id" : "302610",
@@ -469,7 +469,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.0175",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.295",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -739,7 +739,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.071",
+      "achievement_hardest" : "0.07",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "457480",
@@ -987,7 +987,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.164",
+      "achievement_hardest" : "0.165",
       "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "343930",
@@ -1068,7 +1068,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4015",
+      "achievement_median" : "0.401",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.396",
+      "achievement_median" : "0.3955",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1269,7 +1269,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.049",
+      "achievement_hardest" : "0.05",
       "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "365450",
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.358",
-      "achievement_median" : "0.358",
+      "achievement_hardest" : "0.359",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1612,7 +1612,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.469",
+      "achievement_median" : "0.4695",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1636,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0755",
+      "achievement_median" : "0.075",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -2270,8 +2270,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.162",
+      "achievement_hardest" : "0.036",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3185,7 +3185,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
