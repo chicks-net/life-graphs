@@ -271,6 +271,7 @@ $chieved_perc = sprintf("%.2f",$chieved_perc);
 #
 # table by time
 #
+my $overall_hours = 0;
 my @games_by_time = sort {
 		( $b->{hrs_total} || 0 )   <=>   ( $a->{hrs_total} || 0 )	# desc
 		or $a->{name} cmp $b->{name}					# ascend
@@ -292,6 +293,8 @@ foreach my $game (@games_by_time) {
 	my $achievements_current = $game->{achievements_current};
 	my $achievements_total = $game->{achievements_total};
 	my $display_achievements = "$achievements_current / $achievements_total = $display_perc";
+
+	$overall_hours += $hours;
 
 	my $display_hours = $hours;
 	if ($hours > 10) {
@@ -326,12 +329,19 @@ foreach my $game (@games_by_time) {
 }
 $table_content .= "\n\n";
 
+# overall time
+my $overall_days = sprintf("%.1f",$overall_hours/24);
+$table_content .= "$overall_hours total hours or $overall_days 24h days.\n";
+$table_content .= "\n\n";
+
 #
 # table by efficiency
 #
 
 # stitch together
-$content .= "$overall_perc% achieved overall. $played_perc% achieved in games played. $chieved_perc% in games with >1 achievement.\n\n";
+$content .= "$overall_perc% achieved overall. $played_perc% achieved in games";
+$content .= " played over $overall_hours hours overall. $chieved_perc% in games";
+$content .= " with >1 achievement.\n\n";
 $content .= print_barchart();
 $content .= "\n\n";
 $content .= $table_content;

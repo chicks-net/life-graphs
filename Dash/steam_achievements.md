@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 203 out of 220 games have achievements.
-16.25% achieved overall. 41.95% achieved in games played. 55.72% in games with >1 achievement.
+16.25% achieved overall. 41.95% achieved in games played over 3578.2 hours overall. 55.72% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -328,6 +328,9 @@ Most played games
 | 0.1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257120/30329248252b1e52ad34754cd005c23314361b6e.jpg) ](http://store.steampowered.com/app/257120/) | [Not The Robots](http://steamcommunity.com/stats/257120/achievements/compare/) | 0 / 15 = 0.0% | und |
 | 0.1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289760/96191c17f42b62cf5b4d6825d7b6ff5d5d5a22bd.jpg) ](http://store.steampowered.com/app/289760/) | [ROCKETSROCKETSROCKETS](http://steamcommunity.com/stats/289760/achievements/compare/) | 0 / 42 = 0.0% | und |
 | 0.1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg) ](http://store.steampowered.com/app/250600/) | [The Plan](http://steamcommunity.com/stats/250600/achievements/compare/) | 1 / 1 = 100.0% | **0.10** |
+
+
+3578.2 total hours or 149.1 24h days.
 
 
 
