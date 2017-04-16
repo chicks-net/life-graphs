@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.266",
-      "achievement_median" : "0.3865",
+      "achievement_hardest" : "0.267",
+      "achievement_median" : "0.3875",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.4065",
+      "achievement_median" : "0.407",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3955",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0285",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1612,7 +1612,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.4695",
+      "achievement_median" : "0.47",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.067",
+      "achievement_median" : "0.0665",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1809,7 +1809,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2000,7 +2000,7 @@
       "url_store" : "http://store.steampowered.com/app/218510/"
    },
    "Plants vs. Zombies: Game of the Year" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2385,7 +2385,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.254",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2750,7 +2750,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0985",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2836,7 +2836,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.007",
+      "achievement_median" : "0.0075",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -2918,7 +2918,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2942,7 +2942,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3093,7 +3093,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3185,7 +3185,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.12",
-      "achievement_median" : "0.2795",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3249,7 +3249,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.2025",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3346,8 +3346,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.405",
-      "achievement_median" : "0.7815",
+      "achievement_hardest" : "0.404",
+      "achievement_median" : "0.781",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
