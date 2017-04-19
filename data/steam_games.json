@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.071",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -185,7 +185,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0955",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.267",
-      "achievement_median" : "0.3875",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -911,7 +911,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.4075",
       "achievements" : true,
       "app_id" : "383870",
@@ -1611,7 +1611,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.054",
+      "achievement_hardest" : "0.055",
       "achievement_median" : "0.471",
       "achievements" : true,
       "app_id" : "458710",
@@ -1937,7 +1937,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.456",
-      "achievement_median" : "0.523",
+      "achievement_median" : "0.522",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2563,7 +2563,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2590,7 +2590,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3019,7 +3019,7 @@
    },
    "Trine 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "35720",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.404",
-      "achievement_median" : "0.7805",
+      "achievement_median" : "0.781",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
