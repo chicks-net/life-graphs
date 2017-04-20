@@ -185,7 +185,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0955",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.267",
-      "achievement_median" : "0.3865",
+      "achievement_median" : "0.386",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -739,7 +739,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.071",
+      "achievement_hardest" : "0.072",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "457480",
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.396",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1937,7 +1937,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -1988,7 +1988,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "218510",
@@ -2385,7 +2385,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.456",
-      "achievement_median" : "0.522",
+      "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2812,7 +2812,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2905,8 +2905,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.228",
-      "achievement_median" : "0.228",
+      "achievement_hardest" : "0.229",
+      "achievement_median" : "0.229",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2942,7 +2942,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3019,7 +3019,7 @@
    },
    "Trine 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "35720",
       "global_achievements" : true,
@@ -3093,7 +3093,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.404",
-      "achievement_median" : "0.781",
+      "achievement_median" : "0.78",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
