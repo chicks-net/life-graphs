@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.267",
-      "achievement_median" : "0.386",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -299,7 +299,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3965",
+      "achievement_median" : "0.396",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1501,7 +1501,7 @@
       "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "Human Resource Machine" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "375820",
@@ -1636,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1937,7 +1937,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -1965,7 +1965,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2942,7 +2942,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3093,7 +3093,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3346,7 +3346,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.404",
+      "achievement_hardest" : "0.405",
       "achievement_median" : "0.78",
       "achievements" : true,
       "app_id" : "467780",
