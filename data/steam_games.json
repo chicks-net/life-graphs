@@ -106,7 +106,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "444220",
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.267",
-      "achievement_median" : "0.3865",
+      "achievement_hardest" : "0.266",
+      "achievement_median" : "0.385",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -311,7 +311,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.081",
-      "achievement_median" : "0.1535",
+      "achievement_median" : "0.1545",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -740,7 +740,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.4075",
+      "achievement_median" : "0.408",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1082,7 +1082,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1405,7 +1405,7 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.106",
+      "achievement_hardest" : "0.107",
       "achievement_median" : "0.439",
       "achievements" : true,
       "app_id" : "368370",
@@ -1477,8 +1477,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.149",
-      "achievement_median" : "0.176",
+      "achievement_hardest" : "0.15",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1514,7 +1514,7 @@
    },
    "I am Bread" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.023",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "327890",
       "global_achievements" : true,
@@ -1660,7 +1660,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.192",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.166",
-      "achievement_median" : "0.166",
+      "achievement_hardest" : "0.165",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1863,7 +1863,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2761,8 +2761,8 @@
       "url_store" : "http://store.steampowered.com/app/323380/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.153",
-      "achievement_median" : "0.153",
+      "achievement_hardest" : "0.154",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3080,8 +3080,8 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.118",
-      "achievement_median" : "0.157",
+      "achievement_hardest" : "0.117",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3198,7 +3198,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.12",
+      "achievement_hardest" : "0.121",
       "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "288060",
