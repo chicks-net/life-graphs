@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.0545",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.267",
-      "achievement_median" : "0.385",
+      "achievement_hardest" : "0.268",
+      "achievement_median" : "0.386",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -740,7 +740,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -973,8 +973,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.031",
-      "achievement_median" : "0.034",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.397",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1636,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.072",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -2233,7 +2233,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0285",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2416,8 +2416,8 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.082",
-      "achievement_median" : "0.2595",
+      "achievement_hardest" : "0.081",
+      "achievement_median" : "0.2565",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2602,7 +2602,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.079",
-      "achievement_median" : "0.579",
+      "achievement_median" : "0.58",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2918,7 +2918,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -2968,7 +2968,7 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Train Fever" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "304730",
@@ -2981,7 +2981,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3031,7 +3031,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0715",
+      "achievement_median" : "0.072",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3081,7 +3081,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.117",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3346,7 +3346,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.406",
+      "achievement_hardest" : "0.407",
       "achievement_median" : "0.782",
       "achievements" : true,
       "app_id" : "467780",
