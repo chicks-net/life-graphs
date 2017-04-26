@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.028",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "346900",
@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.035",
-      "achievement_median" : "0.066",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.268",
+      "achievement_hardest" : "0.269",
       "achievement_median" : "0.386",
       "achievements" : true,
       "app_id" : "568020",
@@ -247,7 +247,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -739,8 +739,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.072",
-      "achievement_median" : "0.141",
+      "achievement_hardest" : "0.073",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -973,8 +973,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.03",
-      "achievement_median" : "0.033",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1405,7 +1405,7 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.106",
+      "achievement_hardest" : "0.107",
       "achievement_median" : "0.439",
       "achievements" : true,
       "app_id" : "368370",
@@ -1599,7 +1599,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.304",
       "achievements" : true,
       "app_id" : "246420",
@@ -1624,7 +1624,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0665",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1770,8 +1770,8 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.041",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1851,7 +1851,7 @@
    },
    "Multiwinia" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.0215",
       "achievements" : true,
       "app_id" : "1530",
       "global_achievements" : true,
@@ -2063,7 +2063,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.2845",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2294,8 +2294,8 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.045",
-      "achievement_median" : "0.049",
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2416,8 +2416,8 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.081",
-      "achievement_median" : "0.2565",
+      "achievement_hardest" : "0.079",
+      "achievement_median" : "0.251",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2602,7 +2602,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.079",
-      "achievement_median" : "0.58",
+      "achievement_median" : "0.579",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2968,7 +2968,7 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Train Fever" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "304730",
@@ -2981,7 +2981,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3081,7 +3081,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.117",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.2805",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
