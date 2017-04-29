@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 203 out of 220 games have achievements.
-16.26% achieved overall. 41.97% achieved in games played over 3611.2 hours overall. 55.74% in games with >1 achievement.
+16.26% achieved overall. 41.97% achieved in games played over 3612.2 hours overall. 55.74% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -48,7 +48,7 @@ Games by Achievement Percentage
 | 94.4% | 68 / 72 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/) | [Kingdom Rush](http://steamcommunity.com/stats/246420/achievements/compare/) | **46** | *0.68* | *4.3* |
 | 90.0% | 27 / 30 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg) ](http://store.steampowered.com/app/38600/) | [Faerie Solitaire](http://steamcommunity.com/stats/FaerieSolitaire/achievements/compare/) | **28** | *1.04* | *4.2* |
 | 85.2% | 23 / 27 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220900/3f5aa1d546b5b82eedacbf8f5ae76ed46303a241.jpg) ](http://store.steampowered.com/app/220900/) | [Jack Lumber](http://steamcommunity.com/stats/220900/achievements/compare/) | **16.8** | *0.73* | 2.6 |
-| 84.1% | 58 / 69 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | **343** | 5.91 | 1.2 |
+| 84.1% | 58 / 69 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | **344** | 5.93 | 1.2 |
 | 83.9% | 26 / 31 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg) ](http://store.steampowered.com/app/346900/) | [AdVenture Capitalist](http://steamcommunity.com/stats/346900/achievements/compare/) | **342** | 13.15 | 3.0 |
 | 81.0% | 17 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | **148** | 8.71 | *5.7* |
 | 79.5% | 31 / 39 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/) | [Train Fever](http://steamcommunity.com/stats/304730/achievements/compare/) | **301** | 9.71 | 1.5 |
@@ -245,7 +245,7 @@ Most played games
 | -----------: |  ----------- | ------------------ | -----------: | --------------------: |
 | **778** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) | [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | 238 / 520 = 45.8% | 3.27 |
 | **758** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/385770/d2cb79d48c12eb90a5ad3b9c6b4af8f4a8dcc947.jpg) ](http://store.steampowered.com/app/385770/) | [Time Clickers](http://steamcommunity.com/stats/385770/achievements/compare/) | 99 / 99 = 100.0% | 7.66 |
-| **343** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | 58 / 69 = 84.1% | 5.91 |
+| **344** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | 58 / 69 = 84.1% | 5.93 |
 | **342** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg) ](http://store.steampowered.com/app/346900/) | [AdVenture Capitalist](http://steamcommunity.com/stats/346900/achievements/compare/) | 26 / 31 = 83.9% | 13.15 |
 | **301** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/) | [Train Fever](http://steamcommunity.com/stats/304730/achievements/compare/) | 31 / 39 = 79.5% | 9.71 |
 | **148** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | 17 / 21 = 81.0% | 8.71 |
@@ -330,7 +330,7 @@ Most played games
 | 0.1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg) ](http://store.steampowered.com/app/250600/) | [The Plan](http://steamcommunity.com/stats/250600/achievements/compare/) | 1 / 1 = 100.0% | **0.10** |
 
 
-3611.2 total hours or 150.5 24h days.
+3612.2 total hours or 150.5 24h days.
 
 
 

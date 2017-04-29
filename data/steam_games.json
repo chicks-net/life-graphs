@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2905",
+      "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -527,7 +527,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2605",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -900,7 +900,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1535",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.15",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1502,7 +1502,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.2085",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1528,7 +1528,7 @@
    },
    "Indie Game: The Movie" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "207080",
       "global_achievements" : true,
@@ -1612,7 +1612,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.056",
-      "achievement_median" : "0.4715",
+      "achievement_median" : "0.472",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2233,7 +2233,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.0295",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.078",
-      "achievement_median" : "0.247",
+      "achievement_median" : "0.246",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2634,7 +2634,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.408",
+      "achievement_median" : "0.407",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2880,7 +2880,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.0715",
+      "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3346,8 +3346,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.407",
-      "achievement_median" : "0.7825",
+      "achievement_hardest" : "0.406",
+      "achievement_median" : "0.781",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
