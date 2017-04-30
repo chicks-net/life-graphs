@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.065",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -433,7 +433,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -527,7 +527,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -974,7 +974,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1454,7 +1454,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.262",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.15",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1502,7 +1502,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2085",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1623,7 +1623,7 @@
       "url_store" : "http://store.steampowered.com/app/458710/"
    },
    "Kingdom: Classic" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "368230",
@@ -1648,7 +1648,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.165",
-      "achievement_median" : "0.165",
+      "achievement_hardest" : "0.168",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1770,7 +1770,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "294230",
@@ -2385,7 +2385,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.078",
-      "achievement_median" : "0.246",
+      "achievement_median" : "0.2455",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2429,7 +2429,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.064",
+      "achievement_median" : "0.063",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2738,7 +2738,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.2255",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.1955",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2917,7 +2917,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "395160",
