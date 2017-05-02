@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0545",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.27",
-      "achievement_median" : "0.387",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -728,7 +728,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.1885",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -838,7 +838,7 @@
    },
    "EDGE" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "38740",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.4085",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3975",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.359",
-      "achievement_median" : "0.359",
+      "achievement_hardest" : "0.36",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1502,7 +1502,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.2085",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1648,7 +1648,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2385,7 +2385,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2416,7 +2416,7 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.078",
+      "achievement_hardest" : "0.077",
       "achievement_median" : "0.2435",
       "achievements" : true,
       "app_id" : "253650",
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.1185",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2562,7 +2562,7 @@
       "url_store" : "http://store.steampowered.com/app/330830/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
@@ -2589,7 +2589,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.093",
+      "achievement_hardest" : "0.092",
       "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "234940",
@@ -2917,7 +2917,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "395160",
@@ -2981,7 +2981,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.128",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3043,7 +3043,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.406",
-      "achievement_median" : "0.781",
+      "achievement_median" : "0.7805",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
