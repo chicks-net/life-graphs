@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.27",
-      "achievement_median" : "0.3865",
+      "achievement_median" : "0.387",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -739,7 +739,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.073",
+      "achievement_hardest" : "0.074",
       "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "457480",
@@ -973,7 +973,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0285",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.367",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.359",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1502,7 +1502,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2085",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1611,7 +1611,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.056",
+      "achievement_hardest" : "0.057",
       "achievement_median" : "0.472",
       "achievements" : true,
       "app_id" : "458710",
@@ -2124,7 +2124,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "RUSH" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "38720",
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2435",
+      "achievement_median" : "0.243",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1185",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2562,8 +2562,8 @@
       "url_store" : "http://store.steampowered.com/app/330830/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.106",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2614,7 +2614,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -2634,7 +2634,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.407",
+      "achievement_median" : "0.408",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3043,7 +3043,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.286",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
