@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.27",
+      "achievement_hardest" : "0.271",
       "achievement_median" : "0.387",
       "achievements" : true,
       "app_id" : "568020",
@@ -364,7 +364,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.051",
       "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "279990",
@@ -433,7 +433,7 @@
    },
    "Chucks Challenge 3D" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262590",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3965",
+      "achievement_median" : "0.397",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1477,8 +1477,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.151",
-      "achievement_median" : "0.178",
+      "achievement_hardest" : "0.152",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1771,7 +1771,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1837,7 +1837,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -1950,7 +1950,7 @@
       "url_store" : "http://store.steampowered.com/app/239030/"
    },
    "Pivvot" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "293900",
@@ -1965,7 +1965,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.243",
+      "achievement_median" : "0.2425",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2614,7 +2614,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -3093,7 +3093,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3346,7 +3346,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.406",
+      "achievement_hardest" : "0.407",
       "achievement_median" : "0.7805",
       "achievements" : true,
       "app_id" : "467780",
