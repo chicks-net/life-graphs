@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -2294,8 +2294,8 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.046",
-      "achievement_median" : "0.05",
+      "achievement_hardest" : "0.045",
+      "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2425",
+      "achievement_median" : "0.242",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1185",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0455",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2918,7 +2918,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.407",
-      "achievement_median" : "0.7805",
+      "achievement_median" : "0.7815",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
