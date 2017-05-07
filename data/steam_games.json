@@ -1,6 +1,6 @@
 {
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "410110",
@@ -378,7 +378,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "419080",
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.409",
+      "achievement_median" : "0.4095",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1081,7 +1081,7 @@
       "url_store" : "http://store.steampowered.com/app/399670/"
    },
    "Game Dev Tycoon" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "239820",
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.397",
+      "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.367",
+      "achievement_median" : "0.366",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.359",
-      "achievement_median" : "0.359",
+      "achievement_hardest" : "0.36",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2294,8 +2294,8 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.045",
-      "achievement_median" : "0.049",
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.242",
+      "achievement_median" : "0.2415",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.1185",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2563,7 +2563,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2590,7 +2590,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.092",
-      "achievement_median" : "0.1045",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2981,7 +2981,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.13",
+      "achievement_median" : "0.131",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3043,7 +3043,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3249,7 +3249,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.407",
-      "achievement_median" : "0.7815",
+      "achievement_median" : "0.782",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
