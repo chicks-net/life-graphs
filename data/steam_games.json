@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.4095",
+      "achievement_median" : "0.41",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -974,7 +974,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.3965",
+      "achievement_median" : "0.397",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.366",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1782,8 +1782,8 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.004",
-      "achievement_median" : "0.06",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2405",
+      "achievement_median" : "0.24",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2981,7 +2981,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3043,7 +3043,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.407",
-      "achievement_median" : "0.7835",
+      "achievement_median" : "0.782",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
