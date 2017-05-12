@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.066",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.0555",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.071",
+      "achievement_hardest" : "0.072",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "348400",
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.271",
-      "achievement_median" : "0.3895",
+      "achievement_median" : "0.389",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -469,7 +469,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.0185",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -974,7 +974,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -988,7 +988,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.165",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1141,8 +1141,8 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.397",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.3965",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.359",
+      "achievement_median" : "0.359",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -2477,7 +2477,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.017",
+      "achievement_median" : "0.0175",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3081,7 +3081,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.117",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3093,7 +3093,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.125",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.407",
-      "achievement_median" : "0.782",
+      "achievement_median" : "0.783",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
