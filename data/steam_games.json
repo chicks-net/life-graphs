@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.271",
-      "achievement_median" : "0.389",
+      "achievement_hardest" : "0.27",
+      "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -469,7 +469,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0185",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.295",
+      "achievement_median" : "0.296",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -642,7 +642,7 @@
    },
    "DEFCON" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0185",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "1520",
       "global_achievements" : true,
@@ -1105,7 +1105,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "214420",
@@ -1429,7 +1429,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.053",
+      "achievement_hardest" : "0.054",
       "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "299540",
@@ -1442,7 +1442,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.433",
-      "achievement_median" : "0.693",
+      "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.168",
-      "achievement_median" : "0.168",
+      "achievement_hardest" : "0.17",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1185",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4465",
+      "achievement_median" : "0.446",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3081,7 +3081,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.117",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
