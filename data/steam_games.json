@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.2895",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.27",
+      "achievement_hardest" : "0.269",
       "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "568020",
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -401,7 +401,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.4105",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -948,7 +948,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -1246,7 +1246,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1465,7 +1465,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.4",
+      "achievement_hardest" : "0.401",
       "achievement_median" : "0.6485",
       "achievements" : true,
       "app_id" : "271900",
@@ -1600,7 +1600,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.304",
+      "achievement_median" : "0.3045",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1612,7 +1612,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.4725",
+      "achievement_median" : "0.4735",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -2013,7 +2013,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.5275",
+      "achievement_median" : "0.528",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2049,7 +2049,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.205",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2395",
+      "achievement_median" : "0.239",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2453,7 +2453,7 @@
    },
    "Spy Chameleon - RGB Agent" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "297490",
       "global_achievements" : true,
@@ -2477,7 +2477,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0175",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.446",
+      "achievement_median" : "0.4465",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2812,7 +2812,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.177",
+      "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -2905,8 +2905,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.229",
-      "achievement_median" : "0.229",
+      "achievement_hardest" : "0.23",
+      "achievement_median" : "0.23",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -3346,7 +3346,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.407",
+      "achievement_hardest" : "0.406",
       "achievement_median" : "0.783",
       "achievements" : true,
       "app_id" : "467780",
