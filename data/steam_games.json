@@ -400,7 +400,7 @@
       "url_store" : "http://store.steampowered.com/app/274500/"
    },
    "Broken Age" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "232790",
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.4105",
+      "achievement_median" : "0.411",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -987,7 +987,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.165",
+      "achievement_hardest" : "0.166",
       "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "343930",
@@ -1056,7 +1056,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1025",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3975",
+      "achievement_median" : "0.397",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1477,7 +1477,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.152",
+      "achievement_hardest" : "0.151",
       "achievement_median" : "0.178",
       "achievements" : true,
       "app_id" : "435400",
@@ -1612,7 +1612,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.4735",
+      "achievement_median" : "0.473",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -2270,8 +2270,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1605",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2416,7 +2416,7 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.077",
+      "achievement_hardest" : "0.076",
       "achievement_median" : "0.239",
       "achievements" : true,
       "app_id" : "253650",
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3081,7 +3081,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.117",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3249,7 +3249,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3301,7 +3301,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.214",
+      "achievement_median" : "0.213",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
@@ -3346,8 +3346,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.406",
-      "achievement_median" : "0.783",
+      "achievement_hardest" : "0.407",
+      "achievement_median" : "0.7835",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
