@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.029",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.269",
+      "achievement_hardest" : "0.27",
       "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "568020",
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.107",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.401",
-      "achievement_median" : "0.649",
+      "achievement_median" : "0.6495",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1648,7 +1648,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1685,7 +1685,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1771,7 +1771,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1863,7 +1863,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2233,7 +2233,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0295",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.239",
+      "achievement_median" : "0.2385",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2550,7 +2550,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.457",
+      "achievement_hardest" : "0.458",
       "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "330830",
@@ -2798,7 +2798,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -2918,7 +2918,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.407",
-      "achievement_median" : "0.784",
+      "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
