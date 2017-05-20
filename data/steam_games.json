@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.27",
-      "achievement_median" : "0.3885",
+      "achievement_hardest" : "0.272",
+      "achievement_median" : "0.39",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -351,7 +351,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -1000,7 +1000,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0815",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.397",
+      "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.152",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.17",
-      "achievement_median" : "0.17",
+      "achievement_hardest" : "0.169",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1783,7 +1783,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1809,7 +1809,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1145",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2113,7 +2113,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0525",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2270,8 +2270,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.16",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2307,7 +2307,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.2385",
+      "achievement_median" : "0.238",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2429,7 +2429,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2550,7 +2550,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.458",
+      "achievement_hardest" : "0.457",
       "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "330830",
@@ -2589,8 +2589,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.092",
-      "achievement_median" : "0.1035",
+      "achievement_hardest" : "0.091",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
