@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.272",
-      "achievement_median" : "0.39",
+      "achievement_hardest" : "0.273",
+      "achievement_median" : "0.391",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -337,7 +337,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.077",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -351,7 +351,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -364,7 +364,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.051",
+      "achievement_hardest" : "0.05",
       "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -469,7 +469,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0185",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -527,7 +527,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2605",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.297",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1000,7 +1000,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.0805",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1442,7 +1442,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.434",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.401",
-      "achievement_median" : "0.6495",
+      "achievement_median" : "0.649",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1600,7 +1600,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.3045",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.169",
-      "achievement_median" : "0.169",
+      "achievement_hardest" : "0.171",
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1771,7 +1771,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1809,7 +1809,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2013,7 +2013,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.528",
+      "achievement_median" : "0.5285",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2113,7 +2113,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2307,7 +2307,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.062",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.061",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.1955",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3007,7 +3007,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -3184,7 +3184,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "204180",
@@ -3346,7 +3346,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.407",
+      "achievement_hardest" : "0.406",
       "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "467780",
