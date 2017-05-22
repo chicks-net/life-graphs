@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -324,7 +324,7 @@
       "url_store" : "http://store.steampowered.com/app/302610/"
    },
    "Braid" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "26800",
@@ -350,7 +350,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.077",
+      "achievement_hardest" : "0.076",
       "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "319850",
@@ -365,7 +365,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -728,7 +728,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1885",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -739,7 +739,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.074",
+      "achievement_hardest" : "0.075",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "457480",
@@ -900,7 +900,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1525",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.411",
+      "achievement_median" : "0.4115",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.398",
+      "achievement_median" : "0.3975",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1477,7 +1477,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.152",
+      "achievement_hardest" : "0.153",
       "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "435400",
@@ -2113,7 +2113,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0525",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2307,7 +2307,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2397,7 +2397,7 @@
    },
    "SpaceChem" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "92800",
       "global_achievements" : true,
@@ -2550,7 +2550,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.457",
+      "achievement_hardest" : "0.458",
       "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "330830",
@@ -2601,7 +2601,7 @@
       "url_store" : "http://store.steampowered.com/app/234940/"
    },
    "The Average Everyday Adventures of Samantha Browne" : {
-      "achievement_hardest" : "0.08",
+      "achievement_hardest" : "0.081",
       "achievement_median" : "0.58",
       "achievements" : true,
       "app_id" : "445130",
@@ -2634,7 +2634,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.408",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2714,7 +2714,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.391",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2980,7 +2980,7 @@
       "url_store" : "http://store.steampowered.com/app/304730/"
    },
    "Train Valley" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "353640",
@@ -3007,7 +3007,7 @@
    },
    "Trine" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "35700",
       "global_achievements" : true,
@@ -3225,7 +3225,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
