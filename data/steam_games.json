@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -324,7 +324,7 @@
       "url_store" : "http://store.steampowered.com/app/302610/"
    },
    "Braid" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "26800",
@@ -739,7 +739,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.074",
+      "achievement_hardest" : "0.075",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "457480",
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3985",
+      "achievement_median" : "0.3975",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1528,7 +1528,7 @@
    },
    "Indie Game: The Movie" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "207080",
       "global_achievements" : true,
@@ -1659,7 +1659,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.193",
+      "achievement_hardest" : "0.194",
       "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "266010",
@@ -1685,7 +1685,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1783,7 +1783,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0375",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.238",
+      "achievement_median" : "0.2375",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3042,7 +3042,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "372350",
