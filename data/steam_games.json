@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.2895",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -432,7 +432,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262590",
@@ -469,7 +469,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0185",
+      "achievement_median" : "0.018",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -837,7 +837,7 @@
       "url_store" : "http://store.steampowered.com/app/65800/"
    },
    "EDGE" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "38740",
@@ -947,7 +947,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.028",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "201510",
@@ -1068,7 +1068,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.401",
+      "achievement_median" : "0.4",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1270,7 +1270,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1405,8 +1405,8 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.107",
-      "achievement_median" : "0.439",
+      "achievement_hardest" : "0.106",
+      "achievement_median" : "0.437",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1528,7 +1528,7 @@
    },
    "Indie Game: The Movie" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "207080",
       "global_achievements" : true,
@@ -1611,7 +1611,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.058",
+      "achievement_hardest" : "0.059",
       "achievement_median" : "0.473",
       "achievements" : true,
       "app_id" : "458710",
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2282,7 +2282,7 @@
       "url_store" : "http://store.steampowered.com/app/465760/"
    },
    "Scrap Garden - The Day Before" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "508390",
@@ -2397,7 +2397,7 @@
    },
    "SpaceChem" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.056",
+      "achievement_median" : "0.0555",
       "achievements" : true,
       "app_id" : "92800",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1195",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2539,7 +2539,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3346,7 +3346,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.406",
+      "achievement_hardest" : "0.407",
       "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "467780",
