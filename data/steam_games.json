@@ -324,7 +324,7 @@
       "url_store" : "http://store.steampowered.com/app/302610/"
    },
    "Braid" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "26800",
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3975",
+      "achievement_median" : "0.3985",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1269,8 +1269,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.05",
-      "achievement_median" : "0.121",
+      "achievement_hardest" : "0.048",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.437",
+      "achievement_median" : "0.434",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1454,7 +1454,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.263",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.171",
-      "achievement_median" : "0.171",
+      "achievement_hardest" : "0.17",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.015",
+      "achievement_median" : "0.016",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2397,7 +2397,7 @@
    },
    "SpaceChem" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "92800",
       "global_achievements" : true,
@@ -2417,7 +2417,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.2375",
+      "achievement_median" : "0.237",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2465,7 +2465,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.1205",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2713,8 +2713,8 @@
       "url_store" : "http://store.steampowered.com/app/66002/"
    },
    "The Collider" : {
-      "achievement_hardest" : "0.391",
-      "achievement_median" : "0.5175",
+      "achievement_hardest" : "0.392",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -2969,7 +2969,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -3249,7 +3249,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3347,7 +3347,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.407",
-      "achievement_median" : "0.785",
+      "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
