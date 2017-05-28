@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.2895",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -34,7 +34,7 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.028",
+      "achievement_hardest" : "0.029",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "317250",
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -365,7 +365,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -696,7 +696,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.4115",
+      "achievement_median" : "0.412",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1082,7 +1082,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.434",
+      "achievement_median" : "0.433",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0285",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.458",
-      "achievement_median" : "0.523",
+      "achievement_median" : "0.524",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2654,7 +2654,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4465",
+      "achievement_median" : "0.447",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2879,7 +2879,7 @@
       "url_store" : "http://store.steampowered.com/app/108232/"
    },
    "Timberman" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.071",
       "achievements" : true,
       "app_id" : "398710",
@@ -2917,7 +2917,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.039",
+      "achievement_hardest" : "0.04",
       "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "395160",
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.37",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3125,7 +3125,7 @@
    },
    "Wargame: European Escalation" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.049",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "58610",
       "global_achievements" : true,
