@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.272",
-      "achievement_median" : "0.39",
+      "achievement_median" : "0.3905",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -365,7 +365,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.0245",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -696,7 +696,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -900,7 +900,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1535",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.3975",
+      "achievement_median" : "0.395",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.433",
+      "achievement_median" : "0.432",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1685,7 +1685,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1746,8 +1746,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.17",
-      "achievement_median" : "0.17",
+      "achievement_hardest" : "0.172",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1783,7 +1783,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2429,7 +2429,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.458",
-      "achievement_median" : "0.524",
+      "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2602,7 +2602,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.081",
-      "achievement_median" : "0.58",
+      "achievement_median" : "0.581",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2666,7 +2666,7 @@
    },
    "The Bridge" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "204240",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.37",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
