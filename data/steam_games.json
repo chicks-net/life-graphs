@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "346900",
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.272",
-      "achievement_median" : "0.3905",
+      "achievement_hardest" : "0.271",
+      "achievement_median" : "0.3895",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0245",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -527,7 +527,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.292",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -591,7 +591,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "343440",
@@ -800,7 +800,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -900,7 +900,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.1545",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -973,7 +973,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "490820",
@@ -1141,8 +1141,8 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.395",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1269,8 +1269,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.048",
-      "achievement_median" : "0.117",
+      "achievement_hardest" : "0.049",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.432",
+      "achievement_median" : "0.431",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1454,7 +1454,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.264",
-      "achievement_median" : "0.549",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1477,7 +1477,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.153",
+      "achievement_hardest" : "0.154",
       "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "435400",
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.361",
+      "achievement_median" : "0.361",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1771,7 +1771,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1887,7 +1887,7 @@
    },
    "Not The Robots" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "257120",
       "global_achievements" : true,
@@ -2150,7 +2150,7 @@
       "url_store" : "http://store.steampowered.com/app/283660/"
    },
    "Race The Sun" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "253030",
@@ -2270,8 +2270,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.16",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.458",
-      "achievement_median" : "0.523",
+      "achievement_median" : "0.524",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2602,7 +2602,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.081",
-      "achievement_median" : "0.581",
+      "achievement_median" : "0.58",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2981,7 +2981,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.133",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.37",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
