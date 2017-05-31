@@ -2,7 +2,7 @@ Steam Achievements
 ==================
  
 203 out of 220 games have achievements.
-16.25% achieved overall. 41.95% achieved in games played over 3680.3 hours overall. 55.71% in games with >1 achievement.
+16.25% achieved overall. 41.95% achieved in games played over 3681.3 hours overall. 55.71% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -41,13 +41,13 @@ Games by Achievement Percentage
 | 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/435400/53f72fd5d544ea5b8dfbe91843c766d7fb8f374c.jpg) ](http://store.steampowered.com/app/435400/) | [Hidden Folks](http://steamcommunity.com/stats/435400/achievements/compare/) | 4.6 | *0.92* | **17.2** |
 | 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245550/98defd2daedb3910583439bffb12e0baeb20ff6c.jpg) ](http://store.steampowered.com/app/245550/) | [Free to Play](http://steamcommunity.com/stats/245550/achievements/compare/) | 4.4 | *0.88* | **14.8** |
 | 100.0% | 13 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368370/a05fc37b598a1ae5176b2a95a4819bfa0b93c4e5.jpg) ](http://store.steampowered.com/app/368370/) | [Her Story](http://steamcommunity.com/stats/368370/achievements/compare/) | 3.7 | **0.28** | *9.4* |
-| 100.0% | 1 / 1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367580/e1ee63f7f0603048e59b6ad107f920856028927e.jpg) ](http://store.steampowered.com/app/367580/) | [Hook](http://steamcommunity.com/stats/367580/achievements/compare/) | 1.3 | *1.30* | **61.7** |
+| 100.0% | 1 / 1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367580/e1ee63f7f0603048e59b6ad107f920856028927e.jpg) ](http://store.steampowered.com/app/367580/) | [Hook](http://steamcommunity.com/stats/367580/achievements/compare/) | 1.3 | *1.30* | **61.6** |
 | 100.0% | 1 / 1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg) ](http://store.steampowered.com/app/250600/) | [The Plan](http://steamcommunity.com/stats/250600/achievements/compare/) | 0.1 | **0.10** | **49.2** |
 |  | | | **Achievements Available** | | |
 | 95.2% | 20 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508390/828a6a8b398a238e7a8814682ef11db27728d037.jpg) ](http://store.steampowered.com/app/508390/) | [Scrap Garden - The Day Before](http://steamcommunity.com/stats/508390/achievements/compare/) | 2.6 | **0.13** | 2.9 |
 | 94.4% | 68 / 72 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/) | [Kingdom Rush](http://steamcommunity.com/stats/246420/achievements/compare/) | **46** | *0.68* | *4.3* |
 | 90.0% | 27 / 30 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg) ](http://store.steampowered.com/app/38600/) | [Faerie Solitaire](http://steamcommunity.com/stats/FaerieSolitaire/achievements/compare/) | **28** | *1.04* | *4.2* |
-| 85.5% | 59 / 69 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | **411** | 6.97 | 1.2 |
+| 85.5% | 59 / 69 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | **412** | 6.98 | 1.2 |
 | 85.2% | 23 / 27 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220900/3f5aa1d546b5b82eedacbf8f5ae76ed46303a241.jpg) ](http://store.steampowered.com/app/220900/) | [Jack Lumber](http://steamcommunity.com/stats/220900/achievements/compare/) | **16.8** | *0.73* | 2.6 |
 | 83.9% | 26 / 31 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg) ](http://store.steampowered.com/app/346900/) | [AdVenture Capitalist](http://steamcommunity.com/stats/346900/achievements/compare/) | **342** | 13.15 | *3.1* |
 | 81.0% | 17 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | **148** | 8.71 | *5.7* |
@@ -111,7 +111,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 61 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22600/8dc524779f89d3f5ef6a7d30102ae6bafe4a1cd4.jpg) ](http://store.steampowered.com/app/22600/) | [Worms Reloaded](http://steamcommunity.com/stats/WormsReloaded/achievements/compare/) | 0.5 | und | 0.9 |
 | 0.0% | 0 / 14 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/294230/71d23be6fd48e2470d887ff176f7d06652fecacb.jpg) ](http://store.steampowered.com/app/294230/) | [Millie](http://steamcommunity.com/stats/294230/achievements/compare/) | 0.4 | und | *4.8* |
 | 0.0% | 0 / 1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206440/f0e5a7037facd7bff7656ebe2396a23735c608c2.jpg) ](http://store.steampowered.com/app/206440/) | [To the Moon](http://steamcommunity.com/stats/206440/achievements/compare/) | 0.3 | und | **53.8** |
-| 0.0% | 0 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/279990/ff59fdd2166fa23cadb982029e42d70528bb18f1.jpg) ](http://store.steampowered.com/app/279990/) | [Bridge Constructor Playground](http://steamcommunity.com/stats/279990/achievements/compare/) | 0.3 | und | *4.9* |
+| 0.0% | 0 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/279990/ff59fdd2166fa23cadb982029e42d70528bb18f1.jpg) ](http://store.steampowered.com/app/279990/) | [Bridge Constructor Playground](http://steamcommunity.com/stats/279990/achievements/compare/) | 0.3 | und | *5.0* |
 | 0.0% | 0 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/d1ced16a23a15441fbbdf5370f6b299a1e8cb427.jpg) ](http://store.steampowered.com/app/504210/) | [SHENZHEN I/O](http://steamcommunity.com/stats/504210/achievements/compare/) | 0.2 | und | *6.8* |
 | 0.0% | 0 / 21 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/315110/652d1dd680f16dce08f104d88e966a2946e00f73.jpg) ](http://store.steampowered.com/app/315110/) | [Woah Dave!](http://steamcommunity.com/stats/315110/achievements/compare/) | 0.2 | und | 2.5 |
 | 0.0% | 0 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343930/c1cb7883c1ecec32957627f7f8008528f67771f4.jpg) ](http://store.steampowered.com/app/343930/) | [Fort Defense](http://steamcommunity.com/stats/343930/achievements/compare/) | 0.1 | und | **13.0** |
@@ -235,7 +235,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 123 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg) ](http://store.steampowered.com/app/233720/) | [Surgeon Simulator](http://steamcommunity.com/stats/233720/achievements/compare/) | 0 | und | 0.5 |
 | 0.0% | 0 / 126 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203770/a3170e4c1889a7e2a360feef61e07a5aee51dc88.jpg) ](http://store.steampowered.com/app/203770/) | [Crusader Kings II](http://steamcommunity.com/stats/203770/achievements/compare/) | 0 | und | 0.3 |
 | 0.0% | 0 / 179 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246620/4947c8fc7afbf93d60b0a105660f94c84c63d6b8.jpg) ](http://store.steampowered.com/app/246620/) | [Plague Inc: Evolved](http://steamcommunity.com/stats/246620/achievements/compare/) | 0 | und | 0.3 |
-| 0.0% | 0 / 803 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209080/925b7c2a6b698144622bed4bd2d0086114df2fa9.jpg) ](http://store.steampowered.com/app/209080/) | [Guns of Icarus Online](http://steamcommunity.com/stats/209080/achievements/compare/) | 0 | und | 0.0 |
+| 0.0% | 0 / 874 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209080/925b7c2a6b698144622bed4bd2d0086114df2fa9.jpg) ](http://store.steampowered.com/app/209080/) | [Guns of Icarus Online](http://steamcommunity.com/stats/209080/achievements/compare/) | 0 | und | 0.0 |
 
 
 Most played games
@@ -245,7 +245,7 @@ Most played games
 | -----------: |  ----------- | ------------------ | -----------: | --------------------: |
 | **778** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/) | [Team Fortress 2](http://steamcommunity.com/stats/TF2/achievements/compare/) | 238 / 520 = 45.8% | 3.27 |
 | **758** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/385770/d2cb79d48c12eb90a5ad3b9c6b4af8f4a8dcc947.jpg) ](http://store.steampowered.com/app/385770/) | [Time Clickers](http://steamcommunity.com/stats/385770/achievements/compare/) | 99 / 99 = 100.0% | 7.66 |
-| **411** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | 59 / 69 = 85.5% | 6.97 |
+| **412** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/) | [Borderlands 2](http://steamcommunity.com/stats/Borderlands2/achievements/compare/) | 59 / 69 = 85.5% | 6.98 |
 | **342** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg) ](http://store.steampowered.com/app/346900/) | [AdVenture Capitalist](http://steamcommunity.com/stats/346900/achievements/compare/) | 26 / 31 = 83.9% | 13.15 |
 | **301** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/) | [Train Fever](http://steamcommunity.com/stats/304730/achievements/compare/) | 31 / 39 = 79.5% | 9.71 |
 | **148** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/) | [Plants vs. Zombies: Game of the Year](http://steamcommunity.com/stats/PlantsVsZombies/achievements/compare/) | 17 / 21 = 81.0% | 8.71 |
@@ -330,7 +330,7 @@ Most played games
 | 0.1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250600/03b18663ea9aecc4f8dbccb59ae70261c2fabc18.jpg) ](http://store.steampowered.com/app/250600/) | [The Plan](http://steamcommunity.com/stats/250600/achievements/compare/) | 1 / 1 = 100.0% | **0.10** |
 
 
-3680.3 total hours or 153.3 24h days.
+3681.3 total hours or 153.4 24h days.
 
 
 

@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -364,7 +364,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.051",
       "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
@@ -591,7 +591,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "343440",
@@ -1418,7 +1418,7 @@
    },
    "Heroes Rise: The Hero Project" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "304290",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.361",
-      "achievement_median" : "0.361",
+      "achievement_hardest" : "0.36",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1636,7 +1636,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0735",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -2113,7 +2113,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2271,7 +2271,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.458",
-      "achievement_median" : "0.524",
+      "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2714,7 +2714,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.518",
+      "achievement_median" : "0.5175",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2786,7 +2786,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3199,7 +3199,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
