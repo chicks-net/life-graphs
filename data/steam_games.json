@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.271",
-      "achievement_median" : "0.3895",
+      "achievement_hardest" : "0.272",
+      "achievement_median" : "0.3905",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -310,7 +310,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.081",
+      "achievement_hardest" : "0.082",
       "achievement_median" : "0.1545",
       "achievements" : true,
       "app_id" : "302610",
@@ -364,7 +364,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.051",
+      "achievement_hardest" : "0.05",
       "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
@@ -912,7 +912,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.412",
+      "achievement_median" : "0.4125",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1246,7 +1246,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.056",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.431",
+      "achievement_median" : "0.43",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1454,7 +1454,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.264",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -2063,7 +2063,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.458",
-      "achievement_median" : "0.523",
+      "achievement_median" : "0.524",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2563,7 +2563,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2590,7 +2590,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.091",
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2602,7 +2602,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.081",
-      "achievement_median" : "0.58",
+      "achievement_median" : "0.581",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2714,7 +2714,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.37",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
