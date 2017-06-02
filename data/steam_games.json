@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.272",
-      "achievement_median" : "0.3905",
+      "achievement_median" : "0.39",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -469,7 +469,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.018",
+      "achievement_median" : "0.0185",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -1106,7 +1106,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1142,7 +1142,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.43",
+      "achievement_median" : "0.429",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1454,7 +1454,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.264",
-      "achievement_median" : "0.549",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1783,7 +1783,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2001,7 +2001,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.016",
+      "achievement_median" : "0.015",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -2995,7 +2995,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.37",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
