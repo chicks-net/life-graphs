@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.2905",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.272",
-      "achievement_median" : "0.39",
+      "achievement_hardest" : "0.271",
+      "achievement_median" : "0.3895",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -299,7 +299,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -397,6 +397,18 @@
       "name_short" : false,
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274500/b2685197154d4cb2ce6f98bc55629bb2a00f26fc.jpg",
+      "url_store" : "http://store.steampowered.com/app/274500/"
+   },
+   "Brigador: Up-Armored Edition" : {
+      "achievement_hardest" : 0,
+      "achievement_median" : 0,
+      "achievements" : true,
+      "app_id" : "274500",
+      "global_achievements" : true,
+      "name" : "Brigador: Up-Armored Edition",
+      "name_short" : "274500",
+      "url_achievements" : "http://steamcommunity.com/stats/274500/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274500/057af6dea8d3d41f01440abf52eae32974fd03cf.jpg",
       "url_store" : "http://store.steampowered.com/app/274500/"
    },
    "Broken Age" : {
@@ -501,7 +513,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -696,7 +708,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -1068,7 +1080,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4",
+      "achievement_median" : "0.4005",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1142,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1478,7 +1490,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.154",
-      "achievement_median" : "0.18",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1612,7 +1624,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.4735",
+      "achievement_median" : "0.474",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -2001,7 +2013,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2245,7 +2257,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2417,7 +2429,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.237",
+      "achievement_median" : "0.2365",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2429,7 +2441,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.06",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2563,7 +2575,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2798,7 +2810,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3042,7 +3054,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "372350",
@@ -3346,7 +3358,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.408",
+      "achievement_hardest" : "0.409",
       "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "467780",
