@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.2905",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -220,7 +220,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.271",
+      "achievement_hardest" : "0.272",
       "achievement_median" : "0.3895",
       "achievements" : true,
       "app_id" : "568020",
@@ -310,7 +310,7 @@
       "url_store" : "http://store.steampowered.com/app/261640/"
    },
    "Boson X" : {
-      "achievement_hardest" : "0.082",
+      "achievement_hardest" : "0.081",
       "achievement_median" : "0.1545",
       "achievements" : true,
       "app_id" : "302610",
@@ -880,7 +880,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.1295",
+      "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.106",
-      "achievement_median" : "0.429",
+      "achievement_median" : "0.428",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1466,7 +1466,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.264",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -2257,7 +2257,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2283,7 +2283,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2429,7 +2429,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.2365",
+      "achievement_median" : "0.237",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2477,7 +2477,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1205",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2917,8 +2917,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.23",
-      "achievement_median" : "0.23",
+      "achievement_hardest" : "0.231",
+      "achievement_median" : "0.231",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -2930,7 +2930,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3007,7 +3007,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.37",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3261,7 +3261,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
