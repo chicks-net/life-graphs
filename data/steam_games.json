@@ -364,7 +364,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.051",
       "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "279990",
@@ -986,7 +986,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -999,7 +999,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.166",
+      "achievement_hardest" : "0.167",
       "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "343930",
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1417,8 +1417,8 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.106",
-      "achievement_median" : "0.428",
+      "achievement_hardest" : "0.105",
+      "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1514,7 +1514,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.2095",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1623,7 +1623,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.474",
       "achievements" : true,
       "app_id" : "458710",
@@ -1758,8 +1758,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.171",
-      "achievement_median" : "0.171",
+      "achievement_hardest" : "0.173",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1795,7 +1795,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2013,7 +2013,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2086,7 +2086,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.016",
       "achievements" : true,
       "app_id" : "317610",
@@ -2257,7 +2257,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.277",
+      "achievement_median" : "0.2765",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2396,7 +2396,7 @@
       "url_store" : "http://store.steampowered.com/app/235620/"
    },
    "Space Food Truck" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "397390",
@@ -2440,7 +2440,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "528660",
@@ -2786,7 +2786,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2824,7 +2824,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3007,7 +3007,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.37",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3054,7 +3054,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "372350",
