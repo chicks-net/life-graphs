@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.066",
+      "achievement_median" : "0.065",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -185,7 +185,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.273",
-      "achievement_median" : "0.39",
+      "achievement_hardest" : "0.274",
+      "achievement_median" : "0.391",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -740,7 +740,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -1080,7 +1080,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4005",
+      "achievement_median" : "0.4",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.066",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.427",
+      "achievement_median" : "0.426",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1478,7 +1478,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.402",
-      "achievement_median" : "0.6495",
+      "achievement_median" : "0.65",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1490,7 +1490,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.155",
-      "achievement_median" : "0.181",
+      "achievement_median" : "0.182",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2013,7 +2013,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2125,7 +2125,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0525",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2257,7 +2257,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2765",
+      "achievement_median" : "0.2755",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
