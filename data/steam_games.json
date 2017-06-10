@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2605",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -999,7 +999,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.166",
+      "achievement_hardest" : "0.167",
       "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "343930",
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.071",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1514,7 +1514,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.209",
+      "achievement_median" : "0.2095",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1875,7 +1875,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -1936,8 +1936,8 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0435",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2137,7 +2137,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0525",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2149,7 +2149,7 @@
    },
    "RUSH" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "38720",
       "global_achievements" : true,
@@ -2295,7 +2295,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2738,7 +2738,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.518",
+      "achievement_median" : "0.5175",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2904,7 +2904,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.071",
+      "achievement_median" : "0.0715",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -2918,7 +2918,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.2",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -3019,7 +3019,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.37",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3067,7 +3067,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3248,7 +3248,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262410",
