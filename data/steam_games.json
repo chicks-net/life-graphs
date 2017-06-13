@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.065",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -153,7 +153,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.072",
-      "achievement_median" : "0.087",
+      "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.274",
-      "achievement_median" : "0.39",
+      "achievement_median" : "0.3915",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -401,7 +401,7 @@
    },
    "Brigador: Up-Armored Edition" : {
       "achievement_hardest" : 0,
-      "achievement_median" : 0,
+      "achievement_median" : "0.001",
       "achievements" : true,
       "app_id" : "274500",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.294",
+      "achievement_median" : "0.295",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.474",
+      "achievement_median" : "0.4745",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1937,7 +1937,7 @@
    },
    "PAYDAY 2" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -1974,7 +1974,7 @@
       "url_store" : "http://store.steampowered.com/app/239030/"
    },
    "Pivvot" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "293900",
@@ -2060,7 +2060,7 @@
       "url_store" : "http://store.steampowered.com/app/367450/"
    },
    "Portal" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "400",
@@ -2269,7 +2269,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.275",
+      "achievement_median" : "0.2745",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2295,7 +2295,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2749,7 +2749,7 @@
       "url_store" : "http://store.steampowered.com/app/319550/"
    },
    "The Escapists" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "298630",
@@ -2798,7 +2798,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2822,7 +2822,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3209,7 +3209,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.037",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
@@ -3272,8 +3272,8 @@
       "url_store" : "http://store.steampowered.com/app/22600/"
    },
    "XCOM 2" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.208",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.171",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3322,6 +3322,38 @@
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/433091/4f14b45a20c11aae9b636511753c7c155415d0a5.jpg",
       "url_store" : "http://store.steampowered.com/app/433091/"
+   },
+   "XCOM 2: Alien Hunters" : {
+      "app_id" : "433090",
+      "name" : "XCOM 2: Alien Hunters",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/433090/d7580e5ad1130762cb1393e2646e065315cecbbd.jpg",
+      "url_store" : "http://store.steampowered.com/app/433090/"
+   },
+   "XCOM 2: Anarchy's Children" : {
+      "app_id" : "433080",
+      "name" : "XCOM 2: Anarchy's Children",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/433080/691a419307ad564b81073a47539d4b84ae47366e.jpg",
+      "url_store" : "http://store.steampowered.com/app/433080/"
+   },
+   "XCOM 2: Digital Soundtrack" : {
+      "app_id" : "426320",
+      "name" : "XCOM 2: Digital Soundtrack",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/426320/10a6157d6614f63cd8a95d002d022778c207c218.jpg",
+      "url_store" : "http://store.steampowered.com/app/426320/"
+   },
+   "XCOM 2: Reinforcement Pack" : {
+      "app_id" : "426321",
+      "name" : "XCOM 2: Reinforcement Pack",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/426321/a2a21d5fbc0f8ed8761edff88cd76452ba0b8127.jpg",
+      "url_store" : "http://store.steampowered.com/app/426321/"
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
