@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -152,7 +152,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.072",
+      "achievement_hardest" : "0.073",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "348400",
@@ -220,8 +220,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.274",
-      "achievement_median" : "0.3915",
+      "achievement_hardest" : "0.276",
+      "achievement_median" : "0.3925",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -400,7 +400,7 @@
       "url_store" : "http://store.steampowered.com/app/274500/"
    },
    "Brigador: Up-Armored Edition" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.001",
       "achievements" : true,
       "app_id" : "274500",
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.4745",
+      "achievement_median" : "0.474",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1660,7 +1660,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1672,7 +1672,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.195",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
    },
    "Life Is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1936,7 +1936,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "218620",
@@ -2269,7 +2269,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2745",
+      "achievement_median" : "0.274",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2330,7 +2330,7 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Serious Sam 3: BFE" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "41070",
@@ -2658,7 +2658,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.408",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2966,7 +2966,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1625",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3019,7 +3019,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.37",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3273,7 +3273,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.171",
+      "achievement_median" : "0.1705",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
