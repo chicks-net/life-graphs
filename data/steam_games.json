@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -141,7 +141,7 @@
    },
    "Bad Hotel" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "231720",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.276",
-      "achievement_median" : "0.3925",
+      "achievement_median" : "0.393",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -379,7 +379,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.295",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -752,7 +752,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1055,7 +1055,7 @@
       "url_store" : "http://store.steampowered.com/app/98200/"
    },
    "Galcon Fusion" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.032",
       "achievements" : true,
       "app_id" : "44200",
@@ -1154,7 +1154,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.426",
+      "achievement_median" : "0.425",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1710,8 +1710,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.144",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1937,7 +1937,7 @@
    },
    "PAYDAY 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -1989,7 +1989,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2269,7 +2269,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.274",
+      "achievement_median" : "0.2745",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2453,7 +2453,7 @@
    },
    "Spin Rush" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "528660",
       "global_achievements" : true,
@@ -2586,8 +2586,8 @@
       "url_store" : "http://store.steampowered.com/app/330830/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.106",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -3019,7 +3019,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.37",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3067,7 +3067,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.286",
+      "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3273,7 +3273,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1705",
+      "achievement_median" : "0.1695",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
