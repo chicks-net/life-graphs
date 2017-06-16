@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.032",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -900,7 +900,7 @@
    },
    "Faerie Solitaire" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.22",
+      "achievement_median" : "0.2205",
       "achievements" : true,
       "app_id" : "38600",
       "global_achievements" : true,
@@ -912,7 +912,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1545",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1118,7 +1118,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1453,7 +1453,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.434",
+      "achievement_hardest" : "0.435",
       "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
@@ -1514,7 +1514,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2095",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.474",
+      "achievement_median" : "0.4745",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1710,8 +1710,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Life Is Strange™" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1794,7 +1794,7 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "287980",
@@ -1937,7 +1937,7 @@
    },
    "PAYDAY 2" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2295,7 +2295,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2452,7 +2452,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "528660",
@@ -2551,7 +2551,7 @@
    },
    "TIS-100" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0635",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "370360",
       "global_achievements" : true,
@@ -2574,7 +2574,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.458",
+      "achievement_hardest" : "0.459",
       "achievement_median" : "0.524",
       "achievements" : true,
       "app_id" : "330830",
@@ -2658,7 +2658,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.047",
-      "achievement_median" : "0.409",
+      "achievement_median" : "0.408",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -2738,7 +2738,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2966,7 +2966,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3019,7 +3019,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.37",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3273,7 +3273,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1695",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
