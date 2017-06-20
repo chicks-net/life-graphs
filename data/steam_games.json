@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.275",
-      "achievement_median" : "0.392",
+      "achievement_median" : "0.3925",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -924,7 +924,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.4145",
+      "achievement_median" : "0.414",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1080,7 +1080,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.4005",
+      "achievement_median" : "0.4",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1153,7 +1153,7 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "431240",
@@ -1350,7 +1350,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.322",
+      "achievement_median" : "0.3225",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1417,7 +1417,7 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.106",
+      "achievement_hardest" : "0.105",
       "achievement_median" : "0.425",
       "achievements" : true,
       "app_id" : "368370",
@@ -1454,7 +1454,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.435",
-      "achievement_median" : "0.694",
+      "achievement_median" : "0.6945",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1489,8 +1489,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.118",
-      "achievement_median" : "0.149",
+      "achievement_hardest" : "0.119",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1660,7 +1660,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1716,6 +1716,18 @@
       "app_id" : "319630",
       "global_achievements" : true,
       "name" : "Life Is Strange™",
+      "name_short" : "319630",
+      "url_achievements" : "http://steamcommunity.com/stats/319630/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319630/e92d2b3a0c01be3bdd77ec665a3014028efaa105.jpg",
+      "url_store" : "http://store.steampowered.com/app/319630/"
+   },
+   "Life is Strange™" : {
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.144",
+      "achievements" : true,
+      "app_id" : "319630",
+      "global_achievements" : true,
+      "name" : "Life is Strange™",
       "name_short" : "319630",
       "url_achievements" : "http://steamcommunity.com/stats/319630/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319630/e92d2b3a0c01be3bdd77ec665a3014028efaa105.jpg",
@@ -1821,7 +1833,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -1960,7 +1972,7 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "Papers, Please" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "239030",
@@ -2137,7 +2149,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2613,7 +2625,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.091",
+      "achievement_hardest" : "0.09",
       "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "234940",
@@ -2774,7 +2786,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -2798,7 +2810,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2810,7 +2822,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3273,7 +3285,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1685",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3410,7 +3422,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.41",
+      "achievement_hardest" : "0.411",
       "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "467780",
