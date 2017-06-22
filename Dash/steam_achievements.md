@@ -1,8 +1,8 @@
 Steam Achievements
 ==================
  
-205 out of 222 games have achievements.
-16.11% achieved overall. 41.96% achieved in games played over 3727.3 hours overall. 55.73% in games with >1 achievement.
+206 out of 223 games have achievements.
+16.04% achieved overall. 41.96% achieved in games played over 3727.3 hours overall. 55.73% in games with >1 achievement.
 
 
 	Game Achievement Percentage Histogram
@@ -38,7 +38,7 @@ Games by Achievement Percentage
 | 100.0% | 36 / 36 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/399670/e51bc6640fa85fcfc3ef36750aad7d9b8b6ba0e9.jpg) ](http://store.steampowered.com/app/399670/) | [Game Corp DX](http://steamcommunity.com/stats/399670/achievements/compare/) | 7.7 | **0.21** | *7.6* |
 | 100.0% | 14 / 14 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/38beffb4081a5af5e68fdf0e85f9f3262270fa40.jpg) ](http://store.steampowered.com/app/319850/) | [Bridge Constructor Medieval](http://steamcommunity.com/stats/319850/achievements/compare/) | 6.7 | **0.48** | *7.4* |
 | 100.0% | 6 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265890/c7829dd893d414315992090d6f30fc4536d91b61.jpg) ](http://store.steampowered.com/app/265890/) | [Hexcells](http://steamcommunity.com/stats/265890/achievements/compare/) | 5.3 | *0.88* | **32.8** |
-| 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/435400/53f72fd5d544ea5b8dfbe91843c766d7fb8f374c.jpg) ](http://store.steampowered.com/app/435400/) | [Hidden Folks](http://steamcommunity.com/stats/435400/achievements/compare/) | 4.6 | *0.92* | **15.2** |
+| 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/435400/53f72fd5d544ea5b8dfbe91843c766d7fb8f374c.jpg) ](http://store.steampowered.com/app/435400/) | [Hidden Folks](http://steamcommunity.com/stats/435400/achievements/compare/) | 4.6 | *0.92* | **15.3** |
 | 100.0% | 5 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245550/98defd2daedb3910583439bffb12e0baeb20ff6c.jpg) ](http://store.steampowered.com/app/245550/) | [Free to Play](http://steamcommunity.com/stats/245550/achievements/compare/) | 4.4 | *0.88* | **14.8** |
 | 100.0% | 13 / 13 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368370/a05fc37b598a1ae5176b2a95a4819bfa0b93c4e5.jpg) ](http://store.steampowered.com/app/368370/) | [Her Story](http://steamcommunity.com/stats/368370/achievements/compare/) | 3.7 | **0.28** | *9.4* |
 | 100.0% | 1 / 1 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367580/e1ee63f7f0603048e59b6ad107f920856028927e.jpg) ](http://store.steampowered.com/app/367580/) | [Hook](http://steamcommunity.com/stats/367580/achievements/compare/) | 1.3 | *1.30* | **61.7** |
@@ -231,6 +231,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 67 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4920/ab7b1142e17865e6d3472d3fd4b345620ec5f36f.jpg) ](http://store.steampowered.com/app/4920/) | [Natural Selection 2](http://steamcommunity.com/stats/NaturalSelection2/achievements/compare/) | 0 | und | 0.6 |
 | 0.0% | 0 / 70 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/108200/82729516ba20b264ad25bd087b31c641b1dcf24d.jpg) ](http://store.steampowered.com/app/108200/) | [Ticket to Ride](http://steamcommunity.com/stats/108200/achievements/compare/) | 0 | und | 0.6 |
 | 0.0% | 0 / 76 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/255710/1b90f32be112870a4fa22c819a358d047b38d97f.jpg) ](http://store.steampowered.com/app/255710/) | [Cities: Skylines](http://steamcommunity.com/stats/255710/achievements/compare/) | 0 | und | 0.5 |
+| 0.0% | 0 / 84 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262060/22ec3716f853524c8367d7463fc102d18dd514fe.jpg) ](http://store.steampowered.com/app/262060/) | [Darkest Dungeon](http://steamcommunity.com/stats/262060/achievements/compare/) | 0 | und | 0.5 |
 | 0.0% | 0 / 106 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/65800/71af270cff61ab197f9932212012134a436d9682.jpg) ](http://store.steampowered.com/app/65800/) | [Dungeon Defenders](http://steamcommunity.com/stats/DungeonDefenders/achievements/compare/) | 0 | und | 0.5 |
 | 0.0% | 0 / 582 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218620/4467a70648f49a6b309b41b81b4531f9a20ed99d.jpg) ](http://store.steampowered.com/app/218620/) | [PAYDAY 2](http://steamcommunity.com/stats/PAYDAY2/achievements/compare/) | 0 | und | 0.5 |
 | 0.0% | 0 / 123 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233720/2a0d51aa92d2bf2e168e090f9b72bf60d78fa53e.jpg) ](http://store.steampowered.com/app/233720/) | [Surgeon Simulator](http://steamcommunity.com/stats/233720/achievements/compare/) | 0 | und | 0.5 |
