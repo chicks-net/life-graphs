@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -221,7 +221,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.275",
-      "achievement_median" : "0.3915",
+      "achievement_median" : "0.392",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -667,7 +667,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -764,7 +764,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.078",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -936,7 +936,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.414",
+      "achievement_median" : "0.415",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -998,7 +998,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1362,7 +1362,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.322",
+      "achievement_median" : "0.3225",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.425",
+      "achievement_median" : "0.424",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1501,8 +1501,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.122",
-      "achievement_median" : "0.158",
+      "achievement_hardest" : "0.123",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1635,7 +1635,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.475",
       "achievements" : true,
       "app_id" : "458710",
@@ -1735,7 +1735,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1960,8 +1960,8 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.042",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2354,8 +2354,8 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Serious Sam 3: BFE" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.118",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2638,7 +2638,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.09",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2681,7 +2681,7 @@
       "url_store" : "http://store.steampowered.com/app/215160/"
    },
    "The Book of Unwritten Tales 2" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "279940",
@@ -2822,7 +2822,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -2860,7 +2860,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.18",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3435,7 +3435,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.412",
-      "achievement_median" : "0.7845",
+      "achievement_median" : "0.786",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
