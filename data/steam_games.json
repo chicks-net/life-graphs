@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.2855",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.032",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.064",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.296",
-      "achievement_median" : "0.4095",
+      "achievement_median" : "0.4075",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -311,7 +311,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -504,7 +504,7 @@
       "url_store" : "http://store.steampowered.com/app/255710/"
    },
    "Closure" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "72000",
@@ -691,7 +691,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.0985",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -973,8 +973,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.027",
-      "achievement_median" : "0.415",
+      "achievement_hardest" : "0.028",
+      "achievement_median" : "0.4155",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1036,7 +1036,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.032",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1144,7 +1144,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1204,7 +1204,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1364,7 +1364,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.19",
+      "achievement_median" : "0.191",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1388,7 +1388,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.175",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1400,7 +1400,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.3225",
+      "achievement_median" : "0.322",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1528,7 +1528,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.4",
-      "achievement_median" : "0.6495",
+      "achievement_median" : "0.649",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1539,8 +1539,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.113",
-      "achievement_median" : "0.155",
+      "achievement_hardest" : "0.114",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1551,8 +1551,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.361",
-      "achievement_median" : "0.361",
+      "achievement_hardest" : "0.362",
+      "achievement_median" : "0.362",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1575,7 +1575,7 @@
       "url_store" : "http://store.steampowered.com/app/375820/"
    },
    "I am Bread" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "327890",
@@ -1721,7 +1721,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.195",
+      "achievement_hardest" : "0.196",
       "achievement_median" : "0.256",
       "achievements" : true,
       "app_id" : "266010",
@@ -1772,8 +1772,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Life is Strange™" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1435",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.1415",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1806,8 +1806,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.304",
-      "achievement_median" : "0.3685",
+      "achievement_hardest" : "0.302",
+      "achievement_median" : "0.367",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1869,7 +1869,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1895,7 +1895,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2010,8 +2010,8 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.044",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2155,7 +2155,7 @@
    },
    "Portal" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "400",
       "global_achievements" : true,
@@ -2167,7 +2167,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2255,7 +2255,7 @@
    },
    "Rabbit Hole 3D: Steam Edition" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "283660",
       "global_achievements" : true,
@@ -2451,7 +2451,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.0245",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2607,7 +2607,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2903,8 +2903,8 @@
       "url_store" : "http://store.steampowered.com/app/323380/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.157",
-      "achievement_median" : "0.157",
+      "achievement_hardest" : "0.158",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -2954,7 +2954,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.173",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3060,7 +3060,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3173,7 +3173,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3185,7 +3185,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.286",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3222,7 +3222,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Ultimate General: Gettysburg" : {
-      "achievement_hardest" : "0.116",
+      "achievement_hardest" : "0.115",
       "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "306660",
@@ -3367,7 +3367,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
