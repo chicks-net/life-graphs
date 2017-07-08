@@ -89,7 +89,7 @@ sub barchart_bucket {
 
 sub print_barchart {
 	my $barchart = "\n";
-	$barchart .= "\tGame Achievement Percentage Histogram\n";
+	$barchart .= "## Game Achievement Percentage Histogram\n";
 	$barchart .= "\n";
 	$barchart .= sprintf("\t%3s %3s\n",'min','c');
 	$barchart .= sprintf("\t%3s %3s\n",'---','---');

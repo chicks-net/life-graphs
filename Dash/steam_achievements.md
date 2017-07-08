@@ -8,7 +8,7 @@ Steam Achievements
 * played 3763.1 total hours or 156.8 24h days.
 
 
-	Game Achievement Percentage Histogram
+## Game Achievement Percentage Histogram
 
 	min   c
 	--- ---
