@@ -132,7 +132,7 @@ sub calc_achievements {
 	return @games_that_have_achievements;
 }
 
-$content .= "$has_achievements out of $total_games games have achievements.\n";
+$content .= "* $has_achievements out of $total_games games have achievements.\n";
 
 my $table_content .= "Games by Achievement Percentage\n";
 $table_content .= "------------------\n";
@@ -331,17 +331,17 @@ $table_content .= "\n\n";
 
 # overall time
 my $overall_days = sprintf("%.1f",$overall_hours/24);
-$table_content .= "$overall_hours total hours or $overall_days 24h days.\n";
-$table_content .= "\n\n";
 
 #
 # table by efficiency
 #
 
 # stitch together
-$content .= "$overall_perc% achieved overall. $played_perc% achieved in games";
-$content .= " played over $overall_hours hours overall. $chieved_perc% in games";
-$content .= " with >1 achievement.\n\n";
+$content .= "* $overall_perc% achieved overall.\n";
+$content .= "* $played_perc% achieved in games";
+$content .= " played over $overall_hours hours overall.\n";
+$content .= "* **$chieved_perc%** in games with >1 achievement.\n";
+$content .= "* played $overall_hours total hours or $overall_days 24h days.\n\n";
 $content .= print_barchart();
 $content .= "\n\n";
 $content .= $table_content;
