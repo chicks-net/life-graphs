@@ -233,6 +233,9 @@ foreach my $game (@sorted_games) {
 	if ($app_id == 31280 or $app_id == 214360) {
 		$display_name .= " :warning: MacFail";
 	}
+	if ($app_id == 91600 or $app_id == 457480) {
+		$display_name .= " :warning: no Linux";
+	}
 
 	my $achieve_efficiency;
 	if ($hours and $achievements_current) {
