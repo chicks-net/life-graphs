@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0645",
+      "achievement_median" : "0.0655",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0515",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.31",
-      "achievement_median" : "0.4185",
+      "achievement_hardest" : "0.308",
+      "achievement_median" : "0.4165",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -311,7 +311,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -377,7 +377,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.025",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -493,7 +493,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0185",
+      "achievement_median" : "0.019",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -642,7 +642,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1015",
+      "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1000,7 +1000,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.419",
+      "achievement_median" : "0.4195",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1076,7 +1076,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.168",
-      "achievement_median" : "0.286",
+      "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1230,7 +1230,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.079",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1542,7 +1542,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.261",
-      "achievement_median" : "0.545",
+      "achievement_median" : "0.546",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1566,7 +1566,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.119",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1688,7 +1688,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.302",
+      "achievement_median" : "0.3025",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1827,7 +1827,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1415",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1886,8 +1886,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.174",
-      "achievement_median" : "0.174",
+      "achievement_hardest" : "0.173",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1911,7 +1911,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -2661,7 +2661,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1135",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2747,7 +2747,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.454",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2759,7 +2759,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2910,7 +2910,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.518",
+      "achievement_median" : "0.5175",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2934,7 +2934,7 @@
    },
    "The Final Station" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.024",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "435530",
       "global_achievements" : true,
@@ -3020,7 +3020,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3044,7 +3044,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0075",
+      "achievement_median" : "0.008",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -3150,7 +3150,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3471,7 +3471,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1635",
+      "achievement_median" : "0.1645",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3609,7 +3609,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.414",
-      "achievement_median" : "0.7835",
+      "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
