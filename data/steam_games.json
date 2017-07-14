@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0655",
+      "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -311,7 +311,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.145",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0885",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -629,7 +629,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1389,7 +1389,7 @@
       "url_store" : "http://store.steampowered.com/app/70/"
    },
    "Half-Life 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "220",
@@ -1426,7 +1426,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.3225",
+      "achievement_median" : "0.322",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1530,7 +1530,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.434",
-      "achievement_median" : "0.693",
+      "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1553,8 +1553,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.4",
-      "achievement_median" : "0.6495",
+      "achievement_hardest" : "0.401",
+      "achievement_median" : "0.6505",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1565,8 +1565,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.119",
-      "achievement_median" : "0.164",
+      "achievement_hardest" : "0.12",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1827,7 +1827,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1415",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1860,8 +1860,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.301",
-      "achievement_median" : "0.3655",
+      "achievement_hardest" : "0.298",
+      "achievement_median" : "0.3615",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1911,7 +1911,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -2661,7 +2661,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1145",
+      "achievement_median" : "0.1135",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2910,7 +2910,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.5175",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -2946,7 +2946,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.226",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -2981,7 +2981,7 @@
       "url_store" : "http://store.steampowered.com/app/250600/"
    },
    "The Stanley Parable" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "221910",
@@ -2994,7 +2994,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3203,7 +3203,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.37",
+      "achievement_median" : "0.371",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3609,7 +3609,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.414",
-      "achievement_median" : "0.784",
+      "achievement_median" : "0.7835",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
