@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.066",
       "achievements" : true,
       "app_id" : "379610",
@@ -311,7 +311,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.0895",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1025",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -988,7 +988,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.1555",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1334,7 +1334,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1426,7 +1426,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.322",
+      "achievement_median" : "0.3225",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1481,7 +1481,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Halfway" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "253150",
@@ -1530,7 +1530,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.434",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1554,7 +1554,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.401",
-      "achievement_median" : "0.6505",
+      "achievement_median" : "0.65",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1700,7 +1700,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.057",
-      "achievement_median" : "0.459",
+      "achievement_median" : "0.4595",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1860,8 +1860,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.298",
-      "achievement_median" : "0.3615",
+      "achievement_hardest" : "0.297",
+      "achievement_median" : "0.3605",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1911,7 +1911,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -1949,7 +1949,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1155",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2221,7 +2221,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2296,7 +2296,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "RUSH" : {
-      "achievement_hardest" : "0.043",
+      "achievement_hardest" : "0.044",
       "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "38720",
@@ -2416,8 +2416,8 @@
       "url_store" : "http://store.steampowered.com/app/252490/"
    },
    "SHENZHEN I/O" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0295",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2478,7 +2478,7 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "293200",
@@ -2504,7 +2504,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Serious Sam Fusion 2017 (beta)" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.011",
       "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "564310",
@@ -2910,7 +2910,7 @@
    },
    "The Collider" : {
       "achievement_hardest" : "0.392",
-      "achievement_median" : "0.518",
+      "achievement_median" : "0.5175",
       "achievements" : true,
       "app_id" : "319550",
       "global_achievements" : true,
@@ -3608,8 +3608,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.414",
-      "achievement_median" : "0.7835",
+      "achievement_hardest" : "0.415",
+      "achievement_median" : "0.7845",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
