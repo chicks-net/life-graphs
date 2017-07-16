@@ -107,7 +107,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.308",
-      "achievement_median" : "0.4165",
+      "achievement_median" : "0.416",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0895",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.297",
+      "achievement_median" : "0.298",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -629,7 +629,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.103",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -876,7 +876,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1000,7 +1000,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.4195",
+      "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1170,7 +1170,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1481,7 +1481,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Halfway" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "253150",
@@ -1493,7 +1493,7 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.105",
+      "achievement_hardest" : "0.106",
       "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "368370",
@@ -1530,7 +1530,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.434",
-      "achievement_median" : "0.693",
+      "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1565,8 +1565,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.12",
-      "achievement_median" : "0.165",
+      "achievement_hardest" : "0.121",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1838,7 +1838,7 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Little Cells" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "352210",
@@ -1860,8 +1860,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.297",
-      "achievement_median" : "0.3605",
+      "achievement_hardest" : "0.296",
+      "achievement_median" : "0.3595",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1886,8 +1886,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.173",
-      "achievement_median" : "0.173",
+      "achievement_hardest" : "0.174",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2235,7 +2235,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2478,7 +2478,7 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "293200",
@@ -2661,7 +2661,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1135",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3150,7 +3150,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3188,7 +3188,7 @@
       "url_store" : "http://store.steampowered.com/app/304730/"
    },
    "Train Valley" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.13",
       "achievements" : true,
       "app_id" : "353640",
@@ -3303,7 +3303,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
