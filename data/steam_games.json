@@ -141,7 +141,7 @@
    },
    "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1025",
       "achievements" : true,
       "app_id" : "218060",
       "global_achievements" : true,
@@ -197,7 +197,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.308",
-      "achievement_median" : "0.4165",
+      "achievement_hardest" : "0.309",
+      "achievement_median" : "0.417",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0255",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.09",
+      "achievement_median" : "0.0905",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.299",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1036,7 +1036,7 @@
    },
    "Flatout 3" : {
       "achievement_hardest" : "0.029",
-      "achievement_median" : "0.0455",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "201510",
       "global_achievements" : true,
@@ -1529,7 +1529,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.434",
+      "achievement_hardest" : "0.435",
       "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
@@ -1565,8 +1565,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.122",
-      "achievement_median" : "0.167",
+      "achievement_hardest" : "0.123",
+      "achievement_median" : "0.168",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1700,7 +1700,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.057",
-      "achievement_median" : "0.46",
+      "achievement_median" : "0.4605",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1773,7 +1773,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.098",
+      "achievement_median" : "0.0985",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1860,8 +1860,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.292",
-      "achievement_median" : "0.354",
+      "achievement_hardest" : "0.291",
+      "achievement_median" : "0.353",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2505,7 +2505,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0325",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2661,7 +2661,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1145",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3315,7 +3315,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.092",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3608,8 +3608,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.415",
-      "achievement_median" : "0.7835",
+      "achievement_hardest" : "0.416",
+      "achievement_median" : "0.7845",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
