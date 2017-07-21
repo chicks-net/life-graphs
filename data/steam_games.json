@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "379610",
@@ -362,7 +362,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.076",
+      "achievement_hardest" : "0.077",
       "achievement_median" : "0.2805",
       "achievements" : true,
       "app_id" : "319850",
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0255",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -552,8 +552,8 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0905",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.0915",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1055",
+      "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -770,7 +770,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -802,7 +802,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.079",
-      "achievement_median" : "0.145",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -999,8 +999,8 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.029",
-      "achievement_median" : "0.4185",
+      "achievement_hardest" : "0.03",
+      "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1553,7 +1553,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.401",
+      "achievement_hardest" : "0.402",
       "achievement_median" : "0.6505",
       "achievements" : true,
       "app_id" : "271900",
@@ -1860,8 +1860,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.291",
-      "achievement_median" : "0.353",
+      "achievement_hardest" : "0.292",
+      "achievement_median" : "0.354",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1886,8 +1886,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.174",
-      "achievement_median" : "0.174",
+      "achievement_hardest" : "0.173",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1976,7 +1976,7 @@
       "url_store" : "http://store.steampowered.com/app/321300/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "252750",
@@ -2221,7 +2221,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2746,8 +2746,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.455",
-      "achievement_median" : "0.52",
+      "achievement_hardest" : "0.454",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2798,7 +2798,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.583",
+      "achievement_median" : "0.584",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2994,7 +2994,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3315,7 +3315,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.092",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3471,7 +3471,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1645",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3609,7 +3609,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.416",
-      "achievement_median" : "0.7845",
+      "achievement_median" : "0.7835",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
