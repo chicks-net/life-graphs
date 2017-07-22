@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.309",
-      "achievement_median" : "0.417",
+      "achievement_median" : "0.4175",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0915",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -886,6 +886,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237850/06507734d920cae6fcd5275cf97069bcd0e365c4.jpg",
       "url_store" : "http://store.steampowered.com/app/237850/"
    },
+   "Dreamfall Chapters Special Edition" : {
+      "app_id" : "320530",
+      "name" : "Dreamfall Chapters Special Edition",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/320530/dc595b284b6fa7fa5081faab55d1e8d50e87e4ca.jpg",
+      "url_store" : "http://store.steampowered.com/app/320530/"
+   },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.008",
       "achievement_median" : "0.1825",
@@ -1000,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.42",
+      "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1047,7 +1055,7 @@
       "url_store" : "http://store.steampowered.com/app/201510/"
    },
    "Flight Control HD" : {
-      "achievement_hardest" : "0.041",
+      "achievement_hardest" : "0.042",
       "achievement_median" : "0.2555",
       "achievements" : true,
       "app_id" : "62000",
@@ -1482,7 +1490,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.258",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1554,7 +1562,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.402",
-      "achievement_median" : "0.6505",
+      "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1565,8 +1573,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.123",
-      "achievement_median" : "0.168",
+      "achievement_hardest" : "0.124",
+      "achievement_median" : "0.169",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1699,7 +1707,7 @@
       "url_store" : "http://store.steampowered.com/app/246420/"
    },
    "Kingdom Rush Frontiers" : {
-      "achievement_hardest" : "0.057",
+      "achievement_hardest" : "0.058",
       "achievement_median" : "0.4605",
       "achievements" : true,
       "app_id" : "458710",
@@ -1860,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.292",
-      "achievement_median" : "0.354",
+      "achievement_hardest" : "0.296",
+      "achievement_median" : "0.3595",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1976,7 +1984,7 @@
       "url_store" : "http://store.steampowered.com/app/321300/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.039",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "252750",
@@ -2064,7 +2072,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "218620",
@@ -2455,7 +2463,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1575",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2478,8 +2486,8 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.047",
-      "achievement_median" : "0.051",
+      "achievement_hardest" : "0.048",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2581,7 +2589,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.252",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2958,7 +2966,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.099",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3031,7 +3039,7 @@
       "url_store" : "http://store.steampowered.com/app/282070/"
    },
    "Thomas Was Alone" : {
-      "achievement_hardest" : "0.169",
+      "achievement_hardest" : "0.17",
       "achievement_median" : "0.33",
       "achievements" : true,
       "app_id" : "220780",
@@ -3088,7 +3096,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.072",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -3150,7 +3158,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3277,7 +3285,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1285",
+      "achievement_median" : "0.1295",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
