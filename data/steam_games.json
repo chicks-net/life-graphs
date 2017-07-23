@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.309",
-      "achievement_median" : "0.4175",
+      "achievement_hardest" : "0.311",
+      "achievement_median" : "0.419",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.0915",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -616,8 +616,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.028",
-      "achievement_median" : "0.299",
+      "achievement_hardest" : "0.027",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -801,7 +801,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.079",
+      "achievement_hardest" : "0.08",
       "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
@@ -876,7 +876,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -944,7 +944,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.199",
+      "achievement_median" : "0.198",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1008,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.4205",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1237,7 +1237,7 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "431240",
@@ -1366,7 +1366,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1421,7 +1421,7 @@
       "url_store" : "http://store.steampowered.com/app/320/"
    },
    "Half-Life 2: Episode One" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "380",
@@ -1574,7 +1574,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.124",
-      "achievement_median" : "0.169",
+      "achievement_median" : "0.17",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1695,7 +1695,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.3025",
       "achievements" : true,
       "app_id" : "246420",
@@ -1708,7 +1708,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.4605",
+      "achievement_median" : "0.461",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1732,7 +1732,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0715",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1847,7 +1847,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.296",
-      "achievement_median" : "0.3595",
+      "achievement_hardest" : "0.298",
+      "achievement_median" : "0.361",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.045",
+      "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2463,7 +2463,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.1575",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2681,7 +2681,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.0205",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2966,7 +2966,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.099",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3158,7 +3158,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3429,7 +3429,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.2805",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3479,7 +3479,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.165",
+      "achievement_median" : "0.1655",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3602,7 +3602,7 @@
       "url_store" : "http://store.steampowered.com/app/61600/"
    },
    "rymdkapsel" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
