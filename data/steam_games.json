@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.311",
-      "achievement_median" : "0.419",
+      "achievement_hardest" : "0.312",
+      "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -245,7 +245,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -493,7 +493,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0195",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -552,8 +552,8 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0915",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.292",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1075",
+      "achievement_median" : "0.108",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -801,7 +801,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.08",
+      "achievement_hardest" : "0.079",
       "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
@@ -944,7 +944,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1925",
+      "achievement_median" : "0.193",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1084,7 +1084,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.169",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1116,7 +1116,7 @@
    },
    "Free to Play" : {
       "achievement_hardest" : "0.114",
-      "achievement_median" : "0.182",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "245550",
       "global_achievements" : true,
@@ -1538,7 +1538,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.435",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1550,7 +1550,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.263",
-      "achievement_median" : "0.547",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1648,7 +1648,7 @@
    },
    "Influent" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0225",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "274980",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.296",
-      "achievement_median" : "0.3615",
+      "achievement_hardest" : "0.298",
+      "achievement_median" : "0.3635",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0455",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2243,7 +2243,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.0445",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2425,7 +2425,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.0305",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2512,7 +2512,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Serious Sam Fusion 2017 (beta)" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "564310",
@@ -2754,7 +2754,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.453",
+      "achievement_hardest" : "0.454",
       "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
@@ -3145,7 +3145,7 @@
       "url_store" : "http://store.steampowered.com/app/395160/"
    },
    "Toki Tori" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "38700",
@@ -3158,7 +3158,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3258,7 +3258,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.287",
       "achievements" : true,
       "app_id" : "372350",
@@ -3616,7 +3616,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.418",
+      "achievement_hardest" : "0.419",
       "achievement_median" : "0.7845",
       "achievements" : true,
       "app_id" : "467780",
