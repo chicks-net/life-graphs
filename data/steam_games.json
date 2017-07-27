@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.312",
-      "achievement_median" : "0.42",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.0925",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -801,7 +801,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.079",
+      "achievement_hardest" : "0.08",
       "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
@@ -1008,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.422",
+      "achievement_median" : "0.4225",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.032",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1164,7 +1164,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.399",
+      "achievement_median" : "0.3985",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1178,7 +1178,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1526,7 +1526,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1562,7 +1562,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.402",
-      "achievement_median" : "0.651",
+      "achievement_median" : "0.6515",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1598,7 +1598,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.2095",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.298",
-      "achievement_median" : "0.3635",
+      "achievement_hardest" : "0.297",
+      "achievement_median" : "0.3625",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2085,7 +2085,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -2437,7 +2437,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2685",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2754,7 +2754,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.454",
+      "achievement_hardest" : "0.453",
       "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
@@ -3134,7 +3134,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3158,7 +3158,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3259,7 +3259,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.287",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3602,7 +3602,7 @@
       "url_store" : "http://store.steampowered.com/app/61600/"
    },
    "rymdkapsel" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
@@ -3617,7 +3617,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.419",
-      "achievement_median" : "0.7845",
+      "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
