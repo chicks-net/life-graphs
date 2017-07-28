@@ -34,7 +34,7 @@
       "url_store" : "http://store.steampowered.com/app/247830/"
    },
    "Airscape: The Fall of Gravity" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "317250",
@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.067",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.0675",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -577,7 +577,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2575",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.1085",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -944,7 +944,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.193",
+      "achievement_median" : "0.1935",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -996,7 +996,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.1565",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1178,7 +1178,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.28",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1201,7 +1201,7 @@
       "url_store" : "http://store.steampowered.com/app/4000/"
    },
    "Gear Up" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
@@ -1573,8 +1573,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.125",
-      "achievement_median" : "0.171",
+      "achievement_hardest" : "0.126",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1597,7 +1597,7 @@
       "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "Human Resource Machine" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "375820",
@@ -1696,7 +1696,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.3025",
+      "achievement_median" : "0.303",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1708,7 +1708,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.461",
+      "achievement_median" : "0.4615",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1869,7 +1869,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.297",
-      "achievement_median" : "0.3625",
+      "achievement_median" : "0.3615",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2096,7 +2096,7 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "Papers, Please" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "239030",
@@ -2463,7 +2463,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1575",
+      "achievement_median" : "0.1565",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2754,7 +2754,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.453",
+      "achievement_hardest" : "0.454",
       "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
@@ -3121,8 +3121,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.231",
-      "achievement_median" : "0.231",
+      "achievement_hardest" : "0.232",
+      "achievement_median" : "0.232",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -3441,7 +3441,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
