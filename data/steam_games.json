@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.312",
-      "achievement_median" : "0.421",
+      "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.164",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -629,7 +629,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1085",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1008,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.4225",
+      "achievement_median" : "0.4235",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1164,7 +1164,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3985",
+      "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1178,7 +1178,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.28",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1561,7 +1561,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.402",
+      "achievement_hardest" : "0.403",
       "achievement_median" : "0.6515",
       "achievements" : true,
       "app_id" : "271900",
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.297",
-      "achievement_median" : "0.3615",
+      "achievement_hardest" : "0.298",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1984,7 +1984,7 @@
       "url_store" : "http://store.steampowered.com/app/321300/"
    },
    "MouseCraft" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "252750",
@@ -2085,7 +2085,7 @@
    },
    "POSTAL" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "232770",
       "global_achievements" : true,
@@ -2111,7 +2111,7 @@
    },
    "Party Hard" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "356570",
       "global_achievements" : true,
@@ -2229,7 +2229,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.202",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.002",
+      "achievement_hardest" : 0,
+      "achievement_median" : 0,
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2513,7 +2513,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.0335",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2632,7 +2632,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "528660",
@@ -2669,7 +2669,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2754,8 +2754,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.454",
-      "achievement_median" : "0.519",
+      "achievement_hardest" : "0.453",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2793,8 +2793,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.09",
-      "achievement_median" : "0.101",
+      "achievement_hardest" : "0.089",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2838,7 +2838,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.409",
+      "achievement_median" : "0.41",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3158,7 +3158,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3441,7 +3441,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -3479,7 +3479,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1655",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
