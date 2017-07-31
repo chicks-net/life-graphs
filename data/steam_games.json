@@ -164,7 +164,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.072",
+      "achievement_hardest" : "0.073",
       "achievement_median" : "0.088",
       "achievements" : true,
       "app_id" : "348400",
@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.312",
-      "achievement_median" : "0.42",
+      "achievement_hardest" : "0.311",
+      "achievement_median" : "0.4195",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.093",
+      "achievement_median" : "0.0935",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -629,7 +629,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -944,7 +944,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1935",
+      "achievement_median" : "0.194",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1008,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.03",
-      "achievement_median" : "0.4235",
+      "achievement_median" : "0.424",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1164,7 +1164,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.398",
+      "achievement_median" : "0.3985",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1342,7 +1342,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.056",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.323",
+      "achievement_median" : "0.3225",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1562,7 +1562,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.403",
-      "achievement_median" : "0.6515",
+      "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.126",
-      "achievement_median" : "0.172",
+      "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1585,8 +1585,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.361",
+      "achievement_median" : "0.361",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -2110,7 +2110,7 @@
       "url_store" : "http://store.steampowered.com/app/239030/"
    },
    "Party Hard" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "356570",
@@ -2193,7 +2193,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.116",
-      "achievement_median" : "0.5285",
+      "achievement_median" : "0.5275",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2229,7 +2229,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2255,7 +2255,7 @@
    },
    "Prophour23" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.016",
+      "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "317610",
       "global_achievements" : true,
@@ -2437,7 +2437,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.2685",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2513,7 +2513,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0335",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2755,7 +2755,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.453",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2767,7 +2767,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -3428,7 +3428,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.121",
+      "achievement_hardest" : "0.122",
       "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "288060",
@@ -3616,8 +3616,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.42",
-      "achievement_median" : "0.7855",
+      "achievement_hardest" : "0.421",
+      "achievement_median" : "0.7865",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
