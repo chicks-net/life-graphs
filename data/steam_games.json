@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.311",
-      "achievement_median" : "0.4195",
+      "achievement_median" : "0.42",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -577,7 +577,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2575",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -704,8 +704,8 @@
       "url_store" : "http://store.steampowered.com/app/1520/"
    },
    "Darkest Dungeon" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.1095",
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.11",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1164,7 +1164,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3985",
+      "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.3225",
+      "achievement_median" : "0.323",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1585,8 +1585,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.361",
-      "achievement_median" : "0.361",
+      "achievement_hardest" : "0.36",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1755,7 +1755,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.197",
+      "achievement_hardest" : "0.198",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "266010",
@@ -2193,7 +2193,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.116",
-      "achievement_median" : "0.5275",
+      "achievement_median" : "0.5285",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2254,7 +2254,7 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Prophour23" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.017",
       "achievements" : true,
       "app_id" : "317610",
@@ -2743,7 +2743,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -3222,7 +3222,7 @@
       "url_store" : "http://store.steampowered.com/app/365300/"
    },
    "Trine" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "35700",
@@ -3323,7 +3323,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.092",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3415,7 +3415,7 @@
    },
    "Waveform" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
@@ -3428,7 +3428,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.122",
+      "achievement_hardest" : "0.121",
       "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "288060",
@@ -3617,7 +3617,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.421",
-      "achievement_median" : "0.7865",
+      "achievement_median" : "0.787",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
