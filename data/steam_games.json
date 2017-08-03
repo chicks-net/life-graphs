@@ -617,7 +617,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.11",
+      "achievement_median" : "0.1105",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -801,8 +801,8 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.08",
-      "achievement_median" : "0.146",
+      "achievement_hardest" : "0.081",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -876,7 +876,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -944,7 +944,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.194",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -996,7 +996,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.1555",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1008,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.424",
+      "achievement_median" : "0.4245",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1084,7 +1084,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.169",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.323",
+      "achievement_median" : "0.3225",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.127",
-      "achievement_median" : "0.173",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1744,7 +1744,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1768,7 +1768,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1781,7 +1781,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.0975",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1869,7 +1869,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.303",
-      "achievement_median" : "0.364",
+      "achievement_median" : "0.363",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2193,7 +2193,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.116",
-      "achievement_median" : "0.528",
+      "achievement_median" : "0.5275",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2669,7 +2669,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.1185",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2755,7 +2755,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.453",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -3096,7 +3096,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0725",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -3285,7 +3285,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1295",
+      "achievement_median" : "0.1305",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3479,7 +3479,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.166",
+      "achievement_median" : "0.1665",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
