@@ -46,8 +46,8 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.0685",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -197,7 +197,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0965",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.311",
-      "achievement_median" : "0.42",
+      "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -390,7 +390,7 @@
       "url_store" : "http://store.steampowered.com/app/279990/"
    },
    "Bridge Constructor Stunts" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "419080",
@@ -963,7 +963,7 @@
       "url_store" : "http://store.steampowered.com/app/291150/"
    },
    "FEZ" : {
-      "achievement_hardest" : "0.052",
+      "achievement_hardest" : "0.053",
       "achievement_median" : "0.1305",
       "achievements" : true,
       "app_id" : "224760",
@@ -1069,7 +1069,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "490820",
@@ -1434,7 +1434,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.3225",
+      "achievement_median" : "0.323",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1489,7 +1489,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Halfway" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "253150",
@@ -1549,7 +1549,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.263",
+      "achievement_hardest" : "0.264",
       "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
@@ -1636,7 +1636,7 @@
    },
    "Infinifactory" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0425",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "300570",
       "global_achievements" : true,
@@ -1744,7 +1744,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.303",
-      "achievement_median" : "0.363",
+      "achievement_hardest" : "0.308",
+      "achievement_median" : "0.3665",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0465",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2023,7 +2023,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : 0,
+      "achievement_hardest" : "0.002",
+      "achievement_median" : "0.002",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2463,7 +2463,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1575",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2754,8 +2754,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.453",
-      "achievement_median" : "0.518",
+      "achievement_hardest" : "0.454",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2838,7 +2838,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3428,7 +3428,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.121",
+      "achievement_hardest" : "0.122",
       "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "288060",
