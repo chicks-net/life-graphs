@@ -46,7 +46,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.038",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "379610",
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.311",
-      "achievement_median" : "0.4205",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -425,7 +425,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.205",
+      "achievement_median" : "0.206",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -539,7 +539,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0625",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.094",
+      "achievement_median" : "0.0945",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -616,7 +616,7 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.027",
+      "achievement_hardest" : "0.028",
       "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "730",
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1105",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1164,7 +1164,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3985",
+      "achievement_median" : "0.399",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1537,7 +1537,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.435",
+      "achievement_hardest" : "0.436",
       "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
@@ -1636,7 +1636,7 @@
    },
    "Infinifactory" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "300570",
       "global_achievements" : true,
@@ -1696,7 +1696,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.303",
+      "achievement_median" : "0.3035",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1744,7 +1744,7 @@
    },
    "LIMBO" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "48000",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.308",
-      "achievement_median" : "0.3665",
+      "achievement_hardest" : "0.309",
+      "achievement_median" : "0.3695",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1918,7 +1918,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "294230",
@@ -2022,7 +2022,7 @@
       "url_store" : "http://store.steampowered.com/app/4920/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.035",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "252670",
@@ -2343,7 +2343,7 @@
    },
    "Reigns" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "474750",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.002",
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.0045",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2589,7 +2589,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.253",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2644,7 +2644,7 @@
       "url_store" : "http://store.steampowered.com/app/528660/"
    },
    "Splice" : {
-      "achievement_hardest" : "0.035",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.1395",
       "achievements" : true,
       "app_id" : "209790",
@@ -2754,8 +2754,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.454",
-      "achievement_median" : "0.519",
+      "achievement_hardest" : "0.453",
+      "achievement_median" : "0.518",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2794,7 +2794,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.089",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3247,7 +3247,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0735",
+      "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3617,7 +3617,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.421",
-      "achievement_median" : "0.787",
+      "achievement_median" : "0.7875",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
