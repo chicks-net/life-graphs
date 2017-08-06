@@ -232,7 +232,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.311",
+      "achievement_hardest" : "0.312",
       "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "568020",
@@ -552,7 +552,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.0945",
       "achievements" : true,
       "app_id" : "583270",
@@ -642,7 +642,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.1275",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -758,7 +758,7 @@
    },
    "Defender's Quest: Valley of the Forgotten" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "218410",
       "global_achievements" : true,
@@ -996,7 +996,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.1555",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1008,7 +1008,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.4245",
+      "achievement_median" : "0.4255",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1434,7 +1434,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.323",
+      "achievement_median" : "0.3225",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1489,7 +1489,7 @@
       "url_store" : "http://store.steampowered.com/app/280/"
    },
    "Halfway" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "253150",
@@ -1598,7 +1598,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.2105",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0045",
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.0065",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2463,7 +2463,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.1565",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2754,8 +2754,8 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.453",
-      "achievement_median" : "0.518",
+      "achievement_hardest" : "0.454",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2793,8 +2793,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.089",
-      "achievement_median" : "0.1",
+      "achievement_hardest" : "0.088",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2941,8 +2941,8 @@
       "url_store" : "http://store.steampowered.com/app/298630/"
    },
    "The Final Station" : {
-      "achievement_hardest" : "0.004",
-      "achievement_median" : "0.026",
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "435530",
       "global_achievements" : true,
@@ -3616,7 +3616,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.421",
+      "achievement_hardest" : "0.423",
       "achievement_median" : "0.7875",
       "achievements" : true,
       "app_id" : "467780",
