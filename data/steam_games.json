@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -73,7 +73,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -232,8 +232,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.312",
-      "achievement_median" : "0.421",
+      "achievement_hardest" : "0.313",
+      "achievement_median" : "0.4215",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2805",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -802,7 +802,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.081",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1526,7 +1526,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.369",
+      "achievement_median" : "0.368",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1550,7 +1550,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.264",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1835,7 +1835,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.309",
-      "achievement_median" : "0.371",
+      "achievement_hardest" : "0.31",
+      "achievement_median" : "0.372",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2169,7 +2169,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -2379,7 +2379,7 @@
    },
    "Rock of Ages" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "22230",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0085",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.0095",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2669,7 +2669,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1185",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3027,7 +3027,7 @@
       "url_store" : "http://store.steampowered.com/app/443810/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.173",
       "achievements" : true,
       "app_id" : "282070",
@@ -3616,8 +3616,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.423",
-      "achievement_median" : "0.7875",
+      "achievement_hardest" : "0.422",
+      "achievement_median" : "0.787",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
