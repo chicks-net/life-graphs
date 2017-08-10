@@ -2,10 +2,10 @@ Steam Achievements
 ==================
  
 * 219 out of 236 games have achievements.
-* 15.71% achieved overall.
-* 42.51% achieved in games played over 3837.3 hours overall.
-* **56.89%** in games with >1 achievement.
-* played 3837.3 total hours or 159.9 24h days.
+* 15.72% achieved overall.
+* 42.53% achieved in games played over 3839.3 hours overall.
+* **56.93%** in games with >1 achievement.
+* played 3839.3 total hours or 160.0 24h days.
 
 
 ## Game Achievement Percentage Histogram
@@ -15,8 +15,8 @@ Steam Achievements
 	100  15 ***************
 	 90   3 ***
 	 80   4 ****
-	 70   5 *****
-	 60   7 *******
+	 70   6 ******
+	 60   6 ******
 	 50   3 ***
 	 40   2 **
 	 30   6 ******
@@ -60,9 +60,9 @@ Games by Achievement Percentage
 | 75.0% | 9 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg) ](http://store.steampowered.com/app/258890/) | [Type:Rider](http://steamcommunity.com/stats/258890/achievements/compare/) | 5.1 | *0.57* | *6.1* |
 | 73.9% | 17 / 23 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg) ](http://store.steampowered.com/app/263760/) | [Turbo Dismount](http://steamcommunity.com/stats/263760/achievements/compare/) :warning: no Linux | **11.0** | *0.65* | 2.3 |
 | 72.4% | 55 / 76 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe](http://steamcommunity.com/stats/259510/achievements/compare/) | **56** | *1.02* | 1.6 |
+| 70.7% | 29 / 41 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/55040/5ef89e7f7a049c5f5fa4ade0cb712937f9bdb6eb.jpg) ](http://store.steampowered.com/app/55040/) | [Atom Zombie Smasher ](http://steamcommunity.com/stats/AtomZombieSmasher/achievements/compare/) | **41** | *1.41* | 1.6 |
 | 68.8% | 11 / 16 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/62000/34de2e89a598a7fabb2827a7680d18601c314108.jpg) ](http://store.steampowered.com/app/62000/) | [Flight Control HD](http://steamcommunity.com/stats/FlightControlHD/achievements/compare/) | **17.9** | 1.63 | *5.0* |
 | 68.4% | 26 / 38 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/) | [Mini Metro](http://steamcommunity.com/stats/287980/achievements/compare/) | **97** | 3.73 | 1.2 |
-| 68.3% | 28 / 41 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/55040/5ef89e7f7a049c5f5fa4ade0cb712937f9bdb6eb.jpg) ](http://store.steampowered.com/app/55040/) | [Atom Zombie Smasher ](http://steamcommunity.com/stats/AtomZombieSmasher/achievements/compare/) | **39** | *1.39* | 1.6 |
 | 68.2% | 15 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/b6a8e06210d2da419565c33ec2c639ef412803fc.jpg) ](http://store.steampowered.com/app/357600/) | [Unium](http://steamcommunity.com/stats/357600/achievements/compare/) | 2.7 | **0.18** | *7.3* |
 | 66.7% | 10 / 15 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457480/b3fa986962a8eae1d5a77f7956bea02a16196031.jpg) ](http://store.steampowered.com/app/457480/) | [Domino Sky](http://steamcommunity.com/stats/457480/achievements/compare/) :warning: no Linux | 2.1 | **0.21** | *7.5* |
 | 60.0% | 6 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg) ](http://store.steampowered.com/app/253790/) | [rymdkapsel](http://steamcommunity.com/stats/253790/achievements/compare/) | **17.2** | 2.87 | *4.6* |
@@ -126,7 +126,7 @@ Games by Achievement Percentage
 | 0% | | | **Never Played** | | |
 | 0.0% | 0 / 8 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467780/fedd813f5de959625a4671f629054af4252aa132.jpg) ](http://store.steampowered.com/app/467780/) | [simian.interface++](http://steamcommunity.com/stats/467780/achievements/compare/) | 0 | und | **30.3** |
 | 0.0% | 0 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/568020/45dffe8edb9804170a43f371850c8fa07e991778.jpg) ](http://store.steampowered.com/app/568020/) | [Blind Love](http://steamcommunity.com/stats/568020/achievements/compare/) | 0 | und | **25.4** |
-| 0.0% | 0 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525690/6ab874741a2464eed4d2a91c0c52c20cbbec89bb.jpg) ](http://store.steampowered.com/app/525690/) | [MMM: Murder Most Misfortunate](http://steamcommunity.com/stats/525690/achievements/compare/) | 0 | und | **25.3** |
+| 0.0% | 0 / 6 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525690/6ab874741a2464eed4d2a91c0c52c20cbbec89bb.jpg) ](http://store.steampowered.com/app/525690/) | [MMM: Murder Most Misfortunate](http://steamcommunity.com/stats/525690/achievements/compare/) | 0 | und | **25.2** |
 | 0.0% | 0 / 24 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319550/4a8b9cc14002a9eabec088ab38f3ef34fe5149c1.jpg) ](http://store.steampowered.com/app/319550/) | [The Collider](http://steamcommunity.com/stats/319550/achievements/compare/) | 0 | und | **25.2** |
 | 0.0% | 0 / 33 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/266010/c2e5b693de7cd46328aa8dd24add10b4f425e7f1.jpg) ](http://store.steampowered.com/app/266010/) | [LYNE](http://steamcommunity.com/stats/266010/achievements/compare/) | 0 | und | **13.1** |
 | 0.0% | 0 / 5 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445130/453318818d038b2fd5f7f72d0e6c1ebbd1ccc9f7.jpg) ](http://store.steampowered.com/app/445130/) | [The Average Everyday Adventures of Samantha Browne](http://steamcommunity.com/stats/445130/achievements/compare/) | 0 | und | **13.0** |
@@ -156,9 +156,9 @@ Games by Achievement Percentage
 | 0.0% | 0 / 11 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/317610/7b52ee8aefb227bf158417fd6c059784daf122e7.jpg) ](http://store.steampowered.com/app/317610/) | [Prophour23](http://steamcommunity.com/stats/317610/achievements/compare/) | 0 | und | *4.4* |
 | 0.0% | 0 / 18 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/283660/df2faf53e6141139ba675f24754c72aa9ef3b5af.jpg) ](http://store.steampowered.com/app/283660/) | [Rabbit Hole 3D: Steam Edition](http://steamcommunity.com/stats/283660/achievements/compare/) | 0 | und | *4.3* |
 | 0.0% | 0 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/5cafbe7be54aaf54999915159839949a5841d591.jpg) ](http://store.steampowered.com/app/370360/) | [TIS-100](http://steamcommunity.com/stats/370360/achievements/compare/) | 0 | und | *4.3* |
+| 0.0% | 0 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/e275278f331ae436f9ae3add2b4d50b9adfe4eae.jpg) ](http://store.steampowered.com/app/583270/) | [Cosmic Express](http://steamcommunity.com/stats/583270/achievements/compare/) | 0 | und | *4.2* |
 | 0.0% | 0 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1530/15f787b65336ac137afc31cf700fa69c018fc68d.jpg) ](http://store.steampowered.com/app/1530/) | [Multiwinia](http://steamcommunity.com/stats/Multiwinia/achievements/compare/) | 0 | und | *4.2* |
 | 0.0% | 0 / 25 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38720/b1359d9a1d37199493dee056a854ff70735924de.jpg) ](http://store.steampowered.com/app/38720/) | [RUSH](http://steamcommunity.com/stats/Rush/achievements/compare/) | 0 | und | *4.2* |
-| 0.0% | 0 / 12 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/e275278f331ae436f9ae3add2b4d50b9adfe4eae.jpg) ](http://store.steampowered.com/app/583270/) | [Cosmic Express](http://steamcommunity.com/stats/583270/achievements/compare/) | 0 | und | *4.1* |
 | 0.0% | 0 / 20 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/5ffbf030cd3e3af293e0509df7be6f9b2a159ca8.jpg) ](http://store.steampowered.com/app/92800/) | [SpaceChem](http://steamcommunity.com/stats/SpaceChem/achievements/compare/) | 0 | und | *4.1* |
 | 0.0% | 0 / 10 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/443810/be8f559c020e7add053628460ddb1eb788277efb.jpg) ](http://store.steampowered.com/app/443810/) | [This Is the Police](http://steamcommunity.com/stats/443810/achievements/compare/) | 0 | und | *4.1* |
 | 0.0% | 0 / 84 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/458710/b01728959898a7203c30a304df6c3771d7521316.jpg) ](http://store.steampowered.com/app/458710/) | [Kingdom Rush Frontiers](http://steamcommunity.com/stats/458710/achievements/compare/) | 0 | und | *4.0* |
@@ -202,7 +202,7 @@ Games by Achievement Percentage
 | 0.0% | 0 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/5b41f9020fa38615e7a40e3db2bf2b50bd2dbb64.jpg) ](http://store.steampowered.com/app/300570/) | [Infinifactory](http://steamcommunity.com/stats/300570/achievements/compare/) | 0 | und | 2.2 |
 | 0.0% | 0 / 60 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/373970/55ab26ef516f0d072b3634858ba724d90caac5f3.jpg) ](http://store.steampowered.com/app/373970/) | [Letter Quest: Grimm's Journey Remastered](http://steamcommunity.com/stats/373970/achievements/compare/) | 0 | und | 2.2 |
 | 0.0% | 0 / 30 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/297490/282f3dae377c6ab0694541875ed637c64d7700fe.jpg) ](http://store.steampowered.com/app/297490/) | [Spy Chameleon - RGB Agent](http://steamcommunity.com/stats/297490/achievements/compare/) | 0 | und | 2.2 |
-| 0.0% | 0 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/874a9b6f7e241d345c55c9986e69fe20dc15cd2b.jpg) ](http://store.steampowered.com/app/361280/) | [Turmoil](http://steamcommunity.com/stats/361280/achievements/compare/) | 0 | und | 2.2 |
+| 0.0% | 0 / 22 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/874a9b6f7e241d345c55c9986e69fe20dc15cd2b.jpg) ](http://store.steampowered.com/app/361280/) | [Turmoil](http://steamcommunity.com/stats/361280/achievements/compare/) | 0 | und | 2.1 |
 | 0.0% | 0 / 28 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262590/600712577e6752734cb037f0dbe3b14ff21f43db.jpg) ](http://store.steampowered.com/app/262590/) | [Chucks Challenge 3D](http://steamcommunity.com/stats/262590/achievements/compare/) | 0 | und | 2.0 |
 | 0.0% | 0 / 23 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/538840/f74c132edb2e90843da59ffe314a1b6ea769f728.jpg) ](http://store.steampowered.com/app/538840/) | [City Climber](http://steamcommunity.com/stats/538840/achievements/compare/) | 0 | und | 2.0 |
 | 0.0% | 0 / 34 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496300/5662913c07750c882478e03be144982421e07628.jpg) ](http://store.steampowered.com/app/496300/) | [Kingdom: New Lands](http://steamcommunity.com/stats/496300/achievements/compare/) | 0 | und | 2.0 |
@@ -274,7 +274,7 @@ Most played games
 | **72** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg) ](http://store.steampowered.com/app/233450/) | [Prison Architect](http://steamcommunity.com/stats/233450/achievements/compare/) | 0 / 18 = 0.0% | und |
 | **56** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/) | [Shufflepuck Cantina Deluxe](http://steamcommunity.com/stats/259510/achievements/compare/) | 55 / 76 = 72.4% | *1.02* |
 | **46** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/) | [Kingdom Rush](http://steamcommunity.com/stats/246420/achievements/compare/) | 68 / 72 = 94.4% | *0.68* |
-| **39** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/55040/5ef89e7f7a049c5f5fa4ade0cb712937f9bdb6eb.jpg) ](http://store.steampowered.com/app/55040/) | [Atom Zombie Smasher ](http://steamcommunity.com/stats/AtomZombieSmasher/achievements/compare/) | 28 / 41 = 68.3% | *1.39* |
+| **41** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/55040/5ef89e7f7a049c5f5fa4ade0cb712937f9bdb6eb.jpg) ](http://store.steampowered.com/app/55040/) | [Atom Zombie Smasher ](http://steamcommunity.com/stats/AtomZombieSmasher/achievements/compare/) | 29 / 41 = 70.7% | *1.41* |
 | **38** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221910/80de64fedc906c4d81123e7ddc1d61d39183ab2d.jpg) ](http://store.steampowered.com/app/221910/) | [The Stanley Parable](http://steamcommunity.com/stats/221910/achievements/compare/) | 10 / 10 = 100.0% | 3.80 |
 | **31** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/) | [Tomb Raider](http://steamcommunity.com/stats/TombRaider/achievements/compare/) | 21 / 50 = 42.0% | *1.48* |
 | **29** | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304410/912083543054063e58b0370a1c246dc8063216d1.jpg) ](http://store.steampowered.com/app/304410/) | [Hexcells Infinite](http://steamcommunity.com/stats/304410/achievements/compare/) | 7 / 7 = 100.0% | 4.14 |
