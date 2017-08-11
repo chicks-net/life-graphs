@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.2845",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -15,7 +15,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -73,7 +73,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -106,8 +106,8 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.032",
-      "achievement_median" : "0.0515",
+      "achievement_hardest" : "0.033",
+      "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.313",
-      "achievement_median" : "0.4215",
+      "achievement_median" : "0.422",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0945",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -641,7 +641,7 @@
       "url_store" : "http://store.steampowered.com/app/240/"
    },
    "Crash Drive 2" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.1275",
       "achievements" : true,
       "app_id" : "343440",
@@ -1238,7 +1238,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1526,7 +1526,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.128",
-      "achievement_median" : "0.175",
+      "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -2111,7 +2111,7 @@
    },
    "Party Hard" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "356570",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0095",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.0105",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2513,7 +2513,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.0345",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2794,7 +2794,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.088",
-      "achievement_median" : "0.099",
+      "achievement_median" : "0.0985",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2858,7 +2858,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4475",
+      "achievement_median" : "0.448",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2977,8 +2977,8 @@
       "url_store" : "http://store.steampowered.com/app/323380/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.159",
-      "achievement_median" : "0.159",
+      "achievement_hardest" : "0.16",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -3109,7 +3109,7 @@
       "url_store" : "http://store.steampowered.com/app/398710/"
    },
    "Time Clickers" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.201",
       "achievements" : true,
       "app_id" : "385770",
@@ -3284,7 +3284,7 @@
       "url_store" : "http://store.steampowered.com/app/263760/"
    },
    "Turmoil" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.1305",
       "achievements" : true,
       "app_id" : "361280",
@@ -3617,7 +3617,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.422",
-      "achievement_median" : "0.787",
+      "achievement_median" : "0.786",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
