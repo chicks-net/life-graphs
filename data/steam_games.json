@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.285",
+      "achievement_median" : "0.2845",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/410110/"
    },
    "AdVenture Capitalist" : {
-      "achievement_hardest" : "0.031",
-      "achievement_median" : "0.142",
+      "achievement_hardest" : "0.032",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2805",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -617,7 +617,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.295",
+      "achievement_median" : "0.296",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.1125",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -876,7 +876,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1238,7 +1238,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1573,7 +1573,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.128",
+      "achievement_hardest" : "0.129",
       "achievement_median" : "0.176",
       "achievements" : true,
       "app_id" : "435400",
@@ -1732,7 +1732,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0725",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1809,7 +1809,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1835,7 +1835,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.309",
-      "achievement_median" : "0.37",
+      "achievement_hardest" : "0.311",
+      "achievement_median" : "0.371",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1906,7 +1906,7 @@
       "url_store" : "http://store.steampowered.com/app/479040/"
    },
    "Metro: Last Light" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "43160",
@@ -2022,7 +2022,7 @@
       "url_store" : "http://store.steampowered.com/app/4920/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
@@ -2131,7 +2131,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.0455",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -2229,7 +2229,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0105",
+      "achievement_median" : "0.0115",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2486,7 +2486,7 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.049",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "293200",
@@ -2601,7 +2601,7 @@
    },
    "SpaceChem" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.055",
+      "achievement_median" : "0.0555",
       "achievements" : true,
       "app_id" : "92800",
       "global_achievements" : true,
