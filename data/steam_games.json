@@ -1,7 +1,7 @@
 {
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.2845",
+      "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -106,8 +106,8 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.052",
+      "achievement_hardest" : "0.032",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -311,7 +311,7 @@
    },
    "Borderlands: The Pre-Sequel" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.159",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -629,7 +629,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -642,7 +642,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.1275",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1238,7 +1238,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.08",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1835,7 +1835,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.1425",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0475",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2073,7 +2073,7 @@
    },
    "PAYDAY 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.0425",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.0115",
+      "achievement_hardest" : "0.009",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2463,7 +2463,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1565",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -3014,7 +3014,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0415",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3134,7 +3134,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3211,7 +3211,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.371",
+      "achievement_median" : "0.372",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
