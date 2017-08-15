@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -233,7 +233,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.313",
-      "achievement_median" : "0.422",
+      "achievement_median" : "0.4215",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -505,7 +505,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -1238,7 +1238,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.08",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1365,7 +1365,7 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.05",
+      "achievement_hardest" : "0.051",
       "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "365450",
@@ -1490,7 +1490,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.258",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1537,8 +1537,8 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.436",
-      "achievement_median" : "0.6945",
+      "achievement_hardest" : "0.435",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1574,7 +1574,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.129",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1732,7 +1732,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0735",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1835,7 +1835,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.311",
-      "achievement_median" : "0.371",
+      "achievement_hardest" : "0.31",
+      "achievement_median" : "0.372",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2022,7 +2022,7 @@
       "url_store" : "http://store.steampowered.com/app/4920/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
@@ -2413,7 +2413,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0125",
+      "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2767,7 +2767,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2953,7 +2953,7 @@
       "url_store" : "http://store.steampowered.com/app/435530/"
    },
    "The LEGO® Movie - Videogame" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
@@ -3259,7 +3259,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
