@@ -35,7 +35,7 @@
    },
    "Airscape: The Fall of Gravity" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "317250",
       "global_achievements" : true,
@@ -47,7 +47,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -553,7 +553,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.0955",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -705,7 +705,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.1135",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -802,7 +802,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.081",
-      "achievement_median" : "0.146",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1083,7 +1083,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.17",
+      "achievement_hardest" : "0.169",
       "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "343930",
@@ -1538,7 +1538,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.435",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1549,8 +1549,8 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.264",
-      "achievement_median" : "0.548",
+      "achievement_hardest" : "0.263",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1562,7 +1562,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.403",
-      "achievement_median" : "0.6515",
+      "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1708,7 +1708,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.4625",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1809,7 +1809,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.093",
+      "achievement_median" : "0.0935",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1868,8 +1868,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.312",
-      "achievement_median" : "0.373",
+      "achievement_hardest" : "0.31",
+      "achievement_median" : "0.377",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0475",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2010,8 +2010,8 @@
       "url_store" : "http://store.steampowered.com/app/1530/"
    },
    "Natural Selection 2" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.032",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2022,7 +2022,7 @@
       "url_store" : "http://store.steampowered.com/app/4920/"
    },
    "Nihilumbra" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "252670",
@@ -2131,7 +2131,7 @@
    },
    "Pivvot" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.0455",
       "achievements" : true,
       "app_id" : "293900",
       "global_achievements" : true,
@@ -2412,8 +2412,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.0135",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2486,7 +2486,7 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.049",
+      "achievement_hardest" : "0.048",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "293200",
@@ -2499,7 +2499,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -3222,7 +3222,7 @@
       "url_store" : "http://store.steampowered.com/app/365300/"
    },
    "Trine" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.019",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "35700",
@@ -3441,7 +3441,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -3479,7 +3479,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.167",
+      "achievement_median" : "0.1675",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
