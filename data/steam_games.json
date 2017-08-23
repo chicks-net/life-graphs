@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.508",
-      "achievement_median" : "0.515",
+      "achievement_hardest" : "0.509",
+      "achievement_median" : "0.516",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -273,7 +273,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -890,7 +890,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1083,8 +1083,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.127",
-      "achievement_median" : "0.735",
+      "achievement_hardest" : "0.152",
+      "achievement_median" : "0.733",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1611,8 +1611,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.361",
+      "achievement_median" : "0.361",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1624,7 +1624,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.2105",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1835,7 +1835,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1861,7 +1861,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2254,7 +2254,7 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
@@ -2269,7 +2269,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0455",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2539,7 +2539,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0345",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2695,7 +2695,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1205",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2707,7 +2707,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2980,7 +2980,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.2265",
+      "achievement_median" : "0.227",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -3078,7 +3078,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0085",
+      "achievement_median" : "0.009",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -3159,7 +3159,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.043",
+      "achievement_hardest" : "0.042",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "395160",
@@ -3285,7 +3285,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3455,7 +3455,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.122",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3597,7 +3597,7 @@
    },
    "XCOM: Enemy Unknown" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.214",
+      "achievement_median" : "0.215",
       "achievements" : true,
       "app_id" : "200510",
       "global_achievements" : true,
