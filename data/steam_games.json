@@ -273,7 +273,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -631,7 +631,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.299",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -719,7 +719,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -803,7 +803,7 @@
       "url_store" : "http://store.steampowered.com/app/312860/"
    },
    "Democracy 3" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.1865",
       "achievements" : true,
       "app_id" : "245470",
@@ -815,7 +815,7 @@
       "url_store" : "http://store.steampowered.com/app/245470/"
    },
    "Domino Sky" : {
-      "achievement_hardest" : "0.081",
+      "achievement_hardest" : "0.082",
       "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
@@ -1083,8 +1083,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.152",
-      "achievement_median" : "0.733",
+      "achievement_hardest" : "0.17",
+      "achievement_median" : "0.741",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1563,7 +1563,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.434",
+      "achievement_hardest" : "0.435",
       "achievement_median" : "0.6935",
       "achievements" : true,
       "app_id" : "265890",
@@ -1734,7 +1734,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.462",
+      "achievement_median" : "0.463",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1835,7 +1835,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.093",
+      "achievement_median" : "0.0935",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -2438,8 +2438,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.017",
+      "achievement_hardest" : "0.014",
+      "achievement_median" : "0.0175",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2695,7 +2695,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2781,7 +2781,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.455",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -3285,7 +3285,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3455,7 +3455,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.122",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
