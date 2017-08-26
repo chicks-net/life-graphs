@@ -117,7 +117,7 @@ sub calc_achievements {
 			my $achieved_percentage = $achievements_current/$achievements_total;
 			$this_game->{perc} = $achieved_percentage;
 			$this_game->{name} = $game;
-			barchart_bucket($achieved_percentage) if $this_game->{hrs_total};
+			barchart_bucket($achieved_percentage) if $this_game->{hrs_total} or $achievements_current;
 			push (@games_that_have_achievements,$this_game);
 
 			# difficulty
