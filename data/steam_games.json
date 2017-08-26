@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.313",
-      "achievement_median" : "0.422",
+      "achievement_hardest" : "0.314",
+      "achievement_median" : "0.4215",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -519,7 +519,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -656,7 +656,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.128",
+      "achievement_median" : "0.1285",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -1083,8 +1083,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.182",
-      "achievement_median" : "0.74",
+      "achievement_hardest" : "0.199",
+      "achievement_median" : "0.745",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1564,7 +1564,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.435",
-      "achievement_median" : "0.6935",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1588,7 +1588,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.402",
-      "achievement_median" : "0.6505",
+      "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1599,8 +1599,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.13",
-      "achievement_median" : "0.178",
+      "achievement_hardest" : "0.131",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1873,7 +1873,7 @@
    },
    "Little Cells" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "352210",
       "global_achievements" : true,
@@ -1895,7 +1895,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.314",
-      "achievement_median" : "0.38",
+      "achievement_median" : "0.379",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.0505",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2137,7 +2137,7 @@
    },
    "Party Hard" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "356570",
       "global_achievements" : true,
@@ -2254,7 +2254,7 @@
       "url_store" : "http://store.steampowered.com/app/400/"
    },
    "Portal 2" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
@@ -2695,7 +2695,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.1215",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2781,7 +2781,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.455",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2832,7 +2832,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.084",
-      "achievement_median" : "0.584",
+      "achievement_median" : "0.585",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -3455,7 +3455,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.122",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
