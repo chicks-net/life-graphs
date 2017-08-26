@@ -134,6 +134,11 @@ sub calc_achievements {
 
 $content .= "* $has_achievements out of $total_games games have achievements.\n";
 
+my $missing_content = "# Missing Achievements\n";
+$missing_content .= "\n";
+$missing_content .= "| Game | Percentage | Name | Description |\n";
+$missing_content .= "| ---- | ---------: | ---- | ----------- |\n";
+
 my $table_content .= "Games by Achievement Percentage\n";
 $table_content .= "------------------\n";
 $table_content .= "\n";
@@ -255,6 +260,17 @@ foreach my $game (@sorted_games) {
 	}
 
 	$table_content .= "| $display_perc | $display_achievements | $display_name | $display_hours | $achieve_efficiency | $composite_difficulty |\n";
+
+	if (defined $game->{missing_achievements}) {
+		my $display_name = "[ ![logo links to store]($url_logo) ]($url_store) ";
+		foreach my $achievement (@{$game->{missing_achievements}}) {
+			my $name = $achievement->{name};
+			my $description = $achievement->{description};
+			my $global_perc = $achievement->{percent};
+			my $display_perc = sprintf("%.1f%%",$global_perc);
+			$missing_content .= "| $display_name | $display_perc | $name | $description |\n";
+		}
+	}
 }
 $table_content .= "\n\n";
 
@@ -292,7 +308,7 @@ foreach my $game (@games_by_time) {
 	my $display_perc = sprintf("%.1f%%",$perc*100);
 	my $hours = $game->{hrs_total} || 0;
 	my $name = $game->{name};
-	my $last_played = $game->{last_played};
+#	my $last_played = $game->{last_played};
 	my $achievements_current = $game->{achievements_current};
 	my $achievements_total = $game->{achievements_total};
 	my $display_achievements = "$achievements_current / $achievements_total = $display_perc";
@@ -341,8 +357,7 @@ my $overall_days = sprintf("%.1f",$overall_hours/24);
 
 # stitch together
 $content .= "* $overall_perc% achieved overall.\n";
-$content .= "* $played_perc% achieved in games";
-$content .= " played.\n";
+$content .= "* $played_perc% achieved in games played.\n";
 $content .= "* **$chieved_perc%** in games with >1 achievement.\n";
 $content .= "* played $overall_hours total hours or $overall_days 24h days.\n\n";
 $content .= print_barchart();
@@ -353,9 +368,11 @@ $content .= "links\n-----\n";
 $content .= "[Steam Dashboard](Steam.md) ...\n";
 $content .= "[Main Dashboard](README.md) ...\n\n";
 
-# write table out as Markdown
+# write tables out as Markdown
 my $filename = "steam_achievements.md";
-write_file($filename,$content, 'Dash');
+write_file($filename, $content, 'Dash');
+my $filename_missing = "steam_missing_achievements.md";
+write_file($filename_missing, $missing_content, 'Dash');
 
 # save percentages as JSON/Storable
 my $log_day = {

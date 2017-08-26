@@ -47,6 +47,7 @@ if (-f $secrets_file) {
 #
 # get content: steam profile
 #
+my $steam_id = '76561198037662755';
 my $profile_url = 'http://steamcommunity.com/profiles/76561198037662755';
 my $tree = url_tree($profile_url);
 
@@ -240,6 +241,8 @@ print "$achievement_game_count games have achievements out of $game_count games\
 sub game_achievements {
 	my ($game_name,$friendly_url,$appid) = @_;
 
+	my $json = JSON->new->allow_nonref; # factory
+
 	my $achievements_url = "$profile_url/stats/$friendly_url/?tab=achievements";
 
 	my $quiet = 1;
@@ -268,13 +271,7 @@ sub game_achievements {
 				my $game_schema_url = "http://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key=${steam_api}&appid=$appid";
 				my $game_schema_json = get($game_schema_url);
 
-				my $json = JSON->new->allow_nonref;
 				my $schema = $json->decode($game_schema_json);
-
-#				print "$game_schema_url\n";
-#				print "$game_schema_json\n";
-#				print Dumper($schema);
-#				die "TODOing";
 
 				return unless defined $schema->{"game"}->{"availableGameStats"}->{"achievements"};
 				print "!!! [$appid] '$game_name' has no achievements I can find BUT THE STEAM API DOES\n";
@@ -297,6 +294,59 @@ sub game_achievements {
 	$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'achievements_total'} = $achievements_total;
 
 #	print "$game_name: $achievements_earned/$achievements_total\n";
+
+	# missing achievements (where some are left and some have been earned)
+	if ( $achievements_total - $achievements_earned and $achievements_earned) {
+		if ( defined $steam_api ) {
+			print "finding missing achievements for $game_name\n";
+			# get player details
+			my $player_achievements_url = "http://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid=${appid}&key=${steam_api}&steamid=${steam_id}&l=en";
+			my $player_achievements_json = get($player_achievements_url);
+			my $player_achievements = $json->decode($player_achievements_json);
+			#print Dumper($player_achievements);
+
+			#  'playerstats' -> 'achievements' 
+			my @player_achievements = @{$player_achievements->{playerstats}->{achievements}};
+			my %player_achievements;
+			foreach my $achievement (@player_achievements) {
+				my $name = $achievement->{apiname};
+				$player_achievements{$name} = $achievement;
+			}
+
+			# get global achievement percentages
+			my $game_achievements_url = "http://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v0002/?gameid=${appid}&format=json";
+			my $game_achievements_json = get($game_achievements_url);
+			my $game_achievements = $json->decode($game_achievements_json);
+			#print Dumper($game_achievements);
+
+			my @game_achievements = @{$game_achievements->{achievementpercentages}->{achievements}};
+			foreach my $achievement (@game_achievements) {
+				my $apiname = $achievement->{name};
+				my $percent = $achievement->{percent};
+				if ( defined($player_achievements{$apiname}) ) {
+					$player_achievements{$apiname}->{percent} = $percent;
+				} else {
+					#print "$game_name/$apiname (${percent}%) is a hidden achievement\n";
+				}
+			}
+
+			my @missing_achievements_unsorted;
+			foreach my $apiname (keys %player_achievements) {
+				unless ($player_achievements{$apiname}->{achieved}) {
+					push(@missing_achievements_unsorted,$player_achievements{$apiname});
+				}
+			}
+			my @missing_achievements_sorted = sort {
+					$b->{percent} <=> $a->{percent}
+				} @missing_achievements_unsorted;
+			# print Dumper(\@missing_achievements_sorted);
+			$data_out->{$stats_time}->{'game_details'}->{$game_name}->{'missing_achievements'} = \@missing_achievements_sorted;
+		} else {
+			print "!!! no missing achievements without SteamAPI access\n";
+		}
+	} else {
+		# print "skipping $game_name with no achievements\n";
+	}
 }
 
 sub game_difficulty {
