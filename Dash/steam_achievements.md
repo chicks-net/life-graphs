@@ -3,7 +3,7 @@ Steam Achievements
  
 * 221 out of 238 games have achievements.
 * 16.73% achieved overall.
-* 42.86% achieved in games played over 3858.1 hours overall.
+* 42.86% achieved in games played.
 * **57.15%** in games with >1 achievement.
 * played 3858.1 total hours or 160.8 24h days.
 

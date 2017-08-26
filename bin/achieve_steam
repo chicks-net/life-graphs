@@ -342,7 +342,7 @@ my $overall_days = sprintf("%.1f",$overall_hours/24);
 # stitch together
 $content .= "* $overall_perc% achieved overall.\n";
 $content .= "* $played_perc% achieved in games";
-$content .= " played over $overall_hours hours overall.\n";
+$content .= " played.\n";
 $content .= "* **$chieved_perc%** in games with >1 achievement.\n";
 $content .= "* played $overall_hours total hours or $overall_days 24h days.\n\n";
 $content .= print_barchart();
