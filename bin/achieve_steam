@@ -267,6 +267,7 @@ foreach my $game (@sorted_games) {
 			my $name = $achievement->{name};
 			my $description = $achievement->{description};
 			my $global_perc = $achievement->{percent};
+			next unless $global_perc > 20;
 			my $display_perc = sprintf("%.1f%%",$global_perc);
 			$missing_content .= "| $display_name | $display_perc | $name | $description |\n";
 		}
