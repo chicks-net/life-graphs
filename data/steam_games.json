@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.512",
-      "achievement_median" : "0.519",
+      "achievement_hardest" : "0.513",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/614910/"
    },
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.285",
       "achievements" : true,
       "app_id" : "410110",
@@ -246,7 +246,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.314",
+      "achievement_hardest" : "0.313",
       "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "568020",
@@ -631,7 +631,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.299",
+      "achievement_median" : "0.3",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1083,8 +1083,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.213",
-      "achievement_median" : "0.741",
+      "achievement_hardest" : "0.23",
+      "achievement_median" : "0.751",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1095,7 +1095,7 @@
       "url_store" : "http://store.steampowered.com/app/661000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "490820",
@@ -1957,7 +1957,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0505",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2451,7 +2451,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0305",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2463,7 +2463,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.2685",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2538,7 +2538,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Serious Sam Fusion 2017 (beta)" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "564310",
@@ -2551,7 +2551,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.041",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2781,7 +2781,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.455",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -2792,7 +2792,7 @@
       "url_store" : "http://store.steampowered.com/app/330830/"
    },
    "Team Fortress 2" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.106",
       "achievements" : true,
       "app_id" : "440",
@@ -2819,8 +2819,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.087",
-      "achievement_median" : "0.0975",
+      "achievement_hardest" : "0.086",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2883,8 +2883,8 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.098",
-      "achievement_median" : "0.4475",
+      "achievement_hardest" : "0.099",
+      "achievement_median" : "0.448",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -2980,7 +2980,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.227",
+      "achievement_median" : "0.2275",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -3159,7 +3159,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "395160",
@@ -3284,8 +3284,8 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.064",
-      "achievement_median" : "0.29",
+      "achievement_hardest" : "0.063",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
