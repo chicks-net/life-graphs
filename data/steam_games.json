@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.513",
-      "achievement_median" : "0.52",
+      "achievement_median" : "0.5205",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -121,7 +121,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0525",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -470,7 +470,7 @@
       "url_store" : "http://store.steampowered.com/app/29800/"
    },
    "Chucks Challenge 3D" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "262590",
@@ -567,7 +567,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.0965",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -784,7 +784,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.206",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -816,7 +816,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -958,7 +958,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1083,8 +1083,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.23",
-      "achievement_median" : "0.751",
+      "achievement_hardest" : "0.245",
+      "achievement_median" : "0.75",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1367,7 +1367,7 @@
       "url_store" : "http://store.steampowered.com/app/209080/"
    },
    "HITMAN™" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "236870",
@@ -1576,7 +1576,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.262",
-      "achievement_median" : "0.546",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1588,7 +1588,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.402",
-      "achievement_median" : "0.6505",
+      "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1734,7 +1734,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.4635",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1894,7 +1894,7 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.316",
+      "achievement_hardest" : "0.318",
       "achievement_median" : "0.3805",
       "achievements" : true,
       "app_id" : "525690",
@@ -1983,7 +1983,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2439,7 +2439,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.019",
+      "achievement_median" : "0.02",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2551,7 +2551,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -3028,7 +3028,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.1965",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3160,7 +3160,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3284,7 +3284,7 @@
       "url_store" : "http://store.steampowered.com/app/245620/"
    },
    "Tumbleweed Express" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.064",
       "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "372350",
@@ -3349,7 +3349,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3467,7 +3467,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -3505,7 +3505,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
