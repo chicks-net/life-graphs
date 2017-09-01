@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.515",
-      "achievement_median" : "0.522",
+      "achievement_hardest" : "0.516",
+      "achievement_median" : "0.523",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/614910/"
    },
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.041",
-      "achievement_median" : "0.285",
+      "achievement_hardest" : "0.04",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -87,7 +87,7 @@
    },
    "Anodyne" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0925",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "234900",
       "global_achievements" : true,
@@ -135,7 +135,7 @@
    },
    "Atom Zombie Smasher " : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.108",
+      "achievement_median" : "0.109",
       "achievements" : true,
       "app_id" : "55040",
       "global_achievements" : true,
@@ -246,7 +246,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.312",
+      "achievement_hardest" : "0.313",
       "achievement_median" : "0.4205",
       "achievements" : true,
       "app_id" : "568020",
@@ -553,7 +553,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -668,7 +668,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.313",
-      "achievement_median" : "0.5445",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1034,7 +1034,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.4285",
+      "achievement_median" : "0.429",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1095,8 +1095,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.269",
-      "achievement_median" : "0.749",
+      "achievement_hardest" : "0.278",
+      "achievement_median" : "0.745",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1599,7 +1599,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.402",
+      "achievement_hardest" : "0.403",
       "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "271900",
@@ -1906,8 +1906,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.319",
-      "achievement_median" : "0.3825",
+      "achievement_hardest" : "0.318",
+      "achievement_median" : "0.3815",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1969,7 +1969,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2451,7 +2451,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2500,7 +2500,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.039",
+      "achievement_hardest" : "0.04",
       "achievement_median" : "0.1575",
       "achievements" : true,
       "app_id" : "465760",
@@ -2626,7 +2626,7 @@
       "url_store" : "http://store.steampowered.com/app/235620/"
    },
    "Space Food Truck" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "397390",
@@ -3309,7 +3309,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3529,7 +3529,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1545",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3666,8 +3666,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.425",
-      "achievement_median" : "0.789",
+      "achievement_hardest" : "0.422",
+      "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
