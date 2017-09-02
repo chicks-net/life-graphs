@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.067",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -405,7 +405,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.0265",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -456,6 +456,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/444480/fa699b3f546806db99c4f8f9b5078224ca606893.jpg",
       "url_store" : "http://store.steampowered.com/app/444480/"
+   },
+   "Carpe Diem" : {
+      "achievement_hardest" : "0.678",
+      "achievement_median" : "0.678",
+      "achievements" : true,
+      "app_id" : "423880",
+      "global_achievements" : true,
+      "name" : "Carpe Diem",
+      "name_short" : "423880",
+      "url_achievements" : "http://steamcommunity.com/stats/423880/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/423880/0d138129b163488974c5016a29065ef3f468c992.jpg",
+      "url_store" : "http://store.steampowered.com/app/423880/"
    },
    "Caster" : {
       "achievement_hardest" : "0.99",
@@ -667,8 +679,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.313",
-      "achievement_median" : "0.545",
+      "achievement_hardest" : "0.314",
+      "achievement_median" : "0.5455",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1095,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.278",
-      "achievement_median" : "0.745",
+      "achievement_hardest" : "0.294",
+      "achievement_median" : "0.747",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1122,7 +1134,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.17",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1262,7 +1274,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -1326,13 +1338,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
@@ -1746,7 +1758,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.463",
+      "achievement_median" : "0.4635",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1907,7 +1919,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.318",
-      "achievement_median" : "0.3815",
+      "achievement_median" : "0.3805",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2329,6 +2341,14 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31270/f1bd7dd0bae1026b17c61a605a567ed68e683fef.jpg",
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
+   "RAID: World War II Beta" : {
+      "app_id" : "704580",
+      "name" : "RAID: World War II Beta",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/704580/00ada58fc8d4eeb6461f56f03673d2aa2a1c3b81.jpg",
+      "url_store" : "http://store.steampowered.com/app/704580/"
+   },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
       "achievement_median" : "0.052",
@@ -2343,7 +2363,7 @@
    },
    "RUSH" : {
       "achievement_hardest" : "0.044",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "38720",
       "global_achievements" : true,
@@ -2378,6 +2398,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/253030/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253030/ff0d04cb05dc03ec4b9a136d6b35b00166c475fc.jpg",
       "url_store" : "http://store.steampowered.com/app/253030/"
+   },
+   "Redactem" : {
+      "achievement_hardest" : "0.505",
+      "achievement_median" : "0.6495",
+      "achievements" : true,
+      "app_id" : "502400",
+      "global_achievements" : true,
+      "name" : "Redactem",
+      "name_short" : "502400",
+      "url_achievements" : "http://steamcommunity.com/stats/502400/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/502400/d72dee606e453ab1d1333a101efa786eb6463016.jpg",
+      "url_store" : "http://store.steampowered.com/app/502400/"
    },
    "Reigns" : {
       "achievement_hardest" : "0.005",
@@ -2450,7 +2482,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "252490",
@@ -2500,7 +2532,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.1575",
       "achievements" : true,
       "app_id" : "465760",
@@ -2534,6 +2566,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/293200/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg",
       "url_store" : "http://store.steampowered.com/app/293200/"
+   },
+   "Sepia Tears" : {
+      "achievement_hardest" : "0.209",
+      "achievement_median" : "0.237",
+      "achievements" : true,
+      "app_id" : "429300",
+      "global_achievements" : true,
+      "name" : "Sepia Tears",
+      "name_short" : "429300",
+      "url_achievements" : "http://steamcommunity.com/stats/429300/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/429300/30c69ccace52351790bec3485cc452e5024708ca.jpg",
+      "url_store" : "http://store.steampowered.com/app/429300/"
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.013",
@@ -2719,7 +2763,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1215",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2844,7 +2888,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.086",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3183,7 +3227,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "395160",
@@ -3309,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3358,6 +3402,28 @@
       "url_achievements" : "http://steamcommunity.com/stats/258890/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg",
       "url_store" : "http://store.steampowered.com/app/258890/"
+   },
+   "Typoman" : {
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.058",
+      "achievements" : true,
+      "app_id" : "336240",
+      "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
+      "name" : "Typoman",
+      "name_short" : "336240",
+      "url_achievements" : "http://steamcommunity.com/stats/336240/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336240/caee90013a7d72fcc5ad415c57ab565c45262a62.jpg",
+      "url_store" : "http://store.steampowered.com/app/336240/"
+   },
+   "Typoman Soundtrack by SonicPicnic" : {
+      "app_id" : "541280",
+      "name" : "Typoman Soundtrack by SonicPicnic",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/541280/5edb95ab7c4a8b4246afcccabce4d525a540b9fa.jpg",
+      "url_store" : "http://store.steampowered.com/app/541280/"
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.115",
@@ -3528,7 +3594,7 @@
       "url_store" : "http://store.steampowered.com/app/22600/"
    },
    "XCOM 2" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "268500",
@@ -3666,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.422",
-      "achievement_median" : "0.784",
+      "achievement_hardest" : "0.425",
+      "achievement_median" : "0.7865",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
