@@ -134,6 +134,11 @@ sub calc_achievements {
 
 $content .= "* $has_achievements out of $total_games games have achievements.\n";
 
+my $missing_summary = "## Summary\n";
+$missing_summary .= "\n";
+$missing_summary .= "| Game | Easy | Hard | Easy Percentage |\n";
+$missing_summary .= "| ---- | ---: | ---: | --------------: |\n";
+
 my $missing_content = "# Missing Achievements\n";
 $missing_content .= "\n";
 $missing_content .= "| Game | Percentage | Name | Description |\n";
@@ -263,17 +268,32 @@ foreach my $game (@sorted_games) {
 
 	if (defined $game->{missing_achievements}) {
 		my $display_name = "[ ![logo links to store]($url_logo) ]($url_store) ";
+		my $easy_count = 0;
+		my $hard_count = 0;
 		foreach my $achievement (@{$game->{missing_achievements}}) {
 			my $name = $achievement->{name};
 			my $description = $achievement->{description};
 			my $global_perc = $achievement->{percent};
-			next unless $global_perc > 20;
-			my $display_perc = sprintf("%.1f%%",$global_perc);
+			if ($global_perc > 20) {
+				# easy
+				$easy_count++;
+			} else {
+				# hard
+				$hard_count++;
+				next;
+			}
+			my $display_perc = sprintf("%.1f%%", $global_perc);
 			$missing_content .= "| $display_name | $display_perc | $name | $description |\n";
 		}
+
+		my $easy_percent = $easy_count / ( $achievements_total - $achievements_current );
+		$easy_percent = sprintf("%.1f%%", $easy_percent * 100);
+		$missing_summary .= "| $display_name | $easy_count | $hard_count | $easy_percent |\n";
 	}
 }
 $table_content .= "\n\n";
+
+$missing_content .= "\n" . $missing_summary;
 
 # format overall percentages
 my $overall_perc = 100 * $perc_accumulator / $total_games;

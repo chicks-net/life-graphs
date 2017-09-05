@@ -251,3 +251,60 @@
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg) ](http://store.steampowered.com/app/730/)  | 20.6% | MP9 Expert | Kill 100 enemies with the MP9 |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg) ](http://store.steampowered.com/app/730/)  | 20.3% | P90 Expert | Kill 500 enemies with the P90 |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg) ](http://store.steampowered.com/app/730/)  | 20.2% | Marcsman | Win five matches on St. Marc |
+
+## Summary
+
+| Game | Easy | Hard | Easy Percentage |
+| ---- | ---: | ---: | --------------: |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508390/828a6a8b398a238e7a8814682ef11db27728d037.jpg) ](http://store.steampowered.com/app/508390/)  | 0 | 1 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/)  | 1 | 3 | 25.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg) ](http://store.steampowered.com/app/38600/)  | 0 | 3 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/)  | 1 | 8 | 11.1% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220900/3f5aa1d546b5b82eedacbf8f5ae76ed46303a241.jpg) ](http://store.steampowered.com/app/220900/)  | 0 | 4 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg) ](http://store.steampowered.com/app/346900/)  | 0 | 5 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3590/85bfe66e921d89b034a3a253fb648f1a930e034a.jpg) ](http://store.steampowered.com/app/3590/)  | 0 | 4 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/)  | 1 | 7 | 12.5% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250460/8bad0180c742dd38d79898ea1c3b6e823fc7b448.jpg) ](http://store.steampowered.com/app/250460/)  | 0 | 13 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/258890/9932ad807beac236c3af3ff151cb782c6b9ba60b.jpg) ](http://store.steampowered.com/app/258890/)  | 0 | 3 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg) ](http://store.steampowered.com/app/263760/)  | 2 | 4 | 33.3% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/259510/779e82a6a87caa5c2dc6b27e050592bd4bb64d38.jpg) ](http://store.steampowered.com/app/259510/)  | 0 | 21 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/115100/125ad90dba2c6c3726837ae9c1889d8009f806a9.jpg) ](http://store.steampowered.com/app/115100/)  | 0 | 6 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/55040/5ef89e7f7a049c5f5fa4ade0cb712937f9bdb6eb.jpg) ](http://store.steampowered.com/app/55040/)  | 1 | 11 | 8.3% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/62000/34de2e89a598a7fabb2827a7680d18601c314108.jpg) ](http://store.steampowered.com/app/62000/)  | 1 | 4 | 20.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/287980/26d482889fcf08c9e54de07aa64bb796a1c2cd78.jpg) ](http://store.steampowered.com/app/287980/)  | 0 | 12 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/b6a8e06210d2da419565c33ec2c639ef412803fc.jpg) ](http://store.steampowered.com/app/357600/)  | 0 | 7 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457480/b3fa986962a8eae1d5a77f7956bea02a16196031.jpg) ](http://store.steampowered.com/app/457480/)  | 0 | 5 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/9cce54bc0bb621c1dac8095521e87c3f959c75e7.jpg) ](http://store.steampowered.com/app/253790/)  | 0 | 4 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg) ](http://store.steampowered.com/app/31280/)  | 5 | 3 | 62.5% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/93c9364c3942223ab66195182fe1982af8a16584.jpg) ](http://store.steampowered.com/app/4000/)  | 0 | 13 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/eaa298d2b0d908b2c4f5370d2c8c59a8eff887c6.jpg) ](http://store.steampowered.com/app/200510/)  | 4 | 37 | 9.8% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/201040/7cc1db092002076e7dcd29104e242c8c741022ab.jpg) ](http://store.steampowered.com/app/201040/)  | 0 | 9 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg) ](http://store.steampowered.com/app/440/)  | 8 | 274 | 2.8% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221540/ea60dcb1d2894b60197da68f841fd41004fbdd89.jpg) ](http://store.steampowered.com/app/221540/)  | 6 | 30 | 16.7% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/203160/495f7d723659add6ea476b3699be5424282ac4b8.jpg) ](http://store.steampowered.com/app/203160/)  | 3 | 26 | 10.3% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/61600/bde7fad7a2427df529dc7ec34dca9520444afb6c.jpg) ](http://store.steampowered.com/app/61600/)  | 0 | 7 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/239820/9e60329a8cef940323063c8b744ed4d8bc01638c.jpg) ](http://store.steampowered.com/app/239820/)  | 11 | 11 | 50.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/306660/2a408bcad713015bed082c1e24574b0113b6125e.jpg) ](http://store.steampowered.com/app/306660/)  | 0 | 2 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218060/668226870f69db2ac9c1044cf62464d719d51ce3.jpg) ](http://store.steampowered.com/app/218060/)  | 1 | 17 | 5.6% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261960/48ce158aaad9dbb68f267e012f953e73232d75a9.jpg) ](http://store.steampowered.com/app/261960/)  | 7 | 58 | 10.8% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220/e4ad9cf1b7dc8475c1118625daf9abd4bdcbcad0.jpg) ](http://store.steampowered.com/app/220/)  | 6 | 18 | 25.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/207250/f4bf7f1d60e84f223a053089b10c820c2e3abf06.jpg) ](http://store.steampowered.com/app/207250/)  | 4 | 28 | 12.5% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/232770/4a16f584db0795c6a63064fcf3c4f62774dfc503.jpg) ](http://store.steampowered.com/app/232770/)  | 2 | 18 | 10.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/267530/4a57c3cd0e5b4c9a3c6fef681bc80a2486bec780.jpg) ](http://store.steampowered.com/app/267530/)  | 14 | 22 | 38.9% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253030/ff0d04cb05dc03ec4b9a136d6b35b00166c475fc.jpg) ](http://store.steampowered.com/app/253030/)  | 2 | 17 | 10.5% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/73010/d768b8afb0b4bd3f5408c6354efce98b917b2e0e.jpg) ](http://store.steampowered.com/app/73010/)  | 10 | 26 | 27.8% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253650/24398d6a9580d1ba33f54dc73b04a9f79ae4c935.jpg) ](http://store.steampowered.com/app/253650/)  | 7 | 10 | 41.2% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/98200/3b20447980b019783a4e37893660d1ce54893699.jpg) ](http://store.steampowered.com/app/98200/)  | 0 | 13 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209790/ee5c6cca66ce1f897bbc6b23fd8982a5b59c2621.jpg) ](http://store.steampowered.com/app/209790/)  | 3 | 10 | 23.1% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/ce8d28352178a7c4911f22000bce4cc76f58c80d.jpg) ](http://store.steampowered.com/app/234900/)  | 0 | 5 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/293200/a1ed69d5e055033d278a4055aaa620b3037f4647.jpg) ](http://store.steampowered.com/app/293200/)  | 0 | 6 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/93200/68ebad4132877c76e07d9866e4b20f2067ad4942.jpg) ](http://store.steampowered.com/app/93200/)  | 8 | 59 | 11.9% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91200/9b71353b7e93eb3c82ca5f35d4d7241c8f545a07.jpg) ](http://store.steampowered.com/app/91200/)  | 2 | 36 | 5.3% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/29180/d14a2097cad1a45fdb6eca2c22cc31d8dd133705.jpg) ](http://store.steampowered.com/app/29180/)  | 0 | 10 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/91600/d63198590c7bab5a332327a54f8ed0a00ac4b0d3.jpg) ](http://store.steampowered.com/app/91600/)  | 1 | 90 | 1.1% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/222140/0b4cd8c8ce4f36ed1768be52db447ce0cdf1ae8e.jpg) ](http://store.steampowered.com/app/222140/)  | 2 | 19 | 9.5% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274980/aab113bb00901da04afd5e435cd1d0c18e5fa3f4.jpg) ](http://store.steampowered.com/app/274980/)  | 0 | 11 | 0.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/244810/833f5fa1b2b8a395b68a5e2757d2818734f53faa.jpg) ](http://store.steampowered.com/app/244810/)  | 5 | 23 | 17.9% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214360/4c0065c5489898d092bf778632529efcab3a8b1e.jpg) ](http://store.steampowered.com/app/214360/)  | 1 | 32 | 3.0% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/245470/4c2e14499c3cbda796994a00586f7d384fa1a56b.jpg) ](http://store.steampowered.com/app/245470/)  | 19 | 22 | 46.3% |
+| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg) ](http://store.steampowered.com/app/730/)  | 111 | 53 | 67.7% |
