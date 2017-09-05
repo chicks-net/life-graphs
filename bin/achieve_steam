@@ -320,6 +320,7 @@ foreach my $game (@games_by_time) {
 	if ($hours > 10) {
 		$display_hours = "**$hours**";
 	}
+	next if $hours < .5; # skip less than .5 hours
 
 	my $display_name = '';
 	my $url_achievements = $games_data->{$name}->{url_achievements};
