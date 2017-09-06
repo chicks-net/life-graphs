@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.518",
-      "achievement_median" : "0.525",
+      "achievement_median" : "0.526",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.0675",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.314",
-      "achievement_median" : "0.4205",
+      "achievement_hardest" : "0.315",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -405,7 +405,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.0265",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -1046,7 +1046,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.429",
+      "achievement_median" : "0.4295",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.413",
-      "achievement_median" : "0.758",
+      "achievement_hardest" : "0.426",
+      "achievement_median" : "0.757",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1119,7 +1119,7 @@
       "url_store" : "http://store.steampowered.com/app/661000/"
    },
    "Fly O'Clock" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "490820",
@@ -1859,7 +1859,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1918,8 +1918,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.318",
-      "achievement_median" : "0.3795",
+      "achievement_hardest" : "0.32",
+      "achievement_median" : "0.3815",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1980,7 +1980,7 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "287980",
@@ -2230,7 +2230,7 @@
       "url_store" : "http://store.steampowered.com/app/218510/"
    },
    "Plants vs. Zombies: Game of the Year" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
@@ -2400,8 +2400,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.506",
-      "achievement_median" : "0.6505",
+      "achievement_hardest" : "0.507",
+      "achievement_median" : "0.651",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2483,7 +2483,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.023",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2568,7 +2568,7 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Sepia Tears" : {
-      "achievement_hardest" : "0.209",
+      "achievement_hardest" : "0.21",
       "achievement_median" : "0.237",
       "achievements" : true,
       "app_id" : "429300",
@@ -2642,8 +2642,8 @@
       "url_store" : "http://store.steampowered.com/app/3900/"
    },
    "Signal Ops" : {
-      "achievement_hardest" : "0.004",
-      "achievement_median" : "0.009",
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.0095",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -2702,7 +2702,7 @@
       "url_store" : "http://store.steampowered.com/app/246090/"
    },
    "Sparkle 2 Evo" : {
-      "achievement_hardest" : "0.076",
+      "achievement_hardest" : "0.077",
       "achievement_median" : "0.2345",
       "achievements" : true,
       "app_id" : "253650",
@@ -2763,7 +2763,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.122",
+      "achievement_median" : "0.1225",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2887,7 +2887,7 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.086",
+      "achievement_hardest" : "0.085",
       "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "234940",
@@ -3353,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1535",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3733,7 +3733,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.427",
-      "achievement_median" : "0.7885",
+      "achievement_median" : "0.789",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
