@@ -1,6 +1,6 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.518",
+      "achievement_hardest" : "0.519",
       "achievement_median" : "0.526",
       "achievements" : true,
       "app_id" : "614910",
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -679,8 +679,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.316",
-      "achievement_median" : "0.5465",
+      "achievement_hardest" : "0.317",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.426",
-      "achievement_median" : "0.757",
+      "achievement_hardest" : "0.442",
+      "achievement_median" : "0.758",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1919,7 +1919,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.32",
-      "achievement_median" : "0.3815",
+      "achievement_median" : "0.3835",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2351,7 +2351,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.507",
-      "achievement_median" : "0.651",
+      "achievement_median" : "0.6515",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2911,7 +2911,7 @@
       "url_store" : "http://store.steampowered.com/app/445130/"
    },
    "The Binding of Isaac" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "113200",
@@ -2952,7 +2952,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.4475",
+      "achievement_median" : "0.448",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3227,7 +3227,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "395160",
@@ -3279,7 +3279,7 @@
    },
    "Train Fever" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -3353,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.29",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3530,7 +3530,7 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "204180",
@@ -3732,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.427",
-      "achievement_median" : "0.789",
+      "achievement_hardest" : "0.425",
+      "achievement_median" : "0.7865",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
