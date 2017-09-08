@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -75,7 +75,7 @@
    },
    "Anna - Extended Edition" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.086",
+      "achievement_median" : "0.085",
       "achievements" : true,
       "app_id" : "217690",
       "global_achievements" : true,
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.315",
-      "achievement_median" : "0.421",
+      "achievement_hardest" : "0.316",
+      "achievement_median" : "0.422",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -391,7 +391,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -405,7 +405,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -530,7 +530,7 @@
       "url_store" : "http://store.steampowered.com/app/255710/"
    },
    "City Climber" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "538840",
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0965",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.442",
-      "achievement_median" : "0.758",
+      "achievement_hardest" : "0.453",
+      "achievement_median" : "0.759",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1918,8 +1918,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.32",
-      "achievement_median" : "0.3835",
+      "achievement_hardest" : "0.323",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.507",
-      "achievement_median" : "0.6515",
+      "achievement_median" : "0.652",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2482,8 +2482,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.023",
+      "achievement_hardest" : "0.019",
+      "achievement_median" : "0.0235",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2533,7 +2533,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.1585",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2837,7 +2837,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -2952,7 +2952,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.448",
+      "achievement_median" : "0.447",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3122,7 +3122,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.173",
+      "achievement_median" : "0.174",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3227,7 +3227,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.043",
+      "achievement_hardest" : "0.042",
       "achievement_median" : "0.116",
       "achievements" : true,
       "app_id" : "395160",
@@ -3278,8 +3278,8 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Train Fever" : {
-      "achievement_hardest" : "0.008",
-      "achievement_median" : "0.134",
+      "achievement_hardest" : "0.007",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "304730",
       "global_achievements" : true,
@@ -3291,7 +3291,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3732,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.425",
-      "achievement_median" : "0.7865",
+      "achievement_hardest" : "0.426",
+      "achievement_median" : "0.788",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
