@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.519",
-      "achievement_median" : "0.526",
+      "achievement_median" : "0.527",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.315",
-      "achievement_median" : "0.4215",
+      "achievement_hardest" : "0.316",
+      "achievement_median" : "0.4225",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.0965",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.458",
-      "achievement_median" : "0.757",
+      "achievement_hardest" : "0.472",
+      "achievement_median" : "0.755",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1178,7 +1178,7 @@
    },
    "Frozen Synapse" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.066",
+      "achievement_median" : "0.0665",
       "achievements" : true,
       "app_id" : "98200",
       "global_achievements" : true,
@@ -1623,7 +1623,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.132",
+      "achievement_hardest" : "0.133",
       "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "435400",
@@ -1782,7 +1782,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0735",
+      "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1995,7 +1995,7 @@
    },
    "Monaco" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.013",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "113020",
       "global_achievements" : true,
@@ -2412,7 +2412,7 @@
       "url_store" : "http://store.steampowered.com/app/502400/"
    },
    "Reigns" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "474750",
@@ -2482,8 +2482,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.019",
-      "achievement_median" : "0.024",
+      "achievement_hardest" : "0.02",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2643,7 +2643,7 @@
    },
    "Signal Ops" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0095",
+      "achievement_median" : "0.01",
       "achievements" : true,
       "app_id" : "257770",
       "global_achievements" : true,
@@ -2750,7 +2750,7 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.452",
+      "achievement_hardest" : "0.451",
       "achievement_median" : "0.592",
       "achievements" : true,
       "app_id" : "416770",
@@ -2861,7 +2861,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2931,7 +2931,7 @@
       "url_store" : "http://store.steampowered.com/app/215160/"
    },
    "The Book of Unwritten Tales 2" : {
-      "achievement_hardest" : "0.048",
+      "achievement_hardest" : "0.049",
       "achievement_median" : "0.41",
       "achievements" : true,
       "app_id" : "279940",
@@ -3353,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.29",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3379,7 +3379,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3594,8 +3594,8 @@
       "url_store" : "http://store.steampowered.com/app/22600/"
    },
    "XCOM 2" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1545",
+      "achievement_hardest" : "0.002",
+      "achievement_median" : "0.155",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3732,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.427",
-      "achievement_median" : "0.788",
+      "achievement_hardest" : "0.428",
+      "achievement_median" : "0.79",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
