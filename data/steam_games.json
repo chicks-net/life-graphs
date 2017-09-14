@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.519",
-      "achievement_median" : "0.5275",
+      "achievement_hardest" : "0.52",
+      "achievement_median" : "0.528",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -121,7 +121,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -565,7 +565,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.063",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -578,7 +578,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.02",
       "achievement_median" : "0.0985",
       "achievements" : true,
       "app_id" : "583270",
@@ -643,7 +643,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.297",
+      "achievement_median" : "0.298",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -680,7 +680,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.319",
-      "achievement_median" : "0.549",
+      "achievement_median" : "0.5485",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -743,7 +743,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.116",
+      "achievement_median" : "0.1165",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -914,7 +914,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.496",
-      "achievement_median" : "0.769",
+      "achievement_hardest" : "0.505",
+      "achievement_median" : "0.765",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1484,7 +1484,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.3235",
+      "achievement_median" : "0.323",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1648,7 +1648,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.2105",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1859,7 +1859,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1919,7 +1919,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.325",
-      "achievement_median" : "0.3875",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1981,7 +1981,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0525",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2483,7 +2483,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.026",
+      "achievement_median" : "0.0265",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2533,7 +2533,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2714,7 +2714,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "528660",
@@ -2763,7 +2763,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1225",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2888,7 +2888,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.085",
-      "achievement_median" : "0.0955",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2963,7 +2963,7 @@
       "url_store" : "http://store.steampowered.com/app/221830/"
    },
    "The Bridge" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.024",
       "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "204240",
@@ -3291,7 +3291,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3305,7 +3305,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.373",
+      "achievement_median" : "0.372",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3379,7 +3379,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.1565",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3733,7 +3733,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.428",
-      "achievement_median" : "0.7895",
+      "achievement_median" : "0.791",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
