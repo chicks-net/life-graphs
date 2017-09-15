@@ -179,7 +179,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.316",
-      "achievement_median" : "0.4225",
+      "achievement_median" : "0.423",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0985",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -743,7 +743,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -982,7 +982,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1046,7 +1046,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.4305",
+      "achievement_median" : "0.43",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1107,15 +1107,15 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.505",
-      "achievement_median" : "0.765",
+      "achievement_hardest" : "0.515",
+      "achievement_median" : "0.768",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
       "name" : "Flow:The Sliding",
       "name_short" : "661000",
       "url_achievements" : "http://steamcommunity.com/stats/661000/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661000/9019b857d52d3109ff4c04e950c930f733ae27b0.jpg",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661000/d39edea0d8ccc53f4a0ab7dbe4f104731a49f10b.jpg",
       "url_store" : "http://store.steampowered.com/app/661000/"
    },
    "Fly O'Clock" : {
@@ -1648,7 +1648,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.2105",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1918,8 +1918,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.325",
-      "achievement_median" : "0.3865",
+      "achievement_hardest" : "0.327",
+      "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2400,8 +2400,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.509",
-      "achievement_median" : "0.6535",
+      "achievement_hardest" : "0.51",
+      "achievement_median" : "0.654",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2607,7 +2607,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2900,7 +2900,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.085",
-      "achievement_median" : "0.585",
+      "achievement_median" : "0.586",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -3305,7 +3305,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.372",
+      "achievement_median" : "0.373",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3439,7 +3439,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3733,7 +3733,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.428",
-      "achievement_median" : "0.791",
+      "achievement_median" : "0.79",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
