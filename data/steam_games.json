@@ -120,7 +120,7 @@
       "url_store" : "http://store.steampowered.com/app/219890/"
    },
    "Asteroid Bounty Hunter" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "444220",
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.316",
-      "achievement_median" : "0.423",
+      "achievement_hardest" : "0.315",
+      "achievement_median" : "0.4225",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -337,7 +337,7 @@
    },
    "Boson X" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.1565",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "302610",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -680,7 +680,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.319",
-      "achievement_median" : "0.5485",
+      "achievement_median" : "0.5495",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -828,7 +828,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1865",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -982,7 +982,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.195",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.515",
-      "achievement_median" : "0.768",
+      "achievement_hardest" : "0.523",
+      "achievement_median" : "0.765",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1484,7 +1484,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.323",
+      "achievement_median" : "0.3235",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1648,7 +1648,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.2105",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1918,8 +1918,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.327",
-      "achievement_median" : "0.3885",
+      "achievement_hardest" : "0.326",
+      "achievement_median" : "0.3875",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.51",
-      "achievement_median" : "0.654",
+      "achievement_median" : "0.6545",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2482,8 +2482,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.021",
-      "achievement_median" : "0.0265",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2775,7 +2775,7 @@
    },
    "Sunless Sea" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.0225",
       "achievements" : true,
       "app_id" : "304650",
       "global_achievements" : true,
@@ -2861,7 +2861,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1065",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2887,8 +2887,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.085",
-      "achievement_median" : "0.095",
+      "achievement_hardest" : "0.084",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2951,7 +2951,7 @@
       "url_store" : "http://store.steampowered.com/app/215200/"
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
-      "achievement_hardest" : "0.098",
+      "achievement_hardest" : "0.099",
       "achievement_median" : "0.448",
       "achievements" : true,
       "app_id" : "221830",
@@ -3227,7 +3227,7 @@
       "url_store" : "http://store.steampowered.com/app/206440/"
    },
    "Toby: The Secret Mine" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "395160",
@@ -3353,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3570,7 +3570,7 @@
       "url_store" : "http://store.steampowered.com/app/315110/"
    },
    "World of Guns: Gun Disassembly" : {
-      "achievement_hardest" : "0.004",
+      "achievement_hardest" : "0.005",
       "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "262410",
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1565",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3732,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.428",
-      "achievement_median" : "0.79",
+      "achievement_hardest" : "0.431",
+      "achievement_median" : "0.7895",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
