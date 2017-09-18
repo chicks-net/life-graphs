@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.519",
-      "achievement_median" : "0.527",
+      "achievement_median" : "0.5275",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.316",
-      "achievement_median" : "0.4225",
+      "achievement_hardest" : "0.315",
+      "achievement_median" : "0.422",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -565,7 +565,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.0625",
+      "achievement_median" : "0.062",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -643,7 +643,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.299",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -680,7 +680,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.319",
-      "achievement_median" : "0.5495",
+      "achievement_median" : "0.5505",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -775,7 +775,7 @@
    },
    "Day of Defeat: Source" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "300",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.53",
-      "achievement_median" : "0.76",
+      "achievement_hardest" : "0.543",
+      "achievement_median" : "0.765",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1133,7 +1133,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.172",
+      "achievement_hardest" : "0.171",
       "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "343930",
@@ -1274,7 +1274,7 @@
    },
    "Goat Simulator" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.02",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "265930",
       "global_achievements" : true,
@@ -1576,7 +1576,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1831,7 +1831,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.098",
+      "achievement_median" : "0.0985",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1918,8 +1918,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.326",
-      "achievement_median" : "0.3875",
+      "achievement_hardest" : "0.325",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2161,7 +2161,7 @@
    },
    "Party Hard" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "356570",
       "global_achievements" : true,
@@ -2400,7 +2400,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.51",
+      "achievement_hardest" : "0.511",
       "achievement_median" : "0.6545",
       "achievements" : true,
       "app_id" : "502400",
@@ -2483,7 +2483,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.0275",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2703,7 +2703,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2345",
+      "achievement_median" : "0.234",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2763,7 +2763,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.1235",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2888,7 +2888,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.0935",
+      "achievement_median" : "0.0925",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3278,7 +3278,7 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Train Fever" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.008",
       "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "304730",
@@ -3379,7 +3379,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.1325",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3545,7 +3545,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.122",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.1575",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3732,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.432",
-      "achievement_median" : "0.7895",
+      "achievement_hardest" : "0.433",
+      "achievement_median" : "0.7915",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
