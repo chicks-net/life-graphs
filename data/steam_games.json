@@ -121,7 +121,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.053",
+      "achievement_median" : "0.0535",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.315",
-      "achievement_median" : "0.422",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -679,8 +679,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.319",
-      "achievement_median" : "0.55",
+      "achievement_hardest" : "0.32",
+      "achievement_median" : "0.551",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.548",
-      "achievement_median" : "0.765",
+      "achievement_hardest" : "0.552",
+      "achievement_median" : "0.764",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1575,8 +1575,8 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.055",
-      "achievement_median" : "0.369",
+      "achievement_hardest" : "0.054",
+      "achievement_median" : "0.368",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1623,7 +1623,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.133",
+      "achievement_hardest" : "0.134",
       "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "435400",
@@ -1944,8 +1944,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.179",
-      "achievement_median" : "0.179",
+      "achievement_hardest" : "0.181",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.511",
-      "achievement_median" : "0.6545",
+      "achievement_median" : "0.655",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2483,7 +2483,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0285",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2763,7 +2763,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1235",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3060,7 +3060,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1575",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3732,7 +3732,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.432",
+      "achievement_hardest" : "0.433",
       "achievement_median" : "0.7915",
       "achievements" : true,
       "app_id" : "467780",
