@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.52",
-      "achievement_median" : "0.528",
+      "achievement_median" : "0.5285",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -679,7 +679,7 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.32",
+      "achievement_hardest" : "0.321",
       "achievement_median" : "0.551",
       "achievements" : true,
       "app_id" : "632000",
@@ -1046,7 +1046,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.4305",
+      "achievement_median" : "0.431",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.552",
-      "achievement_median" : "0.764",
+      "achievement_hardest" : "0.556",
+      "achievement_median" : "0.767",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1576,7 +1576,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.054",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1745,7 +1745,7 @@
       "url_store" : "http://store.steampowered.com/app/231200/"
    },
    "Kingdom Rush" : {
-      "achievement_hardest" : "0.062",
+      "achievement_hardest" : "0.063",
       "achievement_median" : "0.3035",
       "achievements" : true,
       "app_id" : "246420",
@@ -1969,7 +1969,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -2568,7 +2568,7 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Sepia Tears" : {
-      "achievement_hardest" : "0.21",
+      "achievement_hardest" : "0.211",
       "achievement_median" : "0.238",
       "achievements" : true,
       "app_id" : "429300",
@@ -2594,7 +2594,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Serious Sam Fusion 2017 (beta)" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "564310",
@@ -2763,7 +2763,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.1235",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2888,7 +2888,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.082",
-      "achievement_median" : "0.092",
+      "achievement_median" : "0.0915",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2900,7 +2900,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.085",
-      "achievement_median" : "0.586",
+      "achievement_median" : "0.585",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -3353,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3545,7 +3545,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.122",
-      "achievement_median" : "0.2825",
+      "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.1585",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3733,7 +3733,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.433",
-      "achievement_median" : "0.7915",
+      "achievement_median" : "0.791",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
