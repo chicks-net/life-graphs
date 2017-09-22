@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.52",
-      "achievement_median" : "0.5285",
+      "achievement_median" : "0.528",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -643,7 +643,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.299",
+      "achievement_median" : "0.3",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -668,7 +668,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.1285",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.556",
-      "achievement_median" : "0.767",
+      "achievement_hardest" : "0.564",
+      "achievement_median" : "0.769",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1472,7 +1472,7 @@
    },
    "Half-Life 2: Episode One" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.178",
+      "achievement_median" : "0.179",
       "achievements" : true,
       "app_id" : "380",
       "global_achievements" : true,
@@ -1575,7 +1575,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.054",
+      "achievement_hardest" : "0.055",
       "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
@@ -1635,8 +1635,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.361",
-      "achievement_median" : "0.361",
+      "achievement_hardest" : "0.36",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1918,8 +1918,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.325",
-      "achievement_median" : "0.3865",
+      "achievement_hardest" : "0.324",
+      "achievement_median" : "0.3855",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -1995,7 +1995,7 @@
    },
    "Monaco" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.011",
+      "achievement_median" : "0.012",
       "achievements" : true,
       "app_id" : "113020",
       "global_achievements" : true,
@@ -2195,7 +2195,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2293,7 +2293,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0465",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.511",
-      "achievement_median" : "0.655",
+      "achievement_median" : "0.6555",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2483,7 +2483,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.0285",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2595,7 +2595,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.037",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2887,8 +2887,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.082",
-      "achievement_median" : "0.0915",
+      "achievement_hardest" : "0.081",
+      "achievement_median" : "0.091",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -2900,7 +2900,7 @@
    },
    "The Average Everyday Adventures of Samantha Browne" : {
       "achievement_hardest" : "0.085",
-      "achievement_median" : "0.585",
+      "achievement_median" : "0.586",
       "achievements" : true,
       "app_id" : "445130",
       "global_achievements" : true,
@@ -2932,7 +2932,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.411",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3060,7 +3060,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3353,7 +3353,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.291",
+      "achievement_median" : "0.292",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3733,7 +3733,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.433",
-      "achievement_median" : "0.791",
+      "achievement_median" : "0.7925",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
