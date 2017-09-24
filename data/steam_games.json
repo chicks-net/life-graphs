@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.52",
-      "achievement_median" : "0.528",
+      "achievement_hardest" : "0.519",
+      "achievement_median" : "0.527",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -60,7 +60,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "379610",
@@ -247,7 +247,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.315",
-      "achievement_median" : "0.421",
+      "achievement_median" : "0.4215",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -531,7 +531,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.156",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -578,7 +578,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.02",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "583270",
@@ -1046,7 +1046,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.431",
+      "achievement_median" : "0.4315",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1107,8 +1107,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.571",
-      "achievement_median" : "0.772",
+      "achievement_hardest" : "0.579",
+      "achievement_median" : "0.774",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1133,7 +1133,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.171",
+      "achievement_hardest" : "0.172",
       "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "343930",
@@ -1588,7 +1588,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.436",
-      "achievement_median" : "0.694",
+      "achievement_median" : "0.6945",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1746,7 +1746,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.3035",
+      "achievement_median" : "0.304",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1831,7 +1831,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0985",
+      "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1885,7 +1885,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1918,7 +1918,7 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.323",
+      "achievement_hardest" : "0.325",
       "achievement_median" : "0.3845",
       "achievements" : true,
       "app_id" : "525690",
@@ -1944,8 +1944,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.181",
-      "achievement_median" : "0.181",
+      "achievement_hardest" : "0.18",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -1981,7 +1981,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0535",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2401,7 +2401,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.513",
-      "achievement_median" : "0.6565",
+      "achievement_median" : "0.6575",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2556,8 +2556,8 @@
       "url_store" : "http://store.steampowered.com/app/508390/"
    },
    "Sentinel" : {
-      "achievement_hardest" : "0.049",
-      "achievement_median" : "0.053",
+      "achievement_hardest" : "0.05",
+      "achievement_median" : "0.054",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2569,7 +2569,7 @@
    },
    "Sepia Tears" : {
       "achievement_hardest" : "0.211",
-      "achievement_median" : "0.238",
+      "achievement_median" : "0.239",
       "achievements" : true,
       "app_id" : "429300",
       "global_achievements" : true,
@@ -2751,7 +2751,7 @@
    },
    "SquareCells" : {
       "achievement_hardest" : "0.452",
-      "achievement_median" : "0.592",
+      "achievement_median" : "0.593",
       "achievements" : true,
       "app_id" : "416770",
       "global_achievements" : true,
@@ -2861,7 +2861,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -2887,8 +2887,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.08",
-      "achievement_median" : "0.0895",
+      "achievement_hardest" : "0.079",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3190,7 +3190,7 @@
    },
    "Timberman" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "398710",
       "global_achievements" : true,
@@ -3341,7 +3341,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.074",
+      "achievement_median" : "0.0745",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3379,7 +3379,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3557,7 +3557,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -3595,7 +3595,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1585",
+      "achievement_median" : "0.159",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3732,8 +3732,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.435",
-      "achievement_median" : "0.7935",
+      "achievement_hardest" : "0.436",
+      "achievement_median" : "0.7945",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
