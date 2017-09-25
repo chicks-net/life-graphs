@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.519",
-      "achievement_median" : "0.527",
+      "achievement_hardest" : "0.518",
+      "achievement_median" : "0.526",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -60,7 +60,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "379610",
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.315",
-      "achievement_median" : "0.4215",
+      "achievement_hardest" : "0.316",
+      "achievement_median" : "0.4235",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -579,7 +579,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1005",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -603,7 +603,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.2575",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -679,8 +679,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.321",
-      "achievement_median" : "0.552",
+      "achievement_hardest" : "0.322",
+      "achievement_median" : "0.5525",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1107,11 +1107,13 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.579",
+      "achievement_hardest" : "0.584",
       "achievement_median" : "0.774",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
+      "global_leaderboards" : true,
+      "leaderboards" : true,
       "name" : "Flow:The Sliding",
       "name_short" : "661000",
       "url_achievements" : "http://steamcommunity.com/stats/661000/achievements/compare/",
@@ -1239,7 +1241,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.018",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "4000",
@@ -1368,7 +1370,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.3245",
+      "achievement_median" : "0.325",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1551,8 +1553,8 @@
       "url_store" : "http://store.steampowered.com/app/253150/"
    },
    "Her Story" : {
-      "achievement_hardest" : "0.106",
-      "achievement_median" : "0.42",
+      "achievement_hardest" : "0.105",
+      "achievement_median" : "0.415",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1588,7 +1590,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.436",
-      "achievement_median" : "0.6945",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1885,7 +1887,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2108,7 +2110,7 @@
       "url_store" : "http://store.steampowered.com/app/29180/"
    },
    "PARTICLE MACE" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "295690",
@@ -2483,7 +2485,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.0295",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2533,7 +2535,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.1585",
+      "achievement_median" : "0.1595",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2750,7 +2752,7 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.452",
+      "achievement_hardest" : "0.453",
       "achievement_median" : "0.593",
       "achievements" : true,
       "app_id" : "416770",
@@ -2888,7 +2890,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.079",
-      "achievement_median" : "0.089",
+      "achievement_median" : "0.0885",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3060,7 +3062,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3291,7 +3293,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.133",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3439,7 +3441,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3732,8 +3734,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.436",
-      "achievement_median" : "0.7945",
+      "achievement_hardest" : "0.437",
+      "achievement_median" : "0.795",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
