@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.518",
-      "achievement_median" : "0.5265",
+      "achievement_median" : "0.527",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -246,8 +246,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.315",
-      "achievement_median" : "0.4225",
+      "achievement_hardest" : "0.317",
+      "achievement_median" : "0.4235",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -273,7 +273,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -405,7 +405,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.0275",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -577,7 +577,7 @@
    },
    "Cook, Serve, Delicious!" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.062",
+      "achievement_median" : "0.0625",
       "achievements" : true,
       "app_id" : "247020",
       "global_achievements" : true,
@@ -667,7 +667,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -692,7 +692,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.322",
-      "achievement_median" : "0.5535",
+      "achievement_median" : "0.5525",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -755,7 +755,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1014,7 +1014,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.1315",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -1119,7 +1119,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.594",
+      "achievement_hardest" : "0.599",
       "achievement_median" : "0.777",
       "achievements" : true,
       "app_id" : "661000",
@@ -1352,13 +1352,13 @@
       "achievement_hardest" : "0.99",
       "achievement_median" : "undef",
       "achievements" : true,
-      "app_id" : "12120",
+      "app_id" : "12250",
       "global_achievements" : true,
       "name" : "Grand Theft Auto: San Andreas",
-      "name_short" : "12120",
-      "url_achievements" : "http://steamcommunity.com/stats/12120/achievements/compare/",
-      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
-      "url_store" : "http://store.steampowered.com/app/12120/"
+      "name_short" : "12250",
+      "url_achievements" : "http://steamcommunity.com/stats/12250/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg",
+      "url_store" : "http://store.steampowered.com/app/12250/"
    },
    "Grand Theft Auto: Vice City" : {
       "achievement_hardest" : "0.99",
@@ -1498,7 +1498,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.324",
+      "achievement_median" : "0.3235",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1625,7 +1625,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.404",
+      "achievement_hardest" : "0.405",
       "achievement_median" : "0.6525",
       "achievements" : true,
       "app_id" : "271900",
@@ -1638,7 +1638,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.134",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1819,7 +1819,7 @@
       "url_store" : "http://store.steampowered.com/app/48000/"
    },
    "LYNE" : {
-      "achievement_hardest" : "0.2",
+      "achievement_hardest" : "0.201",
       "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "266010",
@@ -1899,7 +1899,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1932,8 +1932,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.326",
-      "achievement_median" : "0.385",
+      "achievement_hardest" : "0.327",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2075,7 +2075,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.033",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2269,7 +2269,7 @@
    },
    "Poly Bridge" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0105",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "367450",
       "global_achievements" : true,
@@ -2293,7 +2293,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2316,6 +2316,42 @@
       "url_achievements" : "http://steamcommunity.com/stats/233450/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/fe2f32349f62c1a5d6ee48abd87a6232d32724d1.jpg",
       "url_store" : "http://store.steampowered.com/app/233450/"
+   },
+   "Project Highrise" : {
+      "achievement_hardest" : "0.005",
+      "achievement_median" : "0.1335",
+      "achievements" : true,
+      "app_id" : "423580",
+      "global_achievements" : true,
+      "name" : "Project Highrise",
+      "name_short" : "423580",
+      "url_achievements" : "http://steamcommunity.com/stats/423580/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/423580/e9c009cf2980c06b47c2e80dadac0c17fe780b12.jpg",
+      "url_store" : "http://store.steampowered.com/app/423580/"
+   },
+   "Project Highrise: Las Vegas" : {
+      "app_id" : "582540",
+      "name" : "Project Highrise: Las Vegas",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/582540/e8d952367e9b2beff9f25a731f8e666b01bd4ea6.jpg",
+      "url_store" : "http://store.steampowered.com/app/582540/"
+   },
+   "Project Highrise: Miami Malls" : {
+      "app_id" : "636500",
+      "name" : "Project Highrise: Miami Malls",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/636500/dca4d774e0c2bc1834b1b2c4e5ce80e0ce3dce2b.jpg",
+      "url_store" : "http://store.steampowered.com/app/636500/"
+   },
+   "Project Highrise: Tokyo Towers" : {
+      "app_id" : "636501",
+      "name" : "Project Highrise: Tokyo Towers",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/636501/b97557208c8e5f9da114ee01a521c53aa13b10a8.jpg",
+      "url_store" : "http://store.steampowered.com/app/636501/"
    },
    "Prophour23" : {
       "achievement_hardest" : "0.013",
@@ -2354,6 +2390,18 @@
       "url_achievements" : "http://steamcommunity.com/stats/31270/achievements/compare/",
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/31270/f1bd7dd0bae1026b17c61a605a567ed68e683fef.jpg",
       "url_store" : "http://store.steampowered.com/app/31270/"
+   },
+   "Quad Hopping" : {
+      "achievement_hardest" : "0.333",
+      "achievement_median" : "0.344",
+      "achievements" : true,
+      "app_id" : "694490",
+      "global_achievements" : true,
+      "name" : "Quad Hopping",
+      "name_short" : "694490",
+      "url_achievements" : "http://steamcommunity.com/stats/694490/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/694490/5b45c2e8b436e68c0fbe3d0aedf2f6d5921d5afe.jpg",
+      "url_store" : "http://store.steampowered.com/app/694490/"
    },
    "RAID: World War II Beta" : {
       "app_id" : "704580",
@@ -2415,7 +2463,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.514",
-      "achievement_median" : "0.6575",
+      "achievement_median" : "0.658",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2497,7 +2545,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.0305",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2777,7 +2825,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1235",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2902,7 +2950,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.078",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.0875",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3074,7 +3122,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3304,7 +3352,7 @@
       "url_store" : "http://store.steampowered.com/app/304730/"
    },
    "Train Valley" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "353640",
@@ -3355,7 +3403,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0745",
+      "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3367,7 +3415,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3609,7 +3657,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
