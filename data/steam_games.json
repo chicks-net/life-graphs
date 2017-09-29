@@ -1,6 +1,6 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.518",
+      "achievement_hardest" : "0.519",
       "achievement_median" : "0.527",
       "achievements" : true,
       "app_id" : "614910",
@@ -246,7 +246,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.317",
+      "achievement_hardest" : "0.316",
       "achievement_median" : "0.4235",
       "achievements" : true,
       "app_id" : "568020",
@@ -590,7 +590,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.021",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "583270",
@@ -614,7 +614,7 @@
       "url_store" : "http://store.steampowered.com/app/115100/"
    },
    "Costume Quest 2" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.064",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "275180",
@@ -691,8 +691,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.322",
-      "achievement_median" : "0.5525",
+      "achievement_hardest" : "0.323",
+      "achievement_median" : "0.5535",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1119,8 +1119,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.599",
-      "achievement_median" : "0.777",
+      "achievement_hardest" : "0.602",
+      "achievement_median" : "0.778",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1301,7 +1301,7 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : "0.003",
+      "achievement_hardest" : "0.004",
       "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "431240",
@@ -1498,7 +1498,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.3235",
+      "achievement_median" : "0.324",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1662,7 +1662,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.211",
+      "achievement_median" : "0.2115",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1899,7 +1899,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1995,7 +1995,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.0545",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.142",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2319,7 +2319,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1335",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2392,8 +2392,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.333",
-      "achievement_median" : "0.344",
+      "achievement_hardest" : "0.372",
+      "achievement_median" : "0.383",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2463,7 +2463,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.514",
-      "achievement_median" : "0.658",
+      "achievement_median" : "0.6585",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2949,8 +2949,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.078",
-      "achievement_median" : "0.0875",
+      "achievement_hardest" : "0.077",
+      "achievement_median" : "0.087",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3122,7 +3122,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3314,7 +3314,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.162",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3607,7 +3607,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.122",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3656,7 +3656,7 @@
       "url_store" : "http://store.steampowered.com/app/22600/"
    },
    "XCOM 2" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "268500",
@@ -3795,7 +3795,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.438",
-      "achievement_median" : "0.795",
+      "achievement_median" : "0.7955",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
