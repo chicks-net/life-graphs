@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.519",
-      "achievement_median" : "0.527",
+      "achievement_median" : "0.5275",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -247,7 +247,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.316",
-      "achievement_median" : "0.4235",
+      "achievement_median" : "0.423",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -273,7 +273,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -459,7 +459,7 @@
    },
    "Cannon Brawl" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.176",
+      "achievement_median" : "0.1755",
       "achievements" : true,
       "app_id" : "230860",
       "global_achievements" : true,
@@ -614,7 +614,7 @@
       "url_store" : "http://store.steampowered.com/app/115100/"
    },
    "Costume Quest 2" : {
-      "achievement_hardest" : "0.063",
+      "achievement_hardest" : "0.064",
       "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "275180",
@@ -655,7 +655,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.301",
+      "achievement_median" : "0.302",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -691,8 +691,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.323",
-      "achievement_median" : "0.5535",
+      "achievement_hardest" : "0.322",
+      "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -716,7 +716,7 @@
    },
    "Cube & Star: An Arbitrary Love" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.094",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "261960",
       "global_achievements" : true,
@@ -926,7 +926,7 @@
    },
    "Dreamfall Chapters" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.19",
       "achievements" : true,
       "app_id" : "237850",
       "global_achievements" : true,
@@ -1058,7 +1058,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.4315",
+      "achievement_median" : "0.432",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1119,7 +1119,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.606",
+      "achievement_hardest" : "0.61",
       "achievement_median" : "0.778",
       "achievements" : true,
       "app_id" : "661000",
@@ -1160,7 +1160,7 @@
    },
    "Foul Play" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.0815",
       "achievements" : true,
       "app_id" : "244810",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1566,7 +1566,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.41",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1614,7 +1614,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.265",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1687,7 +1687,7 @@
       "url_store" : "http://store.steampowered.com/app/327890/"
    },
    "Indie Game: The Movie" : {
-      "achievement_hardest" : "0.061",
+      "achievement_hardest" : "0.062",
       "achievement_median" : "0.09",
       "achievements" : true,
       "app_id" : "207080",
@@ -1911,7 +1911,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1945,7 +1945,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.326",
-      "achievement_median" : "0.3855",
+      "achievement_median" : "0.3845",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2330,8 +2330,8 @@
       "url_store" : "http://store.steampowered.com/app/233450/"
    },
    "Project Highrise" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1335",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2404,8 +2404,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.407",
-      "achievement_median" : "0.416",
+      "achievement_hardest" : "0.447",
+      "achievement_median" : "0.457",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2962,7 +2962,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.0865",
+      "achievement_median" : "0.086",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3026,7 +3026,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.448",
+      "achievement_median" : "0.4475",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3122,7 +3122,7 @@
    },
    "The LEGO® Movie - Videogame" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.2275",
+      "achievement_median" : "0.2265",
       "achievements" : true,
       "app_id" : "267530",
       "global_achievements" : true,
@@ -3134,7 +3134,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3145,8 +3145,8 @@
       "url_store" : "http://store.steampowered.com/app/323380/"
    },
    "The Plan" : {
-      "achievement_hardest" : "0.16",
-      "achievement_median" : "0.16",
+      "achievement_hardest" : "0.161",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "250600",
       "global_achievements" : true,
@@ -3219,7 +3219,7 @@
       "url_store" : "http://store.steampowered.com/app/220780/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : "0.002",
+      "achievement_hardest" : "0.003",
       "achievement_median" : "0.009",
       "achievements" : true,
       "app_id" : "108200",
@@ -3278,7 +3278,7 @@
    },
    "Time Clickers" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.201",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "385770",
       "global_achievements" : true,
@@ -3326,7 +3326,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3453,7 +3453,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.133",
+      "achievement_median" : "0.1335",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3479,7 +3479,7 @@
    },
    "Typoman" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "336240",
       "global_achievements" : true,
@@ -3631,7 +3631,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.046",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -3793,7 +3793,7 @@
    },
    "rymdkapsel" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.078",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "253790",
       "global_achievements" : true,
@@ -3807,7 +3807,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.439",
-      "achievement_median" : "0.796",
+      "achievement_median" : "0.7965",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
