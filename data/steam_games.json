@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.519",
-      "achievement_median" : "0.528",
+      "achievement_hardest" : "0.52",
+      "achievement_median" : "0.5285",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -75,7 +75,7 @@
    },
    "Anna - Extended Edition" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "217690",
       "global_achievements" : true,
@@ -246,7 +246,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.316",
+      "achievement_hardest" : "0.315",
       "achievement_median" : "0.423",
       "achievements" : true,
       "app_id" : "568020",
@@ -273,7 +273,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -543,7 +543,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.156",
+      "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -691,7 +691,7 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.322",
+      "achievement_hardest" : "0.323",
       "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "632000",
@@ -994,7 +994,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.1965",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1119,8 +1119,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.614",
-      "achievement_median" : "0.78",
+      "achievement_hardest" : "0.617",
+      "achievement_median" : "0.778",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1215,7 +1215,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "201040",
@@ -1227,7 +1227,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.109",
+      "achievement_hardest" : "0.108",
       "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "399670",
@@ -1253,7 +1253,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "4000",
@@ -1430,7 +1430,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1944,8 +1944,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.326",
-      "achievement_median" : "0.3845",
+      "achievement_hardest" : "0.325",
+      "achievement_median" : "0.386",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2404,8 +2404,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.492",
-      "achievement_median" : "0.5",
+      "achievement_hardest" : "0.514",
+      "achievement_median" : "0.522",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2475,7 +2475,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.515",
-      "achievement_median" : "0.6585",
+      "achievement_median" : "0.659",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2556,7 +2556,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.0325",
       "achievements" : true,
       "app_id" : "252490",
@@ -2824,8 +2824,8 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.453",
-      "achievement_median" : "0.593",
+      "achievement_hardest" : "0.454",
+      "achievement_median" : "0.594",
       "achievements" : true,
       "app_id" : "416770",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
       "url_store" : "http://store.steampowered.com/app/204240/"
    },
    "The Bureau: XCOM Declassified" : {
-      "achievement_hardest" : "0.011",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "65930",
@@ -3669,7 +3669,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
