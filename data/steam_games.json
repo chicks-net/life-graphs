@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.52",
-      "achievement_median" : "0.5285",
+      "achievement_median" : "0.529",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -223,7 +223,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0975",
+      "achievement_median" : "0.097",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.316",
-      "achievement_median" : "0.4235",
+      "achievement_hardest" : "0.317",
+      "achievement_median" : "0.4245",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -554,7 +554,7 @@
       "url_store" : "http://store.steampowered.com/app/255710/"
    },
    "City Climber" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.157",
       "achievements" : true,
       "app_id" : "538840",
@@ -703,7 +703,7 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.323",
+      "achievement_hardest" : "0.324",
       "achievement_median" : "0.553",
       "achievements" : true,
       "app_id" : "632000",
@@ -864,7 +864,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.634",
-      "achievement_median" : "0.785",
+      "achievement_hardest" : "0.635",
+      "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1844,7 +1844,7 @@
    },
    "LYNE" : {
       "achievement_hardest" : "0.201",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.262",
       "achievements" : true,
       "app_id" : "266010",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0555",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2073,7 +2073,7 @@
    },
    "Mountain" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "313340",
       "global_achievements" : true,
@@ -2329,7 +2329,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.203",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2355,7 +2355,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1365",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.601",
-      "achievement_median" : "0.617",
+      "achievement_hardest" : "0.617",
+      "achievement_median" : "0.632",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2498,8 +2498,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.516",
-      "achievement_median" : "0.6605",
+      "achievement_hardest" : "0.517",
+      "achievement_median" : "0.661",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2580,7 +2580,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.029",
+      "achievement_hardest" : "0.03",
       "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "252490",
@@ -2693,7 +2693,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0375",
+      "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2705,7 +2705,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.034",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -3206,7 +3206,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3489,7 +3489,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.134",
+      "achievement_median" : "0.1345",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3502,7 +3502,7 @@
       "url_store" : "http://store.steampowered.com/app/361280/"
    },
    "Type:Rider" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.1295",
       "achievements" : true,
       "app_id" : "258890",
@@ -3681,7 +3681,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0365",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
