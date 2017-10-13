@@ -1,6 +1,6 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.52",
+      "achievement_hardest" : "0.521",
       "achievement_median" : "0.529",
       "achievements" : true,
       "app_id" : "614910",
@@ -259,7 +259,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.318",
-      "achievement_median" : "0.4245",
+      "achievement_median" : "0.424",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -336,8 +336,8 @@
       "url_store" : "http://store.steampowered.com/app/245970/"
    },
    "Borderlands: The Pre-Sequel" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.148",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -389,7 +389,7 @@
    },
    "Bridge Constructor Medieval" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "319850",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.325",
-      "achievement_median" : "0.554",
+      "achievement_median" : "0.555",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1165",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -958,7 +958,7 @@
    },
    "Duke Nukem Forever" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.183",
+      "achievement_median" : "0.1825",
       "achievements" : true,
       "app_id" : "57900",
       "global_achievements" : true,
@@ -971,8 +971,8 @@
       "url_store" : "http://store.steampowered.com/app/57900/"
    },
    "Dungeon Defenders" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.037",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "65800",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.639",
+      "achievement_hardest" : "0.642",
       "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "661000",
@@ -1240,7 +1240,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.109",
-      "achievement_median" : "0.3985",
+      "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1265,7 +1265,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "4000",
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.082",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1418,7 +1418,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1578,7 +1578,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.409",
+      "achievement_median" : "0.408",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.235",
+      "achievement_median" : "0.2355",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.324",
-      "achievement_median" : "0.386",
+      "achievement_median" : "0.387",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.633",
-      "achievement_median" : "0.647",
+      "achievement_hardest" : "0.643",
+      "achievement_median" : "0.657",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2449,7 +2449,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2499,7 +2499,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.517",
-      "achievement_median" : "0.661",
+      "achievement_median" : "0.6615",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2861,7 +2861,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.1245",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3042,7 +3042,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.412",
+      "achievement_median" : "0.411",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3489,7 +3489,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1345",
+      "achievement_median" : "0.135",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3515,7 +3515,7 @@
    },
    "Typoman" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.059",
+      "achievement_median" : "0.0595",
       "achievements" : true,
       "app_id" : "336240",
       "global_achievements" : true,
