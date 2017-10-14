@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.521",
-      "achievement_median" : "0.529",
+      "achievement_median" : "0.5295",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -14,7 +14,7 @@
       "url_store" : "http://store.steampowered.com/app/614910/"
    },
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.041",
       "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "410110",
@@ -178,7 +178,7 @@
       "url_store" : "http://store.steampowered.com/app/231720/"
    },
    "BattleLore: Command" : {
-      "achievement_hardest" : "0.073",
+      "achievement_hardest" : "0.074",
       "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "348400",
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.318",
-      "achievement_median" : "0.424",
+      "achievement_hardest" : "0.317",
+      "achievement_median" : "0.4245",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -336,7 +336,7 @@
       "url_store" : "http://store.steampowered.com/app/245970/"
    },
    "Borderlands: The Pre-Sequel" : {
-      "achievement_hardest" : "0.006",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "261640",
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.153",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -603,7 +603,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1025",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1965",
+      "achievement_median" : "0.197",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.642",
+      "achievement_hardest" : "0.644",
       "achievement_median" : "0.784",
       "achievements" : true,
       "app_id" : "661000",
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.081",
+      "achievement_median" : "0.082",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1637,7 +1637,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.405",
+      "achievement_hardest" : "0.406",
       "achievement_median" : "0.653",
       "achievements" : true,
       "app_id" : "271900",
@@ -1649,7 +1649,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.135",
+      "achievement_hardest" : "0.136",
       "achievement_median" : "0.185",
       "achievements" : true,
       "app_id" : "435400",
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.2355",
+      "achievement_median" : "0.236",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.324",
-      "achievement_median" : "0.387",
+      "achievement_median" : "0.386",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2355,7 +2355,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1375",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.643",
-      "achievement_median" : "0.657",
+      "achievement_hardest" : "0.659",
+      "achievement_median" : "0.672",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2580,7 +2580,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.0365",
       "achievements" : true,
       "app_id" : "252490",
@@ -2631,7 +2631,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2643,7 +2643,7 @@
    },
    "Scrap Garden - The Day Before" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "508390",
       "global_achievements" : true,
@@ -2705,7 +2705,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -3042,7 +3042,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.411",
+      "achievement_median" : "0.412",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3206,7 +3206,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.1975",
+      "achievement_median" : "0.1965",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3537,7 +3537,7 @@
    },
    "Ultimate General: Gettysburg" : {
       "achievement_hardest" : "0.115",
-      "achievement_median" : "0.155",
+      "achievement_median" : "0.154",
       "achievements" : true,
       "app_id" : "306660",
       "global_achievements" : true,
@@ -3842,8 +3842,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.442",
-      "achievement_median" : "0.7965",
+      "achievement_hardest" : "0.441",
+      "achievement_median" : "0.7955",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
