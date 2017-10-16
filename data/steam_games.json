@@ -336,8 +336,8 @@
       "url_store" : "http://store.steampowered.com/app/245970/"
    },
    "Borderlands: The Pre-Sequel" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.148",
+      "achievement_hardest" : "0.006",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "261640",
       "global_achievements" : true,
@@ -602,8 +602,8 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.103",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -615,7 +615,7 @@
    },
    "Costume Quest" : {
       "achievement_hardest" : "0.083",
-      "achievement_median" : "0.237",
+      "achievement_median" : "0.238",
       "achievements" : true,
       "app_id" : "115100",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.1175",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.197",
+      "achievement_median" : "0.1975",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.4325",
+      "achievement_median" : "0.433",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.648",
-      "achievement_median" : "0.785",
+      "achievement_hardest" : "0.651",
+      "achievement_median" : "0.786",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1227,7 +1227,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.102",
       "achievements" : true,
       "app_id" : "201040",
@@ -1566,7 +1566,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1601,7 +1601,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.054",
+      "achievement_hardest" : "0.055",
       "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
@@ -1784,7 +1784,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.4655",
+      "achievement_median" : "0.465",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.236",
+      "achievement_median" : "0.2365",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1982,8 +1982,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.178",
-      "achievement_median" : "0.178",
+      "achievement_hardest" : "0.18",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.056",
+      "achievement_median" : "0.0565",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2045,7 +2045,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1185",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2329,7 +2329,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2355,7 +2355,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.1385",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.662",
-      "achievement_median" : "0.675",
+      "achievement_hardest" : "0.68",
+      "achievement_median" : "0.693",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2498,8 +2498,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.517",
-      "achievement_median" : "0.6615",
+      "achievement_hardest" : "0.518",
+      "achievement_median" : "0.662",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2580,7 +2580,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.031",
+      "achievement_hardest" : "0.032",
       "achievement_median" : "0.0375",
       "achievements" : true,
       "app_id" : "252490",
@@ -2631,7 +2631,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.1595",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2705,7 +2705,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.0295",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2801,7 +2801,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.234",
+      "achievement_median" : "0.2335",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -2998,7 +2998,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.076",
-      "achievement_median" : "0.085",
+      "achievement_median" : "0.0845",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3062,7 +3062,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.448",
+      "achievement_median" : "0.4475",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3206,7 +3206,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.196",
+      "achievement_median" : "0.1955",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3218,7 +3218,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
@@ -3244,7 +3244,7 @@
    },
    "Thomas Was Alone" : {
       "achievement_hardest" : "0.17",
-      "achievement_median" : "0.33",
+      "achievement_median" : "0.331",
       "achievements" : true,
       "app_id" : "220780",
       "global_achievements" : true,
@@ -3451,7 +3451,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0735",
+      "achievement_median" : "0.074",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
