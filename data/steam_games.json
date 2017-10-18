@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.071",
+      "achievement_median" : "0.0705",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -336,7 +336,7 @@
       "url_store" : "http://store.steampowered.com/app/245970/"
    },
    "Borderlands: The Pre-Sequel" : {
-      "achievement_hardest" : "0.007",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "261640",
@@ -402,7 +402,7 @@
       "url_store" : "http://store.steampowered.com/app/319850/"
    },
    "Bridge Constructor Playground" : {
-      "achievement_hardest" : "0.051",
+      "achievement_hardest" : "0.052",
       "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "279990",
@@ -603,7 +603,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -703,8 +703,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.321",
-      "achievement_median" : "0.55",
+      "achievement_hardest" : "0.316",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.652",
+      "achievement_hardest" : "0.655",
       "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "661000",
@@ -1228,7 +1228,7 @@
    },
    "Galcon Legends" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "201040",
       "global_achievements" : true,
@@ -1239,7 +1239,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.109",
+      "achievement_hardest" : "0.108",
       "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "399670",
@@ -1566,7 +1566,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.259",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1614,7 +1614,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.436",
-      "achievement_median" : "0.695",
+      "achievement_median" : "0.694",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1626,7 +1626,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.266",
-      "achievement_median" : "0.549",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1637,8 +1637,8 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.406",
-      "achievement_median" : "0.653",
+      "achievement_hardest" : "0.405",
+      "achievement_median" : "0.6525",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.237",
+      "achievement_median" : "0.2375",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1922,8 +1922,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Life is Strange™" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.143",
+      "achievement_hardest" : "0.04",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2045,7 +2045,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.1185",
+      "achievement_median" : "0.119",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.681",
-      "achievement_median" : "0.693",
+      "achievement_hardest" : "0.689",
+      "achievement_median" : "0.701",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2581,7 +2581,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.032",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2643,7 +2643,7 @@
    },
    "Scrap Garden - The Day Before" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.289",
+      "achievement_median" : "0.288",
       "achievements" : true,
       "app_id" : "508390",
       "global_achievements" : true,
@@ -2705,7 +2705,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.029",
+      "achievement_median" : "0.028",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2848,8 +2848,8 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.453",
-      "achievement_median" : "0.593",
+      "achievement_hardest" : "0.451",
+      "achievement_median" : "0.591",
       "achievements" : true,
       "app_id" : "416770",
       "global_achievements" : true,
@@ -2958,7 +2958,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.456",
+      "achievement_hardest" : "0.457",
       "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
@@ -3654,7 +3654,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.122",
+      "achievement_hardest" : "0.123",
       "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "288060",
@@ -3705,7 +3705,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.162",
+      "achievement_median" : "0.1625",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
