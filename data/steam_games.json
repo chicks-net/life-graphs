@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.522",
-      "achievement_median" : "0.53",
+      "achievement_median" : "0.5305",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.0705",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -121,7 +121,7 @@
    },
    "Asteroid Bounty Hunter" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.0545",
       "achievements" : true,
       "app_id" : "444220",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.317",
-      "achievement_median" : "0.424",
+      "achievement_hardest" : "0.318",
+      "achievement_median" : "0.4245",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -703,8 +703,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.316",
-      "achievement_median" : "0.545",
+      "achievement_hardest" : "0.314",
+      "achievement_median" : "0.5435",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -852,7 +852,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.1875",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.655",
-      "achievement_median" : "0.785",
+      "achievement_hardest" : "0.657",
+      "achievement_median" : "0.783",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1227,7 +1227,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "201040",
@@ -1418,7 +1418,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1442,7 +1442,7 @@
    },
    "Hacknet" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.121",
+      "achievement_median" : "0.12",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1566,7 +1566,7 @@
    },
    "Halfway" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "253150",
       "global_achievements" : true,
@@ -1614,7 +1614,7 @@
    },
    "Hexcells" : {
       "achievement_hardest" : "0.436",
-      "achievement_median" : "0.694",
+      "achievement_median" : "0.6945",
       "achievements" : true,
       "app_id" : "265890",
       "global_achievements" : true,
@@ -1638,7 +1638,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.405",
-      "achievement_median" : "0.6525",
+      "achievement_median" : "0.652",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -2073,7 +2073,7 @@
    },
    "Mountain" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "313340",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.689",
-      "achievement_median" : "0.701",
+      "achievement_hardest" : "0.687",
+      "achievement_median" : "0.699",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2499,7 +2499,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.518",
-      "achievement_median" : "0.662",
+      "achievement_median" : "0.6625",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2692,7 +2692,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Serious Sam Fusion 2017 (beta)" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.038",
       "achievements" : true,
       "app_id" : "564310",
@@ -2704,8 +2704,8 @@
       "url_store" : "http://store.steampowered.com/app/564310/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievement_hardest" : "0.013",
-      "achievement_median" : "0.028",
+      "achievement_hardest" : "0.012",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2848,8 +2848,8 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.451",
-      "achievement_median" : "0.591",
+      "achievement_hardest" : "0.45",
+      "achievement_median" : "0.59",
       "achievements" : true,
       "app_id" : "416770",
       "global_achievements" : true,
@@ -2958,7 +2958,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.457",
+      "achievement_hardest" : "0.456",
       "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
@@ -3842,8 +3842,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.441",
-      "achievement_median" : "0.796",
+      "achievement_hardest" : "0.442",
+      "achievement_median" : "0.7965",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
