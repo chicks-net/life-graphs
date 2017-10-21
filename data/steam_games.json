@@ -60,7 +60,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.036",
       "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "379610",
@@ -285,7 +285,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.152",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.314",
-      "achievement_median" : "0.5425",
+      "achievement_median" : "0.542",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -739,7 +739,7 @@
       "url_store" : "http://store.steampowered.com/app/261960/"
    },
    "Cubemen" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.0975",
       "achievements" : true,
       "app_id" : "207250",
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.118",
+      "achievement_median" : "0.1185",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.66",
-      "achievement_median" : "0.784",
+      "achievement_hardest" : "0.662",
+      "achievement_median" : "0.786",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1625,7 +1625,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.266",
+      "achievement_hardest" : "0.265",
       "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
@@ -1638,7 +1638,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.405",
-      "achievement_median" : "0.6525",
+      "achievement_median" : "0.652",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.0475",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.031",
+      "achievement_median" : "0.03",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2428,7 +2428,7 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.692",
+      "achievement_hardest" : "0.69",
       "achievement_median" : "0.706",
       "achievements" : true,
       "app_id" : "694490",
@@ -2581,7 +2581,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.039",
+      "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2631,7 +2631,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2678,8 +2678,8 @@
       "url_store" : "http://store.steampowered.com/app/429300/"
    },
    "Serious Sam 3: BFE" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2693,7 +2693,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.038",
+      "achievement_median" : "0.0385",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2704,8 +2704,8 @@
       "url_store" : "http://store.steampowered.com/app/564310/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievement_hardest" : "0.012",
-      "achievement_median" : "0.026",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2997,8 +2997,8 @@
       "url_store" : "http://store.steampowered.com/app/20/"
    },
    "The 39 Steps" : {
-      "achievement_hardest" : "0.076",
-      "achievement_median" : "0.0845",
+      "achievement_hardest" : "0.075",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3373,8 +3373,8 @@
       "url_store" : "http://store.steampowered.com/app/203160/"
    },
    "Tower Wars" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.007",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "214360",
       "global_achievements" : true,
@@ -3828,7 +3828,7 @@
       "url_store" : "http://store.steampowered.com/app/61600/"
    },
    "rymdkapsel" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "253790",
