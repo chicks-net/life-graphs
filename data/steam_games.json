@@ -1,6 +1,6 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.523",
+      "achievement_hardest" : "0.524",
       "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "614910",
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.069",
+      "achievement_median" : "0.0695",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -98,7 +98,7 @@
       "url_store" : "http://store.steampowered.com/app/234900/"
    },
    "Anomaly Warzone Earth" : {
-      "achievement_hardest" : "0.036",
+      "achievement_hardest" : "0.037",
       "achievement_median" : "0.052",
       "achievements" : true,
       "app_id" : "91200",
@@ -284,8 +284,8 @@
       "url_store" : "http://store.steampowered.com/app/454060/"
    },
    "Borderlands 2" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -471,7 +471,7 @@
    },
    "Cannon Brawl" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1765",
+      "achievement_median" : "0.177",
       "achievements" : true,
       "app_id" : "230860",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.666",
+      "achievement_hardest" : "0.668",
       "achievement_median" : "0.788",
       "achievements" : true,
       "app_id" : "661000",
@@ -1601,7 +1601,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.055",
+      "achievement_hardest" : "0.054",
       "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
@@ -1883,7 +1883,7 @@
    },
    "Letter Quest: Grimm's Journey" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -1897,7 +1897,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.094",
+      "achievement_median" : "0.0945",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1923,7 +1923,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.323",
-      "achievement_median" : "0.3865",
+      "achievement_hardest" : "0.322",
+      "achievement_median" : "0.3855",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2018,7 +2018,7 @@
       "url_store" : "http://store.steampowered.com/app/294230/"
    },
    "Mini Metro" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.001",
       "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "287980",
@@ -2355,7 +2355,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1385",
+      "achievement_median" : "0.139",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.698",
-      "achievement_median" : "0.716",
+      "achievement_hardest" : "0.695",
+      "achievement_median" : "0.712",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2449,7 +2449,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2545,6 +2545,26 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/60/f7a039402735c2dea82cbd412340873535e2be4c.jpg",
       "url_store" : "http://store.steampowered.com/app/60/"
    },
+   "Rise to Ruins" : {
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
+      "achievements" : true,
+      "app_id" : "328080",
+      "global_achievements" : true,
+      "name" : "Rise to Ruins",
+      "name_short" : "328080",
+      "url_achievements" : "http://steamcommunity.com/stats/328080/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/328080/4a09f8a5caa9c51052fad8af84ebe465e16139be.jpg",
+      "url_store" : "http://store.steampowered.com/app/328080/"
+   },
+   "Rise to Ruins - The Soundtrack!" : {
+      "app_id" : "328210",
+      "name" : "Rise to Ruins - The Soundtrack!",
+      "name_short" : false,
+      "url_achievements" : "http://steamcommunity.com/stats/false/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/328210/330a5272d26e01fc96188e2c6c4d709f110ee219.jpg",
+      "url_store" : "http://store.steampowered.com/app/328210/"
+   },
    "Rock of Ages" : {
       "achievement_hardest" : "0.014",
       "achievement_median" : "0.084",
@@ -2580,8 +2600,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.033",
-      "achievement_median" : "0.0395",
+      "achievement_hardest" : "0.034",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2631,7 +2651,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2643,7 +2663,7 @@
    },
    "Scrap Garden - The Day Before" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.288",
+      "achievement_median" : "0.289",
       "achievements" : true,
       "app_id" : "508390",
       "global_achievements" : true,
@@ -2705,7 +2725,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.0245",
+      "achievement_median" : "0.024",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -3042,7 +3062,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.411",
+      "achievement_median" : "0.412",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3206,7 +3226,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.1955",
+      "achievement_median" : "0.196",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3325,8 +3345,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.234",
-      "achievement_median" : "0.234",
+      "achievement_hardest" : "0.235",
+      "achievement_median" : "0.235",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -3362,7 +3382,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3451,7 +3471,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.074",
+      "achievement_median" : "0.0745",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3655,7 +3675,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.123",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3667,7 +3687,7 @@
    },
    "Woah Dave!" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.047",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "315110",
       "global_achievements" : true,
@@ -3705,7 +3725,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1625",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3842,8 +3862,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.443",
-      "achievement_median" : "0.797",
+      "achievement_hardest" : "0.444",
+      "achievement_median" : "0.799",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
