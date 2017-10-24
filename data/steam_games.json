@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.524",
-      "achievement_median" : "0.532",
+      "achievement_hardest" : "0.525",
+      "achievement_median" : "0.533",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.318",
-      "achievement_median" : "0.424",
+      "achievement_hardest" : "0.319",
+      "achievement_median" : "0.4255",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -284,8 +284,8 @@
       "url_store" : "http://store.steampowered.com/app/454060/"
    },
    "Borderlands 2" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -543,7 +543,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0165",
+      "achievement_median" : "0.0175",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -602,7 +602,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.022",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "583270",
@@ -627,7 +627,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.064",
-      "achievement_median" : "0.2585",
+      "achievement_median" : "0.2575",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.313",
-      "achievement_median" : "0.541",
+      "achievement_median" : "0.54",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.668",
+      "achievement_hardest" : "0.67",
       "achievement_median" : "0.788",
       "achievements" : true,
       "app_id" : "661000",
@@ -1239,7 +1239,7 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.108",
+      "achievement_hardest" : "0.109",
       "achievement_median" : "0.398",
       "achievements" : true,
       "app_id" : "399670",
@@ -1278,7 +1278,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1394,7 +1394,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.325",
+      "achievement_median" : "0.3255",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1626,7 +1626,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.265",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1637,7 +1637,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.405",
+      "achievement_hardest" : "0.404",
       "achievement_median" : "0.652",
       "achievements" : true,
       "app_id" : "271900",
@@ -1649,7 +1649,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.136",
+      "achievement_hardest" : "0.137",
       "achievement_median" : "0.186",
       "achievements" : true,
       "app_id" : "435400",
@@ -1661,8 +1661,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.361",
-      "achievement_median" : "0.361",
+      "achievement_hardest" : "0.36",
+      "achievement_median" : "0.36",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1673,7 +1673,7 @@
       "url_store" : "http://store.steampowered.com/app/367580/"
    },
    "Human Resource Machine" : {
-      "achievement_hardest" : "0.032",
+      "achievement_hardest" : "0.033",
       "achievement_median" : "0.2115",
       "achievements" : true,
       "app_id" : "375820",
@@ -1923,7 +1923,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.1435",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2173,7 +2173,7 @@
    },
    "PAYDAY 2" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.027",
+      "achievement_median" : "0.026",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2329,7 +2329,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.695",
-      "achievement_median" : "0.712",
+      "achievement_hardest" : "0.692",
+      "achievement_median" : "0.709",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2651,7 +2651,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2686,8 +2686,8 @@
       "url_store" : "http://store.steampowered.com/app/293200/"
    },
    "Sepia Tears" : {
-      "achievement_hardest" : "0.212",
-      "achievement_median" : "0.24",
+      "achievement_hardest" : "0.213",
+      "achievement_median" : "0.241",
       "achievements" : true,
       "app_id" : "429300",
       "global_achievements" : true,
@@ -2724,8 +2724,8 @@
       "url_store" : "http://store.steampowered.com/app/564310/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.024",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2832,7 +2832,7 @@
       "url_store" : "http://store.steampowered.com/app/253650/"
    },
    "Spin Rush" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "528660",
@@ -2869,7 +2869,7 @@
    },
    "SquareCells" : {
       "achievement_hardest" : "0.449",
-      "achievement_median" : "0.59",
+      "achievement_median" : "0.589",
       "achievements" : true,
       "app_id" : "416770",
       "global_achievements" : true,
@@ -3018,7 +3018,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.0835",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3238,7 +3238,7 @@
    },
    "This Is the Police" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0435",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "443810",
       "global_achievements" : true,
