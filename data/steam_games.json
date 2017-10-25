@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.525",
-      "achievement_median" : "0.533",
+      "achievement_hardest" : "0.524",
+      "achievement_median" : "0.5325",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.319",
-      "achievement_median" : "0.4255",
+      "achievement_median" : "0.425",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -543,7 +543,7 @@
    },
    "Cities: Skylines" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0175",
+      "achievement_median" : "0.0185",
       "achievements" : true,
       "app_id" : "255710",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.136",
+      "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -603,7 +603,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -703,8 +703,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.313",
-      "achievement_median" : "0.54",
+      "achievement_hardest" : "0.314",
+      "achievement_median" : "0.541",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1975",
+      "achievement_median" : "0.1965",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1058,7 +1058,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.157",
+      "achievement_median" : "0.1575",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.67",
+      "achievement_hardest" : "0.671",
       "achievement_median" : "0.788",
       "achievements" : true,
       "app_id" : "661000",
@@ -1159,7 +1159,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.173",
+      "achievement_hardest" : "0.174",
       "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "343930",
@@ -1278,7 +1278,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1601,7 +1601,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.054",
+      "achievement_hardest" : "0.055",
       "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
@@ -1626,7 +1626,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.265",
-      "achievement_median" : "0.547",
+      "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1637,7 +1637,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.404",
+      "achievement_hardest" : "0.405",
       "achievement_median" : "0.652",
       "achievements" : true,
       "app_id" : "271900",
@@ -1650,7 +1650,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.137",
-      "achievement_median" : "0.186",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "Plague Inc: Evolved" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.03",
+      "achievement_median" : "0.031",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2355,7 +2355,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.1395",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.692",
-      "achievement_median" : "0.709",
+      "achievement_hardest" : "0.695",
+      "achievement_median" : "0.712",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2460,7 +2460,7 @@
       "url_store" : "http://store.steampowered.com/app/289760/"
    },
    "RUSH" : {
-      "achievement_hardest" : "0.044",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.093",
       "achievements" : true,
       "app_id" : "38720",
@@ -2487,7 +2487,7 @@
    },
    "Race The Sun" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "253030",
       "global_achievements" : true,
@@ -2725,7 +2725,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2977,6 +2977,18 @@
       "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/286160/4cd5c6a6580ae6e85026ac670f9fa1a0b45372c3.jpg",
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
+   "Tacoma" : {
+      "achievement_hardest" : "0.069",
+      "achievement_median" : "0.243",
+      "achievements" : true,
+      "app_id" : "343860",
+      "global_achievements" : true,
+      "name" : "Tacoma",
+      "name_short" : "343860",
+      "url_achievements" : "http://steamcommunity.com/stats/343860/achievements/compare/",
+      "url_logo" : "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/343860/f362de66e07b4bccddf753edba922d2d658d5b84.jpg",
+      "url_store" : "http://store.steampowered.com/app/343860/"
+   },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.457",
       "achievement_median" : "0.52",
@@ -2991,7 +3003,7 @@
    },
    "Team Fortress 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.106",
+      "achievement_median" : "0.1065",
       "achievements" : true,
       "app_id" : "440",
       "global_achievements" : true,
@@ -3382,7 +3394,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3863,7 +3875,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.444",
-      "achievement_median" : "0.799",
+      "achievement_median" : "0.7985",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
