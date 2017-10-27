@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.524",
-      "achievement_median" : "0.5325",
+      "achievement_hardest" : "0.525",
+      "achievement_median" : "0.5335",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -271,7 +271,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -451,7 +451,7 @@
    },
    "Broken Age" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.207",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "232790",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.132",
+      "achievement_median" : "0.121",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -602,7 +602,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "583270",
@@ -703,8 +703,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.315",
-      "achievement_median" : "0.5415",
+      "achievement_hardest" : "0.316",
+      "achievement_median" : "0.542",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1945",
+      "achievement_median" : "0.1925",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.432",
+      "achievement_median" : "0.4315",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.673",
-      "achievement_median" : "0.787",
+      "achievement_hardest" : "0.677",
+      "achievement_median" : "0.79",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1239,8 +1239,8 @@
       "url_store" : "http://store.steampowered.com/app/201040/"
    },
    "Game Corp DX" : {
-      "achievement_hardest" : "0.108",
-      "achievement_median" : "0.398",
+      "achievement_hardest" : "0.109",
+      "achievement_median" : "0.3975",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1278,7 +1278,7 @@
    },
    "Gear Up" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.113",
+      "achievement_median" : "0.114",
       "achievements" : true,
       "app_id" : "214420",
       "global_achievements" : true,
@@ -1956,7 +1956,7 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.322",
+      "achievement_hardest" : "0.323",
       "achievement_median" : "0.386",
       "achievements" : true,
       "app_id" : "525690",
@@ -2006,7 +2006,7 @@
       "url_store" : "http://store.steampowered.com/app/43160/"
    },
    "Millie" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "294230",
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.0485",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2343,7 +2343,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0475",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2428,8 +2428,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.701",
-      "achievement_median" : "0.718",
+      "achievement_hardest" : "0.705",
+      "achievement_median" : "0.721",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2498,8 +2498,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.518",
-      "achievement_median" : "0.6625",
+      "achievement_hardest" : "0.519",
+      "achievement_median" : "0.6635",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2600,8 +2600,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.034",
-      "achievement_median" : "0.041",
+      "achievement_hardest" : "0.035",
+      "achievement_median" : "0.0415",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2713,7 +2713,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0385",
+      "achievement_median" : "0.039",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2724,7 +2724,7 @@
       "url_store" : "http://store.steampowered.com/app/564310/"
    },
    "Shufflepuck Cantina Deluxe" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "259510",
@@ -2893,7 +2893,7 @@
    },
    "Submerged" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.1465",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "301860",
       "global_achievements" : true,
@@ -2967,7 +2967,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -2979,7 +2979,7 @@
    },
    "Tacoma" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.2375",
+      "achievement_median" : "0.2365",
       "achievements" : true,
       "app_id" : "343860",
       "global_achievements" : true,
@@ -3874,7 +3874,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.444",
+      "achievement_hardest" : "0.443",
       "achievement_median" : "0.799",
       "achievements" : true,
       "app_id" : "467780",
