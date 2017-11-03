@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.522",
-      "achievement_median" : "0.53",
+      "achievement_hardest" : "0.523",
+      "achievement_median" : "0.531",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -285,7 +285,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.109",
+      "achievement_median" : "0.107",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -602,7 +602,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.023",
+      "achievement_hardest" : "0.022",
       "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "583270",
@@ -692,7 +692,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0845",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.319",
-      "achievement_median" : "0.544",
+      "achievement_median" : "0.5435",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.189",
+      "achievement_median" : "0.1885",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.687",
+      "achievement_hardest" : "0.689",
       "achievement_median" : "0.792",
       "achievements" : true,
       "app_id" : "661000",
@@ -1160,7 +1160,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.174",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : "0.004",
-      "achievement_median" : "0.082",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1637,7 +1637,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.405",
+      "achievement_hardest" : "0.406",
       "achievement_median" : "0.6525",
       "achievements" : true,
       "app_id" : "271900",
@@ -1772,7 +1772,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.3045",
+      "achievement_median" : "0.304",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1808,7 +1808,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.074",
+      "achievement_median" : "0.0735",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1883,7 +1883,7 @@
    },
    "Letter Quest: Grimm's Journey" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.322",
-      "achievement_median" : "0.381",
+      "achievement_hardest" : "0.323",
+      "achievement_median" : "0.3805",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.155",
-      "achievement_median" : "0.208",
+      "achievement_hardest" : "0.157",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2281,7 +2281,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.024",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -2293,7 +2293,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.141",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2355,7 +2355,7 @@
    },
    "Prison Architect" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0475",
+      "achievement_median" : "0.048",
       "achievements" : true,
       "app_id" : "233450",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.725",
-      "achievement_median" : "0.739",
+      "achievement_hardest" : "0.723",
+      "achievement_median" : "0.737",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2511,7 +2511,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.52",
-      "achievement_median" : "0.664",
+      "achievement_median" : "0.665",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2612,8 +2612,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.037",
-      "achievement_median" : "0.044",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2636,7 +2636,7 @@
       "url_store" : "http://store.steampowered.com/app/504210/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.014",
+      "achievement_hardest" : "0.015",
       "achievement_median" : "0.2685",
       "achievements" : true,
       "app_id" : "322500",
@@ -2711,7 +2711,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2990,7 +2990,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tacoma" : {
-      "achievement_hardest" : "0.068",
+      "achievement_hardest" : "0.069",
       "achievement_median" : "0.236",
       "achievements" : true,
       "app_id" : "343860",
@@ -3003,7 +3003,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.457",
-      "achievement_median" : "0.52",
+      "achievement_median" : "0.521",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -3066,7 +3066,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.105",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -3519,7 +3519,7 @@
    },
    "Tumbleweed Express" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.292",
+      "achievement_median" : "0.291",
       "achievements" : true,
       "app_id" : "372350",
       "global_achievements" : true,
@@ -3571,7 +3571,7 @@
    },
    "Typoman" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.0575",
       "achievements" : true,
       "app_id" : "336240",
       "global_achievements" : true,
@@ -3605,7 +3605,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3711,7 +3711,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3899,7 +3899,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.441",
-      "achievement_median" : "0.7985",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
