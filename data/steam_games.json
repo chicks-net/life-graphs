@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.524",
-      "achievement_median" : "0.5315",
+      "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.32",
-      "achievement_median" : "0.427",
+      "achievement_hardest" : "0.319",
+      "achievement_median" : "0.426",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.32",
-      "achievement_median" : "0.5435",
+      "achievement_median" : "0.544",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.692",
-      "achievement_median" : "0.793",
+      "achievement_hardest" : "0.695",
+      "achievement_median" : "0.795",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1240,7 +1240,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3965",
+      "achievement_median" : "0.396",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1625,7 +1625,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.265",
+      "achievement_hardest" : "0.266",
       "achievement_median" : "0.548",
       "achievements" : true,
       "app_id" : "304410",
@@ -1638,7 +1638,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.406",
-      "achievement_median" : "0.653",
+      "achievement_median" : "0.6525",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1650,7 +1650,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.137",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.188",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1808,7 +1808,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0735",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1869,7 +1869,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.099",
+      "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.156",
-      "achievement_median" : "0.209",
+      "achievement_hardest" : "0.155",
+      "achievement_median" : "0.207",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2280,7 +2280,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "218510",
@@ -2293,7 +2293,7 @@
    },
    "Plants vs. Zombies: Game of the Year" : {
       "achievement_hardest" : "0.062",
-      "achievement_median" : "0.141",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "3590",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.722",
-      "achievement_median" : "0.738",
+      "achievement_hardest" : "0.724",
+      "achievement_median" : "0.741",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2510,8 +2510,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.52",
-      "achievement_median" : "0.665",
+      "achievement_hardest" : "0.521",
+      "achievement_median" : "0.6655",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2612,8 +2612,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.0455",
+      "achievement_hardest" : "0.039",
+      "achievement_median" : "0.046",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2663,7 +2663,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2711,7 +2711,7 @@
    },
    "Serious Sam 3: BFE" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.1175",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "41070",
       "global_achievements" : true,
@@ -2724,7 +2724,7 @@
       "url_store" : "http://store.steampowered.com/app/41070/"
    },
    "Serious Sam Fusion 2017 (beta)" : {
-      "achievement_hardest" : "0.016",
+      "achievement_hardest" : "0.017",
       "achievement_median" : "0.0395",
       "achievements" : true,
       "app_id" : "564310",
@@ -2737,7 +2737,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.016",
+      "achievement_median" : "0.015",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -2905,7 +2905,7 @@
    },
    "Submerged" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.147",
+      "achievement_median" : "0.148",
       "achievements" : true,
       "app_id" : "301860",
       "global_achievements" : true,
@@ -2991,7 +2991,7 @@
    },
    "Tacoma" : {
       "achievement_hardest" : "0.069",
-      "achievement_median" : "0.2355",
+      "achievement_median" : "0.2365",
       "achievements" : true,
       "app_id" : "343860",
       "global_achievements" : true,
@@ -3312,7 +3312,7 @@
    },
    "Ticket to Ride" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.009",
+      "achievement_median" : "0.0095",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
@@ -3571,7 +3571,7 @@
    },
    "Typoman" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0575",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "336240",
       "global_achievements" : true,
@@ -3899,7 +3899,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.44",
-      "achievement_median" : "0.7975",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
