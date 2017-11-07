@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.525",
-      "achievement_median" : "0.5325",
+      "achievement_median" : "0.533",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.319",
-      "achievement_median" : "0.426",
+      "achievement_hardest" : "0.32",
+      "achievement_median" : "0.4265",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -439,7 +439,7 @@
    },
    "Brigador: Up-Armored Edition" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.001",
+      "achievement_median" : "0.002",
       "achievements" : true,
       "app_id" : "274500",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.105",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -603,7 +603,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -692,7 +692,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.0835",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.432",
+      "achievement_median" : "0.4325",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.696",
-      "achievement_median" : "0.795",
+      "achievement_hardest" : "0.699",
+      "achievement_median" : "0.796",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.0775",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1601,7 +1601,7 @@
       "url_store" : "http://store.steampowered.com/app/304290/"
    },
    "Heroes Rise: The Prodigy" : {
-      "achievement_hardest" : "0.055",
+      "achievement_hardest" : "0.054",
       "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
@@ -1613,7 +1613,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.436",
+      "achievement_hardest" : "0.437",
       "achievement_median" : "0.695",
       "achievements" : true,
       "app_id" : "265890",
@@ -1626,7 +1626,7 @@
    },
    "Hexcells Infinite" : {
       "achievement_hardest" : "0.266",
-      "achievement_median" : "0.548",
+      "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
       "global_achievements" : true,
@@ -1638,7 +1638,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.406",
-      "achievement_median" : "0.6525",
+      "achievement_median" : "0.653",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1711,7 +1711,7 @@
       "url_store" : "http://store.steampowered.com/app/207080/"
    },
    "Infinifactory" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "300570",
@@ -1796,7 +1796,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.064",
+      "achievement_median" : "0.0635",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1808,7 +1808,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.073",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.241",
+      "achievement_median" : "0.2415",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.321",
-      "achievement_median" : "0.379",
+      "achievement_hardest" : "0.322",
+      "achievement_median" : "0.3815",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2007,7 +2007,7 @@
    },
    "Millie" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.0405",
+      "achievement_median" : "0.041",
       "achievements" : true,
       "app_id" : "294230",
       "global_achievements" : true,
@@ -2197,7 +2197,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.157",
-      "achievement_median" : "0.209",
+      "achievement_hardest" : "0.158",
+      "achievement_median" : "0.213",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2304,8 +2304,8 @@
       "url_store" : "http://store.steampowered.com/app/3590/"
    },
    "Poker Night at the Inventory" : {
-      "achievement_hardest" : "0.117",
-      "achievement_median" : "0.5285",
+      "achievement_hardest" : "0.118",
+      "achievement_median" : "0.529",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2367,7 +2367,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.1395",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.717",
-      "achievement_median" : "0.7335",
+      "achievement_hardest" : "0.721",
+      "achievement_median" : "0.738",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2510,8 +2510,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.521",
-      "achievement_median" : "0.666",
+      "achievement_hardest" : "0.522",
+      "achievement_median" : "0.667",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2612,8 +2612,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.046",
+      "achievement_hardest" : "0.04",
+      "achievement_median" : "0.047",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2662,7 +2662,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.041",
+      "achievement_hardest" : "0.042",
       "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
@@ -3178,7 +3178,7 @@
    },
    "The Escapists" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.012",
+      "achievement_median" : "0.011",
       "achievements" : true,
       "app_id" : "298630",
       "global_achievements" : true,
@@ -3226,7 +3226,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0995",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3381,8 +3381,8 @@
       "url_store" : "http://store.steampowered.com/app/385770/"
    },
    "To the Moon" : {
-      "achievement_hardest" : "0.234",
-      "achievement_median" : "0.234",
+      "achievement_hardest" : "0.235",
+      "achievement_median" : "0.235",
       "achievements" : true,
       "app_id" : "206440",
       "global_achievements" : true,
@@ -3545,7 +3545,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.135",
+      "achievement_median" : "0.1355",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3711,7 +3711,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3898,8 +3898,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.439",
-      "achievement_median" : "0.7975",
+      "achievement_hardest" : "0.44",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
