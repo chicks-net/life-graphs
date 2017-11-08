@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.32",
-      "achievement_median" : "0.4265",
+      "achievement_hardest" : "0.321",
+      "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -554,8 +554,8 @@
       "url_store" : "http://store.steampowered.com/app/255710/"
    },
    "City Climber" : {
-      "achievement_hardest" : "0.007",
-      "achievement_median" : "0.104",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -603,7 +603,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.104",
+      "achievement_median" : "0.1035",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.32",
-      "achievement_median" : "0.544",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -852,7 +852,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.1885",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -864,7 +864,7 @@
    },
    "Domino Sky" : {
       "achievement_hardest" : "0.085",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.147",
       "achievements" : true,
       "app_id" : "457480",
       "global_achievements" : true,
@@ -1313,8 +1313,8 @@
       "url_store" : "http://store.steampowered.com/app/265930/"
    },
    "Golf With Your Friends" : {
-      "achievement_hardest" : 0,
-      "achievement_median" : "0.078",
+      "achievement_hardest" : "0.001",
+      "achievement_median" : "0.0775",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.322",
-      "achievement_median" : "0.3815",
+      "achievement_hardest" : "0.321",
+      "achievement_median" : "0.3825",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2197,7 +2197,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.158",
-      "achievement_median" : "0.213",
+      "achievement_hardest" : "0.156",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.721",
-      "achievement_median" : "0.738",
+      "achievement_hardest" : "0.72",
+      "achievement_median" : "0.737",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2663,7 +2663,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -3394,7 +3394,7 @@
    },
    "Toby: The Secret Mine" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.117",
+      "achievement_median" : "0.118",
       "achievements" : true,
       "app_id" : "395160",
       "global_achievements" : true,
@@ -3545,7 +3545,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1355",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3711,7 +3711,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3761,7 +3761,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.163",
+      "achievement_median" : "0.1635",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
@@ -3898,7 +3898,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.44",
+      "achievement_hardest" : "0.441",
       "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
