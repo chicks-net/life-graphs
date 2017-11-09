@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.525",
-      "achievement_median" : "0.533",
+      "achievement_hardest" : "0.526",
+      "achievement_median" : "0.5335",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -439,7 +439,7 @@
    },
    "Brigador: Up-Armored Edition" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.002",
+      "achievement_median" : "0.003",
       "achievements" : true,
       "app_id" : "274500",
       "global_achievements" : true,
@@ -554,7 +554,7 @@
       "url_store" : "http://store.steampowered.com/app/255710/"
    },
    "City Climber" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "538840",
@@ -603,7 +603,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.104",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -627,7 +627,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.2585",
+      "achievement_median" : "0.259",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -703,8 +703,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.32",
-      "achievement_median" : "0.545",
+      "achievement_hardest" : "0.321",
+      "achievement_median" : "0.5455",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.1205",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.699",
-      "achievement_median" : "0.796",
+      "achievement_hardest" : "0.701",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1784,7 +1784,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.4635",
+      "achievement_median" : "0.464",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.2415",
+      "achievement_median" : "0.242",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0495",
+      "achievement_median" : "0.05",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2073,7 +2073,7 @@
    },
    "Mountain" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "313340",
       "global_achievements" : true,
@@ -2197,7 +2197,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.111",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.156",
-      "achievement_median" : "0.21",
+      "achievement_hardest" : "0.155",
+      "achievement_median" : "0.208",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2281,7 +2281,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.72",
-      "achievement_median" : "0.737",
+      "achievement_hardest" : "0.719",
+      "achievement_median" : "0.736",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2663,7 +2663,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2737,7 +2737,7 @@
    },
    "Shufflepuck Cantina Deluxe" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.015",
+      "achievement_median" : "0.014",
       "achievements" : true,
       "app_id" : "259510",
       "global_achievements" : true,
@@ -3288,7 +3288,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.173",
+      "achievement_median" : "0.172",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3605,7 +3605,7 @@
    },
    "Unium" : {
       "achievement_hardest" : "0.093",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "357600",
       "global_achievements" : true,
@@ -3711,7 +3711,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.282",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3898,8 +3898,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.441",
-      "achievement_median" : "0.798",
+      "achievement_hardest" : "0.44",
+      "achievement_median" : "0.7985",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
