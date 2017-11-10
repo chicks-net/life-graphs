@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.526",
-      "achievement_median" : "0.5335",
+      "achievement_median" : "0.534",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.321",
-      "achievement_median" : "0.427",
+      "achievement_hardest" : "0.32",
+      "achievement_median" : "0.426",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -679,7 +679,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -692,7 +692,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.0835",
+      "achievement_median" : "0.084",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -715,7 +715,7 @@
       "url_store" : "http://store.steampowered.com/app/632000/"
    },
    "Crusader Kings II" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : 0,
       "achievement_median" : "0.007",
       "achievements" : true,
       "app_id" : "203770",
@@ -1784,7 +1784,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.464",
+      "achievement_median" : "0.4645",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.321",
-      "achievement_median" : "0.3825",
+      "achievement_median" : "0.3815",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.0505",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2197,7 +2197,7 @@
    },
    "Papers, Please" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.111",
       "achievements" : true,
       "app_id" : "239030",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.155",
-      "achievement_median" : "0.208",
+      "achievement_hardest" : "0.157",
+      "achievement_median" : "0.21",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2280,7 +2280,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.025",
+      "achievement_hardest" : "0.026",
       "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "218510",
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.719",
-      "achievement_median" : "0.736",
+      "achievement_hardest" : "0.724",
+      "achievement_median" : "0.741",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2461,7 +2461,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2663,7 +2663,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2725,7 +2725,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2880,7 +2880,7 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.451",
+      "achievement_hardest" : "0.452",
       "achievement_median" : "0.591",
       "achievements" : true,
       "app_id" : "416770",
@@ -3226,7 +3226,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.1",
+      "achievement_median" : "0.0995",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3287,8 +3287,8 @@
       "url_store" : "http://store.steampowered.com/app/443810/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : "0.005",
-      "achievement_median" : "0.172",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
