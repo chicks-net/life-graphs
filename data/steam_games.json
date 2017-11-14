@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.528",
-      "achievement_median" : "0.536",
+      "achievement_hardest" : "0.523",
+      "achievement_median" : "0.531",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.32",
-      "achievement_median" : "0.4275",
+      "achievement_median" : "0.4265",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -271,7 +271,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.114",
+      "achievement_median" : "0.112",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.101",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -667,7 +667,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.298",
+      "achievement_median" : "0.299",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -692,7 +692,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.084",
+      "achievement_median" : "0.083",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.322",
-      "achievement_median" : "0.545",
+      "achievement_median" : "0.5455",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1131,7 +1131,7 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.706",
+      "achievement_hardest" : "0.707",
       "achievement_median" : "0.802",
       "achievements" : true,
       "app_id" : "661000",
@@ -1159,7 +1159,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.174",
+      "achievement_hardest" : "0.175",
       "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "343930",
@@ -1253,7 +1253,7 @@
       "url_store" : "http://store.steampowered.com/app/399670/"
    },
    "Game Dev Tycoon" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.283",
       "achievements" : true,
       "app_id" : "239820",
@@ -1266,7 +1266,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.042",
+      "achievement_median" : "0.043",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.0785",
+      "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1869,7 +1869,7 @@
    },
    "Left 4 Dead 2" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.098",
+      "achievement_median" : "0.0985",
       "achievements" : true,
       "app_id" : "550",
       "global_achievements" : true,
@@ -1883,7 +1883,7 @@
    },
    "Letter Quest: Grimm's Journey" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.1155",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.323",
-      "achievement_median" : "0.3835",
+      "achievement_hardest" : "0.325",
+      "achievement_median" : "0.3845",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2172,7 +2172,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "218620",
@@ -2210,7 +2210,7 @@
       "url_store" : "http://store.steampowered.com/app/239030/"
    },
    "Party Hard" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "356570",
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.161",
-      "achievement_median" : "0.213",
+      "achievement_hardest" : "0.163",
+      "achievement_median" : "0.214",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.725",
-      "achievement_median" : "0.743",
+      "achievement_hardest" : "0.731",
+      "achievement_median" : "0.747",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2613,7 +2613,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.048",
+      "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2625,7 +2625,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.032",
+      "achievement_median" : "0.0325",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2663,7 +2663,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.042",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2699,7 +2699,7 @@
    },
    "Sepia Tears" : {
       "achievement_hardest" : "0.213",
-      "achievement_median" : "0.241",
+      "achievement_median" : "0.242",
       "achievements" : true,
       "app_id" : "429300",
       "global_achievements" : true,
@@ -2764,8 +2764,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.218",
-      "achievement_median" : "0.419",
+      "achievement_hardest" : "0.219",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3300,7 +3300,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3430,7 +3430,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1615",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3483,7 +3483,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.374",
+      "achievement_median" : "0.373",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
@@ -3911,7 +3911,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.441",
-      "achievement_median" : "0.7985",
+      "achievement_median" : "0.7995",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
