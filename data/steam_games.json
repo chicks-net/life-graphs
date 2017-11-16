@@ -15,7 +15,7 @@
    },
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.041",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2795",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -258,7 +258,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.32",
+      "achievement_hardest" : "0.319",
       "achievement_median" : "0.4265",
       "achievements" : true,
       "app_id" : "568020",
@@ -271,7 +271,7 @@
    },
    "Blueprint Tycoon" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.112",
+      "achievement_median" : "0.113",
       "achievements" : true,
       "app_id" : "454060",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -1069,7 +1069,7 @@
       "url_store" : "http://store.steampowered.com/app/266390/"
    },
    "Firewatch" : {
-      "achievement_hardest" : "0.033",
+      "achievement_hardest" : "0.034",
       "achievement_median" : "0.433",
       "achievements" : true,
       "app_id" : "383870",
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.709",
-      "achievement_median" : "0.801",
+      "achievement_hardest" : "0.71",
+      "achievement_median" : "0.803",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1266,7 +1266,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1578,7 +1578,7 @@
    },
    "Her Story" : {
       "achievement_hardest" : "0.105",
-      "achievement_median" : "0.408",
+      "achievement_median" : "0.407",
       "achievements" : true,
       "app_id" : "368370",
       "global_achievements" : true,
@@ -1650,7 +1650,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : "0.138",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.189",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1784,7 +1784,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.4645",
+      "achievement_median" : "0.465",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.243",
+      "achievement_median" : "0.244",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.325",
-      "achievement_median" : "0.384",
+      "achievement_hardest" : "0.326",
+      "achievement_median" : "0.3855",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2245,7 +2245,7 @@
    },
    "Pixel Traffic: Circle Rush" : {
       "achievement_hardest" : "0.167",
-      "achievement_median" : "0.218",
+      "achievement_median" : "0.22",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2281,7 +2281,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.044",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.73",
-      "achievement_median" : "0.746",
+      "achievement_hardest" : "0.736",
+      "achievement_median" : "0.7525",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2612,7 +2612,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.041",
+      "achievement_hardest" : "0.042",
       "achievement_median" : "0.049",
       "achievements" : true,
       "app_id" : "252490",
@@ -2625,7 +2625,7 @@
    },
    "SHENZHEN I/O" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.0325",
+      "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "504210",
       "global_achievements" : true,
@@ -2699,7 +2699,7 @@
    },
    "Sepia Tears" : {
       "achievement_hardest" : "0.213",
-      "achievement_median" : "0.242",
+      "achievement_median" : "0.241",
       "achievements" : true,
       "app_id" : "429300",
       "global_achievements" : true,
@@ -2764,8 +2764,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.219",
-      "achievement_median" : "0.4205",
+      "achievement_hardest" : "0.218",
+      "achievement_median" : "0.421",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2917,7 +2917,7 @@
    },
    "Submerged" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.148",
+      "achievement_median" : "0.1485",
       "achievements" : true,
       "app_id" : "301860",
       "global_achievements" : true,
@@ -3054,7 +3054,7 @@
    },
    "The 39 Steps" : {
       "achievement_hardest" : "0.074",
-      "achievement_median" : "0.083",
+      "achievement_median" : "0.0825",
       "achievements" : true,
       "app_id" : "234940",
       "global_achievements" : true,
@@ -3299,7 +3299,7 @@
       "url_store" : "http://store.steampowered.com/app/443810/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : 0,
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "282070",
@@ -3323,8 +3323,8 @@
       "url_store" : "http://store.steampowered.com/app/220780/"
    },
    "Ticket to Ride" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.0095",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.0085",
       "achievements" : true,
       "app_id" : "108200",
       "global_achievements" : true,
