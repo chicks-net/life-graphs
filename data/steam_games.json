@@ -388,7 +388,7 @@
       "url_store" : "http://store.steampowered.com/app/250460/"
    },
    "Bridge Constructor Medieval" : {
-      "achievement_hardest" : "0.077",
+      "achievement_hardest" : "0.078",
       "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "319850",
@@ -627,7 +627,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.2595",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1215",
+      "achievement_median" : "0.122",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1132,7 +1132,7 @@
    },
    "Flow:The Sliding" : {
       "achievement_hardest" : "0.71",
-      "achievement_median" : "0.803",
+      "achievement_median" : "0.802",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1637,7 +1637,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.406",
+      "achievement_hardest" : "0.407",
       "achievement_median" : "0.653",
       "achievements" : true,
       "app_id" : "271900",
@@ -1674,7 +1674,7 @@
    },
    "Human Resource Machine" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.2115",
+      "achievement_median" : "0.212",
       "achievements" : true,
       "app_id" : "375820",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.326",
-      "achievement_median" : "0.3855",
+      "achievement_hardest" : "0.325",
+      "achievement_median" : "0.3845",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0505",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.736",
-      "achievement_median" : "0.7525",
+      "achievement_hardest" : "0.739",
+      "achievement_median" : "0.755",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2461,7 +2461,7 @@
    },
    "ROCKETSROCKETSROCKETS" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "289760",
       "global_achievements" : true,
@@ -2764,8 +2764,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.218",
-      "achievement_median" : "0.421",
+      "achievement_hardest" : "0.22",
+      "achievement_median" : "0.422",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2892,7 +2892,7 @@
       "url_store" : "http://store.steampowered.com/app/297490/"
    },
    "SquareCells" : {
-      "achievement_hardest" : "0.452",
+      "achievement_hardest" : "0.453",
       "achievement_median" : "0.591",
       "achievements" : true,
       "app_id" : "416770",
@@ -2917,7 +2917,7 @@
    },
    "Submerged" : {
       "achievement_hardest" : "0.075",
-      "achievement_median" : "0.1485",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "301860",
       "global_achievements" : true,
@@ -3300,7 +3300,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.128",
+      "achievement_median" : "0.129",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3430,7 +3430,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.1615",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3583,7 +3583,7 @@
    },
    "Typoman" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.0575",
+      "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "336240",
       "global_achievements" : true,
@@ -3896,7 +3896,7 @@
       "url_store" : "http://store.steampowered.com/app/61600/"
    },
    "rymdkapsel" : {
-      "achievement_hardest" : "0.01",
+      "achievement_hardest" : "0.009",
       "achievement_median" : "0.078",
       "achievements" : true,
       "app_id" : "253790",
@@ -3911,7 +3911,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.44",
-      "achievement_median" : "0.798",
+      "achievement_median" : "0.7975",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
