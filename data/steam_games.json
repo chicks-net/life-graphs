@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.524",
-      "achievement_median" : "0.531",
+      "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -223,7 +223,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.097",
+      "achievement_median" : "0.0975",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -258,7 +258,7 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.319",
+      "achievement_hardest" : "0.32",
       "achievement_median" : "0.4265",
       "achievements" : true,
       "app_id" : "568020",
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.71",
-      "achievement_median" : "0.802",
+      "achievement_hardest" : "0.709",
+      "achievement_median" : "0.801",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1146,7 +1146,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1625,7 +1625,7 @@
       "url_store" : "http://store.steampowered.com/app/265890/"
    },
    "Hexcells Infinite" : {
-      "achievement_hardest" : "0.266",
+      "achievement_hardest" : "0.267",
       "achievement_median" : "0.549",
       "achievements" : true,
       "app_id" : "304410",
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.244",
+      "achievement_median" : "0.2445",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1897,7 +1897,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0945",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -1957,7 +1957,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.325",
-      "achievement_median" : "0.3845",
+      "achievement_median" : "0.3835",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2019,7 +2019,7 @@
    },
    "Mini Metro" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.051",
+      "achievement_median" : "0.0515",
       "achievements" : true,
       "app_id" : "287980",
       "global_achievements" : true,
@@ -2244,8 +2244,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.167",
-      "achievement_median" : "0.22",
+      "achievement_hardest" : "0.166",
+      "achievement_median" : "0.219",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2280,7 +2280,7 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.026",
+      "achievement_hardest" : "0.027",
       "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "218510",
@@ -2367,7 +2367,7 @@
    },
    "Project Highrise" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.14",
+      "achievement_median" : "0.1405",
       "achievements" : true,
       "app_id" : "423580",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.739",
-      "achievement_median" : "0.755",
+      "achievement_hardest" : "0.741",
+      "achievement_median" : "0.7565",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2511,7 +2511,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.523",
-      "achievement_median" : "0.6675",
+      "achievement_median" : "0.668",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2699,7 +2699,7 @@
    },
    "Sepia Tears" : {
       "achievement_hardest" : "0.213",
-      "achievement_median" : "0.241",
+      "achievement_median" : "0.242",
       "achievements" : true,
       "app_id" : "429300",
       "global_achievements" : true,
@@ -2725,7 +2725,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.04",
+      "achievement_median" : "0.0405",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2764,8 +2764,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.22",
-      "achievement_median" : "0.422",
+      "achievement_hardest" : "0.224",
+      "achievement_median" : "0.4215",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3299,8 +3299,8 @@
       "url_store" : "http://store.steampowered.com/app/443810/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.129",
+      "achievement_hardest" : "0.003",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
