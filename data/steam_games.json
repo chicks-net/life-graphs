@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.0695",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -703,8 +703,8 @@
       "url_store" : "http://store.steampowered.com/app/343440/"
    },
    "CrossCells" : {
-      "achievement_hardest" : "0.323",
-      "achievement_median" : "0.5465",
+      "achievement_hardest" : "0.324",
+      "achievement_median" : "0.547",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.1865",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1070,7 +1070,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.434",
+      "achievement_median" : "0.4335",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.712",
-      "achievement_median" : "0.802",
+      "achievement_hardest" : "0.713",
+      "achievement_median" : "0.801",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1146,7 +1146,7 @@
    },
    "Fly O'Clock" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.035",
       "achievements" : true,
       "app_id" : "490820",
       "global_achievements" : true,
@@ -1240,7 +1240,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3965",
+      "achievement_median" : "0.396",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1417,7 +1417,7 @@
       "url_store" : "http://store.steampowered.com/app/209080/"
    },
    "HITMAN™" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.06",
       "achievements" : true,
       "app_id" : "236870",
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2455",
+      "achievement_median" : "0.246",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1883,7 +1883,7 @@
    },
    "Letter Quest: Grimm's Journey" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.1155",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -1956,8 +1956,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.326",
-      "achievement_median" : "0.385",
+      "achievement_hardest" : "0.328",
+      "achievement_median" : "0.3855",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2073,7 +2073,7 @@
    },
    "Mountain" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.044",
       "achievements" : true,
       "app_id" : "313340",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.75",
-      "achievement_median" : "0.7655",
+      "achievement_hardest" : "0.751",
+      "achievement_median" : "0.766",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2510,7 +2510,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.523",
+      "achievement_hardest" : "0.524",
       "achievement_median" : "0.668",
       "achievements" : true,
       "app_id" : "502400",
@@ -2765,7 +2765,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.225",
-      "achievement_median" : "0.4275",
+      "achievement_median" : "0.4255",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2893,7 +2893,7 @@
    },
    "SquareCells" : {
       "achievement_hardest" : "0.453",
-      "achievement_median" : "0.591",
+      "achievement_median" : "0.592",
       "achievements" : true,
       "app_id" : "416770",
       "global_achievements" : true,
@@ -3300,7 +3300,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.129",
+      "achievement_median" : "0.128",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3910,8 +3910,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.439",
-      "achievement_median" : "0.797",
+      "achievement_hardest" : "0.44",
+      "achievement_median" : "0.7965",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
