@@ -14,8 +14,8 @@
       "url_store" : "http://store.steampowered.com/app/614910/"
    },
    "12 is Better Than 6" : {
-      "achievement_hardest" : "0.041",
-      "achievement_median" : "0.2795",
+      "achievement_hardest" : "0.04",
+      "achievement_median" : "0.2765",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.143",
+      "achievement_median" : "0.144",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.037",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.0705",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.32",
-      "achievement_median" : "0.4265",
+      "achievement_median" : "0.426",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -285,7 +285,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.151",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -666,8 +666,8 @@
       "url_store" : "http://store.steampowered.com/app/100/"
    },
    "Counter-Strike: Global Offensive" : {
-      "achievement_hardest" : "0.027",
-      "achievement_median" : "0.292",
+      "achievement_hardest" : "0.028",
+      "achievement_median" : "0.293",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.713",
-      "achievement_median" : "0.801",
+      "achievement_hardest" : "0.714",
+      "achievement_median" : "0.802",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1712,7 +1712,7 @@
    },
    "Infinifactory" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "300570",
       "global_achievements" : true,
@@ -1808,7 +1808,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0715",
+      "achievement_median" : "0.0705",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1820,7 +1820,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.246",
+      "achievement_median" : "0.2465",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1882,8 +1882,8 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Letter Quest: Grimm's Journey" : {
-      "achievement_hardest" : "0.045",
-      "achievement_median" : "0.115",
+      "achievement_hardest" : "0.046",
+      "achievement_median" : "0.1155",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -2244,7 +2244,7 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.169",
+      "achievement_hardest" : "0.17",
       "achievement_median" : "0.221",
       "achievements" : true,
       "app_id" : "696460",
@@ -2256,8 +2256,8 @@
       "url_store" : "http://store.steampowered.com/app/696460/"
    },
    "Plague Inc: Evolved" : {
-      "achievement_hardest" : "0.003",
-      "achievement_median" : "0.031",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "246620",
       "global_achievements" : true,
@@ -2440,8 +2440,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.751",
-      "achievement_median" : "0.766",
+      "achievement_hardest" : "0.752",
+      "achievement_median" : "0.767",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2511,7 +2511,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.524",
-      "achievement_median" : "0.668",
+      "achievement_median" : "0.6685",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2613,7 +2613,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.043",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2765,7 +2765,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.225",
-      "achievement_median" : "0.4255",
+      "achievement_median" : "0.427",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2845,7 +2845,7 @@
    },
    "Sparkle 2 Evo" : {
       "achievement_hardest" : "0.077",
-      "achievement_median" : "0.2335",
+      "achievement_median" : "0.233",
       "achievements" : true,
       "app_id" : "253650",
       "global_achievements" : true,
@@ -3483,7 +3483,7 @@
    },
    "Transmissions: Element 120" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.374",
+      "achievement_median" : "0.373",
       "achievements" : true,
       "app_id" : "365300",
       "global_achievements" : true,
