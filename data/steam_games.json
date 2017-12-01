@@ -285,7 +285,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.15",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -602,7 +602,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.023",
       "achievement_median" : "0.1045",
       "achievements" : true,
       "app_id" : "583270",
@@ -679,7 +679,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.123",
+      "achievement_median" : "0.124",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -1131,8 +1131,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.739",
-      "achievement_median" : "0.803",
+      "achievement_hardest" : "0.745",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1314,7 +1314,7 @@
    },
    "Golf With Your Friends" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0785",
+      "achievement_median" : "0.079",
       "achievements" : true,
       "app_id" : "431240",
       "global_achievements" : true,
@@ -1441,8 +1441,8 @@
       "url_store" : "http://store.steampowered.com/app/246070/"
    },
    "Hacknet" : {
-      "achievement_hardest" : "0.051",
-      "achievement_median" : "0.118",
+      "achievement_hardest" : "0.05",
+      "achievement_median" : "0.117",
       "achievements" : true,
       "app_id" : "365450",
       "global_achievements" : true,
@@ -1474,7 +1474,7 @@
    },
    "Half-Life 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.188",
+      "achievement_median" : "0.187",
       "achievements" : true,
       "app_id" : "220",
       "global_achievements" : true,
@@ -1613,7 +1613,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.436",
+      "achievement_hardest" : "0.437",
       "achievement_median" : "0.695",
       "achievements" : true,
       "app_id" : "265890",
@@ -1637,7 +1637,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.406",
+      "achievement_hardest" : "0.407",
       "achievement_median" : "0.653",
       "achievements" : true,
       "app_id" : "271900",
@@ -1828,7 +1828,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.246",
+      "achievement_median" : "0.2465",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1864,7 +1864,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.185",
+      "achievement_median" : "0.184",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1931,7 +1931,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.1435",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -2093,7 +2093,7 @@
    },
    "MouseCraft" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "252750",
       "global_achievements" : true,
@@ -2107,7 +2107,7 @@
    },
    "Multiwinia" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.0215",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "1530",
       "global_achievements" : true,
@@ -2181,7 +2181,7 @@
    },
    "PAYDAY 2" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2252,8 +2252,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.18",
-      "achievement_median" : "0.233",
+      "achievement_hardest" : "0.182",
+      "achievement_median" : "0.236",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2349,7 +2349,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.203",
+      "achievement_median" : "0.204",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2448,8 +2448,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.775",
-      "achievement_median" : "0.79",
+      "achievement_hardest" : "0.779",
+      "achievement_median" : "0.794",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2621,7 +2621,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.046",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.0545",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2772,8 +2772,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.207",
-      "achievement_median" : "0.405",
+      "achievement_hardest" : "0.208",
+      "achievement_median" : "0.407",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3022,7 +3022,7 @@
       "url_store" : "http://store.steampowered.com/app/343860/"
    },
    "Tales from the Borderlands" : {
-      "achievement_hardest" : "0.455",
+      "achievement_hardest" : "0.456",
       "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "330830",
@@ -3465,7 +3465,7 @@
    },
    "Trackless" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1585",
+      "achievement_median" : "0.158",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3489,7 +3489,7 @@
    },
    "Train Valley" : {
       "achievement_hardest" : "0.014",
-      "achievement_median" : "0.135",
+      "achievement_median" : "0.136",
       "achievements" : true,
       "app_id" : "353640",
       "global_achievements" : true,
@@ -3728,8 +3728,8 @@
       "url_store" : "http://store.steampowered.com/app/9310/"
    },
    "Waveform" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.04",
+      "achievement_hardest" : "0.99",
+      "achievement_median" : "undef",
       "achievements" : true,
       "app_id" : "204180",
       "global_achievements" : true,
@@ -3769,7 +3769,7 @@
    },
    "World of Guns: Gun Disassembly" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.036",
+      "achievement_median" : "0.0355",
       "achievements" : true,
       "app_id" : "262410",
       "global_achievements" : true,
@@ -3930,8 +3930,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.441",
-      "achievement_median" : "0.797",
+      "achievement_hardest" : "0.44",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
