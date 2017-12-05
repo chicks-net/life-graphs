@@ -15,7 +15,7 @@
    },
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.266",
+      "achievement_median" : "0.265",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -61,7 +61,7 @@
    },
    "Animated Puzzles" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.072",
+      "achievement_median" : "0.0725",
       "achievements" : true,
       "app_id" : "379610",
       "global_achievements" : true,
@@ -259,7 +259,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.326",
-      "achievement_median" : "0.431",
+      "achievement_median" : "0.432",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -667,7 +667,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.296",
+      "achievement_median" : "0.297",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.321",
-      "achievement_median" : "0.543",
+      "achievement_median" : "0.5435",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -923,7 +923,7 @@
       "url_store" : "http://store.steampowered.com/app/570/"
    },
    "Double Action: Boogaloo" : {
-      "achievement_hardest" : "0.013",
+      "achievement_hardest" : "0.012",
       "achievement_median" : "0.013",
       "achievements" : true,
       "app_id" : "317360",
@@ -1070,7 +1070,7 @@
    },
    "Farm for your Life" : {
       "achievement_hardest" : "0.023",
-      "achievement_median" : "0.158",
+      "achievement_median" : "0.1585",
       "achievements" : true,
       "app_id" : "266390",
       "global_achievements" : true,
@@ -1143,8 +1143,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.761",
-      "achievement_median" : "0.794",
+      "achievement_hardest" : "0.763",
+      "achievement_median" : "0.792",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1252,7 +1252,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3955",
+      "achievement_median" : "0.395",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1405,7 +1405,7 @@
       "url_store" : "http://store.steampowered.com/app/41800/"
    },
    "Gunpoint" : {
-      "achievement_hardest" : "0.04",
+      "achievement_hardest" : "0.039",
       "achievement_median" : "0.3245",
       "achievements" : true,
       "app_id" : "206190",
@@ -1673,8 +1673,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.361",
+      "achievement_median" : "0.361",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.2405",
+      "achievement_median" : "0.241",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1876,7 +1876,7 @@
    },
    "Left 4 Dead" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.184",
+      "achievement_median" : "0.183",
       "achievements" : true,
       "app_id" : "500",
       "global_achievements" : true,
@@ -1902,7 +1902,7 @@
       "url_store" : "http://store.steampowered.com/app/550/"
    },
    "Letter Quest: Grimm's Journey" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.045",
       "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "328730",
@@ -1977,7 +1977,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.327",
-      "achievement_median" : "0.387",
+      "achievement_median" : "0.3865",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2131,7 +2131,7 @@
    },
    "Natural Selection 2" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "4920",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.197",
-      "achievement_median" : "0.25",
+      "achievement_hardest" : "0.201",
+      "achievement_median" : "0.253",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2682,7 +2682,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
@@ -2785,7 +2785,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.215",
-      "achievement_median" : "0.414",
+      "achievement_median" : "0.413",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2925,7 +2925,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.125",
+      "achievement_median" : "0.1255",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3011,7 +3011,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -3162,7 +3162,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.166",
+      "achievement_median" : "0.163",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -3477,7 +3477,7 @@
    },
    "Trackless" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.154",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3602,7 +3602,7 @@
       "url_store" : "http://store.steampowered.com/app/361280/"
    },
    "Type:Rider" : {
-      "achievement_hardest" : "0.047",
+      "achievement_hardest" : "0.046",
       "achievement_median" : "0.1295",
       "achievements" : true,
       "app_id" : "258890",
@@ -3615,7 +3615,7 @@
    },
    "Typoman" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.0585",
       "achievements" : true,
       "app_id" : "336240",
       "global_achievements" : true,
@@ -3755,7 +3755,7 @@
    },
    "Whispering Willows" : {
       "achievement_hardest" : "0.121",
-      "achievement_median" : "0.282",
+      "achievement_median" : "0.2825",
       "achievements" : true,
       "app_id" : "288060",
       "global_achievements" : true,
@@ -3954,8 +3954,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.442",
-      "achievement_median" : "0.7975",
+      "achievement_hardest" : "0.441",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
