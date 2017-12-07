@@ -3,7 +3,6 @@
 | Game | Percentage | Name | Description |
 | ---- | ---------: | ---- | ----------- |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/)  | 20.3% | Rocketeer | Shoot 100 missiles. |
-| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/676420/c993b154374a56abb52b5998795af112e9d5ecf5.jpg) ](http://store.steampowered.com/app/676420/)  | 21.5% | IX | IX |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/)  | 46.5% | Friendship Rules | Revived someone from "Fight for Your Life!" that is on your friends list |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/)  | 23.5% | Crowd in a train | Have a train filled with at least 100 passengers. |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg) ](http://store.steampowered.com/app/263760/)  | 23.8% | Disintegration | Fully obliterate Mr. Dismount. |
@@ -231,7 +230,6 @@
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221540/ea60dcb1d2894b60197da68f841fd41004fbdd89.jpg) ](http://store.steampowered.com/app/221540/)  | 0 | 4 | 0.0% |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/0c72cfbbc9da28f9c87a2f43eb2a33908d9d92ee.jpg) ](http://store.steampowered.com/app/569480/)  | 0 | 1 | 0.0% |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38600/2491a5493377730ddd75c078f5e73adb6c0c5285.jpg) ](http://store.steampowered.com/app/38600/)  | 0 | 3 | 0.0% |
-| [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/676420/c993b154374a56abb52b5998795af112e9d5ecf5.jpg) ](http://store.steampowered.com/app/676420/)  | 1 | 0 | 100.0% |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/)  | 1 | 8 | 11.1% |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220900/3f5aa1d546b5b82eedacbf8f5ae76ed46303a241.jpg) ](http://store.steampowered.com/app/220900/)  | 0 | 4 | 0.0% |
 | [ ![logo links to store](http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg) ](http://store.steampowered.com/app/346900/)  | 0 | 5 | 0.0% |
