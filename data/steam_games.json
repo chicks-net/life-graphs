@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.523",
-      "achievement_median" : "0.531",
+      "achievement_hardest" : "0.524",
+      "achievement_median" : "0.5315",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -15,7 +15,7 @@
    },
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.2645",
+      "achievement_median" : "0.266",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -258,8 +258,8 @@
       "url_store" : "http://store.steampowered.com/app/214932/"
    },
    "Blind Love" : {
-      "achievement_hardest" : "0.325",
-      "achievement_median" : "0.431",
+      "achievement_hardest" : "0.324",
+      "achievement_median" : "0.4305",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.096",
+      "achievement_median" : "0.095",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -602,7 +602,7 @@
       "url_store" : "http://store.steampowered.com/app/247020/"
    },
    "Cosmic Express" : {
-      "achievement_hardest" : "0.024",
+      "achievement_hardest" : "0.025",
       "achievement_median" : "0.1055",
       "achievements" : true,
       "app_id" : "583270",
@@ -627,7 +627,7 @@
    },
    "Costume Quest 2" : {
       "achievement_hardest" : "0.065",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.2605",
       "achievements" : true,
       "app_id" : "275180",
       "global_achievements" : true,
@@ -983,7 +983,7 @@
       "url_store" : "http://store.steampowered.com/app/65800/"
    },
    "EDGE" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.036",
       "achievements" : true,
       "app_id" : "38740",
@@ -1143,8 +1143,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.769",
-      "achievement_median" : "0.789",
+      "achievement_hardest" : "0.772",
+      "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1172,7 +1172,7 @@
    },
    "Fort Defense" : {
       "achievement_hardest" : "0.175",
-      "achievement_median" : "0.293",
+      "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "343930",
       "global_achievements" : true,
@@ -1252,7 +1252,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3945",
+      "achievement_median" : "0.395",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.3245",
+      "achievement_median" : "0.324",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1522,7 +1522,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.324",
+      "achievement_median" : "0.3245",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1662,7 +1662,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.165",
+      "achievement_median" : "0.1655",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1828,7 +1828,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.0695",
+      "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.243",
+      "achievement_median" : "0.2435",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.199",
-      "achievement_median" : "0.25",
+      "achievement_hardest" : "0.197",
+      "achievement_median" : "0.248",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2301,7 +2301,7 @@
    },
    "Planets Under Attack" : {
       "achievement_hardest" : "0.021",
-      "achievement_median" : "0.035",
+      "achievement_median" : "0.034",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -2460,8 +2460,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.781",
-      "achievement_median" : "0.794",
+      "achievement_hardest" : "0.783",
+      "achievement_median" : "0.796",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2633,7 +2633,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.048",
-      "achievement_median" : "0.0565",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2682,7 +2682,7 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.042",
+      "achievement_hardest" : "0.043",
       "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "465760",
@@ -2785,7 +2785,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.214",
-      "achievement_median" : "0.413",
+      "achievement_median" : "0.4125",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3011,7 +3011,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -3098,7 +3098,7 @@
    },
    "The Binding of Isaac" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.102",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "113200",
       "global_achievements" : true,
@@ -3450,7 +3450,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3477,7 +3477,7 @@
    },
    "Trackless" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.15",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3954,7 +3954,7 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.441",
+      "achievement_hardest" : "0.442",
       "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
