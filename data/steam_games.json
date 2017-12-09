@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.524",
-      "achievement_median" : "0.5315",
+      "achievement_median" : "0.532",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -15,7 +15,7 @@
    },
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.038",
-      "achievement_median" : "0.266",
+      "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -555,7 +555,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.096",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -667,7 +667,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.297",
+      "achievement_median" : "0.298",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -679,7 +679,7 @@
    },
    "Counter-Strike: Source" : {
       "achievement_hardest" : "0.017",
-      "achievement_median" : "0.124",
+      "achievement_median" : "0.123",
       "achievements" : true,
       "app_id" : "240",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.322",
-      "achievement_median" : "0.544",
+      "achievement_median" : "0.5445",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1143,8 +1143,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.772",
-      "achievement_median" : "0.785",
+      "achievement_hardest" : "0.774",
+      "achievement_median" : "0.783",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1252,7 +1252,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.395",
+      "achievement_median" : "0.3945",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1266,7 +1266,7 @@
    },
    "Game Dev Tycoon" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.283",
+      "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "239820",
       "global_achievements" : true,
@@ -1406,7 +1406,7 @@
    },
    "Gunpoint" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.324",
+      "achievement_median" : "0.3235",
       "achievements" : true,
       "app_id" : "206190",
       "global_achievements" : true,
@@ -1522,7 +1522,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.3245",
+      "achievement_median" : "0.324",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1614,7 +1614,7 @@
    },
    "Heroes Rise: The Prodigy" : {
       "achievement_hardest" : "0.055",
-      "achievement_median" : "0.368",
+      "achievement_median" : "0.369",
       "achievements" : true,
       "app_id" : "299540",
       "global_achievements" : true,
@@ -1662,7 +1662,7 @@
    },
    "Hidden Folks" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.1655",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1673,8 +1673,8 @@
       "url_store" : "http://store.steampowered.com/app/435400/"
    },
    "Hook" : {
-      "achievement_hardest" : "0.36",
-      "achievement_median" : "0.36",
+      "achievement_hardest" : "0.361",
+      "achievement_median" : "0.361",
       "achievements" : true,
       "app_id" : "367580",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.2435",
+      "achievement_median" : "0.245",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1977,7 +1977,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.327",
-      "achievement_median" : "0.386",
+      "achievement_median" : "0.387",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.197",
-      "achievement_median" : "0.248",
+      "achievement_hardest" : "0.196",
+      "achievement_median" : "0.246",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2361,7 +2361,7 @@
    },
    "Portal 2" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.204",
+      "achievement_median" : "0.202",
       "achievements" : true,
       "app_id" : "620",
       "global_achievements" : true,
@@ -2460,8 +2460,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.783",
-      "achievement_median" : "0.796",
+      "achievement_hardest" : "0.786",
+      "achievement_median" : "0.799",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2530,7 +2530,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.527",
+      "achievement_hardest" : "0.528",
       "achievement_median" : "0.672",
       "achievements" : true,
       "app_id" : "502400",
@@ -2632,8 +2632,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.048",
-      "achievement_median" : "0.057",
+      "achievement_hardest" : "0.049",
+      "achievement_median" : "0.0575",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2682,8 +2682,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.043",
-      "achievement_median" : "0.1605",
+      "achievement_hardest" : "0.042",
+      "achievement_median" : "0.161",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2784,8 +2784,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.214",
-      "achievement_median" : "0.4125",
+      "achievement_hardest" : "0.213",
+      "achievement_median" : "0.411",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2833,7 +2833,7 @@
    },
    "Space Food Truck" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.251",
+      "achievement_median" : "0.252",
       "achievements" : true,
       "app_id" : "397390",
       "global_achievements" : true,
@@ -2925,7 +2925,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3011,7 +3011,7 @@
    },
    "Tabletop Simulator" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.022",
+      "achievement_median" : "0.021",
       "achievements" : true,
       "app_id" : "286160",
       "global_achievements" : true,
@@ -3023,7 +3023,7 @@
    },
    "Tacoma" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.231",
+      "achievement_median" : "0.2315",
       "achievements" : true,
       "app_id" : "343860",
       "global_achievements" : true,
@@ -3162,7 +3162,7 @@
    },
    "The Bureau: XCOM Declassified" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.161",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "65930",
       "global_achievements" : true,
@@ -3477,7 +3477,7 @@
    },
    "Trackless" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.149",
+      "achievement_median" : "0.146",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3805,7 +3805,7 @@
    },
    "XCOM 2" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.1635",
+      "achievement_median" : "0.164",
       "achievements" : true,
       "app_id" : "268500",
       "global_achievements" : true,
