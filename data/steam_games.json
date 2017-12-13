@@ -15,7 +15,7 @@
    },
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.039",
-      "achievement_median" : "0.27",
+      "achievement_median" : "0.271",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -179,7 +179,7 @@
    },
    "BattleLore: Command" : {
       "achievement_hardest" : "0.073",
-      "achievement_median" : "0.088",
+      "achievement_median" : "0.089",
       "achievements" : true,
       "app_id" : "348400",
       "global_achievements" : true,
@@ -439,7 +439,7 @@
    },
    "Brigador: Up-Armored Edition" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.008",
+      "achievement_median" : "0.009",
       "achievements" : true,
       "app_id" : "274500",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.323",
-      "achievement_median" : "0.544",
+      "achievement_median" : "0.545",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1255",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -832,7 +832,7 @@
    },
    "Defense Grid 2" : {
       "achievement_hardest" : "0.02",
-      "achievement_median" : "0.208",
+      "achievement_median" : "0.209",
       "achievements" : true,
       "app_id" : "221540",
       "global_achievements" : true,
@@ -1006,7 +1006,7 @@
    },
    "Everything" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.187",
+      "achievement_median" : "0.1865",
       "achievements" : true,
       "app_id" : "582270",
       "global_achievements" : true,
@@ -1144,7 +1144,7 @@
    },
    "Flow:The Sliding" : {
       "achievement_hardest" : "0.782",
-      "achievement_median" : "0.787",
+      "achievement_median" : "0.786",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1522,7 +1522,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.3245",
+      "achievement_median" : "0.324",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.25",
+      "achievement_median" : "0.2515",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1917,7 +1917,7 @@
    },
    "Letter Quest: Grimm's Journey Remastered" : {
       "achievement_hardest" : "0.027",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.0955",
       "achievements" : true,
       "app_id" : "373970",
       "global_achievements" : true,
@@ -2192,8 +2192,8 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.002",
-      "achievement_median" : "0.03",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.029",
       "achievements" : true,
       "app_id" : "218620",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.196",
-      "achievement_median" : "0.246",
+      "achievement_hardest" : "0.2",
+      "achievement_median" : "0.25",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2461,7 +2461,7 @@
    },
    "Quad Hopping" : {
       "achievement_hardest" : "0.786",
-      "achievement_median" : "0.799",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2657,7 +2657,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.268",
+      "achievement_median" : "0.2675",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2682,8 +2682,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.039",
-      "achievement_median" : "0.151",
+      "achievement_hardest" : "0.038",
+      "achievement_median" : "0.1475",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2785,7 +2785,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.215",
-      "achievement_median" : "0.4095",
+      "achievement_median" : "0.4085",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2936,8 +2936,8 @@
       "url_store" : "http://store.steampowered.com/app/413150/"
    },
    "Submerged" : {
-      "achievement_hardest" : "0.076",
-      "achievement_median" : "0.15",
+      "achievement_hardest" : "0.071",
+      "achievement_median" : "0.1395",
       "achievements" : true,
       "app_id" : "301860",
       "global_achievements" : true,
@@ -3023,7 +3023,7 @@
    },
    "Tacoma" : {
       "achievement_hardest" : "0.068",
-      "achievement_median" : "0.232",
+      "achievement_median" : "0.2325",
       "achievements" : true,
       "app_id" : "343860",
       "global_achievements" : true,
@@ -3282,7 +3282,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.2815",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -3450,7 +3450,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.1605",
+      "achievement_median" : "0.16",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3955,7 +3955,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.442",
-      "achievement_median" : "0.7975",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
