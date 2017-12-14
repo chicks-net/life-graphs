@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -198,7 +198,7 @@
       "url_store" : "http://store.steampowered.com/app/461220/"
    },
    "Beholder" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "475550",
@@ -259,7 +259,7 @@
    },
    "Blind Love" : {
       "achievement_hardest" : "0.326",
-      "achievement_median" : "0.431",
+      "achievement_median" : "0.4305",
       "achievements" : true,
       "app_id" : "568020",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1143,8 +1143,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.782",
-      "achievement_median" : "0.786",
+      "achievement_hardest" : "0.78",
+      "achievement_median" : "0.785",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1522,7 +1522,7 @@
    },
    "Half-Life 2: Episode Two" : {
       "achievement_hardest" : "0.034",
-      "achievement_median" : "0.324",
+      "achievement_median" : "0.3245",
       "achievements" : true,
       "app_id" : "420",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2515",
+      "achievement_median" : "0.252",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1977,7 +1977,7 @@
    },
    "MMM: Murder Most Misfortunate" : {
       "achievement_hardest" : "0.326",
-      "achievement_median" : "0.3865",
+      "achievement_median" : "0.3855",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.2",
-      "achievement_median" : "0.25",
+      "achievement_hardest" : "0.198",
+      "achievement_median" : "0.248",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2461,7 +2461,7 @@
    },
    "Quad Hopping" : {
       "achievement_hardest" : "0.786",
-      "achievement_median" : "0.798",
+      "achievement_median" : "0.799",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2530,7 +2530,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.527",
+      "achievement_hardest" : "0.528",
       "achievement_median" : "0.6715",
       "achievements" : true,
       "app_id" : "502400",
@@ -2633,7 +2633,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.05",
-      "achievement_median" : "0.0585",
+      "achievement_median" : "0.059",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2657,7 +2657,7 @@
    },
    "SUPERHOT" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.2675",
+      "achievement_median" : "0.268",
       "achievements" : true,
       "app_id" : "322500",
       "global_achievements" : true,
@@ -2682,8 +2682,8 @@
       "url_store" : "http://store.steampowered.com/app/91600/"
    },
    "Scrap Garden" : {
-      "achievement_hardest" : "0.038",
-      "achievement_median" : "0.1475",
+      "achievement_hardest" : "0.037",
+      "achievement_median" : "0.1455",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2785,7 +2785,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.215",
-      "achievement_median" : "0.4085",
+      "achievement_median" : "0.409",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2925,7 +2925,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.126",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -2936,8 +2936,8 @@
       "url_store" : "http://store.steampowered.com/app/413150/"
    },
    "Submerged" : {
-      "achievement_hardest" : "0.071",
-      "achievement_median" : "0.1395",
+      "achievement_hardest" : "0.069",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "301860",
       "global_achievements" : true,
@@ -3010,7 +3010,7 @@
       "url_store" : "http://store.steampowered.com/app/370360/"
    },
    "Tabletop Simulator" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "286160",
@@ -3022,7 +3022,7 @@
       "url_store" : "http://store.steampowered.com/app/286160/"
    },
    "Tacoma" : {
-      "achievement_hardest" : "0.068",
+      "achievement_hardest" : "0.069",
       "achievement_median" : "0.2325",
       "achievements" : true,
       "app_id" : "343860",
@@ -3282,7 +3282,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -3450,7 +3450,7 @@
    },
    "Tomb Raider" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.16",
+      "achievement_median" : "0.1605",
       "achievements" : true,
       "app_id" : "203160",
       "global_achievements" : true,
@@ -3476,8 +3476,8 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Trackless" : {
-      "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1475",
+      "achievement_hardest" : "0.011",
+      "achievement_median" : "0.149",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3955,7 +3955,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.442",
-      "achievement_median" : "0.798",
+      "achievement_median" : "0.797",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
