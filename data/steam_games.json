@@ -223,7 +223,7 @@
    },
    "BioShock Infinite" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.0975",
+      "achievement_median" : "0.098",
       "achievements" : true,
       "app_id" : "8870",
       "global_achievements" : true,
@@ -363,7 +363,7 @@
    },
    "Braid" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.305",
+      "achievement_median" : "0.3055",
       "achievements" : true,
       "app_id" : "26800",
       "global_achievements" : true,
@@ -667,7 +667,7 @@
    },
    "Counter-Strike: Global Offensive" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.3",
+      "achievement_median" : "0.301",
       "achievements" : true,
       "app_id" : "730",
       "global_achievements" : true,
@@ -767,7 +767,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1144,7 +1144,7 @@
    },
    "Flow:The Sliding" : {
       "achievement_hardest" : "0.775",
-      "achievement_median" : "0.78",
+      "achievement_median" : "0.779",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1430,7 +1430,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1625,7 +1625,7 @@
       "url_store" : "http://store.steampowered.com/app/299540/"
    },
    "Hexcells" : {
-      "achievement_hardest" : "0.437",
+      "achievement_hardest" : "0.438",
       "achievement_median" : "0.695",
       "achievements" : true,
       "app_id" : "265890",
@@ -1649,7 +1649,7 @@
       "url_store" : "http://store.steampowered.com/app/304410/"
    },
    "Hexcells Plus" : {
-      "achievement_hardest" : "0.407",
+      "achievement_hardest" : "0.408",
       "achievement_median" : "0.6535",
       "achievements" : true,
       "app_id" : "271900",
@@ -1661,7 +1661,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.019",
+      "achievement_hardest" : "0.021",
       "achievement_median" : "0.1655",
       "achievements" : true,
       "app_id" : "435400",
@@ -1792,7 +1792,7 @@
    },
    "Kingdom Rush" : {
       "achievement_hardest" : "0.063",
-      "achievement_median" : "0.3045",
+      "achievement_median" : "0.305",
       "achievements" : true,
       "app_id" : "246420",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.2545",
+      "achievement_median" : "0.255",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1976,8 +1976,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.326",
-      "achievement_median" : "0.3875",
+      "achievement_hardest" : "0.325",
+      "achievement_median" : "0.3885",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2065,7 +2065,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.119",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2264,8 +2264,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.2",
-      "achievement_median" : "0.253",
+      "achievement_hardest" : "0.201",
+      "achievement_median" : "0.254",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2530,8 +2530,8 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.528",
-      "achievement_median" : "0.6725",
+      "achievement_hardest" : "0.529",
+      "achievement_median" : "0.673",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2632,7 +2632,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.051",
+      "achievement_hardest" : "0.052",
       "achievement_median" : "0.0605",
       "achievements" : true,
       "app_id" : "252490",
@@ -2683,7 +2683,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.139",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2707,7 +2707,7 @@
    },
    "Sentinel" : {
       "achievement_hardest" : "0.051",
-      "achievement_median" : "0.054",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "293200",
       "global_achievements" : true,
@@ -2785,7 +2785,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.213",
-      "achievement_median" : "0.4065",
+      "achievement_median" : "0.407",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -2925,7 +2925,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.1265",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3035,7 +3035,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.456",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -3118,7 +3118,7 @@
    },
    "The Book of Unwritten Tales 2" : {
       "achievement_hardest" : "0.049",
-      "achievement_median" : "0.412",
+      "achievement_median" : "0.413",
       "achievements" : true,
       "app_id" : "279940",
       "global_achievements" : true,
@@ -3320,7 +3320,7 @@
    },
    "This War of Mine" : {
       "achievement_hardest" : "0.005",
-      "achievement_median" : "0.131",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "282070",
       "global_achievements" : true,
@@ -3438,7 +3438,7 @@
    },
    "Toki Tori" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.0685",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "38700",
       "global_achievements" : true,
@@ -3602,7 +3602,7 @@
       "url_store" : "http://store.steampowered.com/app/361280/"
    },
    "Type:Rider" : {
-      "achievement_hardest" : "0.046",
+      "achievement_hardest" : "0.047",
       "achievement_median" : "0.1295",
       "achievements" : true,
       "app_id" : "258890",
