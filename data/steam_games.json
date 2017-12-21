@@ -15,7 +15,7 @@
    },
    "12 is Better Than 6" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.273",
+      "achievement_median" : "0.2735",
       "achievements" : true,
       "app_id" : "410110",
       "global_achievements" : true,
@@ -29,7 +29,7 @@
    },
    "AdVenture Capitalist" : {
       "achievement_hardest" : "0.033",
-      "achievement_median" : "0.144",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "346900",
       "global_achievements" : true,
@@ -375,7 +375,7 @@
    },
    "Bridge Constructor" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.077",
+      "achievement_median" : "0.0765",
       "achievements" : true,
       "app_id" : "250460",
       "global_achievements" : true,
@@ -626,7 +626,7 @@
       "url_store" : "http://store.steampowered.com/app/115100/"
    },
    "Costume Quest 2" : {
-      "achievement_hardest" : "0.065",
+      "achievement_hardest" : "0.066",
       "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "275180",
@@ -754,7 +754,7 @@
    },
    "Cursed Treasure 2" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.607",
+      "achievement_median" : "0.608",
       "achievements" : true,
       "app_id" : "643960",
       "global_achievements" : true,
@@ -1038,7 +1038,7 @@
    },
    "FEZ" : {
       "achievement_hardest" : "0.053",
-      "achievement_median" : "0.1315",
+      "achievement_median" : "0.132",
       "achievements" : true,
       "app_id" : "224760",
       "global_achievements" : true,
@@ -1155,8 +1155,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.776",
-      "achievement_median" : "0.781",
+      "achievement_hardest" : "0.775",
+      "achievement_median" : "0.78",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1183,7 +1183,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.175",
+      "achievement_hardest" : "0.176",
       "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "343930",
@@ -1290,7 +1290,7 @@
    },
    "Garry's Mod" : {
       "achievement_hardest" : "0.018",
-      "achievement_median" : "0.043",
+      "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "4000",
       "global_achievements" : true,
@@ -1442,7 +1442,7 @@
    },
    "HITMAN™" : {
       "achievement_hardest" : "0.012",
-      "achievement_median" : "0.057",
+      "achievement_median" : "0.056",
       "achievements" : true,
       "app_id" : "236870",
       "global_achievements" : true,
@@ -1662,7 +1662,7 @@
    },
    "Hexcells Plus" : {
       "achievement_hardest" : "0.408",
-      "achievement_median" : "0.6535",
+      "achievement_median" : "0.654",
       "achievements" : true,
       "app_id" : "271900",
       "global_achievements" : true,
@@ -1673,8 +1673,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.023",
-      "achievement_median" : "0.1655",
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.166",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1827,8 +1827,8 @@
       "url_store" : "http://store.steampowered.com/app/458710/"
    },
    "Kingdom: Classic" : {
-      "achievement_hardest" : "0.01",
-      "achievement_median" : "0.051",
+      "achievement_hardest" : "0.008",
+      "achievement_median" : "0.0435",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1840,7 +1840,7 @@
    },
    "Kingdom: New Lands" : {
       "achievement_hardest" : "0.013",
-      "achievement_median" : "0.07",
+      "achievement_median" : "0.069",
       "achievements" : true,
       "app_id" : "496300",
       "global_achievements" : true,
@@ -1852,7 +1852,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.255",
+      "achievement_median" : "0.2565",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -2026,8 +2026,8 @@
       "url_store" : "http://store.steampowered.com/app/479040/"
    },
    "Metro: Last Light" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.013",
+      "achievement_median" : "0.068",
       "achievements" : true,
       "app_id" : "43160",
       "global_achievements" : true,
@@ -2077,7 +2077,7 @@
    },
    "Mount & Blade: Warband" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.12",
+      "achievement_median" : "0.1195",
       "achievements" : true,
       "app_id" : "48700",
       "global_achievements" : true,
@@ -2276,8 +2276,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.201",
-      "achievement_median" : "0.254",
+      "achievement_hardest" : "0.204",
+      "achievement_median" : "0.257",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2473,7 +2473,7 @@
    },
    "Quad Hopping" : {
       "achievement_hardest" : "0.794",
-      "achievement_median" : "0.806",
+      "achievement_median" : "0.807",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2645,7 +2645,7 @@
    },
    "Rust" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.061",
+      "achievement_median" : "0.0615",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2695,7 +2695,7 @@
    },
    "Scrap Garden" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1375",
+      "achievement_median" : "0.1365",
       "achievements" : true,
       "app_id" : "465760",
       "global_achievements" : true,
@@ -2797,7 +2797,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.214",
-      "achievement_median" : "0.4075",
+      "achievement_median" : "0.406",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3047,7 +3047,7 @@
    },
    "Tales from the Borderlands" : {
       "achievement_hardest" : "0.456",
-      "achievement_median" : "0.519",
+      "achievement_median" : "0.52",
       "achievements" : true,
       "app_id" : "330830",
       "global_achievements" : true,
@@ -3150,7 +3150,7 @@
    },
    "The Book of Unwritten Tales: The Critter Chronicles" : {
       "achievement_hardest" : "0.099",
-      "achievement_median" : "0.448",
+      "achievement_median" : "0.4485",
       "achievements" : true,
       "app_id" : "221830",
       "global_achievements" : true,
@@ -3234,7 +3234,7 @@
    },
    "The Fall" : {
       "achievement_hardest" : "0.022",
-      "achievement_median" : "0.238",
+      "achievement_median" : "0.237",
       "achievements" : true,
       "app_id" : "290770",
       "global_achievements" : true,
@@ -3294,7 +3294,7 @@
    },
    "The Stanley Parable" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.281",
+      "achievement_median" : "0.2815",
       "achievements" : true,
       "app_id" : "221910",
       "global_achievements" : true,
@@ -3450,7 +3450,7 @@
    },
    "Toki Tori" : {
       "achievement_hardest" : "0.028",
-      "achievement_median" : "0.068",
+      "achievement_median" : "0.0685",
       "achievements" : true,
       "app_id" : "38700",
       "global_achievements" : true,
