@@ -6174,8 +6174,13 @@
       "chicks_played_percent" : "0.47131328043313"
    },
    "2017-12-29 03:13" : {
-      "chicks_chieved_percent" : 0.622583940172631,
-      "chicks_overall_percent" : 0.185307885559347,
-      "chicks_played_percent" : 0.471853091499257
+      "chicks_chieved_percent" : "0.622583940172631",
+      "chicks_overall_percent" : "0.185307885559347",
+      "chicks_played_percent" : "0.471853091499257"
+   },
+   "2017-12-30 03:13" : {
+      "chicks_chieved_percent" : 0.631487074075765,
+      "chicks_overall_percent" : 0.187736012987474,
+      "chicks_played_percent" : 0.478600729825843
    }
 }
