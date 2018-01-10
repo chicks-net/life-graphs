@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
-      "achievement_hardest" : "0.528",
-      "achievement_median" : "0.536",
+      "achievement_hardest" : "0.529",
+      "achievement_median" : "0.537",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -60,7 +60,7 @@
       "url_store" : "http://store.steampowered.com/app/317250/"
    },
    "Animated Puzzles" : {
-      "achievement_hardest" : "0.037",
+      "achievement_hardest" : "0.038",
       "achievement_median" : "0.0715",
       "achievements" : true,
       "app_id" : "379610",
@@ -121,7 +121,7 @@
    },
    "Art Of Gravity" : {
       "achievement_hardest" : "0.174",
-      "achievement_median" : "0.229",
+      "achievement_median" : "0.228",
       "achievements" : true,
       "app_id" : "642560",
       "global_achievements" : true,
@@ -211,7 +211,7 @@
    },
    "Beholder" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.0265",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "475550",
       "global_achievements" : true,
@@ -297,7 +297,7 @@
    },
    "Borderlands 2" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.151",
+      "achievement_median" : "0.152",
       "achievements" : true,
       "app_id" : "49520",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Cannon Brawl" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1795",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "230860",
       "global_achievements" : true,
@@ -494,8 +494,8 @@
       "url_store" : "http://store.steampowered.com/app/230860/"
    },
    "Carpe Diem" : {
-      "achievement_hardest" : "0.679",
-      "achievement_median" : "0.679",
+      "achievement_hardest" : "0.68",
+      "achievement_median" : "0.68",
       "achievements" : true,
       "app_id" : "423880",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.091",
+      "achievement_median" : "0.092",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -615,7 +615,7 @@
    },
    "Cosmic Express" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.1035",
+      "achievement_median" : "0.103",
       "achievements" : true,
       "app_id" : "583270",
       "global_achievements" : true,
@@ -716,7 +716,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.319",
-      "achievement_median" : "0.5355",
+      "achievement_median" : "0.535",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -765,8 +765,8 @@
       "url_store" : "http://store.steampowered.com/app/207250/"
    },
    "Cursed Treasure 2" : {
-      "achievement_hardest" : "0.062",
-      "achievement_median" : "0.601",
+      "achievement_hardest" : "0.063",
+      "achievement_median" : "0.602",
       "achievements" : true,
       "app_id" : "643960",
       "global_achievements" : true,
@@ -1114,7 +1114,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.4375",
+      "achievement_median" : "0.438",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1175,8 +1175,8 @@
       "url_store" : "http://store.steampowered.com/app/62000/"
    },
    "Flow:The Sliding" : {
-      "achievement_hardest" : "0.77",
-      "achievement_median" : "0.775",
+      "achievement_hardest" : "0.769",
+      "achievement_median" : "0.774",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1203,7 +1203,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.176",
+      "achievement_hardest" : "0.175",
       "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "343930",
@@ -1271,7 +1271,7 @@
       "url_store" : "http://store.steampowered.com/app/44200/"
    },
    "Galcon Legends" : {
-      "achievement_hardest" : "0.012",
+      "achievement_hardest" : "0.013",
       "achievement_median" : "0.1015",
       "achievements" : true,
       "app_id" : "201040",
@@ -1553,7 +1553,7 @@
       "url_store" : "http://store.steampowered.com/app/380/"
    },
    "Half-Life 2: Episode Two" : {
-      "achievement_hardest" : "0.034",
+      "achievement_hardest" : "0.035",
       "achievement_median" : "0.3245",
       "achievements" : true,
       "app_id" : "420",
@@ -1693,8 +1693,8 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.049",
-      "achievement_median" : "0.164",
+      "achievement_hardest" : "0.05",
+      "achievement_median" : "0.165",
       "achievements" : true,
       "app_id" : "435400",
       "global_achievements" : true,
@@ -1836,7 +1836,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.458",
+      "achievement_median" : "0.4585",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1880,7 +1880,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.257",
+      "achievement_median" : "0.2575",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1983,7 +1983,7 @@
    },
    "Life is Strange™" : {
       "achievement_hardest" : "0.04",
-      "achievement_median" : "0.1425",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "319630",
       "global_achievements" : true,
@@ -1994,8 +1994,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Lines by Nestor Yavorskyy" : {
-      "achievement_hardest" : "0.32",
-      "achievement_median" : "0.508",
+      "achievement_hardest" : "0.322",
+      "achievement_median" : "0.51",
       "achievements" : true,
       "app_id" : "724740",
       "global_achievements" : true,
@@ -2028,8 +2028,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.323",
-      "achievement_median" : "0.387",
+      "achievement_hardest" : "0.324",
+      "achievement_median" : "0.389",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2157,7 +2157,7 @@
    },
    "Mountain" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.05",
+      "achievement_median" : "0.051",
       "achievements" : true,
       "app_id" : "313340",
       "global_achievements" : true,
@@ -2207,7 +2207,7 @@
    },
    "Nihilumbra" : {
       "achievement_hardest" : "0.035",
-      "achievement_median" : "0.1325",
+      "achievement_median" : "0.133",
       "achievements" : true,
       "app_id" : "252670",
       "global_achievements" : true,
@@ -2280,8 +2280,8 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "PUSH" : {
-      "achievement_hardest" : "0.259",
-      "achievement_median" : "0.259",
+      "achievement_hardest" : "0.258",
+      "achievement_median" : "0.258",
       "achievements" : true,
       "app_id" : "676430",
       "global_achievements" : true,
@@ -2340,8 +2340,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.214",
-      "achievement_median" : "0.268",
+      "achievement_hardest" : "0.213",
+      "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2376,8 +2376,8 @@
       "url_store" : "http://store.steampowered.com/app/233250/"
    },
    "Planets Under Attack" : {
-      "achievement_hardest" : "0.018",
-      "achievement_median" : "0.028",
+      "achievement_hardest" : "0.017",
+      "achievement_median" : "0.027",
       "achievements" : true,
       "app_id" : "218510",
       "global_achievements" : true,
@@ -2536,8 +2536,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.82",
-      "achievement_median" : "0.833",
+      "achievement_hardest" : "0.819",
+      "achievement_median" : "0.832",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2606,7 +2606,7 @@
       "url_store" : "http://store.steampowered.com/app/253030/"
    },
    "Redactem" : {
-      "achievement_hardest" : "0.532",
+      "achievement_hardest" : "0.533",
       "achievement_median" : "0.676",
       "achievements" : true,
       "app_id" : "502400",
@@ -2708,7 +2708,7 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.07",
       "achievements" : true,
       "app_id" : "252490",
@@ -2732,7 +2732,7 @@
       "url_store" : "http://store.steampowered.com/app/504210/"
    },
    "SUPERHOT" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.014",
       "achievement_median" : "0.267",
       "achievements" : true,
       "app_id" : "322500",
@@ -2872,8 +2872,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.233",
-      "achievement_median" : "0.4195",
+      "achievement_hardest" : "0.23",
+      "achievement_median" : "0.417",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3025,7 +3025,7 @@
    },
    "Startup Company" : {
       "achievement_hardest" : "0.058",
-      "achievement_median" : "0.502",
+      "achievement_median" : "0.501",
       "achievements" : true,
       "app_id" : "606800",
       "global_achievements" : true,
@@ -3406,7 +3406,7 @@
    },
    "The Talos Principle" : {
       "achievement_hardest" : "0.031",
-      "achievement_median" : "0.195",
+      "achievement_median" : "0.1945",
       "achievements" : true,
       "app_id" : "257510",
       "global_achievements" : true,
@@ -3675,7 +3675,7 @@
    },
    "Tropico 5" : {
       "achievement_hardest" : "0.002",
-      "achievement_median" : "0.0745",
+      "achievement_median" : "0.075",
       "achievements" : true,
       "app_id" : "245620",
       "global_achievements" : true,
@@ -3878,7 +3878,7 @@
       "url_store" : "http://store.steampowered.com/app/204180/"
    },
    "Whispering Willows" : {
-      "achievement_hardest" : "0.121",
+      "achievement_hardest" : "0.122",
       "achievement_median" : "0.284",
       "achievements" : true,
       "app_id" : "288060",
@@ -4103,7 +4103,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.445",
-      "achievement_median" : "0.799",
+      "achievement_median" : "0.7985",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
