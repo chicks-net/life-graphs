@@ -2,9 +2,9 @@
 
 | Game | Percentage | Name | Description |
 | ---- | ---------: | ---- | ----------- |
-| [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/696460/61e2b356dbc3ac86aa48366a2c10b1f4d2effa95.jpg) ](http://store.steampowered.com/app/696460/)  | 38.8% | 20 laps | Drive your car 20 laps |
+| [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/696460/61e2b356dbc3ac86aa48366a2c10b1f4d2effa95.jpg) ](http://store.steampowered.com/app/696460/)  | 39.2% | 20 laps | Drive your car 20 laps |
 | [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/246420/4a30b9d0a8b6e7287f2b617dd28dce6910aeafe8.jpg) ](http://store.steampowered.com/app/246420/)  | 20.3% | Rocketeer | Shoot 100 missiles. |
-| [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/)  | 46.5% | Friendship Rules | Revived someone from "Fight for Your Life!" that is on your friends list |
+| [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/49520/86b0fa5ddb41b4dfff7df194a017f3418130d668.jpg) ](http://store.steampowered.com/app/49520/)  | 46.6% | Friendship Rules | Revived someone from "Fight for Your Life!" that is on your friends list |
 | [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/304730/6de0f09ad36ac3b478d26dd59cd50d71fa85688a.jpg) ](http://store.steampowered.com/app/304730/)  | 23.3% | Crowd in a train | Have a train filled with at least 100 passengers. |
 | [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg) ](http://store.steampowered.com/app/263760/)  | 23.6% | Disintegration | Fully obliterate Mr. Dismount. |
 | [ ![logo links to store](http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/apps/263760/d40c0c4048147b24d8f3fcafaf4df5f045d70246.jpg) ](http://store.steampowered.com/app/263760/)  | 21.0% | To Space! | Reach a height of 1000ft (305m) in Space Program. |
