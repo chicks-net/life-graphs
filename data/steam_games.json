@@ -1,7 +1,7 @@
 {
    "#monstercakes" : {
       "achievement_hardest" : "0.533",
-      "achievement_median" : "0.541",
+      "achievement_median" : "0.5415",
       "achievements" : true,
       "app_id" : "614910",
       "global_achievements" : true,
@@ -429,7 +429,7 @@
    },
    "Bridge Constructor Stunts" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.028",
+      "achievement_median" : "0.0275",
       "achievements" : true,
       "app_id" : "419080",
       "global_achievements" : true,
@@ -542,7 +542,7 @@
       "url_store" : "http://store.steampowered.com/app/73010/"
    },
    "Cities in Motion 2" : {
-      "achievement_hardest" : "0.008",
+      "achievement_hardest" : "0.007",
       "achievement_median" : "0.058",
       "achievements" : true,
       "app_id" : "225420",
@@ -567,7 +567,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.093",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -884,7 +884,7 @@
    },
    "Democracy 3" : {
       "achievement_hardest" : "0.003",
-      "achievement_median" : "0.191",
+      "achievement_median" : "0.1915",
       "achievements" : true,
       "app_id" : "245470",
       "global_achievements" : true,
@@ -1101,8 +1101,8 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Faerie Solitaire Remastered" : {
-      "achievement_hardest" : "0.019",
-      "achievement_median" : "0.144",
+      "achievement_hardest" : "0.02",
+      "achievement_median" : "0.1485",
       "achievements" : true,
       "app_id" : "583930",
       "global_achievements" : true,
@@ -1188,7 +1188,7 @@
    },
    "Flow:The Sliding" : {
       "achievement_hardest" : "0.761",
-      "achievement_median" : "0.766",
+      "achievement_median" : "0.767",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1215,7 +1215,7 @@
       "url_store" : "http://store.steampowered.com/app/490820/"
    },
    "Fort Defense" : {
-      "achievement_hardest" : "0.175",
+      "achievement_hardest" : "0.176",
       "achievement_median" : "0.294",
       "achievements" : true,
       "app_id" : "343930",
@@ -1296,7 +1296,7 @@
    },
    "Game Corp DX" : {
       "achievement_hardest" : "0.108",
-      "achievement_median" : "0.3935",
+      "achievement_median" : "0.393",
       "achievements" : true,
       "app_id" : "399670",
       "global_achievements" : true,
@@ -1848,7 +1848,7 @@
    },
    "Kingdom Rush Frontiers" : {
       "achievement_hardest" : "0.059",
-      "achievement_median" : "0.4595",
+      "achievement_median" : "0.46",
       "achievements" : true,
       "app_id" : "458710",
       "global_achievements" : true,
@@ -1860,7 +1860,7 @@
    },
    "Kingdom: Classic" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.0395",
+      "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "368230",
       "global_achievements" : true,
@@ -1892,7 +1892,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.26",
+      "achievement_median" : "0.261",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1955,7 +1955,7 @@
    },
    "Letter Quest: Grimm's Journey" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.115",
+      "achievement_median" : "0.1145",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -2006,8 +2006,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Lines by Nestor Yavorskyy" : {
-      "achievement_hardest" : "0.331",
-      "achievement_median" : "0.498",
+      "achievement_hardest" : "0.332",
+      "achievement_median" : "0.499",
       "achievements" : true,
       "app_id" : "724740",
       "global_achievements" : true,
@@ -2040,8 +2040,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.331",
-      "achievement_median" : "0.395",
+      "achievement_hardest" : "0.332",
+      "achievement_median" : "0.396",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2078,8 +2078,8 @@
       "url_store" : "http://store.steampowered.com/app/42910/"
    },
    "Metamorphic" : {
-      "achievement_hardest" : "0.179",
-      "achievement_median" : "0.179",
+      "achievement_hardest" : "0.181",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "479040",
       "global_achievements" : true,
@@ -2352,8 +2352,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.222",
-      "achievement_median" : "0.272",
+      "achievement_hardest" : "0.221",
+      "achievement_median" : "0.27",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2548,8 +2548,8 @@
       "url_store" : "http://store.steampowered.com/app/31270/"
    },
    "Quad Hopping" : {
-      "achievement_hardest" : "0.825",
-      "achievement_median" : "0.837",
+      "achievement_hardest" : "0.824",
+      "achievement_median" : "0.836",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2720,8 +2720,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.063",
-      "achievement_median" : "0.074",
+      "achievement_hardest" : 0,
+      "achievement_median" : "0.072",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2896,8 +2896,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.239",
-      "achievement_median" : "0.424",
+      "achievement_hardest" : "0.24",
+      "achievement_median" : "0.4255",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3037,7 +3037,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.127",
+      "achievement_median" : "0.126",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
    },
    "Startup Company" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.51",
+      "achievement_median" : "0.511",
       "achievements" : true,
       "app_id" : "606800",
       "global_achievements" : true,
@@ -3381,7 +3381,7 @@
       "url_store" : "http://store.steampowered.com/app/267530/"
    },
    "The Magic Circle" : {
-      "achievement_hardest" : "0.015",
+      "achievement_hardest" : "0.016",
       "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "323380",
@@ -3625,7 +3625,7 @@
    },
    "Trackless" : {
       "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1405",
+      "achievement_median" : "0.14",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -4126,8 +4126,8 @@
       "url_store" : "http://store.steampowered.com/app/253790/"
    },
    "simian.interface++" : {
-      "achievement_hardest" : "0.445",
-      "achievement_median" : "0.7975",
+      "achievement_hardest" : "0.447",
+      "achievement_median" : "0.798",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
