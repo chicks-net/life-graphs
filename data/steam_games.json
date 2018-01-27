@@ -494,8 +494,8 @@
       "url_store" : "http://store.steampowered.com/app/230860/"
    },
    "Carpe Diem" : {
-      "achievement_hardest" : "0.679",
-      "achievement_median" : "0.679",
+      "achievement_hardest" : "0.68",
+      "achievement_median" : "0.68",
       "achievements" : true,
       "app_id" : "423880",
       "global_achievements" : true,
@@ -543,7 +543,7 @@
    },
    "Cities in Motion 2" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.058",
+      "achievement_median" : "0.057",
       "achievements" : true,
       "app_id" : "225420",
       "global_achievements" : true,
@@ -581,7 +581,7 @@
    },
    "Closure" : {
       "achievement_hardest" : "0.026",
-      "achievement_median" : "0.0545",
+      "achievement_median" : "0.055",
       "achievements" : true,
       "app_id" : "72000",
       "global_achievements" : true,
@@ -716,7 +716,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.324",
-      "achievement_median" : "0.5385",
+      "achievement_median" : "0.538",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -799,7 +799,7 @@
    },
    "Darkest Dungeon" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.133",
+      "achievement_median" : "0.1335",
       "achievements" : true,
       "app_id" : "262060",
       "global_achievements" : true,
@@ -1101,8 +1101,8 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Faerie Solitaire Remastered" : {
-      "achievement_hardest" : "0.021",
-      "achievement_median" : "0.1535",
+      "achievement_hardest" : "0.022",
+      "achievement_median" : "0.1575",
       "achievements" : true,
       "app_id" : "583930",
       "global_achievements" : true,
@@ -1126,7 +1126,7 @@
    },
    "Firewatch" : {
       "achievement_hardest" : "0.036",
-      "achievement_median" : "0.439",
+      "achievement_median" : "0.4395",
       "achievements" : true,
       "app_id" : "383870",
       "global_achievements" : true,
@@ -1321,7 +1321,7 @@
       "url_store" : "http://store.steampowered.com/app/239820/"
    },
    "Garry's Mod" : {
-      "achievement_hardest" : "0.017",
+      "achievement_hardest" : "0.018",
       "achievement_median" : "0.042",
       "achievements" : true,
       "app_id" : "4000",
@@ -1859,7 +1859,7 @@
       "url_store" : "http://store.steampowered.com/app/458710/"
    },
    "Kingdom: Classic" : {
-      "achievement_hardest" : "0.009",
+      "achievement_hardest" : "0.01",
       "achievement_median" : "0.04",
       "achievements" : true,
       "app_id" : "368230",
@@ -1892,7 +1892,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.261",
+      "achievement_median" : "0.2615",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -1955,7 +1955,7 @@
    },
    "Letter Quest: Grimm's Journey" : {
       "achievement_hardest" : "0.045",
-      "achievement_median" : "0.1145",
+      "achievement_median" : "0.115",
       "achievements" : true,
       "app_id" : "328730",
       "global_achievements" : true,
@@ -2006,8 +2006,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Lines by Nestor Yavorskyy" : {
-      "achievement_hardest" : "0.331",
-      "achievement_median" : "0.497",
+      "achievement_hardest" : "0.328",
+      "achievement_median" : "0.49",
       "achievements" : true,
       "app_id" : "724740",
       "global_achievements" : true,
@@ -2169,7 +2169,7 @@
    },
    "Mountain" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.052",
+      "achievement_median" : "0.053",
       "achievements" : true,
       "app_id" : "313340",
       "global_achievements" : true,
@@ -2268,7 +2268,7 @@
       "url_store" : "http://store.steampowered.com/app/295690/"
    },
    "PAYDAY 2" : {
-      "achievement_hardest" : "0.001",
+      "achievement_hardest" : "0.002",
       "achievement_median" : "0.033",
       "achievements" : true,
       "app_id" : "218620",
@@ -2292,8 +2292,8 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "PUSH" : {
-      "achievement_hardest" : "0.259",
-      "achievement_median" : "0.259",
+      "achievement_hardest" : "0.26",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "676430",
       "global_achievements" : true,
@@ -2319,7 +2319,7 @@
    },
    "Party Hard" : {
       "achievement_hardest" : "0.025",
-      "achievement_median" : "0.21",
+      "achievement_median" : "0.211",
       "achievements" : true,
       "app_id" : "356570",
       "global_achievements" : true,
@@ -2352,8 +2352,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.227",
-      "achievement_median" : "0.276",
+      "achievement_hardest" : "0.228",
+      "achievement_median" : "0.277",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2720,8 +2720,8 @@
       "url_store" : "http://store.steampowered.com/app/371670/"
    },
    "Rust" : {
-      "achievement_hardest" : "0.001",
-      "achievement_median" : "0.072",
+      "achievement_hardest" : "0.002",
+      "achievement_median" : "0.073",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2733,7 +2733,7 @@
    },
    "Rust - Staging Branch" : {
       "achievement_hardest" : "0.001",
-      "achievement_median" : "0.001",
+      "achievement_median" : "0.002",
       "achievements" : true,
       "app_id" : "700580",
       "global_achievements" : true,
@@ -2819,7 +2819,7 @@
    },
    "Sepia Tears" : {
       "achievement_hardest" : "0.217",
-      "achievement_median" : "0.245",
+      "achievement_median" : "0.246",
       "achievements" : true,
       "app_id" : "429300",
       "global_achievements" : true,
@@ -2845,7 +2845,7 @@
    },
    "Serious Sam Fusion 2017 (beta)" : {
       "achievement_hardest" : "0.019",
-      "achievement_median" : "0.0445",
+      "achievement_median" : "0.045",
       "achievements" : true,
       "app_id" : "564310",
       "global_achievements" : true,
@@ -2896,8 +2896,8 @@
       "url_store" : "http://store.steampowered.com/app/259510/"
    },
    "SiNKR" : {
-      "achievement_hardest" : "0.241",
-      "achievement_median" : "0.4245",
+      "achievement_hardest" : "0.242",
+      "achievement_median" : "0.425",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3037,7 +3037,7 @@
    },
    "Stardew Valley" : {
       "achievement_hardest" : "0.004",
-      "achievement_median" : "0.1265",
+      "achievement_median" : "0.127",
       "achievements" : true,
       "app_id" : "413150",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
    },
    "Startup Company" : {
       "achievement_hardest" : "0.06",
-      "achievement_median" : "0.513",
+      "achievement_median" : "0.514",
       "achievements" : true,
       "app_id" : "606800",
       "global_achievements" : true,
@@ -3467,7 +3467,7 @@
       "url_store" : "http://store.steampowered.com/app/443810/"
    },
    "This War of Mine" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.134",
       "achievements" : true,
       "app_id" : "282070",
@@ -3624,8 +3624,8 @@
       "url_store" : "http://store.steampowered.com/app/214360/"
    },
    "Trackless" : {
-      "achievement_hardest" : "0.011",
-      "achievement_median" : "0.1395",
+      "achievement_hardest" : "0.01",
+      "achievement_median" : "0.1385",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3737,7 +3737,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.1375",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -4127,7 +4127,7 @@
    },
    "simian.interface++" : {
       "achievement_hardest" : "0.447",
-      "achievement_median" : "0.798",
+      "achievement_median" : "0.7985",
       "achievements" : true,
       "app_id" : "467780",
       "global_achievements" : true,
