@@ -121,7 +121,7 @@
    },
    "Art Of Gravity" : {
       "achievement_hardest" : "0.176",
-      "achievement_median" : "0.229",
+      "achievement_median" : "0.23",
       "achievements" : true,
       "app_id" : "642560",
       "global_achievements" : true,
@@ -415,7 +415,7 @@
    },
    "Bridge Constructor Playground" : {
       "achievement_hardest" : "0.052",
-      "achievement_median" : "0.142",
+      "achievement_median" : "0.143",
       "achievements" : true,
       "app_id" : "279990",
       "global_achievements" : true,
@@ -483,7 +483,7 @@
    },
    "Cannon Brawl" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.1805",
+      "achievement_median" : "0.181",
       "achievements" : true,
       "app_id" : "230860",
       "global_achievements" : true,
@@ -494,8 +494,8 @@
       "url_store" : "http://store.steampowered.com/app/230860/"
    },
    "Carpe Diem" : {
-      "achievement_hardest" : "0.679",
-      "achievement_median" : "0.679",
+      "achievement_hardest" : "0.68",
+      "achievement_median" : "0.68",
       "achievements" : true,
       "app_id" : "423880",
       "global_achievements" : true,
@@ -567,7 +567,7 @@
    },
    "City Climber" : {
       "achievement_hardest" : "0.008",
-      "achievement_median" : "0.095",
+      "achievement_median" : "0.094",
       "achievements" : true,
       "app_id" : "538840",
       "global_achievements" : true,
@@ -704,7 +704,7 @@
    },
    "Crash Drive 2" : {
       "achievement_hardest" : "0.015",
-      "achievement_median" : "0.0815",
+      "achievement_median" : "0.081",
       "achievements" : true,
       "app_id" : "343440",
       "global_achievements" : true,
@@ -716,7 +716,7 @@
    },
    "CrossCells" : {
       "achievement_hardest" : "0.325",
-      "achievement_median" : "0.5385",
+      "achievement_median" : "0.539",
       "achievements" : true,
       "app_id" : "632000",
       "global_achievements" : true,
@@ -1101,8 +1101,8 @@
       "url_store" : "http://store.steampowered.com/app/38600/"
    },
    "Faerie Solitaire Remastered" : {
-      "achievement_hardest" : "0.025",
-      "achievement_median" : "0.173",
+      "achievement_hardest" : "0.026",
+      "achievement_median" : "0.1785",
       "achievements" : true,
       "app_id" : "583930",
       "global_achievements" : true,
@@ -1161,7 +1161,7 @@
       "url_store" : "http://store.steampowered.com/app/12360/"
    },
    "Flatout 3" : {
-      "achievement_hardest" : "0.03",
+      "achievement_hardest" : "0.031",
       "achievement_median" : "0.0475",
       "achievements" : true,
       "app_id" : "201510",
@@ -1188,7 +1188,7 @@
    },
    "Flow:The Sliding" : {
       "achievement_hardest" : "0.759",
-      "achievement_median" : "0.764",
+      "achievement_median" : "0.765",
       "achievements" : true,
       "app_id" : "661000",
       "global_achievements" : true,
@@ -1705,7 +1705,7 @@
       "url_store" : "http://store.steampowered.com/app/271900/"
    },
    "Hidden Folks" : {
-      "achievement_hardest" : "0.059",
+      "achievement_hardest" : "0.06",
       "achievement_median" : "0.1675",
       "achievements" : true,
       "app_id" : "435400",
@@ -1892,7 +1892,7 @@
    },
    "Kingdoms and Castles" : {
       "achievement_hardest" : "0.007",
-      "achievement_median" : "0.262",
+      "achievement_median" : "0.2625",
       "achievements" : true,
       "app_id" : "569480",
       "global_achievements" : true,
@@ -2006,8 +2006,8 @@
       "url_store" : "http://store.steampowered.com/app/319630/"
    },
    "Lines by Nestor Yavorskyy" : {
-      "achievement_hardest" : "0.329",
-      "achievement_median" : "0.486",
+      "achievement_hardest" : "0.331",
+      "achievement_median" : "0.487",
       "achievements" : true,
       "app_id" : "724740",
       "global_achievements" : true,
@@ -2040,8 +2040,8 @@
       "url_store" : "http://store.steampowered.com/app/105100/"
    },
    "MMM: Murder Most Misfortunate" : {
-      "achievement_hardest" : "0.331",
-      "achievement_median" : "0.395",
+      "achievement_hardest" : "0.33",
+      "achievement_median" : "0.394",
       "achievements" : true,
       "app_id" : "525690",
       "global_achievements" : true,
@@ -2292,8 +2292,8 @@
       "url_store" : "http://store.steampowered.com/app/232770/"
    },
    "PUSH" : {
-      "achievement_hardest" : "0.261",
-      "achievement_median" : "0.261",
+      "achievement_hardest" : "0.26",
+      "achievement_median" : "0.26",
       "achievements" : true,
       "app_id" : "676430",
       "global_achievements" : true,
@@ -2352,8 +2352,8 @@
       "url_store" : "http://store.steampowered.com/app/293900/"
    },
    "Pixel Traffic: Circle Rush" : {
-      "achievement_hardest" : "0.229",
-      "achievement_median" : "0.277",
+      "achievement_hardest" : "0.23",
+      "achievement_median" : "0.281",
       "achievements" : true,
       "app_id" : "696460",
       "global_achievements" : true,
@@ -2413,7 +2413,7 @@
    },
    "Poker Night at the Inventory" : {
       "achievement_hardest" : "0.119",
-      "achievement_median" : "0.5305",
+      "achievement_median" : "0.531",
       "achievements" : true,
       "app_id" : "31280",
       "global_achievements" : true,
@@ -2549,7 +2549,7 @@
    },
    "Quad Hopping" : {
       "achievement_hardest" : "0.828",
-      "achievement_median" : "0.84",
+      "achievement_median" : "0.839",
       "achievements" : true,
       "app_id" : "694490",
       "global_achievements" : true,
@@ -2619,7 +2619,7 @@
    },
    "Redactem" : {
       "achievement_hardest" : "0.535",
-      "achievement_median" : "0.6775",
+      "achievement_median" : "0.678",
       "achievements" : true,
       "app_id" : "502400",
       "global_achievements" : true,
@@ -2721,7 +2721,7 @@
    },
    "Rust" : {
       "achievement_hardest" : 0,
-      "achievement_median" : "0.004",
+      "achievement_median" : "0.01",
       "achievements" : true,
       "app_id" : "252490",
       "global_achievements" : true,
@@ -2897,7 +2897,7 @@
    },
    "SiNKR" : {
       "achievement_hardest" : "0.244",
-      "achievement_median" : "0.4245",
+      "achievement_median" : "0.424",
       "achievements" : true,
       "app_id" : "676420",
       "global_achievements" : true,
@@ -3049,7 +3049,7 @@
    },
    "Startup Company" : {
       "achievement_hardest" : "0.061",
-      "achievement_median" : "0.518",
+      "achievement_median" : "0.519",
       "achievements" : true,
       "app_id" : "606800",
       "global_achievements" : true,
@@ -3110,8 +3110,8 @@
       "url_store" : "http://store.steampowered.com/app/40800/"
    },
    "Surgeon Simulator" : {
-      "achievement_hardest" : "0.99",
-      "achievement_median" : "undef",
+      "achievement_hardest" : "0.004",
+      "achievement_median" : "0.025",
       "achievements" : true,
       "app_id" : "233720",
       "global_achievements" : true,
@@ -3382,7 +3382,7 @@
    },
    "The Magic Circle" : {
       "achievement_hardest" : "0.016",
-      "achievement_median" : "0.101",
+      "achievement_median" : "0.1005",
       "achievements" : true,
       "app_id" : "323380",
       "global_achievements" : true,
@@ -3625,7 +3625,7 @@
    },
    "Trackless" : {
       "achievement_hardest" : "0.01",
-      "achievement_median" : "0.137",
+      "achievement_median" : "0.138",
       "achievements" : true,
       "app_id" : "586660",
       "global_achievements" : true,
@@ -3737,7 +3737,7 @@
    },
    "Turmoil" : {
       "achievement_hardest" : "0.006",
-      "achievement_median" : "0.138",
+      "achievement_median" : "0.137",
       "achievements" : true,
       "app_id" : "361280",
       "global_achievements" : true,
@@ -3762,7 +3762,7 @@
       "url_store" : "http://store.steampowered.com/app/258890/"
    },
    "Typoman" : {
-      "achievement_hardest" : "0.005",
+      "achievement_hardest" : "0.006",
       "achievement_median" : "0.0605",
       "achievements" : true,
       "app_id" : "336240",
@@ -4077,7 +4077,7 @@
    },
    "Zen Bound® 2" : {
       "achievement_hardest" : "0.009",
-      "achievement_median" : "0.021",
+      "achievement_median" : "0.022",
       "achievements" : true,
       "app_id" : "61600",
       "global_achievements" : true,
@@ -4100,8 +4100,8 @@
       "url_store" : "http://store.steampowered.com/app/461840/"
    },
    "klocki" : {
-      "achievement_hardest" : "0.179",
-      "achievement_median" : "0.179",
+      "achievement_hardest" : "0.18",
+      "achievement_median" : "0.18",
       "achievements" : true,
       "app_id" : "499440",
       "global_achievements" : true,
